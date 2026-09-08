@@ -3270,6 +3270,80 @@
       "limit_reset_at": 1788918407672,
       "limit": 40,
       "last_reset": "2026-09-09T01:46:47.672Z"
+    },
+    "6283863848895@s.whatsapp.net": {
+      "uid": 10039,
+      "registered": false,
+      "registered_at": null,
+      "name": "Reyy",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1788904617029,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Belum diatur",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "limit_reset_at": 1788987417030,
+      "limit": 40,
+      "last_reset": "2026-09-09T20:56:57.030Z"
     }
   },
   "market": {
@@ -3588,7 +3662,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10038,
+    "last_uid": 10039,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -3630,7 +3704,8 @@
       "184675842670644@lid": "628134436550@s.whatsapp.net",
       "181119475556580@lid": "6285709649309@s.whatsapp.net",
       "68384972615798@lid": "6283836033866@s.whatsapp.net",
-      "148241081446532@lid": "6283142352160@s.whatsapp.net"
+      "148241081446532@lid": "6283142352160@s.whatsapp.net",
+      "194523732943083@lid": "6283863848895@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
