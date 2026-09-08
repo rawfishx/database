@@ -648,8 +648,8 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 38,
-      "last_reset": "2026-09-08T10:22:07.100Z",
+      "limit": 40,
+      "last_reset": "2026-09-09T09:22:47.419Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -675,7 +675,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1788862927100
+      "limit_reset_at": 1788945767419,
+      "limit_reset_notified_at": 1788862967419
     },
     "6285864475003@s.whatsapp.net": {
       "uid": 10009,
@@ -1154,7 +1155,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "39470"
+        "__bigint__": "39555"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1464,13 +1465,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "711999"
+        "__bigint__": "52311999"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13665"
+        "__bigint__": "13690"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1491,7 +1492,7 @@
       "anak": [],
       "invest": {
         "GLD": {
-          "__bigint__": "3"
+          "__bigint__": "0"
         }
       },
       "blacklist_karakter": [],
@@ -2860,7 +2861,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3170"
+        "__bigint__": "3230"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2919,7 +2920,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1788929876750,
-      "limit": 40,
+      "limit": 38,
       "last_reset": "2026-09-09T04:57:56.750Z",
       "achievements": [],
       "transactions": [],
@@ -3169,10 +3170,10 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "63170137032"
+        "__bigint__": "2144194576"
       },
-      "next_update": 1788860094108,
-      "trend": "📈 Naik",
+      "next_update": 1788864528063,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "100000000"
@@ -3197,15 +3198,18 @@
         },
         {
           "__bigint__": "63170137032"
+        },
+        {
+          "__bigint__": "2144194576"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "552000"
+        "__bigint__": "348000"
       },
-      "next_update": 1788858954108,
-      "trend": "📈 Naik",
+      "next_update": 1788863388063,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "693000"
@@ -3239,15 +3243,18 @@
         },
         {
           "__bigint__": "552000"
+        },
+        {
+          "__bigint__": "348000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "18200000"
+        "__bigint__": "16700000"
       },
-      "next_update": 1788859194108,
-      "trend": "📈 Naik",
+      "next_update": 1788863628063,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "18200000"
@@ -3281,14 +3288,17 @@
         },
         {
           "__bigint__": "18200000"
+        },
+        {
+          "__bigint__": "16700000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "48000000"
+        "__bigint__": "34000000"
       },
-      "next_update": 1788859794108,
+      "next_update": 1788864228063,
       "trend": "📉 Turun",
       "history": [
         {
@@ -3320,15 +3330,18 @@
         },
         {
           "__bigint__": "48000000"
+        },
+        {
+          "__bigint__": "34000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "50000000"
+        "__bigint__": "48000000"
       },
-      "next_update": 1788860694108,
-      "trend": "➡️ Stabil",
+      "next_update": 1788865128063,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "49000000"
@@ -3350,15 +3363,18 @@
         },
         {
           "__bigint__": "50000000"
+        },
+        {
+          "__bigint__": "48000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "743000000"
+        "__bigint__": "1105000000"
       },
-      "next_update": 1788862494108,
-      "trend": "📉 Turun",
+      "next_update": 1788866928063,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "1743000000"
@@ -3377,6 +3393,9 @@
         },
         {
           "__bigint__": "743000000"
+        },
+        {
+          "__bigint__": "1105000000"
         }
       ]
     }
