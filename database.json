@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8285"
+        "__bigint__": "8300"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -286,7 +286,10 @@
             "siram": 0,
             "pupuk": 0,
             "withered": false,
-            "ready": false
+            "ready": false,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "reminder_ready_at": 1788613053229
           },
           null
         ],
@@ -1156,13 +1159,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "2924533"
+        "__bigint__": "112144533"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "38210"
+        "__bigint__": "39240"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1186,7 +1189,7 @@
           "__bigint__": "0"
         },
         "GLD": {
-          "__bigint__": "6"
+          "__bigint__": "0"
         }
       },
       "blacklist_karakter": [],
@@ -1280,9 +1283,9 @@
       "last_transfer": 0,
       "bank": {
         "tabungan": {
-          "__bigint__": "693050"
+          "__bigint__": "708448"
         },
-        "last_interest": 1788777742846
+        "last_interest": 1788856942846
       },
       "frames": [],
       "active_frame": null,
@@ -1290,136 +1293,37 @@
       "farm": {
         "slotsOwned": 8,
         "lahan": [
-          {
-            "crop": "padi",
-            "plantedAt": 1788764172180,
-            "lastCare": 1788841767329,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 4,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788841767329,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788765972180
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764214900,
-            "lastCare": 1788841776782,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 4,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788841776782,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766014900
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764211046,
-            "lastCare": 1788841779884,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 4,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788841779884,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766011046
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764227124,
-            "lastCare": 1788841783586,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 4,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788841783586,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766027124
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764248759,
-            "lastCare": 1788841786644,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 4,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788841786644,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766048759
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764257802,
-            "lastCare": 1788841792916,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 4,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788841792916,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766057802
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764260700,
-            "lastCare": 1788841800406,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 4,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788841800406,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766060700
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764282995,
-            "lastCare": 1788841797383,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 4,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788841797383,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766082995
-          }
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
         ],
         "benih": {
           "padi": 3,
           "stroberi": 5
         },
         "pupukInv": {},
-        "hasil": {},
+        "hasil": {
+          "padi": 65
+        },
         "achievements": [
-          "lahan_penuh"
+          "lahan_penuh",
+          "panen_pertama"
         ],
         "stats": {
-          "totalPanen": 0,
+          "totalPanen": 8,
           "totalGagalPanen": 1,
           "totalTanam": 9,
           "totalPendapatan": {
             "__bigint__": "0"
           },
-          "jenisPanenDidapat": []
+          "jenisPanenDidapat": [
+            "padi"
+          ]
         }
       },
       "kartu": {
@@ -1469,8 +1373,8 @@
       "last_diamond_bonus": "2026-09-08",
       "limit_reset_at": 1788871142770,
       "daily": {
-        "streak": 1,
-        "last_claim": 1788774416899
+        "streak": 2,
+        "last_claim": 1788858181512
       },
       "limit_reset_notified_at": 1788788342770
     },
@@ -1571,13 +1475,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "696999"
+        "__bigint__": "711999"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12910"
+        "__bigint__": "13665"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1764,8 +1668,8 @@
       "last_diamond_bonus": "2026-09-08",
       "limit_reset_at": 1788901066757,
       "daily": {
-        "streak": 1,
-        "last_claim": 1788774423302
+        "streak": 2,
+        "last_claim": 1788858429311
       },
       "limit_reset_notified_at": 1788818266757
     },
@@ -3276,10 +3180,10 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "16926615136"
+        "__bigint__": "63170137032"
       },
-      "next_update": 1788777644001,
-      "trend": "📉 Turun",
+      "next_update": 1788860094108,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "100000000"
@@ -3301,15 +3205,18 @@
         },
         {
           "__bigint__": "16926615136"
+        },
+        {
+          "__bigint__": "63170137032"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "187000"
+        "__bigint__": "552000"
       },
-      "next_update": 1788776504001,
-      "trend": "📉 Turun",
+      "next_update": 1788858954108,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "693000"
@@ -3340,15 +3247,18 @@
         },
         {
           "__bigint__": "187000"
+        },
+        {
+          "__bigint__": "552000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "1200000"
+        "__bigint__": "18200000"
       },
-      "next_update": 1788776744001,
-      "trend": "📉 Turun",
+      "next_update": 1788859194108,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "18200000"
@@ -3379,15 +3289,18 @@
         },
         {
           "__bigint__": "1200000"
+        },
+        {
+          "__bigint__": "18200000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "49000000"
+        "__bigint__": "48000000"
       },
-      "next_update": 1788777344001,
-      "trend": "📈 Naik",
+      "next_update": 1788859794108,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "41000000"
@@ -3415,6 +3328,9 @@
         },
         {
           "__bigint__": "49000000"
+        },
+        {
+          "__bigint__": "48000000"
         }
       ]
     },
@@ -3422,8 +3338,8 @@
       "price": {
         "__bigint__": "50000000"
       },
-      "next_update": 1788778244001,
-      "trend": "📈 Naik",
+      "next_update": 1788860694108,
+      "trend": "➡️ Stabil",
       "history": [
         {
           "__bigint__": "49000000"
@@ -3442,15 +3358,18 @@
         },
         {
           "__bigint__": "50000000"
+        },
+        {
+          "__bigint__": "50000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1256000000"
+        "__bigint__": "743000000"
       },
-      "next_update": 1788780044001,
-      "trend": "📈 Naik",
+      "next_update": 1788862494108,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "1743000000"
@@ -3466,6 +3385,9 @@
         },
         {
           "__bigint__": "1256000000"
+        },
+        {
+          "__bigint__": "743000000"
         }
       ]
     }
@@ -4183,5 +4105,56 @@
     "pending_groups": {}
   },
   "player_market": {},
-  "houses": {}
+  "houses": {},
+  "market_tani": {
+    "padi": {
+      "price": {
+        "__bigint__": "1500"
+      },
+      "next_update": 1788859972426,
+      "trend": "➡️ Stabil"
+    },
+    "jagung": {
+      "price": {
+        "__bigint__": "2500"
+      },
+      "next_update": 1788859972426,
+      "trend": "➡️ Stabil"
+    },
+    "tomat": {
+      "price": {
+        "__bigint__": "3000"
+      },
+      "next_update": 1788859972426,
+      "trend": "➡️ Stabil"
+    },
+    "cabai": {
+      "price": {
+        "__bigint__": "4500"
+      },
+      "next_update": 1788859972426,
+      "trend": "➡️ Stabil"
+    },
+    "semangka": {
+      "price": {
+        "__bigint__": "12000"
+      },
+      "next_update": 1788859972426,
+      "trend": "➡️ Stabil"
+    },
+    "anggur": {
+      "price": {
+        "__bigint__": "18000"
+      },
+      "next_update": 1788859972426,
+      "trend": "➡️ Stabil"
+    },
+    "stroberi": {
+      "price": {
+        "__bigint__": "30000"
+      },
+      "next_update": 1788859972426,
+      "trend": "➡️ Stabil"
+    }
+  }
 }
