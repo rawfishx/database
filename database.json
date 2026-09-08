@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9160"
+        "__bigint__": "9260"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -326,7 +326,7 @@
       "profil_lengkap": false,
       "last_diamond_bonus": "2026-09-08",
       "limit_reset_at": 1788953996400,
-      "sticker_nowm": true,
+      "sticker_nowm": false,
       "banned_reason": "",
       "limit_reset_notified_at": 1788871196400
     },
@@ -3249,6 +3249,86 @@
       "limit_reset_at": 1788918407672,
       "limit": 40,
       "last_reset": "2026-09-09T01:46:47.672Z"
+    },
+    "6283841852697@s.whatsapp.net": {
+      "uid": 10039,
+      "registered": true,
+      "registered_at": 1788871979820,
+      "name": "dika2",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "25"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Laki",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1788871971224,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Indonesia",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": true,
+      "isPremium": false,
+      "limit_reset_at": 1788954771224,
+      "limit": 35,
+      "last_reset": "2026-09-09T11:52:51.224Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
     }
   },
   "market": {
@@ -3603,7 +3683,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10038,
+    "last_uid": 10039,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -3645,7 +3725,8 @@
       "184675842670644@lid": "628134436550@s.whatsapp.net",
       "181119475556580@lid": "6285709649309@s.whatsapp.net",
       "68384972615798@lid": "6283836033866@s.whatsapp.net",
-      "148241081446532@lid": "6283142352160@s.whatsapp.net"
+      "148241081446532@lid": "6283142352160@s.whatsapp.net",
+      "252733726687342@lid": "6283841852697@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
@@ -4161,7 +4242,7 @@
         "prediksi": 5
       }
     },
-    "sticker_watermark": "yyy",
+    "sticker_watermark": "SAATAA ANDAGII",
     "last_squad_id": 0,
     "artist_cache": {
       "artis_248616612": {
