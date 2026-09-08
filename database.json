@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8280"
+        "__bigint__": "8285"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -2369,13 +2369,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "0"
+        "__bigint__": "40000"
       },
       "level": {
-        "__bigint__": "4"
+        "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "2900"
+        "__bigint__": "4410"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2392,7 +2392,7 @@
       "cd": {
         "rampok": 1788781972800,
         "judi": 1788662694230,
-        "mancing": 1788774789401
+        "mancing": 1788857436214
       },
       "anak": [],
       "invest": {},
@@ -2430,8 +2430,8 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 0,
-      "last_reset": "2026-09-08T08:44:53.801Z",
+      "limit": 38,
+      "last_reset": "2026-09-09T07:45:07.619Z",
       "achievements": [
         "first_saving"
       ],
@@ -2464,8 +2464,8 @@
         "last_interest": 1788773535131
       },
       "daily": {
-        "streak": 3,
-        "last_claim": 1788774394011
+        "streak": 4,
+        "last_claim": 1788857152312
       },
       "ikan": {
         "salmon": {
@@ -2478,6 +2478,9 @@
           "__bigint__": "1"
         },
         "nila": {
+          "__bigint__": "1"
+        },
+        "lele": {
           "__bigint__": "1"
         }
       },
@@ -2550,7 +2553,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "limit_reset_at": 1788857093801
+      "limit_reset_at": 1788939907619,
+      "limit_reset_notified_at": 1788857107619
     },
     "6285137240474@s.whatsapp.net": {
       "uid": 10029,
