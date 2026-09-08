@@ -143,13 +143,13 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "10305356"
+        "__bigint__": "10295356"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8850"
+        "__bigint__": "9075"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -165,7 +165,7 @@
         "tebakangka": 1788610980931,
         "suit": 1788603494469,
         "interaksi": 1788671085027,
-        "mancing": 1788613047443,
+        "mancing": 1788865121952,
         "rampok": 1788771002599
       },
       "anak": [],
@@ -308,6 +308,9 @@
       },
       "ikan": {
         "lele": {
+          "__bigint__": "1"
+        },
+        "nila": {
           "__bigint__": "1"
         }
       },
@@ -1149,13 +1152,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "59653291"
+        "__bigint__": "60843291"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "40040"
+        "__bigint__": "40275"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1395,7 +1398,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1620"
+        "__bigint__": "1630"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1480,13 +1483,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "22000000"
+        "__bigint__": "970000"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13790"
+        "__bigint__": "14090"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1548,6 +1551,20 @@
         "first_saving"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "1000000"
+          },
+          "timestamp": 1788864539098
+        },
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "19799999"
+          },
+          "timestamp": 1788864388854
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -1669,7 +1686,7 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "42385910"
+          "__bigint__": "61185909"
         },
         "last_interest": 1788862616413
       },
@@ -2891,13 +2908,13 @@
       "registered_at": 1788764497897,
       "name": "caca",
       "uang": {
-        "__bigint__": "0"
+        "__bigint__": "970001"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3515"
+        "__bigint__": "3695"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2963,7 +2980,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1788929876750,
-      "limit": 23,
+      "limit": 18,
       "last_reset": "2026-09-09T04:57:56.750Z",
       "achievements": [
         "first_saving"
