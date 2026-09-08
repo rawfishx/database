@@ -143,13 +143,13 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "10295356"
+        "__bigint__": "10155356"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9260"
+        "__bigint__": "8155"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -165,7 +165,7 @@
         "tebakangka": 1788610980931,
         "suit": 1788603494469,
         "interaksi": 1788671085027,
-        "mancing": 1788865121952,
+        "mancing": 1788613047443,
         "rampok": 1788771002599
       },
       "anak": [],
@@ -214,7 +214,7 @@
       },
       "isPremium": true,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-09T11:39:56.400Z",
+      "last_reset": "2026-09-08T12:39:02.770Z",
       "afk_reason": "",
       "pasangan": {
         "id": 183,
@@ -279,7 +279,15 @@
       "farm": {
         "slotsOwned": 2,
         "lahan": [
-          null,
+          {
+            "crop": "padi",
+            "plantedAt": 1788611253229,
+            "lastCare": 1788611253229,
+            "siram": 0,
+            "pupuk": 0,
+            "withered": false,
+            "ready": false
+          },
           null
         ],
         "benih": {
@@ -290,7 +298,7 @@
         "achievements": [],
         "stats": {
           "totalPanen": 0,
-          "totalGagalPanen": 1,
+          "totalGagalPanen": 0,
           "totalTanam": 1,
           "totalPendapatan": {
             "__bigint__": "0"
@@ -309,9 +317,6 @@
       "ikan": {
         "lele": {
           "__bigint__": "1"
-        },
-        "nila": {
-          "__bigint__": "1"
         }
       },
       "diamond": 40,
@@ -325,10 +330,10 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "last_diamond_bonus": "2026-09-08",
-      "limit_reset_at": 1788953996400,
-      "sticker_nowm": false,
+      "limit_reset_at": 1788871142770,
+      "sticker_nowm": true,
       "banned_reason": "",
-      "limit_reset_notified_at": 1788871196400
+      "limit_reset_notified_at": 1788788342770
     },
     "6281375684720@s.whatsapp.net": {
       "uid": 10004,
@@ -651,8 +656,8 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
-      "last_reset": "2026-09-09T09:22:47.419Z",
+      "limit": 38,
+      "last_reset": "2026-09-08T10:22:07.100Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -678,8 +683,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1788945767419,
-      "limit_reset_notified_at": 1788862967419
+      "limit_reset_at": 1788862927100
     },
     "6285864475003@s.whatsapp.net": {
       "uid": 10009,
@@ -1152,13 +1156,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "60843291"
+        "__bigint__": "2924533"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "40275"
+        "__bigint__": "38210"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1172,10 +1176,9 @@
       "active_badge": "💎 Premium User🎗️",
       "cd": {
         "tebakangka": 1788671119526,
-        "rampok": 1788870625851,
+        "rampok": 1788848939338,
         "interaksi": 1788762564001,
-        "tebakemoji": 1788760878807,
-        "kabur": 1788863739351
+        "tebakemoji": 1788760878807
       },
       "anak": [],
       "invest": {
@@ -1183,7 +1186,7 @@
           "__bigint__": "0"
         },
         "GLD": {
-          "__bigint__": "15"
+          "__bigint__": "6"
         }
       },
       "blacklist_karakter": [],
@@ -1223,25 +1226,11 @@
       },
       "isPremium": true,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-09T11:39:56.400Z",
+      "last_reset": "2026-09-08T12:39:02.770Z",
       "achievements": [
         "first_saving"
       ],
       "transactions": [
-        {
-          "type": "withdrawal",
-          "amount": {
-            "__bigint__": "0"
-          },
-          "timestamp": 1788864108201
-        },
-        {
-          "type": "withdrawal",
-          "amount": {
-            "__bigint__": "709156"
-          },
-          "timestamp": 1788863819954
-        },
         {
           "type": "withdrawal",
           "amount": {
@@ -1291,9 +1280,9 @@
       "last_transfer": 0,
       "bank": {
         "tabungan": {
-          "__bigint__": "0"
+          "__bigint__": "693050"
         },
-        "last_interest": 1788860542846
+        "last_interest": 1788777742846
       },
       "frames": [],
       "active_frame": null,
@@ -1301,37 +1290,136 @@
       "farm": {
         "slotsOwned": 8,
         "lahan": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          {
+            "crop": "padi",
+            "plantedAt": 1788764172180,
+            "lastCare": 1788841767329,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "siram": 4,
+            "pupuk": 0,
+            "withered": false,
+            "ready": true,
+            "lastWater": 1788841767329,
+            "reminder_wilt_at": null,
+            "reminder_ready_at": 1788765972180
+          },
+          {
+            "crop": "padi",
+            "plantedAt": 1788764214900,
+            "lastCare": 1788841776782,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "siram": 4,
+            "pupuk": 0,
+            "withered": false,
+            "ready": true,
+            "lastWater": 1788841776782,
+            "reminder_wilt_at": null,
+            "reminder_ready_at": 1788766014900
+          },
+          {
+            "crop": "padi",
+            "plantedAt": 1788764211046,
+            "lastCare": 1788841779884,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "siram": 4,
+            "pupuk": 0,
+            "withered": false,
+            "ready": true,
+            "lastWater": 1788841779884,
+            "reminder_wilt_at": null,
+            "reminder_ready_at": 1788766011046
+          },
+          {
+            "crop": "padi",
+            "plantedAt": 1788764227124,
+            "lastCare": 1788841783586,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "siram": 4,
+            "pupuk": 0,
+            "withered": false,
+            "ready": true,
+            "lastWater": 1788841783586,
+            "reminder_wilt_at": null,
+            "reminder_ready_at": 1788766027124
+          },
+          {
+            "crop": "padi",
+            "plantedAt": 1788764248759,
+            "lastCare": 1788841786644,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "siram": 4,
+            "pupuk": 0,
+            "withered": false,
+            "ready": true,
+            "lastWater": 1788841786644,
+            "reminder_wilt_at": null,
+            "reminder_ready_at": 1788766048759
+          },
+          {
+            "crop": "padi",
+            "plantedAt": 1788764257802,
+            "lastCare": 1788841792916,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "siram": 4,
+            "pupuk": 0,
+            "withered": false,
+            "ready": true,
+            "lastWater": 1788841792916,
+            "reminder_wilt_at": null,
+            "reminder_ready_at": 1788766057802
+          },
+          {
+            "crop": "padi",
+            "plantedAt": 1788764260700,
+            "lastCare": 1788841800406,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "siram": 4,
+            "pupuk": 0,
+            "withered": false,
+            "ready": true,
+            "lastWater": 1788841800406,
+            "reminder_wilt_at": null,
+            "reminder_ready_at": 1788766060700
+          },
+          {
+            "crop": "padi",
+            "plantedAt": 1788764282995,
+            "lastCare": 1788841797383,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "siram": 4,
+            "pupuk": 0,
+            "withered": false,
+            "ready": true,
+            "lastWater": 1788841797383,
+            "reminder_wilt_at": null,
+            "reminder_ready_at": 1788766082995
+          }
         ],
         "benih": {
           "padi": 3,
-          "stroberi": 13
+          "stroberi": 5
         },
         "pupukInv": {},
-        "hasil": {
-          "padi": 65
-        },
+        "hasil": {},
         "achievements": [
-          "lahan_penuh",
-          "panen_pertama"
+          "lahan_penuh"
         ],
         "stats": {
-          "totalPanen": 8,
+          "totalPanen": 0,
           "totalGagalPanen": 1,
           "totalTanam": 9,
           "totalPendapatan": {
             "__bigint__": "0"
           },
-          "jenisPanenDidapat": [
-            "padi"
-          ]
+          "jenisPanenDidapat": []
         }
       },
       "kartu": {
@@ -1379,12 +1467,12 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "last_diamond_bonus": "2026-09-08",
-      "limit_reset_at": 1788953996400,
+      "limit_reset_at": 1788871142770,
       "daily": {
-        "streak": 2,
-        "last_claim": 1788858181512
+        "streak": 1,
+        "last_claim": 1788774416899
       },
-      "limit_reset_notified_at": 1788871196400
+      "limit_reset_notified_at": 1788788342770
     },
     "6287797046407@s.whatsapp.net": {
       "uid": 10017,
@@ -1398,7 +1486,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1650"
+        "__bigint__": "1620"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1483,13 +1571,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "970000"
+        "__bigint__": "696999"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14100"
+        "__bigint__": "12910"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1503,14 +1591,14 @@
       "active_badge": "💎 Premium User🎗️",
       "cd": {
         "tebakangka": 1788661786032,
-        "rampok": 1788870651262,
+        "rampok": 1788781973609,
         "interaksi": 1788762660406,
         "tebakbendera": 1788661644031
       },
       "anak": [],
       "invest": {
         "GLD": {
-          "__bigint__": "0"
+          "__bigint__": "3"
         }
       },
       "blacklist_karakter": [],
@@ -1551,41 +1639,6 @@
         "first_saving"
       ],
       "transactions": [
-        {
-          "type": "withdrawal",
-          "amount": {
-            "__bigint__": "1000000"
-          },
-          "timestamp": 1788864539098
-        },
-        {
-          "type": "saving",
-          "amount": {
-            "__bigint__": "19799999"
-          },
-          "timestamp": 1788864388854
-        },
-        {
-          "type": "withdrawal",
-          "amount": {
-            "__bigint__": "20000000"
-          },
-          "timestamp": 1788864249959
-        },
-        {
-          "type": "withdrawal",
-          "amount": {
-            "__bigint__": "2000000"
-          },
-          "timestamp": 1788864224564
-        },
-        {
-          "type": "saving",
-          "amount": {
-            "__bigint__": "54274582"
-          },
-          "timestamp": 1788863514453
-        },
         {
           "type": "withdrawal",
           "amount": {
@@ -1686,9 +1739,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "61185909"
+          "__bigint__": "9891430"
         },
-        "last_interest": 1788862616413
+        "last_interest": 1788783416413
       },
       "frames": [],
       "active_frame": null,
@@ -1711,8 +1764,8 @@
       "last_diamond_bonus": "2026-09-08",
       "limit_reset_at": 1788901066757,
       "daily": {
-        "streak": 2,
-        "last_claim": 1788858429311
+        "streak": 1,
+        "last_claim": 1788774423302
       },
       "limit_reset_notified_at": 1788818266757
     },
@@ -2098,7 +2151,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-09-09T12:06:15.581Z",
+      "last_reset": "2026-09-08T13:05:30.206Z",
       "diamond": 0,
       "negara": "Belum diatur",
       "squad_id": null,
@@ -2109,8 +2162,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1788955575581,
-      "limit_reset_notified_at": 1788872775581
+      "limit_reset_at": 1788872730206
     },
     "6288740640812@s.whatsapp.net": {
       "uid": 10025,
@@ -2317,13 +2369,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "40000"
+        "__bigint__": "0"
       },
       "level": {
-        "__bigint__": "5"
+        "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "4410"
+        "__bigint__": "2900"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2340,7 +2392,7 @@
       "cd": {
         "rampok": 1788781972800,
         "judi": 1788662694230,
-        "mancing": 1788857436214
+        "mancing": 1788774789401
       },
       "anak": [],
       "invest": {},
@@ -2378,8 +2430,8 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 38,
-      "last_reset": "2026-09-09T07:45:07.619Z",
+      "limit": 0,
+      "last_reset": "2026-09-08T08:44:53.801Z",
       "achievements": [
         "first_saving"
       ],
@@ -2412,8 +2464,8 @@
         "last_interest": 1788773535131
       },
       "daily": {
-        "streak": 4,
-        "last_claim": 1788857152312
+        "streak": 3,
+        "last_claim": 1788774394011
       },
       "ikan": {
         "salmon": {
@@ -2426,9 +2478,6 @@
           "__bigint__": "1"
         },
         "nila": {
-          "__bigint__": "1"
-        },
-        "lele": {
           "__bigint__": "1"
         }
       },
@@ -2501,8 +2550,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "limit_reset_at": 1788939907619,
-      "limit_reset_notified_at": 1788857107619
+      "limit_reset_at": 1788857093801
     },
     "6285137240474@s.whatsapp.net": {
       "uid": 10029,
@@ -2909,13 +2957,13 @@
       "registered_at": 1788764497897,
       "name": "caca",
       "uang": {
-        "__bigint__": "970001"
+        "__bigint__": "2632401"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3695"
+        "__bigint__": "3170"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2928,16 +2976,9 @@
       "active_badge": "🪪 SAATAA Pioneer",
       "frames": [],
       "active_frame": null,
-      "cd": {
-        "rampok": 1788870692152,
-        "tebakbendera": 1788863887456
-      },
+      "cd": {},
       "anak": [],
-      "invest": {
-        "GLD": {
-          "__bigint__": "3"
-        }
-      },
+      "invest": {},
       "blacklist_karakter": [],
       "distrik": "Awal",
       "gender": "cewe",
@@ -2981,43 +3022,19 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1788929876750,
-      "limit": 18,
+      "limit": 40,
       "last_reset": "2026-09-09T04:57:56.750Z",
-      "achievements": [
-        "first_saving"
-      ],
-      "transactions": [
-        {
-          "type": "saving",
-          "amount": {
-            "__bigint__": "1909000"
-          },
-          "timestamp": 1788864252602
-        },
-        {
-          "type": "withdrawal",
-          "amount": {
-            "__bigint__": "10000000"
-          },
-          "timestamp": 1788864135046
-        },
-        {
-          "type": "saving",
-          "amount": {
-            "__bigint__": "13000216"
-          },
-          "timestamp": 1788863662552
-        }
-      ],
+      "achievements": [],
+      "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
       "bank": {
         "tabungan": {
-          "__bigint__": "5264810"
+          "__bigint__": "0"
         },
-        "last_interest": 1788862009101
+        "last_interest": 1788764809101
       },
       "limit_reset_notified_at": 1788847076750
     },
@@ -3250,94 +3267,14 @@
       "limit_reset_at": 1788918407672,
       "limit": 40,
       "last_reset": "2026-09-09T01:46:47.672Z"
-    },
-    "6283841852697@s.whatsapp.net": {
-      "uid": 10039,
-      "registered": true,
-      "registered_at": 1788871979820,
-      "name": "dika2",
-      "uang": {
-        "__bigint__": "5000"
-      },
-      "level": {
-        "__bigint__": "1"
-      },
-      "xp": {
-        "__bigint__": "25"
-      },
-      "role": "player",
-      "status_hubungan": "lajang",
-      "point_asmara": 0,
-      "status_profil": "Saya menggunakan SAATAA ANDAGII",
-      "location": "Belum diatur",
-      "badges": [
-        "🪪 SAATAA Pioneer"
-      ],
-      "active_badge": "🪪 SAATAA Pioneer",
-      "frames": [],
-      "active_frame": null,
-      "cd": {},
-      "anak": [],
-      "invest": {},
-      "blacklist_karakter": [],
-      "distrik": "Awal",
-      "gender": "Laki",
-      "exp_multiplier": 1,
-      "exp_buff_until": 0,
-      "banned_until": 0,
-      "joined_at": 1788871971224,
-      "kehamilan": {
-        "status": false,
-        "waktu_mulai": 0
-      },
-      "afk_time": 0,
-      "energi": 100,
-      "inventory": {},
-      "hutang": {
-        "__bigint__": "0"
-      },
-      "pinjol": {
-        "amount": {
-          "__bigint__": "0"
-        },
-        "due_time": 0
-      },
-      "fishing_gear": {
-        "active_bait": null,
-        "bait_uses": 0,
-        "bait_max": 0,
-        "active_rod": null,
-        "rod_uses": 0,
-        "rod_max": 0
-      },
-      "diamond": 0,
-      "negara": "Indonesia",
-      "squad_id": null,
-      "hubungan_sosial": {
-        "saudara": [],
-        "sahabat": [],
-        "teman_dekat": []
-      },
-      "pending_relasi": {},
-      "profil_lengkap": true,
-      "isPremium": false,
-      "limit_reset_at": 1788954771224,
-      "limit": 35,
-      "last_reset": "2026-09-09T11:52:51.224Z",
-      "achievements": [],
-      "transactions": [],
-      "missions_completed": [],
-      "daily_streak": 0,
-      "last_daily": 0,
-      "last_transfer": 0
     }
   },
   "market": {
     "6": {
       "price": {
-        "__bigint__": "2144194576"
+        "__bigint__": "16926615136"
       },
-      "next_update": 1788864528063,
+      "next_update": 1788777644001,
       "trend": "📉 Turun",
       "history": [
         {
@@ -3360,22 +3297,19 @@
         },
         {
           "__bigint__": "16926615136"
-        },
-        {
-          "__bigint__": "63170137032"
-        },
-        {
-          "__bigint__": "2144194576"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "526000"
+        "__bigint__": "187000"
       },
-      "next_update": 1788864017399,
-      "trend": "📈 Naik",
+      "next_update": 1788776504001,
+      "trend": "📉 Turun",
       "history": [
+        {
+          "__bigint__": "693000"
+        },
         {
           "__bigint__": "237000"
         },
@@ -3402,25 +3336,19 @@
         },
         {
           "__bigint__": "187000"
-        },
-        {
-          "__bigint__": "552000"
-        },
-        {
-          "__bigint__": "348000"
-        },
-        {
-          "__bigint__": "526000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "2700000"
+        "__bigint__": "1200000"
       },
-      "next_update": 1788864257399,
+      "next_update": 1788776744001,
       "trend": "📉 Turun",
       "history": [
+        {
+          "__bigint__": "18200000"
+        },
         {
           "__bigint__": "16200000"
         },
@@ -3447,24 +3375,15 @@
         },
         {
           "__bigint__": "1200000"
-        },
-        {
-          "__bigint__": "18200000"
-        },
-        {
-          "__bigint__": "16700000"
-        },
-        {
-          "__bigint__": "2700000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "34000000"
+        "__bigint__": "49000000"
       },
-      "next_update": 1788864228063,
-      "trend": "📉 Turun",
+      "next_update": 1788777344001,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "41000000"
@@ -3492,21 +3411,15 @@
         },
         {
           "__bigint__": "49000000"
-        },
-        {
-          "__bigint__": "48000000"
-        },
-        {
-          "__bigint__": "34000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "48000000"
+        "__bigint__": "50000000"
       },
-      "next_update": 1788865128063,
-      "trend": "📉 Turun",
+      "next_update": 1788778244001,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "49000000"
@@ -3525,20 +3438,14 @@
         },
         {
           "__bigint__": "50000000"
-        },
-        {
-          "__bigint__": "50000000"
-        },
-        {
-          "__bigint__": "48000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1105000000"
+        "__bigint__": "1256000000"
       },
-      "next_update": 1788866928063,
+      "next_update": 1788780044001,
       "trend": "📈 Naik",
       "history": [
         {
@@ -3555,12 +3462,6 @@
         },
         {
           "__bigint__": "1256000000"
-        },
-        {
-          "__bigint__": "743000000"
-        },
-        {
-          "__bigint__": "1105000000"
         }
       ]
     }
@@ -3684,7 +3585,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10039,
+    "last_uid": 10038,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -3726,8 +3627,7 @@
       "184675842670644@lid": "628134436550@s.whatsapp.net",
       "181119475556580@lid": "6285709649309@s.whatsapp.net",
       "68384972615798@lid": "6283836033866@s.whatsapp.net",
-      "148241081446532@lid": "6283142352160@s.whatsapp.net",
-      "252733726687342@lid": "6283841852697@s.whatsapp.net"
+      "148241081446532@lid": "6283142352160@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
@@ -4162,7 +4062,7 @@
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
       "120363430077495840@g.us": 1788593809165,
-      "120363430435543929@g.us": 1788859773976
+      "120363430435543929@g.us": 1788826898134
     },
     "menu": {
       "custom_text": "",
@@ -4243,7 +4143,7 @@
         "prediksi": 5
       }
     },
-    "sticker_watermark": "SAATAA ANDAGII",
+    "sticker_watermark": "",
     "last_squad_id": 0,
     "artist_cache": {
       "artis_248616612": {
@@ -4279,56 +4179,5 @@
     "pending_groups": {}
   },
   "player_market": {},
-  "houses": {},
-  "market_tani": {
-    "padi": {
-      "price": {
-        "__bigint__": "1500"
-      },
-      "next_update": 1788859972426,
-      "trend": "➡️ Stabil"
-    },
-    "jagung": {
-      "price": {
-        "__bigint__": "2500"
-      },
-      "next_update": 1788859972426,
-      "trend": "➡️ Stabil"
-    },
-    "tomat": {
-      "price": {
-        "__bigint__": "3000"
-      },
-      "next_update": 1788859972426,
-      "trend": "➡️ Stabil"
-    },
-    "cabai": {
-      "price": {
-        "__bigint__": "4500"
-      },
-      "next_update": 1788859972426,
-      "trend": "➡️ Stabil"
-    },
-    "semangka": {
-      "price": {
-        "__bigint__": "12000"
-      },
-      "next_update": 1788859972426,
-      "trend": "➡️ Stabil"
-    },
-    "anggur": {
-      "price": {
-        "__bigint__": "18000"
-      },
-      "next_update": 1788859972426,
-      "trend": "➡️ Stabil"
-    },
-    "stroberi": {
-      "price": {
-        "__bigint__": "30000"
-      },
-      "next_update": 1788859972426,
-      "trend": "➡️ Stabil"
-    }
-  }
+  "houses": {}
 }
