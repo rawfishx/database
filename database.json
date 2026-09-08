@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8300"
+        "__bigint__": "8480"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -279,18 +279,7 @@
       "farm": {
         "slotsOwned": 2,
         "lahan": [
-          {
-            "crop": "padi",
-            "plantedAt": 1788611253229,
-            "lastCare": 1788611253229,
-            "siram": 0,
-            "pupuk": 0,
-            "withered": false,
-            "ready": false,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "reminder_ready_at": 1788613053229
-          },
+          null,
           null
         ],
         "benih": {
@@ -301,7 +290,7 @@
         "achievements": [],
         "stats": {
           "totalPanen": 0,
-          "totalGagalPanen": 0,
+          "totalGagalPanen": 1,
           "totalTanam": 1,
           "totalPendapatan": {
             "__bigint__": "0"
@@ -1165,7 +1154,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "39240"
+        "__bigint__": "39435"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3988,7 +3977,7 @@
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
       "120363430077495840@g.us": 1788593809165,
-      "120363430435543929@g.us": 1788826898134
+      "120363430435543929@g.us": 1788859773976
     },
     "menu": {
       "custom_text": "",
