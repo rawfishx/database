@@ -1163,13 +1163,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "212264533"
+        "__bigint__": "212274533"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "38965"
+        "__bigint__": "39480"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1472,7 +1472,7 @@
       "limit_reset_at": 1788976738905,
       "daily": {
         "streak": 1,
-        "last_claim": 1788774416899
+        "last_claim": 1788936257409
       },
       "limit_reset_notified_at": 1788893938905
     },
@@ -1582,7 +1582,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13075"
+        "__bigint__": "13090"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1597,7 +1597,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1788781973609,
-        "interaksi": 1788762660406,
+        "interaksi": 1788936356918,
         "tebakbendera": 1788661644031
       },
       "anak": [],
@@ -1743,13 +1743,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 52,
+        "point_asmara": 60,
         "uang": {
           "__bigint__": "407000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1788762540406,
+        "last_interaksi": 1788936236918,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -1766,9 +1766,9 @@
       "active_frame": null,
       "banned_reason": "",
       "act_session": {
-        "1": "cium",
-        "2": "suapi",
-        "3": "buatanak"
+        "1": "jalan",
+        "2": "buatanak",
+        "3": "suapi"
       },
       "diamond": 40,
       "negara": "Indonesia",
@@ -3933,7 +3933,7 @@
           },
           "url": "https://myanimelist.net/character/164471"
         },
-        "cachedAt": 1788762540585
+        "cachedAt": 1788936237155
       },
       "164473": {
         "data": {
@@ -4253,7 +4253,7 @@
       "price": {
         "__bigint__": "19800"
       },
-      "last_price_update": 1788668240966
+      "last_price_update": 1788936255114
     },
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
@@ -4269,23 +4269,23 @@
     "egg_stock": {
       "telurayam": {
         "stock": 25,
-        "reset_at": 1788669150586
+        "reset_at": 1788938055113
       },
       "telurhutan": {
         "stock": 12,
-        "reset_at": 1788669150586
+        "reset_at": 1788938055113
       },
       "telurnaga": {
         "stock": 6,
-        "reset_at": 1788669150586
+        "reset_at": 1788938055113
       },
       "telurphoenix": {
         "stock": 3,
-        "reset_at": 1788669150586
+        "reset_at": 1788938055113
       },
       "telurmisterius": {
         "stock": 1,
-        "reset_at": 1788669150586
+        "reset_at": 1788938055113
       }
     },
     "custom_investments": {
