@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8645"
+        "__bigint__": "8660"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -2395,10 +2395,10 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3465"
+        "__bigint__": "3495"
       },
       "role": "player",
-      "status_hubungan": "lajang",
+      "status_hubungan": "pacaran",
       "point_asmara": 0,
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
@@ -2412,7 +2412,7 @@
       "cd": {
         "rampok": 1788781972800,
         "judi": 1788939326509,
-        "mancing": 1788939318684
+        "mancing": 1788940051957
       },
       "anak": [],
       "invest": {},
@@ -2450,7 +2450,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 29,
+      "limit": 23,
       "last_reset": "2026-09-09T17:58:58.905Z",
       "achievements": [
         "first_saving"
@@ -2501,6 +2501,9 @@
           "__bigint__": "1"
         },
         "orca": {
+          "__bigint__": "1"
+        },
+        "bawal": {
           "__bigint__": "1"
         }
       },
@@ -2574,7 +2577,26 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "limit_reset_at": 1788976738905,
-      "limit_reset_notified_at": 1788893938905
+      "limit_reset_notified_at": 1788893938905,
+      "pasangan": {
+        "id": 33221,
+        "nama": "Sora Kasugano",
+        "point_asmara": 0,
+        "tipe": "anime",
+        "uang": {
+          "__bigint__": "0"
+        },
+        "kehamilan": false,
+        "waktu_mulai": 0,
+        "last_interaksi": 1788939808010,
+        "mulai_ikatan": 1788939808010,
+        "gender": "unknown",
+        "ai_profile": {
+          "name": "Sora Kasugano",
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Sora Kasugano",
+          "gender": "unknown"
+        }
+      }
     },
     "6285137240474@s.whatsapp.net": {
       "uid": 10029,
@@ -3863,6 +3885,21 @@
         },
         "cachedAt": 1788762444303
       },
+      "33221": {
+        "data": {
+          "mal_id": 33221,
+          "name": "Sora Kasugano",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Sora Kasugano",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/10/101109.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/33221"
+        },
+        "cachedAt": 1788939795850
+      },
       "47167": {
         "data": {
           "mal_id": 47167,
@@ -3892,6 +3929,21 @@
           "url": "https://myanimelist.net/character/77323"
         },
         "cachedAt": 1788613065674
+      },
+      "82523": {
+        "data": {
+          "mal_id": 82523,
+          "name": "Sora",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Sora",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/12/274345.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/82523"
+        },
+        "cachedAt": 1788939778794
       },
       "93307": {
         "data": {
@@ -4237,6 +4289,36 @@
           "url": "https://myanimelist.net/character/198179"
         },
         "cachedAt": 1788764730494
+      },
+      "sora": {
+        "data": {
+          "mal_id": 82523,
+          "name": "Sora",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Sora",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/12/274345.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/82523"
+        },
+        "cachedAt": 1788939778794
+      },
+      "sora kasugano": {
+        "data": {
+          "mal_id": 33221,
+          "name": "Sora Kasugano",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Sora Kasugano",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/10/101109.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/33221"
+        },
+        "cachedAt": 1788939795850
       }
     },
     "group_settings": {
