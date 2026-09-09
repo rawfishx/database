@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8490"
+        "__bigint__": "8560"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -286,7 +286,10 @@
             "siram": 0,
             "pupuk": 0,
             "withered": false,
-            "ready": false
+            "ready": false,
+            "growMs": 1800000,
+            "wiltMs": 10800000,
+            "reminder_ready_at": 1788613053229
           },
           null
         ],
@@ -1166,7 +1169,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "38905"
+        "__bigint__": "38960"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1298,16 +1301,17 @@
           {
             "crop": "padi",
             "plantedAt": 1788764214900,
-            "lastCare": 1788930361987,
+            "lastCare": 1788932107310,
             "growMs": 1800000,
             "wiltMs": 10800000,
             "siram": 5,
-            "pupuk": 0,
+            "pupuk": 1,
             "withered": false,
             "ready": true,
             "lastWater": 1788930361987,
             "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766014900
+            "reminder_ready_at": 1788766014900,
+            "pupukBoost": 0.35
           },
           {
             "crop": "padi",
@@ -1399,7 +1403,7 @@
           "stroberi": 5
         },
         "pupukInv": {
-          "super": 1
+          "super": 0
         },
         "hasil": {
           "padi": 6
