@@ -2305,13 +2305,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "4090"
+        "__bigint__": "19090"
       },
       "level": {
-        "__bigint__": "4"
+        "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "3630"
+        "__bigint__": "4385"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2344,7 +2344,7 @@
         "status": false,
         "waktu_mulai": 0
       },
-      "afk_time": 1788940759895,
+      "afk_time": 0,
       "energi": 100,
       "inventory": {
         "kartu": 0
@@ -2367,7 +2367,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-10T16:59:03.078Z",
       "achievements": [
         "first_saving"
@@ -2401,8 +2401,8 @@
         "last_interest": 1788939135131
       },
       "daily": {
-        "streak": 1,
-        "last_claim": 1788907831204
+        "streak": 2,
+        "last_claim": 1788985243812
       },
       "ikan": {
         "salmon": {
@@ -2477,7 +2477,7 @@
         }
       ],
       "active_pet": 0,
-      "afk_reason": "Tanpa alasan",
+      "afk_reason": "",
       "defense": {
         "name": "🐕 Anjing Penjaga",
         "uses": 30,
