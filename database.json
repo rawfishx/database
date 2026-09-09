@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8720"
+        "__bigint__": "8725"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1175,7 +1175,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "39545"
+        "__bigint__": "39675"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1304,105 +1304,13 @@
         "slotsOwned": 8,
         "lahan": [
           null,
-          {
-            "crop": "padi",
-            "plantedAt": 1788764214900,
-            "lastCare": 1788932107310,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 5,
-            "pupuk": 1,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788930361987,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766014900,
-            "pupukBoost": 0.35
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764211046,
-            "lastCare": 1788931603512,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 5,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788931603512,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766011046
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764227124,
-            "lastCare": 1788931605536,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 5,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788931605536,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766027124
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764248759,
-            "lastCare": 1788931607942,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 5,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788931607942,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766048759
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764257802,
-            "lastCare": 1788931610245,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 5,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788931610245,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766057802
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764260700,
-            "lastCare": 1788931613114,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 5,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788931613114,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766060700
-          },
-          {
-            "crop": "padi",
-            "plantedAt": 1788764282995,
-            "lastCare": 1788931617099,
-            "growMs": 1800000,
-            "wiltMs": 10800000,
-            "siram": 5,
-            "pupuk": 0,
-            "withered": false,
-            "ready": true,
-            "lastWater": 1788931617099,
-            "reminder_wilt_at": null,
-            "reminder_ready_at": 1788766082995
-          }
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
         ],
         "benih": {
           "padi": 3,
@@ -1412,14 +1320,14 @@
           "super": 0
         },
         "hasil": {
-          "padi": 6
+          "padi": 67
         },
         "achievements": [
           "lahan_penuh",
           "panen_pertama"
         ],
         "stats": {
-          "totalPanen": 1,
+          "totalPanen": 8,
           "totalGagalPanen": 1,
           "totalTanam": 9,
           "totalPendapatan": {
@@ -4361,23 +4269,23 @@
     "egg_stock": {
       "telurayam": {
         "stock": 25,
-        "reset_at": 1788942206711
+        "reset_at": 1788946900614
       },
       "telurhutan": {
         "stock": 12,
-        "reset_at": 1788942206711
+        "reset_at": 1788946900614
       },
       "telurnaga": {
         "stock": 6,
-        "reset_at": 1788942206711
+        "reset_at": 1788946900614
       },
       "telurphoenix": {
         "stock": 3,
-        "reset_at": 1788942206711
+        "reset_at": 1788946900614
       },
       "telurmisterius": {
         "stock": 1,
-        "reset_at": 1788942206711
+        "reset_at": 1788946900614
       }
     },
     "custom_investments": {
