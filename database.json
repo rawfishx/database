@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8630"
+        "__bigint__": "8645"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -2389,13 +2389,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "10000"
+        "__bigint__": "9990"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3425"
+        "__bigint__": "3465"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2411,8 +2411,8 @@
       "active_frame": null,
       "cd": {
         "rampok": 1788781972800,
-        "judi": 1788662694230,
-        "mancing": 1788774789401
+        "judi": 1788939326509,
+        "mancing": 1788939318684
       },
       "anak": [],
       "invest": {},
@@ -2450,7 +2450,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 35,
+      "limit": 29,
       "last_reset": "2026-09-09T17:58:58.905Z",
       "achievements": [
         "first_saving"
@@ -2498,6 +2498,9 @@
           "__bigint__": "1"
         },
         "nila": {
+          "__bigint__": "1"
+        },
+        "orca": {
           "__bigint__": "1"
         }
       },
