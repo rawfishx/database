@@ -143,13 +143,13 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "10155356"
+        "__bigint__": "10153356"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8725"
+        "__bigint__": "8820"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -219,13 +219,13 @@
       "pasangan": {
         "id": 183,
         "nama": "Ayumu Kasuga",
-        "point_asmara": 8,
+        "point_asmara": 0,
         "uang": {
           "__bigint__": "300000000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1788612840630
+        "last_interaksi": 1788946120613
       },
       "act_session": {
         "1": "jalan",
@@ -1169,13 +1169,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "212274533"
+        "__bigint__": "79473533"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "39675"
+        "__bigint__": "39800"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1199,7 +1199,7 @@
           "__bigint__": "0"
         },
         "GLD": {
-          "__bigint__": "0"
+          "__bigint__": "16"
         }
       },
       "blacklist_karakter": [],
@@ -1293,9 +1293,9 @@
       "last_transfer": 0,
       "bank": {
         "tabungan": {
-          "__bigint__": "722742"
+          "__bigint__": "725635"
         },
-        "last_interest": 1788928942846
+        "last_interest": 1788943342846
       },
       "frames": [],
       "active_frame": null,
@@ -1490,13 +1490,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "5296999"
+        "__bigint__": "5235999"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13090"
+        "__bigint__": "13190"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1511,7 +1511,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1788781973609,
-        "interaksi": 1788936356918,
+        "interaksi": 1788946163311,
         "tebakbendera": 1788661644031
       },
       "anak": [],
@@ -1533,7 +1533,9 @@
       },
       "afk_time": 0,
       "energi": 100,
-      "inventory": {},
+      "inventory": {
+        "burger": 2
+      },
       "hutang": {
         "__bigint__": "0"
       },
@@ -1657,13 +1659,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 60,
+        "point_asmara": 78,
         "uang": {
           "__bigint__": "407000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1788936236918,
+        "last_interaksi": 1788946043311,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -1672,17 +1674,17 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "150294878"
+          "__bigint__": "151047854"
         },
-        "last_interest": 1788927416413
+        "last_interest": 1788945416413
       },
       "frames": [],
       "active_frame": null,
       "banned_reason": "",
       "act_session": {
-        "1": "jalan",
-        "2": "buatanak",
-        "3": "suapi"
+        "1": "cium",
+        "2": "suapi",
+        "3": "buatanak"
       },
       "diamond": 40,
       "negara": "Indonesia",
@@ -3388,9 +3390,9 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "37313798568"
+        "__bigint__": "98083738104"
       },
-      "next_update": 1788931424591,
+      "next_update": 1788946836286,
       "trend": "📈 Naik",
       "history": [
         {
@@ -3416,19 +3418,19 @@
         },
         {
           "__bigint__": "37313798568"
+        },
+        {
+          "__bigint__": "98083738104"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "594000"
+        "__bigint__": "137000"
       },
-      "next_update": 1788930284591,
-      "trend": "📈 Naik",
+      "next_update": 1788945802775,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "693000"
-        },
         {
           "__bigint__": "237000"
         },
@@ -3458,15 +3460,21 @@
         },
         {
           "__bigint__": "594000"
+        },
+        {
+          "__bigint__": "779000"
+        },
+        {
+          "__bigint__": "137000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "18200000"
+        "__bigint__": "8300000"
       },
-      "next_update": 1788930524591,
-      "trend": "📈 Naik",
+      "next_update": 1788945936286,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "18200000"
@@ -3500,15 +3508,18 @@
         },
         {
           "__bigint__": "18200000"
+        },
+        {
+          "__bigint__": "8300000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "25000000"
+        "__bigint__": "33000000"
       },
-      "next_update": 1788931124591,
-      "trend": "📉 Turun",
+      "next_update": 1788946536286,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "41000000"
@@ -3539,15 +3550,18 @@
         },
         {
           "__bigint__": "25000000"
+        },
+        {
+          "__bigint__": "33000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "48000000"
+        "__bigint__": "50000000"
       },
-      "next_update": 1788932024591,
-      "trend": "📉 Turun",
+      "next_update": 1788947436286,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "49000000"
@@ -3569,15 +3583,18 @@
         },
         {
           "__bigint__": "48000000"
+        },
+        {
+          "__bigint__": "50000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1274000000"
+        "__bigint__": "1267000000"
       },
-      "next_update": 1788933824591,
-      "trend": "📈 Naik",
+      "next_update": 1788949236286,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "1743000000"
@@ -3596,6 +3613,9 @@
         },
         {
           "__bigint__": "1274000000"
+        },
+        {
+          "__bigint__": "1267000000"
         }
       ]
     }
@@ -3716,6 +3736,18 @@
         "total": {
           "__bigint__": "1000"
         }
+      },
+      "88245583791@s.whatsapp.net": {
+        "name": "wa.me/88245583791",
+        "total": {
+          "__bigint__": "1062"
+        }
+      },
+      "6288245583791@s.whatsapp.net": {
+        "name": "ila",
+        "total": {
+          "__bigint__": "1000"
+        }
       }
     },
     "acc_group": "120363402872389104@g.us",
@@ -3783,7 +3815,7 @@
           },
           "url": "https://myanimelist.net/character/183"
         },
-        "cachedAt": 1788705594510
+        "cachedAt": 1788946120837
       },
       "6977": {
         "data": {
@@ -3798,7 +3830,7 @@
           },
           "url": "https://myanimelist.net/character/6977"
         },
-        "cachedAt": 1788762444303
+        "cachedAt": 1788946151081
       },
       "33221": {
         "data": {
