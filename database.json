@@ -1163,7 +1163,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "38210"
+        "__bigint__": "38230"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1457,7 +1457,7 @@
         "2": "buatanak",
         "3": "cium"
       },
-      "diamond": 40,
+      "diamond": 50,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1467,7 +1467,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-08",
+      "last_diamond_bonus": "2026-09-09",
       "limit_reset_at": 1788976738905,
       "daily": {
         "streak": 1,
@@ -1578,7 +1578,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12910"
+        "__bigint__": "12940"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1740,9 +1740,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "9891430"
+          "__bigint__": "10294878"
         },
-        "last_interest": 1788783416413
+        "last_interest": 1788927416413
       },
       "frames": [],
       "active_frame": null,
@@ -1752,7 +1752,7 @@
         "2": "suapi",
         "3": "buatanak"
       },
-      "diamond": 30,
+      "diamond": 40,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1762,7 +1762,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-08",
+      "last_diamond_bonus": "2026-09-09",
       "limit_reset_at": 1788983880376,
       "daily": {
         "streak": 1,
@@ -2377,7 +2377,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3415"
+        "__bigint__": "3425"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2432,7 +2432,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 37,
+      "limit": 35,
       "last_reset": "2026-09-09T17:58:58.905Z",
       "achievements": [
         "first_saving"
@@ -3348,8 +3348,8 @@
     },
     "6285719075956@s.whatsapp.net": {
       "uid": 10040,
-      "registered": false,
-      "registered_at": null,
+      "registered": true,
+      "registered_at": 1788927330371,
       "name": "Sena Rawrr",
       "uang": {
         "__bigint__": "5000"
@@ -3358,7 +3358,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "0"
+        "__bigint__": "30"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -3417,8 +3417,14 @@
       "profil_lengkap": false,
       "isPremium": false,
       "limit_reset_at": 1789009331572,
-      "limit": 40,
-      "last_reset": "2026-09-10T03:02:11.572Z"
+      "limit": 39,
+      "last_reset": "2026-09-10T03:02:11.572Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
     }
   },
   "market": {
