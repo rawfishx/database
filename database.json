@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8660"
+        "__bigint__": "8720"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -330,7 +330,13 @@
         "sahabat": [],
         "teman_dekat": []
       },
-      "pending_relasi": {},
+      "pending_relasi": {
+        "saudara_6289526468474@s.whatsapp.net": {
+          "from": "6289526468474@s.whatsapp.net",
+          "jenis": "saudara",
+          "waktu": 1788940356914
+        }
+      },
       "profil_lengkap": false,
       "last_diamond_bonus": "2026-09-09",
       "limit_reset_at": 1788976703004,
@@ -2389,13 +2395,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "9990"
+        "__bigint__": "4090"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3495"
+        "__bigint__": "3630"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2411,8 +2417,9 @@
       "active_frame": null,
       "cd": {
         "rampok": 1788781972800,
-        "judi": 1788939326509,
-        "mancing": 1788940051957
+        "judi": 1788940922343,
+        "mancing": 1788940051957,
+        "interaksi": 1788940170613
       },
       "anak": [],
       "invest": {},
@@ -2427,7 +2434,7 @@
         "status": false,
         "waktu_mulai": 0
       },
-      "afk_time": 0,
+      "afk_time": 1788940759895,
       "energi": 100,
       "inventory": {
         "kartu": 0
@@ -2442,15 +2449,15 @@
         "due_time": 0
       },
       "fishing_gear": {
-        "active_bait": null,
-        "bait_uses": 0,
-        "bait_max": 3,
+        "active_bait": "Cacing",
+        "bait_uses": 10,
+        "bait_max": 10,
         "active_rod": "Joran Besi",
         "rod_uses": 7,
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 23,
+      "limit": 5,
       "last_reset": "2026-09-09T17:58:58.905Z",
       "achievements": [
         "first_saving"
@@ -2479,9 +2486,9 @@
       "banned_reason": "",
       "bank": {
         "tabungan": {
-          "__bigint__": "51890947"
+          "__bigint__": "52150917"
         },
-        "last_interest": 1788921135131
+        "last_interest": 1788939135131
       },
       "daily": {
         "streak": 1,
@@ -2560,7 +2567,7 @@
         }
       ],
       "active_pet": 0,
-      "afk_reason": "",
+      "afk_reason": "Tanpa alasan",
       "defense": {
         "name": "🐕 Anjing Penjaga",
         "uses": 30,
@@ -2581,14 +2588,14 @@
       "pasangan": {
         "id": 33221,
         "nama": "Sora Kasugano",
-        "point_asmara": 0,
+        "point_asmara": 8,
         "tipe": "anime",
         "uang": {
           "__bigint__": "0"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1788939808010,
+        "last_interaksi": 1788940050613,
         "mulai_ikatan": 1788939808010,
         "gender": "unknown",
         "ai_profile": {
@@ -4338,7 +4345,7 @@
       "price": {
         "__bigint__": "19800"
       },
-      "last_price_update": 1788936255114
+      "last_price_update": 1788940582230
     },
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
@@ -4354,23 +4361,23 @@
     "egg_stock": {
       "telurayam": {
         "stock": 25,
-        "reset_at": 1788938055113
+        "reset_at": 1788942206711
       },
       "telurhutan": {
         "stock": 12,
-        "reset_at": 1788938055113
+        "reset_at": 1788942206711
       },
       "telurnaga": {
         "stock": 6,
-        "reset_at": 1788938055113
+        "reset_at": 1788942206711
       },
       "telurphoenix": {
         "stock": 3,
-        "reset_at": 1788938055113
+        "reset_at": 1788942206711
       },
       "telurmisterius": {
         "stock": 1,
-        "reset_at": 1788938055113
+        "reset_at": 1788942206711
       }
     },
     "custom_investments": {
