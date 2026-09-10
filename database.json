@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9110"
+        "__bigint__": "9265"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1175,7 +1175,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "40670"
+        "__bigint__": "40705"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1509,13 +1509,13 @@
       "registered_at": 1788607926528,
       "name": "ulfa",
       "uang": {
-        "__bigint__": "324250"
+        "__bigint__": "324251"
       },
       "level": {
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1655"
+        "__bigint__": "1710"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1563,7 +1563,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 38,
       "last_reset": "2026-09-11T01:09:09.250Z",
       "frames": [],
       "active_frame": null,
@@ -1603,13 +1603,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "0"
+        "__bigint__": "49999"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14150"
+        "__bigint__": "14250"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1674,6 +1674,20 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "50000"
+          },
+          "timestamp": 1789037262316
+        },
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "1000000000"
+          },
+          "timestamp": 1789037165715
+        },
         {
           "type": "saving",
           "amount": {
@@ -1824,11 +1838,11 @@
         "nama": "Satoru Gojou",
         "point_asmara": 78,
         "uang": {
-          "__bigint__": "407000"
+          "__bigint__": "1000407000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1788946043311,
+        "last_interaksi": 1789037183318,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -1837,7 +1851,7 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "8143287241"
+          "__bigint__": "7143237241"
         },
         "last_interest": 1789035416413
       },
@@ -3749,17 +3763,11 @@
     },
     "WEEB": {
       "price": {
-        "__bigint__": "317000"
+        "__bigint__": "415000"
       },
-      "next_update": 1789036479014,
+      "next_update": 1789037339013,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "137000"
-        },
-        {
-          "__bigint__": "321000"
-        },
         {
           "__bigint__": "550000"
         },
@@ -3789,19 +3797,22 @@
         },
         {
           "__bigint__": "317000"
+        },
+        {
+          "__bigint__": "429000"
+        },
+        {
+          "__bigint__": "415000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "12700000"
+        "__bigint__": "15100000"
       },
-      "next_update": 1789036570314,
+      "next_update": 1789037355513,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "7300000"
-        },
         {
           "__bigint__": "4800000"
         },
@@ -3834,19 +3845,19 @@
         },
         {
           "__bigint__": "12700000"
+        },
+        {
+          "__bigint__": "15100000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "33000000"
+        "__bigint__": "49000000"
       },
-      "next_update": 1789036526613,
+      "next_update": 1789037955513,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "28000000"
-        },
         {
           "__bigint__": "37000000"
         },
@@ -3879,6 +3890,9 @@
         },
         {
           "__bigint__": "33000000"
+        },
+        {
+          "__bigint__": "49000000"
         }
       ]
     },
@@ -4280,7 +4294,7 @@
           },
           "url": "https://myanimelist.net/character/164471"
         },
-        "cachedAt": 1788936237155
+        "cachedAt": 1789037183571
       },
       "164473": {
         "data": {
