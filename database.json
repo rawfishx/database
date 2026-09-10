@@ -72,7 +72,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "725"
+        "__bigint__": "730"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -80,9 +80,9 @@
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
       "badges": [
-        "👾SAATAA ANDAGII First Generation👾"
+        "🪪 SAATAA Pioneer"
       ],
-      "active_badge": "👾SAATAA ANDAGII First Generation👾",
+      "active_badge": "🪪 SAATAA Pioneer",
       "cd": {
         "rampok": 1788586441210
       },
@@ -121,7 +121,7 @@
       },
       "isPremium": false,
       "limit": 37,
-      "last_reset": "5/9/2026",
+      "last_reset": "2026-09-11T11:44:22.931Z",
       "registered": true,
       "frames": [],
       "active_frame": null,
@@ -137,7 +137,18 @@
         },
         "last_interest": 1788579134714
       },
-      "banned_reason": "Tertangkap basah merampok di Distrik Rendah"
+      "banned_reason": "Tertangkap basah merampok di Distrik Rendah",
+      "diamond": 0,
+      "negara": "Belum diatur",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "limit_reset_at": 1789127062931
     },
     "6283138226730@s.whatsapp.net": {
       "uid": 99999,
@@ -1616,13 +1627,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "49999"
+        "__bigint__": "0"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14435"
+        "__bigint__": "14615"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1637,7 +1648,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1788781973609,
-        "interaksi": 1789039643850,
+        "interaksi": 1789044254594,
         "tebakbendera": 1788661644031
       },
       "anak": [],
@@ -1687,6 +1698,20 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "94250430477"
+          },
+          "timestamp": 1789044248225
+        },
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "7150380478"
+          },
+          "timestamp": 1789043800025
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -1849,13 +1874,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 96,
+        "point_asmara": 112,
         "uang": {
           "__bigint__": "1000407000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789039523850,
+        "last_interaksi": 1789044134594,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -1864,17 +1889,17 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "7150380478"
+          "__bigint__": "94344680907"
         },
-        "last_interest": 1789039016413
+        "last_interest": 1789042616413
       },
       "frames": [],
       "active_frame": null,
       "banned_reason": "",
       "act_session": {
-        "1": "cium",
+        "1": "jalan",
         "2": "suapi",
-        "3": "buatanak"
+        "3": "segss"
       },
       "diamond": 50,
       "negara": "Indonesia",
@@ -3731,14 +3756,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "93332306720"
+        "__bigint__": "62890119336"
       },
-      "next_update": 1789042976827,
-      "trend": "📈 Naik",
+      "next_update": 1789044981323,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "95713937800"
-        },
         {
           "__bigint__": "40538579376"
         },
@@ -3771,28 +3793,19 @@
         },
         {
           "__bigint__": "93332306720"
+        },
+        {
+          "__bigint__": "62890119336"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "130000"
+        "__bigint__": "650000"
       },
-      "next_update": 1789042973627,
-      "trend": "📉 Turun",
+      "next_update": 1789044288623,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "647000"
-        },
-        {
-          "__bigint__": "317000"
-        },
-        {
-          "__bigint__": "429000"
-        },
-        {
-          "__bigint__": "415000"
-        },
         {
           "__bigint__": "572000"
         },
@@ -3816,22 +3829,28 @@
         },
         {
           "__bigint__": "130000"
+        },
+        {
+          "__bigint__": "845000"
+        },
+        {
+          "__bigint__": "385000"
+        },
+        {
+          "__bigint__": "101000"
+        },
+        {
+          "__bigint__": "650000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "12600000"
+        "__bigint__": "14500000"
       },
-      "next_update": 1789043213627,
+      "next_update": 1789044528623,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "16800000"
-        },
-        {
-          "__bigint__": "9500000"
-        },
         {
           "__bigint__": "1200000"
         },
@@ -3861,19 +3880,22 @@
         },
         {
           "__bigint__": "12600000"
+        },
+        {
+          "__bigint__": "1100000"
+        },
+        {
+          "__bigint__": "14500000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "26000000"
+        "__bigint__": "25000000"
       },
-      "next_update": 1789043813627,
+      "next_update": 1789044806625,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "46000000"
-        },
         {
           "__bigint__": "49000000"
         },
@@ -3906,19 +3928,19 @@
         },
         {
           "__bigint__": "26000000"
+        },
+        {
+          "__bigint__": "25000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "48000000"
+        "__bigint__": "44000000"
       },
-      "next_update": 1789043576827,
-      "trend": "➡️ Stabil",
+      "next_update": 1789045581323,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "43000000"
-        },
         {
           "__bigint__": "50000000"
         },
@@ -3951,6 +3973,9 @@
         },
         {
           "__bigint__": "48000000"
+        },
+        {
+          "__bigint__": "44000000"
         }
       ]
     },
@@ -4663,7 +4688,7 @@
       "price": {
         "__bigint__": "19800"
       },
-      "last_price_update": 1788940582230
+      "last_price_update": 1789044186323
     },
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
@@ -4679,23 +4704,23 @@
     "egg_stock": {
       "telurayam": {
         "stock": 25,
-        "reset_at": 1788946900614
+        "reset_at": 1789045986323
       },
       "telurhutan": {
         "stock": 12,
-        "reset_at": 1788946900614
+        "reset_at": 1789045986323
       },
       "telurnaga": {
         "stock": 6,
-        "reset_at": 1788946900614
+        "reset_at": 1789045986323
       },
       "telurphoenix": {
         "stock": 3,
-        "reset_at": 1788946900614
+        "reset_at": 1789045986323
       },
       "telurmisterius": {
         "stock": 1,
-        "reset_at": 1788946900614
+        "reset_at": 1789045986323
       }
     },
     "custom_investments": {
