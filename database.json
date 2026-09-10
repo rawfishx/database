@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9065"
+        "__bigint__": "9090"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1175,7 +1175,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "40540"
+        "__bigint__": "40655"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1603,13 +1603,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "49000"
+        "__bigint__": "92671"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14015"
+        "__bigint__": "14100"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1630,7 +1630,7 @@
       "anak": [],
       "invest": {
         "GLD": {
-          "__bigint__": "0"
+          "__bigint__": "638"
         }
       },
       "blacklist_karakter": [],
@@ -1674,6 +1674,13 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "765643671"
+          },
+          "timestamp": 1789034447314
+        },
         {
           "type": "saving",
           "amount": {
@@ -1823,7 +1830,7 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "765643671"
+          "__bigint__": "0"
         },
         "last_interest": 1789017416413
       },
@@ -3690,10 +3697,10 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "97824491208"
+        "__bigint__": "16369815032"
       },
-      "next_update": 1789021440550,
-      "trend": "📈 Naik",
+      "next_update": 1789035636017,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "100000000"
@@ -3727,19 +3734,19 @@
         },
         {
           "__bigint__": "97824491208"
+        },
+        {
+          "__bigint__": "16369815032"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "461000"
+        "__bigint__": "412000"
       },
-      "next_update": 1789020721219,
+      "next_update": 1789034496017,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "271000"
-        },
         {
           "__bigint__": "187000"
         },
@@ -3772,19 +3779,19 @@
         },
         {
           "__bigint__": "461000"
+        },
+        {
+          "__bigint__": "412000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "9500000"
+        "__bigint__": "1200000"
       },
-      "next_update": 1789020961219,
+      "next_update": 1789034736017,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "7400000"
-        },
         {
           "__bigint__": "8000000"
         },
@@ -3817,19 +3824,19 @@
         },
         {
           "__bigint__": "9500000"
+        },
+        {
+          "__bigint__": "1200000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "48000000"
+        "__bigint__": "26000000"
       },
-      "next_update": 1789021140550,
-      "trend": "📈 Naik",
+      "next_update": 1789035336017,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "31000000"
-        },
         {
           "__bigint__": "42000000"
         },
@@ -3862,14 +3869,17 @@
         },
         {
           "__bigint__": "48000000"
+        },
+        {
+          "__bigint__": "26000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "45000000"
+        "__bigint__": "50000000"
       },
-      "next_update": 1789022040550,
+      "next_update": 1789036236017,
       "trend": "📈 Naik",
       "history": [
         {
@@ -3901,15 +3911,18 @@
         },
         {
           "__bigint__": "45000000"
+        },
+        {
+          "__bigint__": "50000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1135000000"
+        "__bigint__": "1657000000"
       },
-      "next_update": 1789021331608,
-      "trend": "📉 Turun",
+      "next_update": 1789038036017,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "1743000000"
@@ -3934,6 +3947,9 @@
         },
         {
           "__bigint__": "1135000000"
+        },
+        {
+          "__bigint__": "1657000000"
         }
       ]
     }
