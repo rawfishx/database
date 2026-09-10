@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8840"
+        "__bigint__": "8850"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -3611,6 +3611,80 @@
       "limit_reset_at": 1789097559396,
       "limit": 40,
       "last_reset": "2026-09-11T03:32:39.396Z"
+    },
+    "120363402792078806@g.us": {
+      "uid": 10042,
+      "registered": false,
+      "registered_at": null,
+      "name": "Player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789019156999,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Belum diatur",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "limit_reset_at": 1789101956999,
+      "limit": 40,
+      "last_reset": "2026-09-11T04:45:56.999Z"
     }
   },
   "market": {
@@ -3989,7 +4063,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10041,
+    "last_uid": 10042,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
