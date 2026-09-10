@@ -1528,7 +1528,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1730"
+        "__bigint__": "1740"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1576,7 +1576,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 37,
+      "limit": 35,
       "last_reset": "2026-09-11T01:09:09.250Z",
       "frames": [],
       "active_frame": null,
@@ -1622,7 +1622,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14285"
+        "__bigint__": "14345"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1637,7 +1637,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1788781973609,
-        "interaksi": 1788946163311,
+        "interaksi": 1789039643850,
         "tebakbendera": 1788661644031
       },
       "anak": [],
@@ -1660,7 +1660,7 @@
       "afk_time": 0,
       "energi": 100,
       "inventory": {
-        "burger": 2
+        "burger": 1
       },
       "hutang": {
         "__bigint__": "0"
@@ -1849,13 +1849,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 78,
+        "point_asmara": 96,
         "uang": {
           "__bigint__": "1000407000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789037183318,
+        "last_interaksi": 1789039523850,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -2501,7 +2501,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4420"
+        "__bigint__": "4485"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2558,7 +2558,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 32,
+      "limit": 21,
       "last_reset": "2026-09-10T16:59:03.078Z",
       "achievements": [
         "first_saving"
@@ -2587,9 +2587,9 @@
       "banned_reason": "",
       "bank": {
         "tabungan": {
-          "__bigint__": "53150743"
+          "__bigint__": "53577436"
         },
-        "last_interest": 1789007535131
+        "last_interest": 1789036335131
       },
       "daily": {
         "streak": 2,
@@ -3776,14 +3776,11 @@
     },
     "WEEB": {
       "price": {
-        "__bigint__": "596000"
+        "__bigint__": "71000"
       },
-      "next_update": 1789039374651,
+      "next_update": 1789039909947,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "459000"
-        },
         {
           "__bigint__": "631000"
         },
@@ -3816,19 +3813,19 @@
         },
         {
           "__bigint__": "596000"
+        },
+        {
+          "__bigint__": "71000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "13400000"
+        "__bigint__": "8900000"
       },
-      "next_update": 1789039480048,
-      "trend": "📈 Naik",
+      "next_update": 1789040149947,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "18200000"
-        },
         {
           "__bigint__": "8300000"
         },
@@ -3861,6 +3858,9 @@
         },
         {
           "__bigint__": "13400000"
+        },
+        {
+          "__bigint__": "8900000"
         }
       ]
     },
@@ -4665,7 +4665,7 @@
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
       "120363430077495840@g.us": 1788593809165,
-      "120363430435543929@g.us": 1788826898134
+      "120363430435543929@g.us": 1789039709150
     },
     "menu": {
       "custom_text": "",
