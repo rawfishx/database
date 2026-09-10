@@ -1609,7 +1609,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14100"
+        "__bigint__": "14115"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3742,14 +3742,11 @@
     },
     "WEEB": {
       "price": {
-        "__bigint__": "412000"
+        "__bigint__": "466000"
       },
-      "next_update": 1789034496017,
-      "trend": "📉 Turun",
+      "next_update": 1789035686613,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "187000"
-        },
         {
           "__bigint__": "594000"
         },
@@ -3782,19 +3779,19 @@
         },
         {
           "__bigint__": "412000"
+        },
+        {
+          "__bigint__": "466000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "1200000"
+        "__bigint__": "8000000"
       },
-      "next_update": 1789034736017,
-      "trend": "📉 Turun",
+      "next_update": 1789035926613,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "8000000"
-        },
         {
           "__bigint__": "4000000"
         },
@@ -3827,19 +3824,19 @@
         },
         {
           "__bigint__": "1200000"
+        },
+        {
+          "__bigint__": "8000000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "26000000"
+        "__bigint__": "33000000"
       },
-      "next_update": 1789035336017,
-      "trend": "📉 Turun",
+      "next_update": 1789036526613,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "42000000"
-        },
         {
           "__bigint__": "28000000"
         },
@@ -3872,6 +3869,9 @@
         },
         {
           "__bigint__": "26000000"
+        },
+        {
+          "__bigint__": "33000000"
         }
       ]
     },
