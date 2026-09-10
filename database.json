@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8880"
+        "__bigint__": "8905"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1169,13 +1169,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "336296472"
+        "__bigint__": "966296472"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "40490"
+        "__bigint__": "40535"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1202,7 +1202,7 @@
           "__bigint__": "0"
         },
         "ETH": {
-          "__bigint__": "14"
+          "__bigint__": "0"
         }
       },
       "blacklist_karakter": [],
@@ -1609,7 +1609,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14010"
+        "__bigint__": "14015"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3690,10 +3690,10 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "3215222664"
+        "__bigint__": "97824491208"
       },
-      "next_update": 1789018931608,
-      "trend": "📉 Turun",
+      "next_update": 1789021440550,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "100000000"
@@ -3724,22 +3724,19 @@
         },
         {
           "__bigint__": "3215222664"
+        },
+        {
+          "__bigint__": "97824491208"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "459000"
+        "__bigint__": "461000"
       },
-      "next_update": 1789018249122,
+      "next_update": 1789020721219,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "695000"
-        },
-        {
-          "__bigint__": "434000"
-        },
         {
           "__bigint__": "271000"
         },
@@ -3769,22 +3766,22 @@
         },
         {
           "__bigint__": "459000"
+        },
+        {
+          "__bigint__": "631000"
+        },
+        {
+          "__bigint__": "461000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "14100000"
+        "__bigint__": "9500000"
       },
-      "next_update": 1789018351625,
-      "trend": "📈 Naik",
+      "next_update": 1789020961219,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "4800000"
-        },
-        {
-          "__bigint__": "2300000"
-        },
         {
           "__bigint__": "7400000"
         },
@@ -3814,19 +3811,22 @@
         },
         {
           "__bigint__": "14100000"
+        },
+        {
+          "__bigint__": "16800000"
+        },
+        {
+          "__bigint__": "9500000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "21000000"
+        "__bigint__": "48000000"
       },
-      "next_update": 1789018631608,
-      "trend": "📉 Turun",
+      "next_update": 1789021140550,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "41000000"
-        },
         {
           "__bigint__": "31000000"
         },
@@ -3859,15 +3859,18 @@
         },
         {
           "__bigint__": "21000000"
+        },
+        {
+          "__bigint__": "48000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "44000000"
+        "__bigint__": "45000000"
       },
-      "next_update": 1789019531608,
-      "trend": "📉 Turun",
+      "next_update": 1789022040550,
+      "trend": "📈 Naik",
       "history": [
         {
           "__bigint__": "49000000"
@@ -3895,6 +3898,9 @@
         },
         {
           "__bigint__": "44000000"
+        },
+        {
+          "__bigint__": "45000000"
         }
       ]
     },
