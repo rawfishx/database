@@ -2305,13 +2305,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "19090"
+        "__bigint__": "32353"
       },
       "level": {
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4385"
+        "__bigint__": "4420"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2329,7 +2329,8 @@
         "rampok": 1788781972800,
         "judi": 1788940922343,
         "mancing": 1788940051957,
-        "interaksi": 1788940170613
+        "interaksi": 1788940170613,
+        "kerja": 1789011326373
       },
       "anak": [],
       "invest": {},
@@ -2345,7 +2346,7 @@
         "waktu_mulai": 0
       },
       "afk_time": 0,
-      "energi": 100,
+      "energi": 80,
       "inventory": {
         "kartu": 0
       },
@@ -2367,7 +2368,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 39,
+      "limit": 32,
       "last_reset": "2026-09-10T16:59:03.078Z",
       "achievements": [
         "first_saving"
@@ -2396,9 +2397,9 @@
       "banned_reason": "",
       "bank": {
         "tabungan": {
-          "__bigint__": "52150917"
+          "__bigint__": "53150743"
         },
-        "last_interest": 1788939135131
+        "last_interest": 1789007535131
       },
       "daily": {
         "streak": 2,
