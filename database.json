@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9265"
+        "__bigint__": "9295"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1512,10 +1512,10 @@
         "__bigint__": "324251"
       },
       "level": {
-        "__bigint__": "3"
+        "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1710"
+        "__bigint__": "1725"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1563,7 +1563,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 38,
+      "limit": 37,
       "last_reset": "2026-09-11T01:09:09.250Z",
       "frames": [],
       "active_frame": null,
@@ -1609,7 +1609,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14250"
+        "__bigint__": "14255"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3718,14 +3718,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "19825666472"
+        "__bigint__": "5562425040"
       },
-      "next_update": 1789037470314,
-      "trend": "📈 Naik",
+      "next_update": 1789038915417,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "35520024952"
-        },
         {
           "__bigint__": "35408859232"
         },
@@ -3758,19 +3755,19 @@
         },
         {
           "__bigint__": "19825666472"
+        },
+        {
+          "__bigint__": "5562425040"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "415000"
+        "__bigint__": "572000"
       },
-      "next_update": 1789037339013,
-      "trend": "📉 Turun",
+      "next_update": 1789037775417,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "550000"
-        },
         {
           "__bigint__": "489000"
         },
@@ -3803,19 +3800,19 @@
         },
         {
           "__bigint__": "415000"
+        },
+        {
+          "__bigint__": "572000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "15100000"
+        "__bigint__": "6100000"
       },
-      "next_update": 1789037355513,
-      "trend": "📈 Naik",
+      "next_update": 1789038015417,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "4800000"
-        },
         {
           "__bigint__": "1200000"
         },
@@ -3848,6 +3845,9 @@
         },
         {
           "__bigint__": "15100000"
+        },
+        {
+          "__bigint__": "6100000"
         }
       ]
     },
