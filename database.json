@@ -149,7 +149,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9295"
+        "__bigint__": "9415"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -351,10 +351,10 @@
         "__bigint__": "5000"
       },
       "level": {
-        "__bigint__": "1"
+        "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "75"
+        "__bigint__": "105"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -362,9 +362,9 @@
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
       "badges": [
-        "👾SAATAA ANDAGII First Generation👾"
+        "🪪 SAATAA Pioneer"
       ],
-      "active_badge": "👾SAATAA ANDAGII First Generation👾",
+      "active_badge": "🪪 SAATAA Pioneer",
       "cd": {},
       "anak": [],
       "invest": {},
@@ -401,8 +401,21 @@
       },
       "isPremium": false,
       "limit": 50,
-      "last_reset": "3/9/2026",
-      "registered": true
+      "last_reset": "2026-09-11T10:17:35.927Z",
+      "registered": true,
+      "frames": [],
+      "active_frame": null,
+      "diamond": 0,
+      "negara": "Belum diatur",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "limit_reset_at": 1789121855927
     },
     "6282184864054@s.whatsapp.net": {
       "uid": 10005,
@@ -617,7 +630,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2695"
+        "__bigint__": "2730"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1175,7 +1188,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "40705"
+        "__bigint__": "40730"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1515,7 +1528,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1725"
+        "__bigint__": "1730"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1609,7 +1622,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14255"
+        "__bigint__": "14285"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3104,7 +3117,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3205"
+        "__bigint__": "3290"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -3718,14 +3731,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "5562425040"
+        "__bigint__": "56349853088"
       },
-      "next_update": 1789038915417,
-      "trend": "📉 Turun",
+      "next_update": 1789040380048,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "35408859232"
-        },
         {
           "__bigint__": "56896022176"
         },
@@ -3758,22 +3768,19 @@
         },
         {
           "__bigint__": "5562425040"
+        },
+        {
+          "__bigint__": "56349853088"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "572000"
+        "__bigint__": "596000"
       },
-      "next_update": 1789037775417,
-      "trend": "📈 Naik",
+      "next_update": 1789039374651,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "489000"
-        },
-        {
-          "__bigint__": "643000"
-        },
         {
           "__bigint__": "459000"
         },
@@ -3803,19 +3810,22 @@
         },
         {
           "__bigint__": "572000"
+        },
+        {
+          "__bigint__": "728000"
+        },
+        {
+          "__bigint__": "596000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "6100000"
+        "__bigint__": "13400000"
       },
-      "next_update": 1789038015417,
-      "trend": "📉 Turun",
+      "next_update": 1789039480048,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "1200000"
-        },
         {
           "__bigint__": "18200000"
         },
@@ -3848,19 +3858,19 @@
         },
         {
           "__bigint__": "6100000"
+        },
+        {
+          "__bigint__": "13400000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "49000000"
+        "__bigint__": "21000000"
       },
-      "next_update": 1789037955513,
-      "trend": "📈 Naik",
+      "next_update": 1789040080048,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "37000000"
-        },
         {
           "__bigint__": "36000000"
         },
@@ -3893,6 +3903,9 @@
         },
         {
           "__bigint__": "49000000"
+        },
+        {
+          "__bigint__": "21000000"
         }
       ]
     },
@@ -3900,12 +3913,9 @@
       "price": {
         "__bigint__": "48000000"
       },
-      "next_update": 1789038070314,
-      "trend": "📉 Turun",
+      "next_update": 1789040980048,
+      "trend": "➡️ Stabil",
       "history": [
-        {
-          "__bigint__": "49000000"
-        },
         {
           "__bigint__": "44000000"
         },
@@ -3938,15 +3948,18 @@
         },
         {
           "__bigint__": "48000000"
+        },
+        {
+          "__bigint__": "48000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1657000000"
+        "__bigint__": "1071000000"
       },
-      "next_update": 1789038036017,
-      "trend": "📈 Naik",
+      "next_update": 1789042780048,
+      "trend": "📉 Turun",
       "history": [
         {
           "__bigint__": "1743000000"
@@ -3974,6 +3987,9 @@
         },
         {
           "__bigint__": "1657000000"
+        },
+        {
+          "__bigint__": "1071000000"
         }
       ]
     }
@@ -4763,7 +4779,13 @@
       }
     },
     "group_access": {},
-    "pending_groups": {}
+    "pending_groups": {},
+    "wa_auto": {
+      "autoread": false,
+      "autoreact": false,
+      "antidelete": false,
+      "antiviewonce": false
+    }
   },
   "player_market": {},
   "houses": {}
