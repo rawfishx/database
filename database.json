@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9960"
+        "__bigint__": "9995"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1578,7 +1578,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1810"
+        "__bigint__": "1890"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1626,7 +1626,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 38,
+      "limit": 34,
       "last_reset": "2026-09-12T03:56:37.362Z",
       "frames": [],
       "active_frame": null,
@@ -1672,7 +1672,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15360"
+        "__bigint__": "15365"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -4003,19 +4003,96 @@
       "limit_reset_at": 1789193863041,
       "limit": 40,
       "last_reset": "2026-09-12T06:17:43.041Z"
+    },
+    "6287812039629@s.whatsapp.net": {
+      "uid": 10044,
+      "registered": true,
+      "registered_at": 1789128254198,
+      "name": "Nabila",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "15"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Cewek",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789127773776,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Indonesia",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": true,
+      "isPremium": false,
+      "limit_reset_at": 1789210573776,
+      "limit": 38,
+      "last_reset": "2026-09-12T10:56:13.776Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
     }
   },
   "market": {
     "6": {
       "price": {
-        "__bigint__": "65362945480"
+        "__bigint__": "63706328728"
       },
-      "next_update": 1789126631126,
-      "trend": "📈 Naik",
+      "next_update": 1789129339895,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "19825666472"
-        },
         {
           "__bigint__": "5562425040"
         },
@@ -4048,19 +4125,19 @@
         },
         {
           "__bigint__": "65362945480"
+        },
+        {
+          "__bigint__": "63706328728"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "822000"
+        "__bigint__": "588000"
       },
-      "next_update": 1789125696388,
-      "trend": "📈 Naik",
+      "next_update": 1789128199895,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "234000"
-        },
         {
           "__bigint__": "477000"
         },
@@ -4093,19 +4170,19 @@
         },
         {
           "__bigint__": "822000"
+        },
+        {
+          "__bigint__": "588000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "13500000"
+        "__bigint__": "14600000"
       },
-      "next_update": 1789125731126,
+      "next_update": 1789128439895,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "14500000"
-        },
         {
           "__bigint__": "14800000"
         },
@@ -4138,19 +4215,19 @@
         },
         {
           "__bigint__": "13500000"
+        },
+        {
+          "__bigint__": "14600000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "31000000"
+        "__bigint__": "27000000"
       },
-      "next_update": 1789126331126,
-      "trend": "📈 Naik",
+      "next_update": 1789129039895,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "21000000"
-        },
         {
           "__bigint__": "31000000"
         },
@@ -4183,19 +4260,19 @@
         },
         {
           "__bigint__": "31000000"
+        },
+        {
+          "__bigint__": "27000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "43000000"
+        "__bigint__": "44000000"
       },
-      "next_update": 1789127231126,
-      "trend": "📉 Turun",
+      "next_update": 1789129939895,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "45000000"
-        },
         {
           "__bigint__": "50000000"
         },
@@ -4228,6 +4305,9 @@
         },
         {
           "__bigint__": "43000000"
+        },
+        {
+          "__bigint__": "44000000"
         }
       ]
     },
@@ -4408,7 +4488,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10043,
+    "last_uid": 10044,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -4454,7 +4534,8 @@
       "194523732943083@lid": "6283863848895@s.whatsapp.net",
       "275749835681937@lid": "6285719075956@s.whatsapp.net",
       "162500104421385@lid": "62895619024348@s.whatsapp.net",
-      "90899224772734@lid": "6282358371656@s.whatsapp.net"
+      "90899224772734@lid": "6282358371656@s.whatsapp.net",
+      "258360217739383@lid": "6287812039629@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
