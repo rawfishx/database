@@ -1193,13 +1193,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "2446395472"
+        "__bigint__": "276472"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "41920"
+        "__bigint__": "42015"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1214,14 +1214,14 @@
       "cd": {
         "tebakangka": 1788671119526,
         "rampok": 1789118471165,
-        "interaksi": 1788762564001,
+        "interaksi": 1789113531041,
         "tebakemoji": 1788760878807,
         "kabur": 1789111662348
       },
       "anak": [],
       "invest": {
         "WEEB": {
-          "__bigint__": "0"
+          "__bigint__": "8073"
         },
         "GLD": {
           "__bigint__": "0"
@@ -1246,7 +1246,7 @@
       "inventory": {
         "kartu": 0,
         "burger": 0,
-        "americano": 1
+        "americano": 0
       },
       "hutang": {
         "__bigint__": "0"
@@ -1527,13 +1527,13 @@
       "pasangan": {
         "id": 6977,
         "nama": "Sawako Kuronuma",
-        "point_asmara": 86,
+        "point_asmara": 104,
         "uang": {
           "__bigint__": "0"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1788762444002,
+        "last_interaksi": 1789113411041,
         "mulai_ikatan": 1788613162727,
         "ai_profile": {
           "name": "Sawako Kuronuma",
@@ -1542,9 +1542,9 @@
         }
       },
       "act_session": {
-        "1": "segss",
-        "2": "buatanak",
-        "3": "cium"
+        "1": "jalan",
+        "2": "segss",
+        "3": "suapi"
       },
       "diamond": 70,
       "negara": "Indonesia",
@@ -1670,7 +1670,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15165"
+        "__bigint__": "15225"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1685,7 +1685,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1789118681065,
-        "interaksi": 1789106143394,
+        "interaksi": 1789113610051,
         "tebakbendera": 1788661644031,
         "kabur": 1789112110230
       },
@@ -1716,7 +1716,7 @@
       "energi": 100,
       "inventory": {
         "burger": 0,
-        "mie": 18
+        "mie": 17
       },
       "hutang": {
         "__bigint__": "0"
@@ -1996,13 +1996,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 182,
+        "point_asmara": 200,
         "uang": {
           "__bigint__": "1000607000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789106023394,
+        "last_interaksi": 1789113490051,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -2019,9 +2019,9 @@
       "active_frame": null,
       "banned_reason": "",
       "act_session": {
-        "1": "suapi",
-        "2": "segss",
-        "3": "jalan"
+        "1": "segss",
+        "2": "cium",
+        "3": "suapi"
       },
       "diamond": 60,
       "negara": "Indonesia",
@@ -4009,14 +4009,11 @@
     },
     "WEEB": {
       "price": {
-        "__bigint__": "742000"
+        "__bigint__": "303000"
       },
-      "next_update": 1789113358896,
-      "trend": "📈 Naik",
+      "next_update": 1789113434860,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "160000"
-        },
         {
           "__bigint__": "144000"
         },
@@ -4049,6 +4046,9 @@
         },
         {
           "__bigint__": "742000"
+        },
+        {
+          "__bigint__": "303000"
         }
       ]
     },
@@ -4445,7 +4445,7 @@
           },
           "url": "https://myanimelist.net/character/6977"
         },
-        "cachedAt": 1788946151081
+        "cachedAt": 1789113411352
       },
       "33221": {
         "data": {
