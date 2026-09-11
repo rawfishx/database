@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10135"
+        "__bigint__": "10170"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -643,7 +643,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2730"
+        "__bigint__": "2740"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1578,7 +1578,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2355"
+        "__bigint__": "2365"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1672,7 +1672,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15395"
+        "__bigint__": "15415"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1687,7 +1687,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1789118681065,
-        "interaksi": 1789113610051,
+        "interaksi": 1789133050702,
         "tebakbendera": 1788661644031,
         "kabur": 1789112110230
       },
@@ -2040,13 +2040,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 200,
+        "point_asmara": 208,
         "uang": {
           "__bigint__": "1000607000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789113490051,
+        "last_interaksi": 1789132930702,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -2063,9 +2063,9 @@
       "active_frame": null,
       "banned_reason": "",
       "act_session": {
-        "1": "segss",
-        "2": "cium",
-        "3": "suapi"
+        "1": "jalan",
+        "2": "suapi",
+        "3": "buatanak"
       },
       "diamond": 60,
       "negara": "Indonesia",
@@ -4016,7 +4016,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "325"
+        "__bigint__": "370"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4176,7 +4176,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "55"
+        "__bigint__": "65"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4256,7 +4256,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "130"
+        "__bigint__": "145"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4336,7 +4336,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "110"
+        "__bigint__": "140"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4568,14 +4568,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "58003545376"
+        "__bigint__": "41591779728"
       },
-      "next_update": 1789132019125,
+      "next_update": 1789134101116,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "56349853088"
-        },
         {
           "__bigint__": "93332306720"
         },
@@ -4608,19 +4605,19 @@
         },
         {
           "__bigint__": "58003545376"
+        },
+        {
+          "__bigint__": "41591779728"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "180000"
+        "__bigint__": "314000"
       },
-      "next_update": 1789130993895,
+      "next_update": 1789132961116,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "267000"
-        },
         {
           "__bigint__": "564000"
         },
@@ -4653,19 +4650,19 @@
         },
         {
           "__bigint__": "180000"
+        },
+        {
+          "__bigint__": "314000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "8200000"
+        "__bigint__": "13200000"
       },
-      "next_update": 1789131119125,
-      "trend": "📉 Turun",
+      "next_update": 1789133201116,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "10700000"
-        },
         {
           "__bigint__": "6100000"
         },
@@ -4698,19 +4695,19 @@
         },
         {
           "__bigint__": "8200000"
+        },
+        {
+          "__bigint__": "13200000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "26000000"
+        "__bigint__": "33000000"
       },
-      "next_update": 1789131719125,
-      "trend": "📉 Turun",
+      "next_update": 1789133801116,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "25000000"
-        },
         {
           "__bigint__": "34000000"
         },
@@ -4743,19 +4740,19 @@
         },
         {
           "__bigint__": "26000000"
+        },
+        {
+          "__bigint__": "33000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "47000000"
+        "__bigint__": "49000000"
       },
-      "next_update": 1789132619125,
+      "next_update": 1789134701116,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "48000000"
-        },
         {
           "__bigint__": "48000000"
         },
@@ -4788,19 +4785,19 @@
         },
         {
           "__bigint__": "47000000"
+        },
+        {
+          "__bigint__": "49000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1010000000"
+        "__bigint__": "1924000000"
       },
-      "next_update": 1789132886366,
-      "trend": "📉 Turun",
+      "next_update": 1789136501116,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "1256000000"
-        },
         {
           "__bigint__": "1274000000"
         },
@@ -4833,6 +4830,9 @@
         },
         {
           "__bigint__": "1010000000"
+        },
+        {
+          "__bigint__": "1924000000"
         }
       ]
     }
@@ -5161,7 +5161,7 @@
           },
           "url": "https://myanimelist.net/character/164471"
         },
-        "cachedAt": 1789037183571
+        "cachedAt": 1789132931012
       },
       "164473": {
         "data": {
