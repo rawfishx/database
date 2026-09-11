@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9995"
+        "__bigint__": "10020"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1195,13 +1195,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "5856325472"
+        "__bigint__": "5856475472"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42100"
+        "__bigint__": "42415"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1572,13 +1572,13 @@
       "registered_at": 1788607926528,
       "name": "ulfa",
       "uang": {
-        "__bigint__": "324251"
+        "__bigint__": "424251"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1905"
+        "__bigint__": "2145"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1626,7 +1626,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 33,
+      "limit": 30,
       "last_reset": "2026-09-12T03:56:37.362Z",
       "frames": [],
       "active_frame": null,
@@ -4013,10 +4013,10 @@
         "__bigint__": "5000"
       },
       "level": {
-        "__bigint__": "1"
+        "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "90"
+        "__bigint__": "175"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4075,7 +4075,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789210573776,
-      "limit": 31,
+      "limit": 23,
       "last_reset": "2026-09-12T10:56:13.776Z",
       "achievements": [],
       "transactions": [],
@@ -4166,9 +4166,169 @@
     },
     "6281995514751@s.whatsapp.net": {
       "uid": 10046,
+      "registered": true,
+      "registered_at": 1789129691266,
+      "name": "Fika",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "5"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Cewek",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789129469794,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Indonesia",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": true,
+      "isPremium": false,
+      "limit_reset_at": 1789212269794,
+      "limit": 38,
+      "last_reset": "2026-09-12T11:24:29.794Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
+    },
+    "6281313095732@s.whatsapp.net": {
+      "uid": 10047,
+      "registered": true,
+      "registered_at": 1789130172970,
+      "name": "Ririn",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "25"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Cewek",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789130122427,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Indonesia",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": true,
+      "isPremium": false,
+      "limit_reset_at": 1789212922427,
+      "limit": 35,
+      "last_reset": "2026-09-12T11:35:22.427Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
+    },
+    "6281356383515@s.whatsapp.net": {
+      "uid": 10048,
       "registered": false,
       "registered_at": null,
-      "name": "a",
+      "name": "~fadhil Adhyaksa",
       "uang": {
         "__bigint__": "5000"
       },
@@ -4198,7 +4358,7 @@
       "exp_multiplier": 1,
       "exp_buff_until": 0,
       "banned_until": 0,
-      "joined_at": 1789129469794,
+      "joined_at": 1789130243503,
       "kehamilan": {
         "status": false,
         "waktu_mulai": 0
@@ -4234,9 +4394,83 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789212269794,
+      "limit_reset_at": 1789213043503,
       "limit": 40,
-      "last_reset": "2026-09-12T11:24:29.794Z"
+      "last_reset": "2026-09-12T11:37:23.503Z"
+    },
+    "6287890379353@s.whatsapp.net": {
+      "uid": 10049,
+      "registered": false,
+      "registered_at": null,
+      "name": "YENAX🚀",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789130258014,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Belum diatur",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "limit_reset_at": 1789213058014,
+      "limit": 40,
+      "last_reset": "2026-09-12T11:37:38.014Z"
     }
   },
   "market": {
@@ -4642,7 +4876,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10046,
+    "last_uid": 10049,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -4691,7 +4925,10 @@
       "90899224772734@lid": "6282358371656@s.whatsapp.net",
       "258360217739383@lid": "6287812039629@s.whatsapp.net",
       "95525206495233@lid": "62882022235139@s.whatsapp.net",
-      "125959193800833@lid": "6281995514751@s.whatsapp.net"
+      "125959193800833@lid": "6281995514751@s.whatsapp.net",
+      "212210425016347@lid": "6281313095732@s.whatsapp.net",
+      "96830792671476@lid": "6281356383515@s.whatsapp.net",
+      "80947986837587@lid": "6287890379353@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
@@ -5186,7 +5423,7 @@
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
       "120363430077495840@g.us": 1788593809165,
-      "120363430435543929@g.us": 1789039709150
+      "120363430435543929@g.us": 1789129960970
     },
     "menu": {
       "custom_text": "",
