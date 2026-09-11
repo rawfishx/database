@@ -1642,13 +1642,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "860000"
+        "__bigint__": "4799000"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14760"
+        "__bigint__": "14885"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1663,11 +1663,14 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1788781973609,
-        "interaksi": 1789103605393,
+        "interaksi": 1789106143394,
         "tebakbendera": 1788661644031
       },
       "anak": [],
       "invest": {
+        "6": {
+          "__bigint__": "13"
+        },
         "GLD": {
           "__bigint__": "0"
         }
@@ -1687,7 +1690,7 @@
       "energi": 100,
       "inventory": {
         "burger": 0,
-        "mie": 19
+        "mie": 18
       },
       "hutang": {
         "__bigint__": "0"
@@ -1714,6 +1717,27 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "5000000"
+          },
+          "timestamp": 1789105816211
+        },
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "2458687065"
+          },
+          "timestamp": 1789105726454
+        },
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "95864470161"
+          },
+          "timestamp": 1789105688507
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -1904,13 +1928,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 156,
+        "point_asmara": 182,
         "uang": {
-          "__bigint__": "1000407000"
+          "__bigint__": "1000607000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789103519305,
+        "last_interaksi": 1789106023394,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -1919,7 +1943,7 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "95864470161"
+          "__bigint__": "2453687065"
         },
         "last_interest": 1789100216413
       },
@@ -1927,8 +1951,8 @@
       "active_frame": null,
       "banned_reason": "",
       "act_session": {
-        "1": "cium",
-        "2": "suapi",
+        "1": "suapi",
+        "2": "jalan",
         "3": "buatanak"
       },
       "diamond": 60,
@@ -3787,14 +3811,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "54982614472"
+        "__bigint__": "7185126392"
       },
-      "next_update": 1789104016769,
+      "next_update": 1789106856100,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "16926615136"
-        },
         {
           "__bigint__": "37313798568"
         },
@@ -3827,25 +3848,19 @@
         },
         {
           "__bigint__": "54982614472"
+        },
+        {
+          "__bigint__": "7185126392"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "144000"
+        "__bigint__": "681000"
       },
-      "next_update": 1789103765026,
-      "trend": "📉 Turun",
+      "next_update": 1789106021449,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "71000"
-        },
-        {
-          "__bigint__": "221000"
-        },
-        {
-          "__bigint__": "644000"
-        },
         {
           "__bigint__": "853000"
         },
@@ -3872,22 +3887,25 @@
         },
         {
           "__bigint__": "144000"
+        },
+        {
+          "__bigint__": "57000"
+        },
+        {
+          "__bigint__": "605000"
+        },
+        {
+          "__bigint__": "681000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "17800000"
+        "__bigint__": "6100000"
       },
-      "next_update": 1789104005026,
-      "trend": "📈 Naik",
+      "next_update": 1789106261449,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "12700000"
-        },
-        {
-          "__bigint__": "15100000"
-        },
         {
           "__bigint__": "6100000"
         },
@@ -3917,19 +3935,22 @@
         },
         {
           "__bigint__": "17800000"
+        },
+        {
+          "__bigint__": "10700000"
+        },
+        {
+          "__bigint__": "6100000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "34000000"
+        "__bigint__": "31000000"
       },
-      "next_update": 1789103716769,
-      "trend": "📈 Naik",
+      "next_update": 1789106556100,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "25000000"
-        },
         {
           "__bigint__": "33000000"
         },
@@ -3962,19 +3983,19 @@
         },
         {
           "__bigint__": "34000000"
+        },
+        {
+          "__bigint__": "31000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "46000000"
+        "__bigint__": "45000000"
       },
-      "next_update": 1789104616769,
-      "trend": "📈 Naik",
+      "next_update": 1789107456100,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "44000000"
-        },
         {
           "__bigint__": "50000000"
         },
@@ -4007,6 +4028,9 @@
         },
         {
           "__bigint__": "46000000"
+        },
+        {
+          "__bigint__": "45000000"
         }
       ]
     },
