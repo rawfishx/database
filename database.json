@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10020"
+        "__bigint__": "10050"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1195,13 +1195,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "5856475472"
+        "__bigint__": "1675472"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42415"
+        "__bigint__": "42430"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1226,7 +1226,7 @@
           "__bigint__": "0"
         },
         "GLD": {
-          "__bigint__": "0"
+          "__bigint__": "714"
         },
         "ETH": {
           "__bigint__": "0"
@@ -1572,13 +1572,13 @@
       "registered_at": 1788607926528,
       "name": "ulfa",
       "uang": {
-        "__bigint__": "424251"
+        "__bigint__": "1474251"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2145"
+        "__bigint__": "2275"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1626,7 +1626,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 30,
+      "limit": 28,
       "last_reset": "2026-09-12T03:56:37.362Z",
       "frames": [],
       "active_frame": null,
@@ -1666,13 +1666,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "109253483"
+        "__bigint__": "108253483"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15370"
+        "__bigint__": "15395"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -2055,9 +2055,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "880000000"
+          "__bigint__": "880880000"
         },
-        "last_interest": 1789125416413
+        "last_interest": 1789129016413
       },
       "frames": [],
       "active_frame": null,
@@ -4016,7 +4016,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "175"
+        "__bigint__": "225"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4075,7 +4075,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789210573776,
-      "limit": 23,
+      "limit": 19,
       "last_reset": "2026-09-12T10:56:13.776Z",
       "achievements": [],
       "transactions": [],
@@ -4256,7 +4256,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "25"
+        "__bigint__": "75"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4315,7 +4315,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789212922427,
-      "limit": 35,
+      "limit": 27,
       "last_reset": "2026-09-12T11:35:22.427Z",
       "achievements": [],
       "transactions": [],
@@ -4326,9 +4326,9 @@
     },
     "6281356383515@s.whatsapp.net": {
       "uid": 10048,
-      "registered": false,
-      "registered_at": null,
-      "name": "~fadhil Adhyaksa",
+      "registered": true,
+      "registered_at": 1789130571517,
+      "name": "Fadhil",
       "uang": {
         "__bigint__": "5000"
       },
@@ -4336,7 +4336,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "0"
+        "__bigint__": "30"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4354,7 +4354,7 @@
       "invest": {},
       "blacklist_karakter": [],
       "distrik": "Awal",
-      "gender": "Belum diatur",
+      "gender": "cowok",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
       "banned_until": 0,
@@ -4384,7 +4384,7 @@
         "rod_max": 0
       },
       "diamond": 0,
-      "negara": "Belum diatur",
+      "negara": "indonesia",
       "squad_id": null,
       "hubungan_sosial": {
         "saudara": [],
@@ -4392,17 +4392,23 @@
         "teman_dekat": []
       },
       "pending_relasi": {},
-      "profil_lengkap": false,
+      "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789213043503,
-      "limit": 40,
-      "last_reset": "2026-09-12T11:37:23.503Z"
+      "limit": 36,
+      "last_reset": "2026-09-12T11:37:23.503Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
     },
     "6287890379353@s.whatsapp.net": {
       "uid": 10049,
-      "registered": false,
-      "registered_at": null,
-      "name": "YENAX🚀",
+      "registered": true,
+      "registered_at": 1789130792081,
+      "name": "yena",
       "uang": {
         "__bigint__": "5000"
       },
@@ -4428,7 +4434,7 @@
       "invest": {},
       "blacklist_karakter": [],
       "distrik": "Awal",
-      "gender": "Belum diatur",
+      "gender": "cewek",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
       "banned_until": 0,
@@ -4458,7 +4464,7 @@
         "rod_max": 0
       },
       "diamond": 0,
-      "negara": "Belum diatur",
+      "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
         "saudara": [],
@@ -4466,24 +4472,107 @@
         "teman_dekat": []
       },
       "pending_relasi": {},
-      "profil_lengkap": false,
+      "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789213058014,
-      "limit": 40,
-      "last_reset": "2026-09-12T11:37:38.014Z"
+      "limit": 39,
+      "last_reset": "2026-09-12T11:37:38.014Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
+    },
+    "6281391893131@s.whatsapp.net": {
+      "uid": 10050,
+      "registered": true,
+      "registered_at": 1789131119111,
+      "name": "alexa",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "cewek",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789131119110,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "indonesia",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": true,
+      "isPremium": false,
+      "limit_reset_at": 1789213919110,
+      "limit": 39,
+      "last_reset": "2026-09-12T11:51:59.110Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
     }
   },
   "market": {
     "6": {
       "price": {
-        "__bigint__": "63706328728"
+        "__bigint__": "58003545376"
       },
-      "next_update": 1789129339895,
+      "next_update": 1789132019125,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "5562425040"
-        },
         {
           "__bigint__": "56349853088"
         },
@@ -4516,22 +4605,19 @@
         },
         {
           "__bigint__": "63706328728"
+        },
+        {
+          "__bigint__": "58003545376"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "256000"
+        "__bigint__": "180000"
       },
-      "next_update": 1789129346366,
-      "trend": "📉 Turun",
+      "next_update": 1789130993895,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "173000"
-        },
-        {
-          "__bigint__": "545000"
-        },
         {
           "__bigint__": "267000"
         },
@@ -4561,19 +4647,22 @@
         },
         {
           "__bigint__": "256000"
+        },
+        {
+          "__bigint__": "86000"
+        },
+        {
+          "__bigint__": "180000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "19200000"
+        "__bigint__": "8200000"
       },
-      "next_update": 1789129586366,
-      "trend": "📈 Naik",
+      "next_update": 1789131119125,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "17800000"
-        },
         {
           "__bigint__": "10700000"
         },
@@ -4606,19 +4695,19 @@
         },
         {
           "__bigint__": "19200000"
+        },
+        {
+          "__bigint__": "8200000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "30000000"
+        "__bigint__": "26000000"
       },
-      "next_update": 1789130186366,
-      "trend": "📈 Naik",
+      "next_update": 1789131719125,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "26000000"
-        },
         {
           "__bigint__": "25000000"
         },
@@ -4651,19 +4740,19 @@
         },
         {
           "__bigint__": "30000000"
+        },
+        {
+          "__bigint__": "26000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "44000000"
+        "__bigint__": "47000000"
       },
-      "next_update": 1789129939895,
+      "next_update": 1789132619125,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "50000000"
-        },
         {
           "__bigint__": "48000000"
         },
@@ -4696,6 +4785,9 @@
         },
         {
           "__bigint__": "44000000"
+        },
+        {
+          "__bigint__": "47000000"
         }
       ]
     },
@@ -4876,7 +4968,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10049,
+    "last_uid": 10050,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -4928,7 +5020,8 @@
       "125959193800833@lid": "6281995514751@s.whatsapp.net",
       "212210425016347@lid": "6281313095732@s.whatsapp.net",
       "96830792671476@lid": "6281356383515@s.whatsapp.net",
-      "80947986837587@lid": "6287890379353@s.whatsapp.net"
+      "80947986837587@lid": "6287890379353@s.whatsapp.net",
+      "112708967989406@lid": "6281391893131@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
