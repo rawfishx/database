@@ -160,7 +160,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9630"
+        "__bigint__": "9640"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1648,10 +1648,10 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14705"
+        "__bigint__": "14760"
       },
       "role": "player",
-      "status_hubungan": "pacaran",
+      "status_hubungan": "menikah",
       "point_asmara": 0,
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
@@ -1663,7 +1663,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1788781973609,
-        "interaksi": 1789103334299,
+        "interaksi": 1789103605393,
         "tebakbendera": 1788661644031
       },
       "anak": [],
@@ -1687,7 +1687,7 @@
       "energi": 100,
       "inventory": {
         "burger": 0,
-        "mie": 20
+        "mie": 19
       },
       "hutang": {
         "__bigint__": "0"
@@ -1904,13 +1904,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 138,
+        "point_asmara": 156,
         "uang": {
           "__bigint__": "1000407000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789103214299,
+        "last_interaksi": 1789103519305,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -2885,7 +2885,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-09-08T11:23:24.305Z",
+      "last_reset": "2026-09-12T04:15:08.528Z",
       "diamond": 0,
       "negara": "Belum diatur",
       "squad_id": null,
@@ -2896,7 +2896,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1788866604305
+      "limit_reset_at": 1789186508528
     },
     "6285786196090@s.whatsapp.net": {
       "uid": 10031,
@@ -3832,14 +3832,11 @@
     },
     "WEEB": {
       "price": {
-        "__bigint__": "160000"
+        "__bigint__": "144000"
       },
-      "next_update": 1789103118407,
+      "next_update": 1789103765026,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "596000"
-        },
         {
           "__bigint__": "71000"
         },
@@ -3872,19 +3869,19 @@
         },
         {
           "__bigint__": "160000"
+        },
+        {
+          "__bigint__": "144000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "14800000"
+        "__bigint__": "17800000"
       },
-      "next_update": 1789103116769,
+      "next_update": 1789104005026,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "8000000"
-        },
         {
           "__bigint__": "12700000"
         },
@@ -3917,6 +3914,9 @@
         },
         {
           "__bigint__": "14800000"
+        },
+        {
+          "__bigint__": "17800000"
         }
       ]
     },
