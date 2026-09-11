@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10170"
+        "__bigint__": "10210"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1578,7 +1578,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2365"
+        "__bigint__": "2380"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1666,13 +1666,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "108253483"
+        "__bigint__": "0"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15415"
+        "__bigint__": "15430"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1700,7 +1700,7 @@
           "__bigint__": "0"
         },
         "BTC": {
-          "__bigint__": "748"
+          "__bigint__": "0"
         }
       },
       "blacklist_karakter": [],
@@ -1745,6 +1745,13 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "1309073685259"
+          },
+          "timestamp": 1789133130798
+        },
         {
           "type": "saving",
           "amount": {
@@ -2055,9 +2062,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "880880000"
+          "__bigint__": "1311264519824"
         },
-        "last_interest": 1789129016413
+        "last_interest": 1789132616413
       },
       "frames": [],
       "active_frame": null,
@@ -4176,7 +4183,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "65"
+        "__bigint__": "70"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4256,7 +4263,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "145"
+        "__bigint__": "150"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4315,7 +4322,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789212922427,
-      "limit": 20,
+      "limit": 19,
       "last_reset": "2026-09-12T11:35:22.427Z",
       "achievements": [],
       "transactions": [],
@@ -4336,7 +4343,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "140"
+        "__bigint__": "195"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4395,7 +4402,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789213043503,
-      "limit": 29,
+      "limit": 22,
       "last_reset": "2026-09-12T11:37:23.503Z",
       "achievements": [],
       "transactions": [],
@@ -4972,7 +4979,7 @@
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
-      "120363430435543929@g.us": false,
+      "120363430435543929@g.us": true,
       "120363430401607927@g.us": true
     },
     "reports": {},
@@ -5638,7 +5645,10 @@
       "antiviewonce": false
     },
     "countries": {},
-    "countryByUser": {}
+    "countryByUser": {},
+    "jackpot_pool": {
+      "__bigint__": "26711539424"
+    }
   },
   "player_market": {},
   "houses": {}
