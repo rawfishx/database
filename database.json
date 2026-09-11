@@ -1193,13 +1193,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "0"
+        "__bigint__": "195472"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "40840"
+        "__bigint__": "41700"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1213,9 +1213,10 @@
       "active_badge": "💎 Premium User🎗️",
       "cd": {
         "tebakangka": 1788671119526,
-        "rampok": 1788848939338,
+        "rampok": 1789118471165,
         "interaksi": 1788762564001,
-        "tebakemoji": 1788760878807
+        "tebakemoji": 1788760878807,
+        "kabur": 1789111532667
       },
       "anak": [],
       "invest": {
@@ -1223,7 +1224,7 @@
           "__bigint__": "0"
         },
         "GLD": {
-          "__bigint__": "0"
+          "__bigint__": "151"
         },
         "ETH": {
           "__bigint__": "0"
@@ -1234,7 +1235,7 @@
       "gender": "rahasia",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
-      "banned_until": 0,
+      "banned_until": 1789111571165,
       "joined_at": 1788435138716,
       "kehamilan": {
         "status": false,
@@ -1271,6 +1272,13 @@
         "first_saving"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "966296472"
+          },
+          "timestamp": 1789111060156
+        },
         {
           "type": "saving",
           "amount": {
@@ -1341,13 +1349,13 @@
       "last_transfer": 0,
       "bank": {
         "tabungan": {
-          "__bigint__": "966296472"
+          "__bigint__": "0"
         },
         "last_interest": 1789015342846
       },
       "frames": [],
       "active_frame": null,
-      "banned_reason": "",
+      "banned_reason": "Tertangkap basah merampok di Distrik Rendah",
       "farm": {
         "slotsOwned": 8,
         "lahan": [
@@ -1642,13 +1650,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "4799000"
+        "__bigint__": "10000"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14885"
+        "__bigint__": "14965"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1662,7 +1670,7 @@
       "active_badge": "💎 Premium User🎗️",
       "cd": {
         "tebakangka": 1788661786032,
-        "rampok": 1788781973609,
+        "rampok": 1789118681065,
         "interaksi": 1789106143394,
         "tebakbendera": 1788661644031
       },
@@ -1673,6 +1681,9 @@
         },
         "GLD": {
           "__bigint__": "0"
+        },
+        "BTC": {
+          "__bigint__": "2"
         }
       },
       "blacklist_karakter": [],
@@ -1680,7 +1691,7 @@
       "gender": "perempuan",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
-      "banned_until": 0,
+      "banned_until": 1789112381065,
       "joined_at": 1788439762317,
       "kehamilan": {
         "status": false,
@@ -1717,6 +1728,27 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "10000"
+          },
+          "timestamp": 1789111469102
+        },
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "664486065"
+          },
+          "timestamp": 1789111280505
+        },
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "2453687065"
+          },
+          "timestamp": 1789111207088
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -1943,13 +1975,13 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "2453687065"
+          "__bigint__": "664476065"
         },
         "last_interest": 1789100216413
       },
       "frames": [],
       "active_frame": null,
-      "banned_reason": "",
+      "banned_reason": "Tertangkap basah merampok di Distrik Rendah",
       "act_session": {
         "1": "suapi",
         "2": "jalan",
@@ -3817,19 +3849,90 @@
       "limit_reset_at": 1789101956999,
       "limit": 40,
       "last_reset": "2026-09-11T04:45:56.999Z"
+    },
+    "6282358371656@s.whatsapp.net": {
+      "uid": 10043,
+      "registered": false,
+      "registered_at": null,
+      "name": "🧣",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789111063040,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Belum diatur",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "limit_reset_at": 1789193863041,
+      "limit": 40,
+      "last_reset": "2026-09-12T06:17:43.041Z"
     }
   },
   "market": {
     "6": {
       "price": {
-        "__bigint__": "7185126392"
+        "__bigint__": "1793081136"
       },
-      "next_update": 1789106856100,
+      "next_update": 1789112236303,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "37313798568"
-        },
         {
           "__bigint__": "98083738104"
         },
@@ -3862,25 +3965,19 @@
         },
         {
           "__bigint__": "7185126392"
+        },
+        {
+          "__bigint__": "1793081136"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "681000"
+        "__bigint__": "173000"
       },
-      "next_update": 1789106021449,
-      "trend": "📈 Naik",
+      "next_update": 1789111387711,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "853000"
-        },
-        {
-          "__bigint__": "130000"
-        },
-        {
-          "__bigint__": "845000"
-        },
         {
           "__bigint__": "385000"
         },
@@ -3907,19 +4004,25 @@
         },
         {
           "__bigint__": "681000"
+        },
+        {
+          "__bigint__": "234000"
+        },
+        {
+          "__bigint__": "477000"
+        },
+        {
+          "__bigint__": "173000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "6100000"
+        "__bigint__": "6400000"
       },
-      "next_update": 1789106261449,
-      "trend": "📉 Turun",
+      "next_update": 1789111336303,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "6100000"
-        },
         {
           "__bigint__": "13400000"
         },
@@ -3952,19 +4055,19 @@
         },
         {
           "__bigint__": "6100000"
+        },
+        {
+          "__bigint__": "6400000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "31000000"
+        "__bigint__": "30000000"
       },
-      "next_update": 1789106556100,
+      "next_update": 1789111936303,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "33000000"
-        },
         {
           "__bigint__": "21000000"
         },
@@ -3997,19 +4100,19 @@
         },
         {
           "__bigint__": "31000000"
+        },
+        {
+          "__bigint__": "30000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "45000000"
+        "__bigint__": "48000000"
       },
-      "next_update": 1789107456100,
-      "trend": "📉 Turun",
+      "next_update": 1789112836303,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "50000000"
-        },
         {
           "__bigint__": "48000000"
         },
@@ -4042,19 +4145,19 @@
         },
         {
           "__bigint__": "45000000"
+        },
+        {
+          "__bigint__": "48000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1462000000"
+        "__bigint__": "897000000"
       },
-      "next_update": 1789106416769,
-      "trend": "📈 Naik",
+      "next_update": 1789114636303,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "1743000000"
-        },
         {
           "__bigint__": "1249000000"
         },
@@ -4087,6 +4190,9 @@
         },
         {
           "__bigint__": "1462000000"
+        },
+        {
+          "__bigint__": "897000000"
         }
       ]
     }
@@ -4222,7 +4328,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10042,
+    "last_uid": 10043,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -4267,7 +4373,8 @@
       "148241081446532@lid": "6283142352160@s.whatsapp.net",
       "194523732943083@lid": "6283863848895@s.whatsapp.net",
       "275749835681937@lid": "6285719075956@s.whatsapp.net",
-      "162500104421385@lid": "62895619024348@s.whatsapp.net"
+      "162500104421385@lid": "62895619024348@s.whatsapp.net",
+      "90899224772734@lid": "6282358371656@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
