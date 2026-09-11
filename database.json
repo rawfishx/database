@@ -160,7 +160,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9640"
+        "__bigint__": "9650"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1199,7 +1199,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "41700"
+        "__bigint__": "41765"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1216,7 +1216,7 @@
         "rampok": 1789118471165,
         "interaksi": 1788762564001,
         "tebakemoji": 1788760878807,
-        "kabur": 1789111532667
+        "kabur": 1789111662348
       },
       "anak": [],
       "invest": {
@@ -1235,7 +1235,7 @@
       "gender": "rahasia",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
-      "banned_until": 1789111571165,
+      "banned_until": 0,
       "joined_at": 1788435138716,
       "kehamilan": {
         "status": false,
@@ -1355,7 +1355,7 @@
       },
       "frames": [],
       "active_frame": null,
-      "banned_reason": "Tertangkap basah merampok di Distrik Rendah",
+      "banned_reason": "",
       "farm": {
         "slotsOwned": 8,
         "lahan": [
@@ -1656,7 +1656,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14965"
+        "__bigint__": "15040"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1672,7 +1672,8 @@
         "tebakangka": 1788661786032,
         "rampok": 1789118681065,
         "interaksi": 1789106143394,
-        "tebakbendera": 1788661644031
+        "tebakbendera": 1788661644031,
+        "kabur": 1789112110230
       },
       "anak": [],
       "invest": {
@@ -1691,7 +1692,7 @@
       "gender": "perempuan",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
-      "banned_until": 1789112381065,
+      "banned_until": 0,
       "joined_at": 1788439762317,
       "kehamilan": {
         "status": false,
@@ -1981,11 +1982,11 @@
       },
       "frames": [],
       "active_frame": null,
-      "banned_reason": "Tertangkap basah merampok di Distrik Rendah",
+      "banned_reason": "",
       "act_session": {
         "1": "suapi",
-        "2": "jalan",
-        "3": "buatanak"
+        "2": "segss",
+        "3": "jalan"
       },
       "diamond": 60,
       "negara": "Indonesia",
@@ -3973,14 +3974,11 @@
     },
     "WEEB": {
       "price": {
-        "__bigint__": "173000"
+        "__bigint__": "545000"
       },
-      "next_update": 1789111387711,
-      "trend": "📉 Turun",
+      "next_update": 1789112057087,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "385000"
-        },
         {
           "__bigint__": "101000"
         },
@@ -4013,19 +4011,19 @@
         },
         {
           "__bigint__": "173000"
+        },
+        {
+          "__bigint__": "545000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "6400000"
+        "__bigint__": "10900000"
       },
-      "next_update": 1789111336303,
+      "next_update": 1789112297087,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "13400000"
-        },
         {
           "__bigint__": "8900000"
         },
@@ -4058,19 +4056,19 @@
         },
         {
           "__bigint__": "6400000"
+        },
+        {
+          "__bigint__": "10900000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "30000000"
+        "__bigint__": "21000000"
       },
-      "next_update": 1789111936303,
+      "next_update": 1789112897087,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "21000000"
-        },
         {
           "__bigint__": "48000000"
         },
@@ -4103,6 +4101,9 @@
         },
         {
           "__bigint__": "30000000"
+        },
+        {
+          "__bigint__": "21000000"
         }
       ]
     },
