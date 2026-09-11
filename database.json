@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10415"
+        "__bigint__": "10545"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1578,7 +1578,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2720"
+        "__bigint__": "2745"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1626,7 +1626,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 22,
+      "limit": 21,
       "last_reset": "2026-09-12T03:56:37.362Z",
       "frames": [],
       "active_frame": null,
@@ -4263,7 +4263,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "215"
+        "__bigint__": "220"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4337,13 +4337,13 @@
       "registered_at": 1789130571517,
       "name": "Fadhil",
       "uang": {
-        "__bigint__": "5000"
+        "__bigint__": "15000"
       },
       "level": {
-        "__bigint__": "2"
+        "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "390"
+        "__bigint__": "1340"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4505,7 +4505,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "620"
+        "__bigint__": "635"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4513,9 +4513,10 @@
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
       "badges": [
-        "🪪 SAATAA Pioneer"
+        "🪪 SAATAA Pioneer",
+        "💎 Premium User🎗️"
       ],
-      "active_badge": "🪪 SAATAA Pioneer",
+      "active_badge": "💎 Premium User🎗️",
       "frames": [],
       "active_frame": null,
       "cd": {},
@@ -4552,7 +4553,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 0,
+      "diamond": 10,
       "negara": "indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -4562,16 +4563,17 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "isPremium": false,
+      "isPremium": true,
       "limit_reset_at": 1789213919110,
-      "limit": 26,
+      "limit": "UNLIMITED",
       "last_reset": "2026-09-12T11:51:59.110Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
-      "last_transfer": 0
+      "last_transfer": 0,
+      "last_diamond_bonus": "2026-09-11"
     }
   },
   "market": {
@@ -4977,6 +4979,12 @@
       },
       "6281356383515@s.whatsapp.net": {
         "name": "Fadhil",
+        "total": {
+          "__bigint__": "1000"
+        }
+      },
+      "6281391893131@s.whatsapp.net": {
+        "name": "alexa",
         "total": {
           "__bigint__": "1000"
         }
