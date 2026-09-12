@@ -2730,7 +2730,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10155"
+        "__bigint__": "10165"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2787,7 +2787,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 31,
+      "limit": 29,
       "last_reset": "2026-09-13T02:56:47.015Z",
       "achievements": [
         "first_saving"
@@ -4056,7 +4056,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "715"
+        "__bigint__": "720"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4115,7 +4115,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789293402565,
-      "limit": 39,
+      "limit": 38,
       "last_reset": "2026-09-13T09:56:42.565Z",
       "achievements": [],
       "transactions": [],
@@ -4299,7 +4299,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1740"
+        "__bigint__": "1745"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4556,7 +4556,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1625"
+        "__bigint__": "1645"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5913,19 +5913,19 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 10.527997650143455,
+        "inflation": 10.637462756595783,
         "gdp": {
-          "__bigint__": "1041624458"
+          "__bigint__": "1040999610"
         },
         "treasury": {
           "__bigint__": "502507008"
         },
-        "prices": 1.1052799765014345,
-        "unemployment": 13.719521085681446,
-        "stability": 24.785444821992087,
-        "approval": 60.11597127933459,
-        "welfare": 54,
-        "military": 65,
+        "prices": 1.1063746275659578,
+        "unemployment": 13.976715273828379,
+        "stability": 21.614540128702632,
+        "approval": 59.4787452355995,
+        "welfare": 57,
+        "military": 71,
         "corruption": 15,
         "import_tariff": 5,
         "minimum_wage": 0,
@@ -5934,14 +5934,14 @@
         },
         "property_tax": 0.5,
         "services": {
-          "healthcare": 75,
-          "education": 75,
+          "healthcare": 78,
+          "education": 78,
           "transport": 60
         },
         "resources": {
-          "food": 95.14243457991078,
-          "energy": 94.53385257964577,
-          "raw": 97.10672621525062
+          "food": 94.09976018664028,
+          "energy": 93.58698170967537,
+          "raw": 95.56452553453765
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5961,7 +5961,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789215424183,
+        "last_tick": 1789216324187,
         "last_tax_day": "2026-09-12",
         "last_news": 1789214824181,
         "last_election_month": "2026-09",
