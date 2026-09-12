@@ -155,7 +155,7 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "8817515"
+        "__bigint__": "8796371"
       },
       "level": {
         "__bigint__": "6"
@@ -5692,17 +5692,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 1.470157340717009,
+        "inflation": 1.3183733382729683,
         "gdp": {
-          "__bigint__": "1001200600"
+          "__bigint__": "1001801440"
         },
         "treasury": {
           "__bigint__": "500000000"
         },
-        "prices": 1.01470157340717,
-        "unemployment": 4.894797744234175,
-        "stability": 80.65043229118339,
-        "approval": 74.92308532726432,
+        "prices": 1.0131837333827296,
+        "unemployment": 4.614378948507873,
+        "stability": 80.98445149163062,
+        "approval": 74.9036283223463,
         "welfare": 60,
         "military": 35,
         "corruption": 8,
@@ -5718,9 +5718,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 98.759303133568,
-          "energy": 100,
-          "raw": 99.55107879679731
+          "food": 98.287272349295,
+          "energy": 99.68962436434745,
+          "raw": 99.80676777305453
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5739,7 +5739,7 @@
           "scandals": 0,
           "homeless": 0
         },
-        "last_tick": 1789178073912,
+        "last_tick": 1789178973919,
         "last_tax_day": "",
         "last_news": 0
       }
