@@ -4618,7 +4618,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "15"
+        "__bigint__": "20"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4677,7 +4677,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789270142458,
-      "limit": 36,
+      "limit": 35,
       "last_reset": "2026-09-13T03:29:02.458Z",
       "achievements": [],
       "transactions": [],
@@ -5786,17 +5786,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": -0.8648108979433338,
+        "inflation": 1.5366230418558624,
         "gdp": {
-          "__bigint__": "1010453195"
+          "__bigint__": "1011059587"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 0.9913518910205666,
-        "unemployment": 6.4041637788360095,
-        "stability": 77.96921701470329,
-        "approval": 78.08704900997566,
+        "prices": 1.0153662304185587,
+        "unemployment": 6.145703437750476,
+        "stability": 78.39413716560139,
+        "approval": 78.1234247184178,
         "welfare": 60,
         "military": 35,
         "corruption": 9,
@@ -5812,9 +5812,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 100,
-          "energy": 97.85764817891378,
-          "raw": 95.46861599518972
+          "food": 84.3778372274651,
+          "energy": 97.65921180269078,
+          "raw": 96.38170092839906
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5828,15 +5828,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 2,
+          "events": 3,
           "wars": 0,
           "scandals": 1,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789191996570,
+        "last_tick": 1789192896611,
         "last_tax_day": "2026-09-12",
-        "last_news": 1789188996491,
+        "last_news": 1789192596584,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
