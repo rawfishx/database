@@ -4049,7 +4049,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "665"
+        "__bigint__": "670"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4289,7 +4289,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "220"
+        "__bigint__": "230"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4348,7 +4348,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789212922427,
-      "limit": 16,
+      "limit": 14,
       "last_reset": "2026-09-12T11:35:22.427Z",
       "achievements": [],
       "transactions": [],
@@ -4455,7 +4455,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "25"
+        "__bigint__": "35"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4514,7 +4514,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789213058014,
-      "limit": 35,
+      "limit": 34,
       "last_reset": "2026-09-12T11:37:38.014Z",
       "achievements": [],
       "transactions": [],
@@ -4604,6 +4604,86 @@
       "last_daily": 0,
       "last_transfer": 0,
       "last_diamond_bonus": "2026-09-11"
+    },
+    "6281959150453@s.whatsapp.net": {
+      "uid": 10051,
+      "registered": true,
+      "registered_at": 1789187342461,
+      "name": "Febi",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "15"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "cewek",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789187342458,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Indonesia",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": true,
+      "isPremium": false,
+      "limit_reset_at": 1789270142458,
+      "limit": 36,
+      "last_reset": "2026-09-13T03:29:02.458Z",
+      "achievements": [],
+      "transactions": [],
+      "missions_completed": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0
     }
   },
   "market": {
@@ -5021,7 +5101,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10050,
+    "last_uid": 10051,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -5074,7 +5154,8 @@
       "212210425016347@lid": "6281313095732@s.whatsapp.net",
       "96830792671476@lid": "6281356383515@s.whatsapp.net",
       "80947986837587@lid": "6287890379353@s.whatsapp.net",
-      "112708967989406@lid": "6281391893131@s.whatsapp.net"
+      "112708967989406@lid": "6281391893131@s.whatsapp.net",
+      "232478660939922@lid": "6281959150453@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
@@ -5704,17 +5785,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 0.5849884481327196,
+        "inflation": 0.38405687471133987,
         "gdp": {
-          "__bigint__": "1006822475"
+          "__bigint__": "1007426688"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.0058498844813273,
-        "unemployment": 5.95926980911895,
-        "stability": 80.11245769939899,
-        "approval": 85.35524472563463,
+        "prices": 1.0038405687471135,
+        "unemployment": 6.000556381665808,
+        "stability": 80.63009944726815,
+        "approval": 85.53807151560929,
         "welfare": 60,
         "military": 35,
         "corruption": 3,
@@ -5730,9 +5811,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 97.04796354857008,
-          "energy": 95.90141288387137,
-          "raw": 95.71474377834853
+          "food": 96.68666309341405,
+          "energy": 96.03874627063955,
+          "raw": 93.13437793210652
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5752,7 +5833,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789186596433,
+        "last_tick": 1789187496441,
         "last_tax_day": "2026-09-12",
         "last_news": 1789186297391,
         "last_election_month": "2026-09",
