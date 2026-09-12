@@ -155,7 +155,7 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "8754236"
+        "__bigint__": "8733244"
       },
       "level": {
         "__bigint__": "6"
@@ -4443,7 +4443,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "20"
+        "__bigint__": "25"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4502,7 +4502,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789213058014,
-      "limit": 36,
+      "limit": 35,
       "last_reset": "2026-09-12T11:37:38.014Z",
       "achievements": [],
       "transactions": [],
@@ -5692,17 +5692,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 0.7804055516068724,
+        "inflation": 0.5282509165971705,
         "gdp": {
-          "__bigint__": "1003004200"
+          "__bigint__": "1003606121"
         },
         "treasury": {
           "__bigint__": "500000000"
         },
-        "prices": 1.0078040555160688,
-        "unemployment": 4.48142297689513,
-        "stability": 81.67295193577947,
-        "approval": 74.90667815283805,
+        "prices": 1.0052825091659716,
+        "unemployment": 5.06186001556821,
+        "stability": 82.02836663121862,
+        "approval": 74.93011054972699,
         "welfare": 60,
         "military": 35,
         "corruption": 8,
@@ -5718,9 +5718,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 96.8639473180304,
-          "energy": 99.01581654501322,
-          "raw": 99.18873918691374
+          "food": 96.93198103732597,
+          "energy": 99.39169315768795,
+          "raw": 98.86107896448051
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5739,7 +5739,7 @@
           "scandals": 0,
           "homeless": 0
         },
-        "last_tick": 1789180773929,
+        "last_tick": 1789181673933,
         "last_tax_day": "",
         "last_news": 0
       }
