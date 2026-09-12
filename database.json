@@ -155,7 +155,7 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "8859954"
+        "__bigint__": "8838709"
       },
       "level": {
         "__bigint__": "6"
@@ -2713,7 +2713,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "7050"
+        "__bigint__": "7055"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2770,7 +2770,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 29,
+      "limit": 28,
       "last_reset": "2026-09-12T03:56:37.362Z",
       "achievements": [
         "first_saving"
@@ -5692,17 +5692,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 2,
+        "inflation": 1.700156589886948,
         "gdp": {
-          "__bigint__": "1000000000"
+          "__bigint__": "1000600120"
         },
         "treasury": {
           "__bigint__": "500000000"
         },
-        "prices": 1,
-        "unemployment": 5,
-        "stability": 80,
-        "approval": 75,
+        "prices": 1.0170015658988696,
+        "unemployment": 4.960318439595166,
+        "stability": 80.32136845289226,
+        "approval": 74.95323579268457,
         "welfare": 60,
         "military": 35,
         "corruption": 8,
@@ -5718,7 +5718,7 @@
           "transport": 60
         },
         "resources": {
-          "food": 100,
+          "food": 99.13510245804609,
           "energy": 100,
           "raw": 100
         },
@@ -5739,7 +5739,7 @@
           "scandals": 0,
           "homeless": 0
         },
-        "last_tick": 1789176462281,
+        "last_tick": 1789177173905,
         "last_tax_day": "",
         "last_news": 0
       }
