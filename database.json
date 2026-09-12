@@ -3128,7 +3128,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-09-12T05:13:58.094Z",
+      "last_reset": "2026-09-13T04:14:37.542Z",
       "diamond": 0,
       "negara": "Belum diatur",
       "squad_id": null,
@@ -3139,7 +3139,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1789190038094
+      "limit_reset_at": 1789272877542,
+      "limit_reset_notified_at": 1789190077542
     },
     "6285820163031@s.whatsapp.net": {
       "uid": 10032,
@@ -5785,17 +5786,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": -0.17213436929604273,
+        "inflation": -0.4564060121425556,
         "gdp": {
-          "__bigint__": "1008636201"
+          "__bigint__": "1009241502"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 0.9982786563070396,
-        "unemployment": 6.253554494631746,
-        "stability": 76.65647849037781,
-        "approval": 77.88860103283434,
+        "prices": 0.9954359398785745,
+        "unemployment": 6.067625091353292,
+        "stability": 77.08626936406792,
+        "approval": 77.94103663435547,
         "welfare": 60,
         "military": 35,
         "corruption": 9,
@@ -5811,9 +5812,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 96.68050259455266,
-          "energy": 97.12927712925945,
-          "raw": 96.017567224027
+          "food": 97.22179498438176,
+          "energy": 99.30350621208898,
+          "raw": 95.43153513816031
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5833,7 +5834,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789189296494,
+        "last_tick": 1789190196523,
         "last_tax_day": "2026-09-12",
         "last_news": 1789188996491,
         "last_election_month": "2026-09",
