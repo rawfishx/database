@@ -4291,7 +4291,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1735"
+        "__bigint__": "1740"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4624,13 +4624,13 @@
       "registered_at": 1789187342461,
       "name": "Febi",
       "uang": {
-        "__bigint__": "963000"
+        "__bigint__": "1013000"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2480"
+        "__bigint__": "2595"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4691,7 +4691,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789270142458,
-      "limit": 1,
+      "limit": 0,
       "last_reset": "2026-09-13T03:29:02.458Z",
       "achievements": [],
       "transactions": [],
@@ -5812,17 +5812,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 5.767934559989842,
+        "inflation": 5.675625308610563,
         "gdp": {
-          "__bigint__": "1017753962"
+          "__bigint__": "1018364735"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.0576793455998985,
-        "unemployment": 9.962015234013467,
-        "stability": 69.33341209014493,
-        "approval": 67.40719527023579,
+        "prices": 1.0567562530861057,
+        "unemployment": 10.495910742751532,
+        "stability": 69.42156275167268,
+        "approval": 66.91618455315827,
         "welfare": 60,
         "military": 35,
         "corruption": 15,
@@ -5838,9 +5838,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 91.12292809168945,
-          "energy": 94.47344109729816,
-          "raw": 97.30609195923964
+          "food": 91.67288069889797,
+          "energy": 94.99724679622373,
+          "raw": 97.5370349940261
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5860,7 +5860,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789202796816,
+        "last_tick": 1789203696818,
         "last_tax_day": "2026-09-12",
         "last_news": 1789201896764,
         "last_election_month": "2026-09",
