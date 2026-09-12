@@ -155,7 +155,7 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "8628937"
+        "__bigint__": "8168705"
       },
       "level": {
         "__bigint__": "6"
@@ -363,16 +363,20 @@
         }
       },
       "negara_state": {
-        "last_tax": "2026-09-12",
+        "last_tax": "2026-09-13",
         "last_tax_amount": {
-          "__bigint__": "6908"
+          "__bigint__": "30201"
         },
         "tax_debt": {
           "__bigint__": "0"
         },
         "homeless": false,
         "house_required_since": 0,
-        "last_risk_day": "2026-09-12"
+        "last_risk_day": "2026-09-13",
+        "last_loss": {
+          "__bigint__": "429931"
+        },
+        "last_loss_reason": "biaya perawatan darurat fiktif"
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -5988,17 +5992,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 12.842008754431841,
+        "inflation": 12.63763783078485,
         "gdp": {
-          "__bigint__": "1080165059"
+          "__bigint__": "1129497093"
         },
         "treasury": {
-          "__bigint__": "497507008"
+          "__bigint__": "497537309"
         },
-        "prices": 1.1284200875443184,
-        "unemployment": 10.507651528704194,
+        "prices": 1.1263763783078484,
+        "unemployment": 8.748396197849868,
         "stability": 0,
-        "approval": 58.04485332691638,
+        "approval": 63.53983265363935,
         "welfare": 100,
         "military": 100,
         "corruption": 23,
@@ -6014,9 +6018,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 93.00563245218841,
-          "energy": 99.55810545432168,
-          "raw": 99.5635431261024
+          "food": 92.70024256712736,
+          "energy": 99.50703593564566,
+          "raw": 100
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6025,20 +6029,20 @@
         "treaties": {},
         "stats": {
           "tax_collected": {
-            "__bigint__": "7008"
+            "__bigint__": "37309"
           },
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 14,
+          "events": 15,
           "wars": 0,
           "scandals": 3,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789231624570,
-        "last_tax_day": "2026-09-12",
-        "last_news": 1789227724470,
+        "last_tick": 1789232524595,
+        "last_tax_day": "2026-09-13",
+        "last_news": 1789231924571,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
