@@ -155,13 +155,13 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "8934954"
+        "__bigint__": "8859954"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10545"
+        "__bigint__": "10575"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -334,7 +334,7 @@
           "__bigint__": "1"
         }
       },
-      "diamond": 70,
+      "diamond": 80,
       "negara": "Belum diatur",
       "squad_id": null,
       "hubungan_sosial": {
@@ -350,11 +350,18 @@
         }
       },
       "profil_lengkap": false,
-      "last_diamond_bonus": "2026-09-11",
+      "last_diamond_bonus": "2026-09-12",
       "limit_reset_at": 1789185397362,
       "sticker_nowm": false,
       "banned_reason": "",
-      "limit_reset_notified_at": 1789102597362
+      "limit_reset_notified_at": 1789102597362,
+      "rumah": {
+        "kode": "kontrakan",
+        "bought_at": 1789176453208,
+        "harga_beli": {
+          "__bigint__": "75000"
+        }
+      }
     },
     "6281375684720@s.whatsapp.net": {
       "uid": 10004,
@@ -5671,12 +5678,87 @@
       "antidelete": false,
       "antiviewonce": false
     },
-    "countries": {},
-    "countryByUser": {},
+    "countries": {
+      "teemoon": {
+        "id": "teemoon",
+        "name": "Teemoon",
+        "flag": "🥒",
+        "capital": "Teerong",
+        "owner": "6283138226730@s.whatsapp.net",
+        "founded_at": 1789176462281,
+        "year": 2034,
+        "members": {
+          "6283138226730@s.whatsapp.net": true
+        },
+        "groups": {},
+        "tax_rate": 8,
+        "inflation": 2,
+        "gdp": {
+          "__bigint__": "1000000000"
+        },
+        "treasury": {
+          "__bigint__": "500000000"
+        },
+        "prices": 1,
+        "unemployment": 5,
+        "stability": 80,
+        "approval": 75,
+        "welfare": 60,
+        "military": 35,
+        "corruption": 8,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 100,
+          "energy": 100,
+          "raw": 100
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 0,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0
+        },
+        "last_tick": 1789176462281,
+        "last_tax_day": "",
+        "last_news": 0
+      }
+    },
+    "countryByUser": {
+      "6283138226730@s.whatsapp.net": "teemoon"
+    },
     "jackpot_pool": {
       "__bigint__": "27663341529"
     }
   },
   "player_market": {},
-  "houses": {}
+  "houses": {
+    "6283138226730@s.whatsapp.net": {
+      "kode": "kontrakan",
+      "bought_at": 1789176453208,
+      "harga_beli": {
+        "__bigint__": "75000"
+      }
+    }
+  }
 }
