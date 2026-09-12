@@ -1591,13 +1591,13 @@
       "registered_at": 1788607926528,
       "name": "ulfa",
       "uang": {
-        "__bigint__": "1574251"
+        "__bigint__": "1824251"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2745"
+        "__bigint__": "3310"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1645,7 +1645,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 34,
       "last_reset": "2026-09-13T02:56:47.015Z",
       "frames": [],
       "active_frame": null,
@@ -4051,7 +4051,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "670"
+        "__bigint__": "680"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4285,13 +4285,13 @@
       "registered_at": 1789130172970,
       "name": "Ririn",
       "uang": {
-        "__bigint__": "5000"
+        "__bigint__": "55000"
       },
       "level": {
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "230"
+        "__bigint__": "435"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4350,7 +4350,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789212922427,
-      "limit": 14,
+      "limit": 11,
       "last_reset": "2026-09-12T11:35:22.427Z",
       "achievements": [],
       "transactions": [],
@@ -4613,13 +4613,13 @@
       "registered_at": 1789187342461,
       "name": "Febi",
       "uang": {
-        "__bigint__": "5000"
+        "__bigint__": "155000"
       },
       "level": {
-        "__bigint__": "1"
+        "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "20"
+        "__bigint__": "425"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4678,7 +4678,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789270142458,
-      "limit": 35,
+      "limit": 28,
       "last_reset": "2026-09-13T03:29:02.458Z",
       "achievements": [],
       "transactions": [],
@@ -5787,17 +5787,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 4.09756272359394,
+        "inflation": 3.946709157943111,
         "gdp": {
-          "__bigint__": "1012880946"
+          "__bigint__": "1013488795"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.0409756272359394,
-        "unemployment": 5.57056527724064,
-        "stability": 77.53640432565292,
-        "approval": 77.97356018983567,
+        "prices": 1.039467091579431,
+        "unemployment": 5.926005912041945,
+        "stability": 77.83503760052874,
+        "approval": 77.76374786273348,
         "welfare": 60,
         "military": 35,
         "corruption": 9,
@@ -5813,9 +5813,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 87.52033286274366,
-          "energy": 94.64408083429112,
-          "raw": 95.11369171073356
+          "food": 88.22845669309893,
+          "energy": 93.45737689125824,
+          "raw": 94.08364711979543
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5835,7 +5835,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789195596684,
+        "last_tick": 1789196496686,
         "last_tax_day": "2026-09-12",
         "last_news": 1789195596684,
         "last_election_month": "2026-09",
