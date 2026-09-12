@@ -5913,19 +5913,19 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 12.22323334900827,
+        "inflation": 12.449289712605344,
         "gdp": {
-          "__bigint__": "1039127313"
+          "__bigint__": "1038503963"
         },
         "treasury": {
           "__bigint__": "500007008"
         },
-        "prices": 1.1222323334900828,
-        "unemployment": 13.900146551669724,
-        "stability": 12.053604165867089,
-        "approval": 58.53742114468262,
-        "welfare": 66,
-        "military": 89,
+        "prices": 1.1244928971260535,
+        "unemployment": 14.158655432427766,
+        "stability": 8.808888938156677,
+        "approval": 58.24496410037905,
+        "welfare": 69,
+        "military": 95,
         "corruption": 17,
         "import_tariff": 5,
         "minimum_wage": 0,
@@ -5934,14 +5934,14 @@
         },
         "property_tax": 0.5,
         "services": {
-          "healthcare": 87,
-          "education": 87,
+          "healthcare": 90,
+          "education": 90,
           "transport": 60
         },
         "resources": {
-          "food": 94.76078379375184,
-          "energy": 96.69199462885351,
-          "raw": 97.12915684664954
+          "food": 94.01676560095889,
+          "energy": 97.36724621088077,
+          "raw": 97.37235759459665
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5961,7 +5961,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789219024192,
+        "last_tick": 1789219924241,
         "last_tax_day": "2026-09-12",
         "last_news": 1789219024193,
         "last_election_month": "2026-09",
