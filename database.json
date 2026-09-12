@@ -4056,7 +4056,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "695"
+        "__bigint__": "705"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4441,9 +4441,9 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": true,
-      "limit_reset_at": 1789213043503,
+      "limit_reset_at": 1789295884523,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-12T11:37:23.503Z",
+      "last_reset": "2026-09-13T10:38:04.523Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -4460,7 +4460,8 @@
           "__bigint__": "0"
         },
         "last_interest": 1789200967735
-      }
+      },
+      "limit_reset_notified_at": 1789213084523
     },
     "6287890379353@s.whatsapp.net": {
       "uid": 10049,
@@ -4532,15 +4533,16 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": false,
-      "limit_reset_at": 1789213058014,
-      "limit": 33,
-      "last_reset": "2026-09-12T11:37:38.014Z",
+      "limit_reset_at": 1789295884523,
+      "limit": 40,
+      "last_reset": "2026-09-13T10:38:04.523Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
-      "last_transfer": 0
+      "last_transfer": 0,
+      "limit_reset_notified_at": 1789213084523
     },
     "6281391893131@s.whatsapp.net": {
       "uid": 10050,
@@ -5910,19 +5912,19 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 10.41692988206514,
+        "inflation": 10.47018469972458,
         "gdp": {
-          "__bigint__": "1018466226"
+          "__bigint__": "1017855270"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.1041692988206515,
-        "unemployment": 13.416033888163348,
-        "stability": 34.442080537867504,
-        "approval": 56.45045732920506,
-        "welfare": 45,
-        "military": 47,
+        "prices": 1.1047018469972458,
+        "unemployment": 13.21786263468387,
+        "stability": 31.217896849996173,
+        "approval": 55.25077768281177,
+        "welfare": 48,
+        "military": 53,
         "corruption": 15,
         "import_tariff": 5,
         "minimum_wage": 0,
@@ -5931,14 +5933,14 @@
         },
         "property_tax": 0.5,
         "services": {
-          "healthcare": 66,
-          "education": 66,
+          "healthcare": 69,
+          "education": 69,
           "transport": 60
         },
         "resources": {
-          "food": 92.9946040440781,
-          "energy": 92.78033631438171,
-          "raw": 97.76601556794246
+          "food": 94.72553385802712,
+          "energy": 93.65221096635383,
+          "raw": 97.0493651681674
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5958,7 +5960,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789212724156,
+        "last_tick": 1789213624177,
         "last_tax_day": "2026-09-12",
         "last_news": 1789210898069,
         "last_election_month": "2026-09",
