@@ -4291,7 +4291,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "435"
+        "__bigint__": "440"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4619,7 +4619,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "425"
+        "__bigint__": "475"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4678,14 +4678,20 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789270142458,
-      "limit": 28,
+      "limit": 25,
       "last_reset": "2026-09-13T03:29:02.458Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
-      "last_transfer": 0
+      "last_transfer": 0,
+      "bank": {
+        "tabungan": {
+          "__bigint__": "0"
+        },
+        "last_interest": 1789196918218
+      }
     }
   },
   "market": {
@@ -5787,17 +5793,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 3.946709157943111,
+        "inflation": 3.664436047686136,
         "gdp": {
-          "__bigint__": "1013488795"
+          "__bigint__": "1014097008"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.039467091579431,
-        "unemployment": 5.926005912041945,
-        "stability": 77.83503760052874,
-        "approval": 77.76374786273348,
+        "prices": 1.0366443604768614,
+        "unemployment": 6.216358662841154,
+        "stability": 78.13905501323403,
+        "approval": 77.57082774541328,
         "welfare": 60,
         "military": 35,
         "corruption": 9,
@@ -5813,9 +5819,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 88.22845669309893,
-          "energy": 93.45737689125824,
-          "raw": 94.08364711979543
+          "food": 89.67168084890615,
+          "energy": 93.06534445612499,
+          "raw": 94.63564047031733
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5835,7 +5841,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789196496686,
+        "last_tick": 1789197396693,
         "last_tax_day": "2026-09-12",
         "last_news": 1789195596684,
         "last_election_month": "2026-09",
