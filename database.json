@@ -1597,7 +1597,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3340"
+        "__bigint__": "3355"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1645,7 +1645,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 32,
+      "limit": 31,
       "last_reset": "2026-09-13T02:56:47.015Z",
       "frames": [],
       "active_frame": null,
@@ -4288,10 +4288,10 @@
         "__bigint__": "555000"
       },
       "level": {
-        "__bigint__": "3"
+        "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1660"
+        "__bigint__": "1735"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4367,13 +4367,13 @@
       "registered_at": 1789130571517,
       "name": "Fadhil",
       "uang": {
-        "__bigint__": "1875000"
+        "__bigint__": "2725000"
       },
       "level": {
-        "__bigint__": "5"
+        "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "6355"
+        "__bigint__": "8370"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4539,13 +4539,13 @@
       "registered_at": 1789131119111,
       "name": "alexa",
       "uang": {
-        "__bigint__": "205000"
+        "__bigint__": "571000"
       },
       "level": {
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "645"
+        "__bigint__": "1625"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4559,7 +4559,10 @@
       "active_badge": "💎 Premium User🎗️",
       "frames": [],
       "active_frame": null,
-      "cd": {},
+      "cd": {
+        "tebakbendera": 1789202628079,
+        "tebakemoji": 1789202762349
+      },
       "anak": [],
       "invest": {},
       "blacklist_karakter": [],
@@ -4621,13 +4624,13 @@
       "registered_at": 1789187342461,
       "name": "Febi",
       "uang": {
-        "__bigint__": "905000"
+        "__bigint__": "963000"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2315"
+        "__bigint__": "2480"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4640,7 +4643,9 @@
       "active_badge": "🪪 SAATAA Pioneer",
       "frames": [],
       "active_frame": null,
-      "cd": {},
+      "cd": {
+        "tebakemoji": 1789202806389
+      },
       "anak": [],
       "invest": {},
       "blacklist_karakter": [],
@@ -4686,7 +4691,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789270142458,
-      "limit": 5,
+      "limit": 1,
       "last_reset": "2026-09-13T03:29:02.458Z",
       "achievements": [],
       "transactions": [],
@@ -5672,7 +5677,7 @@
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
       "120363430077495840@g.us": 1788593809165,
-      "120363430435543929@g.us": 1789129960970
+      "120363430435543929@g.us": 1789202778730
     },
     "menu": {
       "custom_text": "",
@@ -5807,17 +5812,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 5.92399457638413,
+        "inflation": 5.767934559989842,
         "gdp": {
-          "__bigint__": "1017143555"
+          "__bigint__": "1017753962"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.0592399457638413,
-        "unemployment": 9.862042902081221,
-        "stability": 69.24160892104175,
-        "approval": 67.90575175366703,
+        "prices": 1.0576793455998985,
+        "unemployment": 9.962015234013467,
+        "stability": 69.33341209014493,
+        "approval": 67.40719527023579,
         "welfare": 60,
         "military": 35,
         "corruption": 15,
@@ -5833,9 +5838,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 90.43017294718365,
-          "energy": 93.54783172862786,
-          "raw": 97.39760171050253
+          "food": 91.12292809168945,
+          "energy": 94.47344109729816,
+          "raw": 97.30609195923964
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5855,7 +5860,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789201896764,
+        "last_tick": 1789202796816,
         "last_tax_day": "2026-09-12",
         "last_news": 1789201896764,
         "last_election_month": "2026-09",
