@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10615"
+        "__bigint__": "10620"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -432,7 +432,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-09-12T09:17:40.100Z",
+      "last_reset": "2026-09-13T08:17:41.025Z",
       "registered": true,
       "frames": [],
       "active_frame": null,
@@ -446,8 +446,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1789204660100,
-      "limit_reset_notified_at": 1789121860100
+      "limit_reset_at": 1789287461025,
+      "limit_reset_notified_at": 1789204661025
     },
     "6282184864054@s.whatsapp.net": {
       "uid": 10005,
@@ -4630,7 +4630,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2595"
+        "__bigint__": "2600"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5812,17 +5812,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 5.675625308610563,
+        "inflation": 8.715560022174598,
         "gdp": {
-          "__bigint__": "1018364735"
+          "__bigint__": "1018975874"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.0567562530861057,
-        "unemployment": 10.495910742751532,
-        "stability": 69.42156275167268,
-        "approval": 66.91618455315827,
+        "prices": 1.087155600221746,
+        "unemployment": 9.895067445768634,
+        "stability": 67.50236351890138,
+        "approval": 66.4251930781676,
         "welfare": 60,
         "military": 35,
         "corruption": 15,
@@ -5838,9 +5838,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 91.67288069889797,
-          "energy": 94.99724679622373,
-          "raw": 97.5370349940261
+          "food": 91.5493975911787,
+          "energy": 95.8272163201759,
+          "raw": 97.16051306696211
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5854,15 +5854,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 7,
+          "events": 8,
           "wars": 0,
           "scandals": 2,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789203696818,
+        "last_tick": 1789204596825,
         "last_tax_day": "2026-09-12",
-        "last_news": 1789201896764,
+        "last_news": 1789204596825,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
