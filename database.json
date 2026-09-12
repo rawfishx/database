@@ -4799,6 +4799,80 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0
+    },
+    "6287872867480@s.whatsapp.net": {
+      "uid": 10053,
+      "registered": false,
+      "registered_at": null,
+      "name": "-wil",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789226375716,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "negara": "Belum diatur",
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "limit_reset_at": 1789309175716,
+      "limit": 40,
+      "last_reset": "2026-09-13T14:19:35.716Z"
     }
   },
   "market": {
@@ -5228,7 +5302,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10052,
+    "last_uid": 10053,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -5283,7 +5357,8 @@
       "80947986837587@lid": "6287890379353@s.whatsapp.net",
       "112708967989406@lid": "6281391893131@s.whatsapp.net",
       "232478660939922@lid": "6281959150453@s.whatsapp.net",
-      "100378351796471@lid": "6283151148146@s.whatsapp.net"
+      "100378351796471@lid": "6283151148146@s.whatsapp.net",
+      "155628190306512@lid": "6287872867480@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {},
@@ -5913,18 +5988,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 12.81966609548613,
+        "inflation": 12.818039437509638,
         "gdp": {
-          "__bigint__": "1084711737"
+          "__bigint__": "1084061042"
         },
         "treasury": {
           "__bigint__": "500007008"
         },
-        "prices": 1.1281966609548613,
-        "unemployment": 11.24901115695142,
+        "prices": 1.1281803943750963,
+        "unemployment": 10.668939551973764,
         "stability": 0,
-        "approval": 63.238870246059086,
-        "welfare": 87,
+        "approval": 63.549968457646244,
+        "welfare": 90,
         "military": 100,
         "corruption": 17,
         "import_tariff": 5,
@@ -5939,9 +6014,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 93.46262033359609,
-          "energy": 97.79087805389477,
-          "raw": 96.46996105576149
+          "food": 93.82526440547159,
+          "energy": 99.51943295888645,
+          "raw": 97.55286608964788
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5961,7 +6036,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789225324392,
+        "last_tick": 1789226224418,
         "last_tax_day": "2026-09-12",
         "last_news": 1789223524337,
         "last_election_month": "2026-09",
