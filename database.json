@@ -2730,7 +2730,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10165"
+        "__bigint__": "10250"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2787,7 +2787,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 29,
+      "limit": 26,
       "last_reset": "2026-09-13T02:56:47.015Z",
       "achievements": [
         "first_saving"
@@ -4056,7 +4056,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "725"
+        "__bigint__": "735"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4115,7 +4115,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789293402565,
-      "limit": 37,
+      "limit": 35,
       "last_reset": "2026-09-13T09:56:42.565Z",
       "achievements": [],
       "transactions": [],
@@ -4724,7 +4724,7 @@
       "uid": 10052,
       "registered": true,
       "registered_at": 1789210292275,
-      "name": "Zxygracia",
+      "name": "nama",
       "uang": {
         "__bigint__": "5000"
       },
@@ -4732,7 +4732,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "45"
+        "__bigint__": "80"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4750,7 +4750,7 @@
       "invest": {},
       "blacklist_karakter": [],
       "distrik": "Awal",
-      "gender": "Belum diatur",
+      "gender": "gender",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
       "banned_until": 0,
@@ -4791,7 +4791,7 @@
       "profil_lengkap": false,
       "isPremium": false,
       "limit_reset_at": 1789293084783,
-      "limit": 33,
+      "limit": 27,
       "last_reset": "2026-09-13T09:51:24.783Z",
       "achievements": [],
       "transactions": [],
@@ -5913,18 +5913,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 12.645844611760158,
+        "inflation": 12.827438671036425,
         "gdp": {
-          "__bigint__": "1037258384"
+          "__bigint__": "1036636155"
         },
         "treasury": {
           "__bigint__": "500007008"
         },
-        "prices": 1.1264584461176015,
-        "unemployment": 13.680626473068552,
-        "stability": 2.2952702203022817,
-        "approval": 57.90323586306035,
-        "welfare": 75,
+        "prices": 1.1282743867103642,
+        "unemployment": 13.755642541752183,
+        "stability": 0,
+        "approval": 57.85803303811997,
+        "welfare": 78,
         "military": 100,
         "corruption": 17,
         "import_tariff": 5,
@@ -5934,14 +5934,14 @@
         },
         "property_tax": 0.5,
         "services": {
-          "healthcare": 96,
-          "education": 96,
+          "healthcare": 99,
+          "education": 99,
           "transport": 60
         },
         "resources": {
-          "food": 94.02765589844465,
-          "energy": 96.93720752509118,
-          "raw": 97.69621155902894
+          "food": 94.97200643873308,
+          "energy": 95.28283414018887,
+          "raw": 97.89213248878471
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5961,7 +5961,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789221724299,
+        "last_tick": 1789222624310,
         "last_tax_day": "2026-09-12",
         "last_news": 1789219024193,
         "last_election_month": "2026-09",
