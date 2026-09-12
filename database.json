@@ -4537,7 +4537,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "635"
+        "__bigint__": "640"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4585,7 +4585,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 10,
+      "diamond": 20,
       "negara": "indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -4605,7 +4605,7 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "last_diamond_bonus": "2026-09-11"
+      "last_diamond_bonus": "2026-09-12"
     },
     "6281959150453@s.whatsapp.net": {
       "uid": 10051,
@@ -5793,17 +5793,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 6.55968711127921,
+        "inflation": 6.383200922123256,
         "gdp": {
-          "__bigint__": "1014705586"
+          "__bigint__": "1015314530"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.065596871112792,
-        "unemployment": 6.132444699326774,
-        "stability": 76.38354377787772,
-        "approval": 77.26515719843793,
+        "prices": 1.0638320092212326,
+        "unemployment": 6.01411383108439,
+        "stability": 76.59759228840745,
+        "approval": 76.90888101890245,
         "welfare": 60,
         "military": 35,
         "corruption": 9,
@@ -5819,9 +5819,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 88.80150626539792,
-          "energy": 93.92074220194188,
-          "raw": 97.06788062498306
+          "food": 90.1447028134263,
+          "energy": 94.15765381204787,
+          "raw": 95.39522689243826
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5841,7 +5841,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789198296718,
+        "last_tick": 1789199196744,
         "last_tax_day": "2026-09-12",
         "last_news": 1789197696693,
         "last_election_month": "2026-09",
