@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10630"
+        "__bigint__": "10640"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1597,7 +1597,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3355"
+        "__bigint__": "3400"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1609,7 +1609,8 @@
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "cd": {
-        "rampok": 1788791382299
+        "rampok": 1789218354205,
+        "kabur": 1789211285651
       },
       "anak": [],
       "invest": {},
@@ -1618,7 +1619,7 @@
       "gender": "cewek",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
-      "banned_until": 0,
+      "banned_until": 1789211754205,
       "joined_at": 1788435863016,
       "kehamilan": {
         "status": false,
@@ -1645,7 +1646,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 31,
+      "limit": 26,
       "last_reset": "2026-09-13T02:56:47.015Z",
       "frames": [],
       "active_frame": null,
@@ -1673,7 +1674,7 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "limit_reset_at": 1789268207015,
-      "banned_reason": "",
+      "banned_reason": "Tertangkap basah merampok di Distrik Rendah",
       "limit_reset_notified_at": 1789185407015
     },
     "6288245583791@s.whatsapp.net": {
@@ -1691,7 +1692,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15465"
+        "__bigint__": "15495"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -2088,9 +2089,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "1370273850762"
+          "__bigint__": "1386807877179"
         },
-        "last_interest": 1789165016413
+        "last_interest": 1789208216413
       },
       "frames": [],
       "active_frame": null,
@@ -4051,7 +4052,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "680"
+        "__bigint__": "695"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4109,15 +4110,16 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": false,
-      "limit_reset_at": 1789210573776,
-      "limit": 0,
-      "last_reset": "2026-09-12T10:56:13.776Z",
+      "limit_reset_at": 1789293402565,
+      "limit": 40,
+      "last_reset": "2026-09-13T09:56:42.565Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
-      "last_transfer": 0
+      "last_transfer": 0,
+      "limit_reset_notified_at": 1789210602565
     },
     "62882022235139@s.whatsapp.net": {
       "uid": 10045,
@@ -4367,13 +4369,13 @@
       "registered_at": 1789130571517,
       "name": "Fadhil",
       "uang": {
-        "__bigint__": "2725000"
+        "__bigint__": "3025000"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "8380"
+        "__bigint__": "9100"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4720,7 +4722,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "0"
+        "__bigint__": "15"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4779,7 +4781,7 @@
       "profil_lengkap": false,
       "isPremium": false,
       "limit_reset_at": 1789293084783,
-      "limit": 39,
+      "limit": 38,
       "last_reset": "2026-09-13T09:51:24.783Z",
       "achievements": [],
       "transactions": [],
@@ -5900,19 +5902,19 @@
           "6283138226730@s.whatsapp.net": true
         },
         "groups": {},
-        "tax_rate": 26,
-        "inflation": 10.55680696545415,
+        "tax_rate": 29,
+        "inflation": 10.324420342871603,
         "gdp": {
           "__bigint__": "1019689238"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.1055680696545416,
-        "unemployment": 9.634222278387957,
-        "stability": 46.988664240817194,
-        "approval": 60.45232048700655,
-        "welfare": 42,
+        "prices": 1.103244203428716,
+        "unemployment": 13.45763222831751,
+        "stability": 40.82716461141597,
+        "approval": 59.1090134712255,
+        "welfare": 39,
         "military": 35,
         "corruption": 15,
         "import_tariff": 5,
@@ -5927,9 +5929,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 94.80802116646446,
-          "energy": 94.9705631587641,
-          "raw": 99.47724038723166
+          "food": 93.59204848700885,
+          "energy": 93.4865125806696,
+          "raw": 99.62614781080478
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5943,15 +5945,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 9,
+          "events": 10,
           "wars": 0,
           "scandals": 2,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789209996966,
+        "last_tick": 1789210896967,
         "last_tax_day": "2026-09-12",
-        "last_news": 1789206998048,
+        "last_news": 1789210898069,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
