@@ -4056,7 +4056,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "735"
+        "__bigint__": "740"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4115,7 +4115,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789293402565,
-      "limit": 35,
+      "limit": 34,
       "last_reset": "2026-09-13T09:56:42.565Z",
       "achievements": [],
       "transactions": [],
@@ -5913,18 +5913,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 12.827438671036425,
+        "inflation": 12.860061897321714,
         "gdp": {
-          "__bigint__": "1036636155"
+          "__bigint__": "1086014299"
         },
         "treasury": {
           "__bigint__": "500007008"
         },
-        "prices": 1.1282743867103642,
-        "unemployment": 13.755642541752183,
+        "prices": 1.1286006189732172,
+        "unemployment": 11.383030150269274,
         "stability": 0,
-        "approval": 57.85803303811997,
-        "welfare": 78,
+        "approval": 62.897838844136714,
+        "welfare": 81,
         "military": 100,
         "corruption": 17,
         "import_tariff": 5,
@@ -5934,14 +5934,14 @@
         },
         "property_tax": 0.5,
         "services": {
-          "healthcare": 99,
-          "education": 99,
+          "healthcare": 100,
+          "education": 100,
           "transport": 60
         },
         "resources": {
-          "food": 94.97200643873308,
-          "energy": 95.28283414018887,
-          "raw": 97.89213248878471
+          "food": 93.99050860449762,
+          "energy": 95.71170843542075,
+          "raw": 97.13081418629666
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5955,15 +5955,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 12,
+          "events": 13,
           "wars": 0,
           "scandals": 2,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789222624310,
+        "last_tick": 1789223524337,
         "last_tax_day": "2026-09-12",
-        "last_news": 1789219024193,
+        "last_news": 1789223524337,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
