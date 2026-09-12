@@ -2719,13 +2719,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "1315755"
+        "__bigint__": "1315756"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "7055"
+        "__bigint__": "7060"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2741,7 +2741,7 @@
       "active_frame": null,
       "cd": {
         "rampok": 1789110162681,
-        "judi": 1788940922343,
+        "judi": 1789188464226,
         "mancing": 1788940051957,
         "interaksi": 1788940170613,
         "kerja": 1789011326373
@@ -2782,7 +2782,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-13T02:56:47.015Z",
       "achievements": [
         "first_saving"
@@ -5785,17 +5785,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 0.38405687471133987,
+        "inflation": 0.1702991671423805,
         "gdp": {
-          "__bigint__": "1007426688"
+          "__bigint__": "1008031263"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.0038405687471135,
-        "unemployment": 6.000556381665808,
-        "stability": 80.63009944726815,
-        "approval": 85.53807151560929,
+        "prices": 1.0017029916714237,
+        "unemployment": 6.193061409429143,
+        "stability": 81.15742234101546,
+        "approval": 85.73462617819644,
         "welfare": 60,
         "military": 35,
         "corruption": 3,
@@ -5811,9 +5811,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 96.68666309341405,
-          "energy": 96.03874627063955,
-          "raw": 93.13437793210652
+          "food": 97.94385994057652,
+          "energy": 96.33591712713155,
+          "raw": 94.63491256988131
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5833,7 +5833,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789187496441,
+        "last_tick": 1789188396472,
         "last_tax_day": "2026-09-12",
         "last_news": 1789186297391,
         "last_election_month": "2026-09",
