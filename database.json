@@ -155,13 +155,13 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "8635945"
+        "__bigint__": "8628937"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10575"
+        "__bigint__": "10595"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -361,6 +361,18 @@
         "harga_beli": {
           "__bigint__": "75000"
         }
+      },
+      "negara_state": {
+        "last_tax": "2026-09-12",
+        "last_tax_amount": {
+          "__bigint__": "6908"
+        },
+        "tax_debt": {
+          "__bigint__": "0"
+        },
+        "homeless": false,
+        "house_required_since": 0,
+        "last_risk_day": "2026-09-12"
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -1208,7 +1220,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42430"
+        "__bigint__": "42435"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1555,7 +1567,7 @@
         "2": "segss",
         "3": "suapi"
       },
-      "diamond": 70,
+      "diamond": 80,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1565,7 +1577,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-11",
+      "last_diamond_bonus": "2026-09-12",
       "limit_reset_at": 1789268207015,
       "daily": {
         "streak": 1,
@@ -5692,20 +5704,20 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": -0.739807705541006,
+        "inflation": 0.5849884481327196,
         "gdp": {
-          "__bigint__": "1006419868"
+          "__bigint__": "1006822475"
         },
         "treasury": {
-          "__bigint__": "500000000"
+          "__bigint__": "497507008"
         },
-        "prices": 0.9926019229445899,
-        "unemployment": 6.048173437466513,
-        "stability": 83.80733304934836,
-        "approval": 75.2605705762418,
+        "prices": 1.0058498844813273,
+        "unemployment": 5.95926980911895,
+        "stability": 80.11245769939899,
+        "approval": 85.35524472563463,
         "welfare": 60,
         "military": 35,
-        "corruption": 8,
+        "corruption": 3,
         "import_tariff": 5,
         "minimum_wage": 0,
         "citizen_subsidy": {
@@ -5718,9 +5730,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 97.02427067949155,
-          "energy": 97.78447095450855,
-          "raw": 96.93631759159757
+          "food": 97.04796354857008,
+          "energy": 95.90141288387137,
+          "raw": 95.71474377834853
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5729,19 +5741,22 @@
         "treaties": {},
         "stats": {
           "tax_collected": {
-            "__bigint__": "0"
+            "__bigint__": "7008"
           },
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 0,
+          "events": 1,
           "wars": 0,
           "scandals": 0,
-          "homeless": 0
+          "homeless": 0,
+          "elections": 1
         },
-        "last_tick": 1789185873948,
-        "last_tax_day": "",
-        "last_news": 0
+        "last_tick": 1789186596433,
+        "last_tax_day": "2026-09-12",
+        "last_news": 1789186297391,
+        "last_election_month": "2026-09",
+        "last_election_year": 2026
       }
     },
     "countryByUser": {
