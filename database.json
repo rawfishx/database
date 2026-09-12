@@ -1691,7 +1691,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15460"
+        "__bigint__": "15465"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -2719,13 +2719,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "1315754"
+        "__bigint__": "1315755"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "7065"
+        "__bigint__": "7070"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2741,7 +2741,7 @@
       "active_frame": null,
       "cd": {
         "rampok": 1789110162681,
-        "judi": 1789192166468,
+        "judi": 1789193657436,
         "mancing": 1788940051957,
         "interaksi": 1788940170613,
         "kerja": 1789011326373
@@ -2782,7 +2782,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 38,
+      "limit": 37,
       "last_reset": "2026-09-13T02:56:47.015Z",
       "achievements": [
         "first_saving"
@@ -4034,9 +4034,10 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789193863041,
+      "limit_reset_at": 1789276718739,
       "limit": 40,
-      "last_reset": "2026-09-12T06:17:43.041Z"
+      "last_reset": "2026-09-13T05:18:38.739Z",
+      "limit_reset_notified_at": 1789193918739
     },
     "6287812039629@s.whatsapp.net": {
       "uid": 10044,
@@ -4690,14 +4691,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "47690105296"
+        "__bigint__": "61286504512"
       },
-      "next_update": 1789167049156,
+      "next_update": 1789194829149,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "62890119336"
-        },
         {
           "__bigint__": "54982614472"
         },
@@ -4730,19 +4728,19 @@
         },
         {
           "__bigint__": "47690105296"
+        },
+        {
+          "__bigint__": "61286504512"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "147000"
+        "__bigint__": "428000"
       },
-      "next_update": 1789165909156,
-      "trend": "📉 Turun",
+      "next_update": 1789193689149,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "742000"
-        },
         {
           "__bigint__": "303000"
         },
@@ -4775,19 +4773,19 @@
         },
         {
           "__bigint__": "147000"
+        },
+        {
+          "__bigint__": "428000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "2000000"
+        "__bigint__": "17900000"
       },
-      "next_update": 1789166149156,
-      "trend": "📉 Turun",
+      "next_update": 1789193929149,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "6400000"
-        },
         {
           "__bigint__": "10900000"
         },
@@ -4820,19 +4818,19 @@
         },
         {
           "__bigint__": "2000000"
+        },
+        {
+          "__bigint__": "17900000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "41000000"
+        "__bigint__": "22000000"
       },
-      "next_update": 1789166749156,
-      "trend": "📈 Naik",
+      "next_update": 1789194529149,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "31000000"
-        },
         {
           "__bigint__": "30000000"
         },
@@ -4865,19 +4863,19 @@
         },
         {
           "__bigint__": "41000000"
+        },
+        {
+          "__bigint__": "22000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "47000000"
+        "__bigint__": "41000000"
       },
-      "next_update": 1789167649156,
+      "next_update": 1789195429149,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "48000000"
-        },
         {
           "__bigint__": "44000000"
         },
@@ -4910,19 +4908,19 @@
         },
         {
           "__bigint__": "47000000"
+        },
+        {
+          "__bigint__": "41000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "907000000"
+        "__bigint__": "1317000000"
       },
-      "next_update": 1789169449156,
-      "trend": "📉 Turun",
+      "next_update": 1789197229149,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "1267000000"
-        },
         {
           "__bigint__": "1135000000"
         },
@@ -4955,6 +4953,9 @@
         },
         {
           "__bigint__": "907000000"
+        },
+        {
+          "__bigint__": "1317000000"
         }
       ]
     }
@@ -5786,17 +5787,17 @@
         },
         "groups": {},
         "tax_rate": 8,
-        "inflation": 1.5366230418558624,
+        "inflation": 1.4550957854389164,
         "gdp": {
-          "__bigint__": "1011059587"
+          "__bigint__": "1011666342"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.0153662304185587,
-        "unemployment": 6.145703437750476,
-        "stability": 78.39413716560139,
-        "approval": 78.1234247184178,
+        "prices": 1.0145509578543892,
+        "unemployment": 6.021926156733598,
+        "stability": 78.77079839111522,
+        "approval": 78.06365597823962,
         "welfare": 60,
         "military": 35,
         "corruption": 9,
@@ -5812,9 +5813,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 84.3778372274651,
-          "energy": 97.65921180269078,
-          "raw": 96.38170092839906
+          "food": 86.63189375444145,
+          "energy": 97.32644019636047,
+          "raw": 95.06635803404173
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5834,7 +5835,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789192896611,
+        "last_tick": 1789193796629,
         "last_tax_day": "2026-09-12",
         "last_news": 1789192596584,
         "last_election_month": "2026-09",
