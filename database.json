@@ -4218,7 +4218,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "175"
+        "__bigint__": "180"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5913,18 +5913,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 12.5603445184118,
+        "inflation": 12.645844611760158,
         "gdp": {
-          "__bigint__": "1037880987"
+          "__bigint__": "1037258384"
         },
         "treasury": {
           "__bigint__": "500007008"
         },
-        "prices": 1.125603445184118,
-        "unemployment": 14.246201485599697,
-        "stability": 5.554663413452802,
-        "approval": 58.031494016569106,
-        "welfare": 72,
+        "prices": 1.1264584461176015,
+        "unemployment": 13.680626473068552,
+        "stability": 2.2952702203022817,
+        "approval": 57.90323586306035,
+        "welfare": 75,
         "military": 100,
         "corruption": 17,
         "import_tariff": 5,
@@ -5934,14 +5934,14 @@
         },
         "property_tax": 0.5,
         "services": {
-          "healthcare": 93,
-          "education": 93,
+          "healthcare": 96,
+          "education": 96,
           "transport": 60
         },
         "resources": {
-          "food": 93.37447034597352,
-          "energy": 98.3225080485752,
-          "raw": 99.54799369479277
+          "food": 94.02765589844465,
+          "energy": 96.93720752509118,
+          "raw": 97.69621155902894
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5961,7 +5961,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789220824270,
+        "last_tick": 1789221724299,
         "last_tax_day": "2026-09-12",
         "last_news": 1789219024193,
         "last_election_month": "2026-09",
