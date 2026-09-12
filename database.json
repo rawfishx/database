@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10620"
+        "__bigint__": "10630"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -4630,7 +4630,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2635"
+        "__bigint__": "2645"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4638,9 +4638,10 @@
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
       "badges": [
-        "🪪 SAATAA Pioneer"
+        "🪪 SAATAA Pioneer",
+        "💎 Premium User🎗️"
       ],
-      "active_badge": "🪪 SAATAA Pioneer",
+      "active_badge": "💎 Premium User🎗️",
       "frames": [],
       "active_frame": null,
       "cd": {
@@ -4679,7 +4680,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 0,
+      "diamond": 10,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -4689,9 +4690,9 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "isPremium": false,
+      "isPremium": true,
       "limit_reset_at": 1789270142458,
-      "limit": 0,
+      "limit": "UNLIMITED",
       "last_reset": "2026-09-13T03:29:02.458Z",
       "achievements": [],
       "transactions": [],
@@ -4704,7 +4705,8 @@
           "__bigint__": "0"
         },
         "last_interest": 1789196918218
-      }
+      },
+      "last_diamond_bonus": "2026-09-12"
     }
   },
   "market": {
@@ -5122,6 +5124,12 @@
       },
       "6281313095732@s.whatsapp.net": {
         "name": "Ririn",
+        "total": {
+          "__bigint__": "1000"
+        }
+      },
+      "6281959150453@s.whatsapp.net": {
+        "name": "Febi",
         "total": {
           "__bigint__": "1000"
         }
@@ -5811,19 +5819,19 @@
           "6283138226730@s.whatsapp.net": true
         },
         "groups": {},
-        "tax_rate": 14,
-        "inflation": 8.35726858776165,
+        "tax_rate": 17,
+        "inflation": 11.33297823520263,
         "gdp": {
-          "__bigint__": "1019995265"
+          "__bigint__": "1020301263"
         },
         "treasury": {
           "__bigint__": "497507008"
         },
-        "prices": 1.0835726858776165,
-        "unemployment": 9.871181373562683,
-        "stability": 61.46723588423967,
-        "approval": 64.95462348812997,
-        "welfare": 54,
+        "prices": 1.1133297823520263,
+        "unemployment": 9.58751066370017,
+        "stability": 56.40792077316627,
+        "approval": 64.03573112044471,
+        "welfare": 51,
         "military": 35,
         "corruption": 15,
         "import_tariff": 5,
@@ -5838,9 +5846,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 91.750740575433,
-          "energy": 96.08233340769564,
-          "raw": 96.52784814988618
+          "food": 92.72203245736085,
+          "energy": 96.64967957989742,
+          "raw": 97.13368391030464
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -5854,15 +5862,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 8,
+          "events": 9,
           "wars": 0,
           "scandals": 2,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789206396871,
+        "last_tick": 1789207296896,
         "last_tax_day": "2026-09-12",
-        "last_news": 1789204596825,
+        "last_news": 1789206998048,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
