@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10785"
+        "__bigint__": "10810"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1218,13 +1218,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "125472"
+        "__bigint__": "11314170216"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "43155"
+        "__bigint__": "43280"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1249,7 +1249,7 @@
           "__bigint__": "0"
         },
         "GLD": {
-          "__bigint__": "715"
+          "__bigint__": "0"
         },
         "ETH": {
           "__bigint__": "0"
@@ -1711,13 +1711,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "0"
+        "__bigint__": "111000000000"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15755"
+        "__bigint__": "15930"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1732,7 +1732,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1789118681065,
-        "interaksi": 1789133050702,
+        "interaksi": 1789305223328,
         "tebakbendera": 1788661644031,
         "kabur": 1789112110230
       },
@@ -1742,7 +1742,7 @@
           "__bigint__": "0"
         },
         "GLD": {
-          "__bigint__": "872387"
+          "__bigint__": "0"
         },
         "BTC": {
           "__bigint__": "0"
@@ -1790,6 +1790,41 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "1000000000000"
+          },
+          "timestamp": 1789305187741
+        },
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "100000000000"
+          },
+          "timestamp": 1789305179068
+        },
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "10000000000"
+          },
+          "timestamp": 1789305164419
+        },
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "1000000000"
+          },
+          "timestamp": 1789305153906
+        },
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "11028718454000"
+          },
+          "timestamp": 1789304863163
+        },
         {
           "type": "saving",
           "amount": {
@@ -2120,13 +2155,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 208,
+        "point_asmara": 216,
         "uang": {
-          "__bigint__": "1000607000"
+          "__bigint__": "1001000607000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789132930702,
+        "last_interaksi": 1789305202581,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -2135,17 +2170,17 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "93622711303"
+          "__bigint__": "10022463506468"
         },
-        "last_interest": 1789298216413
+        "last_interest": 1789301816413
       },
       "frames": [],
       "active_frame": null,
       "banned_reason": "",
       "act_session": {
-        "1": "jalan",
-        "2": "suapi",
-        "3": "buatanak"
+        "1": "buatanak",
+        "2": "cium",
+        "3": "jalan"
       },
       "diamond": 80,
       "negara": "Indonesia",
@@ -4957,14 +4992,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "90863615248"
+        "__bigint__": "43345807656"
       },
-      "next_update": 1789301609278,
+      "next_update": 1789306045594,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "64294511096"
-        },
         {
           "__bigint__": "65362945480"
         },
@@ -4997,22 +5029,19 @@
         },
         {
           "__bigint__": "90863615248"
+        },
+        {
+          "__bigint__": "43345807656"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "434000"
+        "__bigint__": "211000"
       },
-      "next_update": 1789300469278,
+      "next_update": 1789305023897,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "256000"
-        },
-        {
-          "__bigint__": "86000"
-        },
         {
           "__bigint__": "180000"
         },
@@ -5042,19 +5071,22 @@
         },
         {
           "__bigint__": "434000"
+        },
+        {
+          "__bigint__": "367000"
+        },
+        {
+          "__bigint__": "211000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "6100000"
+        "__bigint__": "17200000"
       },
-      "next_update": 1789300709278,
+      "next_update": 1789305145594,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "13500000"
-        },
         {
           "__bigint__": "14600000"
         },
@@ -5087,6 +5119,9 @@
         },
         {
           "__bigint__": "6100000"
+        },
+        {
+          "__bigint__": "17200000"
         }
       ]
     },
@@ -5094,12 +5129,9 @@
       "price": {
         "__bigint__": "22000000"
       },
-      "next_update": 1789301309278,
-      "trend": "📉 Turun",
+      "next_update": 1789305745594,
+      "trend": "➡️ Stabil",
       "history": [
-        {
-          "__bigint__": "31000000"
-        },
         {
           "__bigint__": "27000000"
         },
@@ -5132,19 +5164,19 @@
         },
         {
           "__bigint__": "22000000"
+        },
+        {
+          "__bigint__": "22000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "48000000"
+        "__bigint__": "44000000"
       },
-      "next_update": 1789302209278,
-      "trend": "📈 Naik",
+      "next_update": 1789306645594,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "50000000"
-        },
         {
           "__bigint__": "43000000"
         },
@@ -5177,19 +5209,19 @@
         },
         {
           "__bigint__": "48000000"
+        },
+        {
+          "__bigint__": "44000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1538000000"
+        "__bigint__": "1948000000"
       },
-      "next_update": 1789304009278,
+      "next_update": 1789308445594,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "1462000000"
-        },
         {
           "__bigint__": "897000000"
         },
@@ -5222,6 +5254,9 @@
         },
         {
           "__bigint__": "1538000000"
+        },
+        {
+          "__bigint__": "1948000000"
         }
       ]
     }
@@ -6068,17 +6103,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 28.68759731641286,
+        "inflation": 28.844475938100334,
         "gdp": {
-          "__bigint__": "1229542702"
+          "__bigint__": "1228805125"
         },
         "treasury": {
           "__bigint__": "492537309"
         },
-        "prices": 1.2868759731641286,
-        "unemployment": 15.401477525499581,
+        "prices": 1.2884447593810033,
+        "unemployment": 15.364352199413887,
         "stability": 0,
-        "approval": 45.72348863469643,
+        "approval": 44.89738968821021,
         "welfare": 100,
         "military": 100,
         "corruption": 35,
@@ -6094,9 +6129,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 78.19927013183371,
-          "energy": 99.37765098751166,
-          "raw": 97.71624804707919
+          "food": 77.75427397037875,
+          "energy": 99.0691847683137,
+          "raw": 97.67916575901542
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6116,7 +6151,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789304255534,
+        "last_tick": 1789305155535,
         "last_tax_day": "2026-09-13",
         "last_news": 1789302755500,
         "last_election_month": "2026-09",
@@ -6128,7 +6163,7 @@
       "6282292961437@s.whatsapp.net": "teemoon"
     },
     "jackpot_pool": {
-      "__bigint__": "29566229909"
+      "__bigint__": "254868933965"
     }
   },
   "player_market": {},
