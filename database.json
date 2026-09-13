@@ -2801,13 +2801,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "0"
+        "__bigint__": "150000"
       },
       "level": {
-        "__bigint__": "8"
+        "__bigint__": "9"
       },
       "xp": {
-        "__bigint__": "25060"
+        "__bigint__": "28125"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2865,7 +2865,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 19,
+      "limit": 11,
       "last_reset": "2026-09-14T01:57:22.344Z",
       "achievements": [
         "first_saving"
@@ -2922,9 +2922,9 @@
       "banned_reason": "",
       "bank": {
         "tabungan": {
-          "__bigint__": "69545761"
+          "__bigint__": "70104075"
         },
-        "last_interest": 1789284735131
+        "last_interest": 1789313535131
       },
       "daily": {
         "streak": 5,
@@ -4162,7 +4162,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "765"
+        "__bigint__": "780"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4221,7 +4221,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789376249127,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-14T08:57:29.127Z",
       "achievements": [],
       "transactions": [],
@@ -4405,7 +4405,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4870"
+        "__bigint__": "4885"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4494,7 +4494,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10930"
+        "__bigint__": "10955"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4837,7 +4837,7 @@
       "uid": 10052,
       "registered": true,
       "registered_at": 1789210292275,
-      "name": "nama",
+      "name": "NabilZyy",
       "uang": {
         "__bigint__": "5000"
       },
@@ -4845,7 +4845,7 @@
         "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "115"
+        "__bigint__": "160"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4863,7 +4863,7 @@
       "invest": {},
       "blacklist_karakter": [],
       "distrik": "Awal",
-      "gender": "gender",
+      "gender": "Laki-Laki",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
       "banned_until": 0,
@@ -4893,7 +4893,7 @@
         "rod_max": 0
       },
       "diamond": 0,
-      "negara": "Belum diatur",
+      "negara": "Teemoon",
       "squad_id": null,
       "hubungan_sosial": {
         "saudara": [],
@@ -4901,10 +4901,10 @@
         "teman_dekat": []
       },
       "pending_relasi": {},
-      "profil_lengkap": false,
+      "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789375889013,
-      "limit": 39,
+      "limit": 34,
       "last_reset": "2026-09-14T08:51:29.013Z",
       "achievements": [],
       "transactions": [],
@@ -6100,21 +6100,22 @@
         "year": 2034,
         "members": {
           "6283138226730@s.whatsapp.net": true,
-          "6282292961437@s.whatsapp.net": true
+          "6282292961437@s.whatsapp.net": true,
+          "6283151148146@s.whatsapp.net": true
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 34.04053756488522,
+        "inflation": 34.381186921594264,
         "gdp": {
-          "__bigint__": "1222186816"
+          "__bigint__": "1221453652"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.340405375648852,
-        "unemployment": 15.398573551975575,
+        "prices": 1.3438118692159426,
+        "unemployment": 15.058237763904268,
         "stability": 0,
-        "approval": 26.932795149445234,
+        "approval": 25.59676649424316,
         "welfare": 100,
         "military": 100,
         "corruption": 41,
@@ -6130,9 +6131,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 78.66855311109146,
-          "energy": 99.78401071883272,
-          "raw": 98.44392333200068
+          "food": 78.38522420587793,
+          "energy": 100,
+          "raw": 97.28947428007926
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6152,7 +6153,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789313255739,
+        "last_tick": 1789314155745,
         "last_tax_day": "2026-09-13",
         "last_news": 1789311155700,
         "last_election_month": "2026-09",
@@ -6161,7 +6162,8 @@
     },
     "countryByUser": {
       "6283138226730@s.whatsapp.net": "teemoon",
-      "6282292961437@s.whatsapp.net": "teemoon"
+      "6282292961437@s.whatsapp.net": "teemoon",
+      "6283151148146@s.whatsapp.net": "teemoon"
     },
     "jackpot_pool": {
       "__bigint__": "254868933965"
