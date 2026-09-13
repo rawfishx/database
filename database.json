@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10810"
+        "__bigint__": "10850"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1224,7 +1224,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "43280"
+        "__bigint__": "43330"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1717,7 +1717,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15930"
+        "__bigint__": "16010"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -6103,17 +6103,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 28.844475938100334,
+        "inflation": 29.03269174400215,
         "gdp": {
-          "__bigint__": "1228805125"
+          "__bigint__": "1228067991"
         },
         "treasury": {
           "__bigint__": "492537309"
         },
-        "prices": 1.2884447593810033,
-        "unemployment": 15.364352199413887,
+        "prices": 1.2903269174400216,
+        "unemployment": 14.90401787850498,
         "stability": 0,
-        "approval": 44.89738968821021,
+        "approval": 44.05867807839156,
         "welfare": 100,
         "military": 100,
         "corruption": 35,
@@ -6129,9 +6129,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 77.75427397037875,
-          "energy": 99.0691847683137,
-          "raw": 97.67916575901542
+          "food": 79.38539914090015,
+          "energy": 99.22336815104198,
+          "raw": 97.40977922050209
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6151,7 +6151,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789305155535,
+        "last_tick": 1789306055557,
         "last_tax_day": "2026-09-13",
         "last_news": 1789302755500,
         "last_election_month": "2026-09",
