@@ -4310,7 +4310,7 @@
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2885"
+        "__bigint__": "2895"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4561,13 +4561,13 @@
       "registered_at": 1789131119111,
       "name": "alexa",
       "uang": {
-        "__bigint__": "571000"
+        "__bigint__": "671000"
       },
       "level": {
-        "__bigint__": "3"
+        "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "1645"
+        "__bigint__": "1890"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4618,7 +4618,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 20,
+      "diamond": 30,
       "negara": "indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -4638,7 +4638,7 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "last_diamond_bonus": "2026-09-12",
+      "last_diamond_bonus": "2026-09-13",
       "limit_reset_notified_at": 1789213924850
     },
     "6281959150453@s.whatsapp.net": {
@@ -6000,18 +6000,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 17.226073609191253,
+        "inflation": 17.40741204592113,
         "gdp": {
-          "__bigint__": "1195094405"
+          "__bigint__": "1174381493"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.1722607360919126,
-        "unemployment": 11.901413672544631,
+        "prices": 1.1740741204592113,
+        "unemployment": 15.77661312715324,
         "stability": 0,
-        "approval": 58.87075163200033,
-        "welfare": 100,
+        "approval": 56.69901317034808,
+        "welfare": 98,
         "military": 100,
         "corruption": 35,
         "import_tariff": 5,
@@ -6026,9 +6026,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 80.11956994431627,
-          "energy": 93.50249504252504,
-          "raw": 98.81819476870977
+          "food": 80.45216419633698,
+          "energy": 94.92533278077829,
+          "raw": 97.87330517320336
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6042,15 +6042,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 25,
+          "events": 26,
           "wars": 0,
           "scandals": 5,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789277525203,
+        "last_tick": 1789278425205,
         "last_tax_day": "2026-09-13",
-        "last_news": 1789274225181,
+        "last_news": 1789278125206,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
