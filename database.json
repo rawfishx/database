@@ -1704,13 +1704,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "0"
+        "__bigint__": "100000000"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15505"
+        "__bigint__": "15520"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1783,6 +1783,13 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "100000000"
+          },
+          "timestamp": 1789285539919
+        },
         {
           "type": "saving",
           "amount": {
@@ -2107,9 +2114,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "1411983736457"
+          "__bigint__": "1416123624728"
         },
-        "last_interest": 1789273016413
+        "last_interest": 1789283816413
       },
       "frames": [],
       "active_frame": null,
@@ -4314,13 +4321,13 @@
       "registered_at": 1789130172970,
       "name": "Ririn",
       "uang": {
-        "__bigint__": "1055000"
+        "__bigint__": "1105000"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "2895"
+        "__bigint__": "3015"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -6011,17 +6018,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 18.542134991780824,
+        "inflation": 18.677289989317728,
         "gdp": {
-          "__bigint__": "1169458954"
+          "__bigint__": "1168757420"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.1854213499178083,
-        "unemployment": 15.86801267094762,
+        "prices": 1.1867728998931772,
+        "unemployment": 15.747104561885704,
         "stability": 0,
-        "approval": 43.541893443232624,
+        "approval": 43.383226393299,
         "welfare": 100,
         "military": 100,
         "corruption": 33,
@@ -6037,9 +6044,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 81.59853368904416,
-          "energy": 98.59276627753205,
-          "raw": 100
+          "food": 82.84926810731942,
+          "energy": 100,
+          "raw": 99.56640644175013
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6059,7 +6066,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789284725337,
+        "last_tick": 1789285625363,
         "last_tax_day": "2026-09-13",
         "last_news": 1789282625246,
         "last_election_month": "2026-09",
