@@ -1224,7 +1224,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42740"
+        "__bigint__": "42915"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1717,7 +1717,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15645"
+        "__bigint__": "15720"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -4518,9 +4518,9 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": true,
-      "limit_reset_at": 1789295884523,
+      "limit_reset_at": 1789378709529,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-13T10:38:04.523Z",
+      "last_reset": "2026-09-14T09:38:29.529Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -4538,7 +4538,7 @@
         },
         "last_interest": 1789200967735
       },
-      "limit_reset_notified_at": 1789213084523
+      "limit_reset_notified_at": 1789295909529
     },
     "6287890379353@s.whatsapp.net": {
       "uid": 10049,
@@ -4610,16 +4610,16 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": false,
-      "limit_reset_at": 1789295884523,
+      "limit_reset_at": 1789378709529,
       "limit": 40,
-      "last_reset": "2026-09-13T10:38:04.523Z",
+      "last_reset": "2026-09-14T09:38:29.529Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789213084523
+      "limit_reset_notified_at": 1789295909529
     },
     "6281391893131@s.whatsapp.net": {
       "uid": 10050,
@@ -6068,18 +6068,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 25.38931597521721,
+        "inflation": 25.426955628811957,
         "gdp": {
-          "__bigint__": "1210898540"
+          "__bigint__": "1210172148"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.253893159752172,
-        "unemployment": 16.590721788345885,
+        "prices": 1.2542695562881196,
+        "unemployment": 15.943457114989812,
         "stability": 0,
-        "approval": 44.26409897667052,
-        "welfare": 99,
+        "approval": 43.6873625146676,
+        "welfare": 100,
         "military": 100,
         "corruption": 33,
         "import_tariff": 5,
@@ -6094,9 +6094,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 79.6795048807552,
-          "energy": 98.51068115951355,
-          "raw": 99.33481764940902
+          "food": 80.40979389721956,
+          "energy": 99.43119439463156,
+          "raw": 100
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6116,7 +6116,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789295525606,
+        "last_tick": 1789296425631,
         "last_tax_day": "2026-09-13",
         "last_news": 1789294625598,
         "last_election_month": "2026-09",
