@@ -6269,17 +6269,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 43.85757820332866,
+        "inflation": 43.96394950641285,
         "gdp": {
-          "__bigint__": "1230389887"
+          "__bigint__": "1229651803"
         },
         "treasury": {
           "__bigint__": "500066099"
         },
-        "prices": 1.4385757820332865,
-        "unemployment": 15.80124091290473,
+        "prices": 1.4396394950641285,
+        "unemployment": 16.175860959760424,
         "stability": 0,
-        "approval": 0.4054879497651658,
+        "approval": 0.15,
         "welfare": 100,
         "military": 100,
         "corruption": 53,
@@ -6295,9 +6295,9 @@
           "transport": 55
         },
         "resources": {
-          "food": 60.46750407784134,
-          "energy": 82.37896066934886,
-          "raw": 95.2592053556291
+          "food": 60.25530248876243,
+          "energy": 84.02422259361042,
+          "raw": 94.54023689228673
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6317,14 +6317,14 @@
           "homeless": 1,
           "elections": 1
         },
-        "last_tick": 1789334860548,
+        "last_tick": 1789335760574,
         "last_tax_day": "2026-09-14",
         "last_news": 1789332160470,
         "last_election_month": "2026-09",
         "last_election_year": 2026,
         "influence": 547,
         "national_wealth": {
-          "__bigint__": "1730455986"
+          "__bigint__": "1729717902"
         }
       },
       "indonesia": {
@@ -6338,17 +6338,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 5,
-        "inflation": 5.91881449582547,
+        "inflation": 5.755369482887376,
         "gdp": {
-          "__bigint__": "100662116357"
+          "__bigint__": "100722525706"
         },
         "treasury": {
           "__bigint__": "24997500000"
         },
-        "prices": 1.0591881449582548,
-        "unemployment": 5.305113577334357,
-        "stability": 86.84922440893655,
-        "approval": 82.01268773794537,
+        "prices": 1.0575536948288737,
+        "unemployment": 5.385502242512664,
+        "stability": 87.15644513314473,
+        "approval": 81.99691068031501,
         "welfare": 71,
         "military": 50,
         "corruption": 10,
@@ -6364,1566 +6364,8 @@
           "transport": 55
         },
         "resources": {
-          "food": 97.4325070296272,
-          "energy": 84.15271634084601,
-          "raw": 99.87925113709318
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860548,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789332460470,
-        "preset": true,
-        "influence": 763,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125659616357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "jepang": {
-        "id": "jepang",
-        "name": "Jepang",
-        "flag": "🇯🇵",
-        "capital": "Tokyo",
-        "owner": null,
-        "founded_at": 1789324449757,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 2.257613545881517,
-        "gdp": {
-          "__bigint__": "100687276853"
-        },
-        "treasury": {
-          "__bigint__": "25002500000"
-        },
-        "prices": 1.0225761354588152,
-        "unemployment": 6.0188171702601485,
-        "stability": 83.239942638903,
-        "approval": 81.94073097072533,
-        "welfare": 68,
-        "military": 50,
-        "corruption": 14,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 97.9681834545057,
-          "energy": 96.45303705959375,
-          "raw": 98.66781688389791
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860548,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333360494,
-        "preset": true,
-        "influence": 761,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125689776853"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "korea-selatan": {
-        "id": "korea-selatan",
-        "name": "Korea Selatan",
-        "flag": "🇰🇷",
-        "capital": "Seoul",
-        "owner": null,
-        "founded_at": 1789324449757,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 5.647185605953018,
-        "gdp": {
-          "__bigint__": "100687141367"
-        },
-        "treasury": {
-          "__bigint__": "25005000000"
-        },
-        "prices": 1.05647185605953,
-        "unemployment": 7.084483224680437,
-        "stability": 84.40924653133055,
-        "approval": 87.02877294316231,
-        "welfare": 67,
-        "military": 50,
-        "corruption": 8,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 97.67842017629539,
-          "energy": 99.53483084851483,
-          "raw": 95.87479319253788
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860548,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333360494,
-        "preset": true,
-        "influence": 762,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125692141367"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "china": {
-        "id": "china",
-        "name": "China",
-        "flag": "🇨🇳",
-        "capital": "Beijing",
-        "owner": null,
-        "founded_at": 1789324449757,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 2.6075862436591155,
-        "gdp": {
-          "__bigint__": "100712316737"
-        },
-        "treasury": {
-          "__bigint__": "24997500000"
-        },
-        "prices": 1.026075862436591,
-        "unemployment": 2.781340301511811,
-        "stability": 81.85420356289488,
-        "approval": 78.55645550068253,
-        "welfare": 68,
-        "military": 50,
-        "corruption": 14,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 63,
-          "transport": 60
-        },
-        "resources": {
-          "food": 97.93086840509045,
-          "energy": 97.3475022835382,
-          "raw": 98.7716881997533
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860549,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333060494,
-        "preset": true,
-        "influence": 759,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125709816737"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "amerika-serikat": {
-        "id": "amerika-serikat",
-        "name": "Amerika Serikat",
-        "flag": "🇺🇸",
-        "capital": "Washington, D.C.",
-        "owner": null,
-        "founded_at": 1789324449757,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 4.381572877407491,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "24995000000"
-        },
-        "prices": 1.0438157287740748,
-        "unemployment": 5.430334678703591,
-        "stability": 83.68584199100559,
-        "approval": 73.26729254828699,
-        "welfare": 68,
-        "military": 50,
-        "corruption": 16,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 79.12457280231212,
-          "energy": 100,
-          "raw": 97.81355387451865
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860549,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333360495,
-        "preset": true,
-        "influence": 761,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125657116357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "inggris": {
-        "id": "inggris",
-        "name": "Inggris",
-        "flag": "🇬🇧",
-        "capital": "London",
-        "owner": null,
-        "founded_at": 1789324449757,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 3.1002695797823816,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "24995000000"
-        },
-        "prices": 1.0310026957978238,
-        "unemployment": 3.700492612349051,
-        "stability": 83.23969806305757,
-        "approval": 73.46015201335537,
-        "welfare": 72,
-        "military": 50,
-        "corruption": 16,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 55
-        },
-        "resources": {
-          "food": 93.29519828403608,
-          "energy": 82.35411238109431,
-          "raw": 99.50440307460461
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860549,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789332460472,
-        "preset": true,
-        "influence": 761,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125657116357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "prancis": {
-        "id": "prancis",
-        "name": "Prancis",
-        "flag": "🇫🇷",
-        "capital": "Paris",
-        "owner": null,
-        "founded_at": 1789324449758,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 1,
-        "inflation": 2.4858036313748597,
-        "gdp": {
-          "__bigint__": "100621963948"
-        },
-        "treasury": {
-          "__bigint__": "25000000000"
-        },
-        "prices": 1.0248580363137485,
-        "unemployment": 13.699707426059705,
-        "stability": 95.39642582366015,
-        "approval": 84.23253976181311,
-        "welfare": 89,
-        "military": 50,
-        "corruption": 8,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 81.25483691755505,
-          "energy": 99.9250164774951,
-          "raw": 98.60926828778031
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860549,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333060495,
-        "preset": true,
-        "influence": 770,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125621963948"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "jerman": {
-        "id": "jerman",
-        "name": "Jerman",
-        "flag": "🇩🇪",
-        "capital": "Berlin",
-        "owner": null,
-        "founded_at": 1789324449758,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 1,
-        "inflation": -3.729831712541643,
-        "gdp": {
-          "__bigint__": "100641987960"
-        },
-        "treasury": {
-          "__bigint__": "25000000000"
-        },
-        "prices": 0.9627016828745836,
-        "unemployment": 9.787834079919804,
-        "stability": 100,
-        "approval": 98.02764842811933,
-        "welfare": 100,
-        "military": 50,
-        "corruption": 8,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 95.47412300195647,
-          "energy": 95.95286536089544,
-          "raw": 97.5304979042622
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860549,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789332760472,
-        "preset": true,
-        "influence": 774,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125641987960"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "italia": {
-        "id": "italia",
-        "name": "Italia",
-        "flag": "🇮🇹",
-        "capital": "Roma",
-        "owner": null,
-        "founded_at": 1789324449758,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 1,
-        "inflation": -0.5819329070809479,
-        "gdp": {
-          "__bigint__": "100642036205"
-        },
-        "treasury": {
-          "__bigint__": "24997500000"
-        },
-        "prices": 0.9941806709291905,
-        "unemployment": 8.803240722754934,
-        "stability": 90.01239301643275,
-        "approval": 66.50090171737762,
-        "welfare": 100,
-        "military": 50,
-        "corruption": 12,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 96.11664744830013,
-          "energy": 95.44056479923015,
-          "raw": 95.18932736364624
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860549,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333660522,
-        "preset": true,
-        "influence": 765,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125639536205"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "brasil": {
-        "id": "brasil",
-        "name": "Brasil",
-        "flag": "🇧🇷",
-        "capital": "Brasilia",
-        "owner": null,
-        "founded_at": 1789324449758,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 3.322228494368343,
-        "gdp": {
-          "__bigint__": "100642096350"
-        },
-        "treasury": {
-          "__bigint__": "24997500000"
-        },
-        "prices": 1.0332222849436834,
-        "unemployment": 8.266475791824663,
-        "stability": 85.95419785211838,
-        "approval": 80.69947217076498,
-        "welfare": 72,
-        "military": 50,
-        "corruption": 10,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 55
-        },
-        "resources": {
-          "food": 97.79138026306809,
-          "energy": 84.28766676584085,
-          "raw": 98.65912962489774
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860550,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333360496,
-        "preset": true,
-        "influence": 763,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125639596350"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "india": {
-        "id": "india",
-        "name": "India",
-        "flag": "🇮🇳",
-        "capital": "New Delhi",
-        "owner": null,
-        "founded_at": 1789324449758,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 0.16744908694487698,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "25000000000"
-        },
-        "prices": 1.0016744908694488,
-        "unemployment": 5.225298644073583,
-        "stability": 80.44341649910317,
-        "approval": 77.46663014580723,
-        "welfare": 74,
-        "military": 50,
-        "corruption": 6,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 84.2218760367756,
-          "energy": 99.85525874845817,
-          "raw": 99.385794491839
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860550,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789332760472,
-        "preset": true,
-        "influence": 758,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125662116357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "arab-saudi": {
-        "id": "arab-saudi",
-        "name": "Arab Saudi",
-        "flag": "🇸🇦",
-        "capital": "Riyadh",
-        "owner": null,
-        "founded_at": 1789324449758,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 2.0470778448794302,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "25000000000"
-        },
-        "prices": 1.0204707784487943,
-        "unemployment": 4.831983684656709,
-        "stability": 88.87649176151679,
-        "approval": 85.86032820947298,
-        "welfare": 74,
-        "military": 50,
-        "corruption": 8,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 55
-        },
-        "resources": {
-          "food": 81.86432187859471,
-          "energy": 84.77781012251748,
-          "raw": 97.1521335401954
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860550,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789332760473,
-        "preset": true,
-        "influence": 765,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125662116357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "australia": {
-        "id": "australia",
-        "name": "Australia",
-        "flag": "🇦🇺",
-        "capital": "Canberra",
-        "owner": null,
-        "founded_at": 1789324449758,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 6.812181690742545,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "25000000000"
-        },
-        "prices": 1.0681218169074254,
-        "unemployment": 6.609493694444273,
-        "stability": 86.50033361810088,
-        "approval": 81.5402938189658,
-        "welfare": 71,
-        "military": 50,
-        "corruption": 8,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 50
-        },
-        "resources": {
-          "food": 97.3387816442185,
-          "energy": 62.09737651604187,
-          "raw": 96.8762398314821
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860550,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333360497,
-        "preset": true,
-        "influence": 763,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125662116357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "kanada": {
-        "id": "kanada",
-        "name": "Kanada",
-        "flag": "🇨🇦",
-        "capital": "Ottawa",
-        "owner": null,
-        "founded_at": 1789324449758,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 0.5371013107536952,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "24995000000"
-        },
-        "prices": 1.0053710131075368,
-        "unemployment": 5.412435985154662,
-        "stability": 91.1441205942198,
-        "approval": 90.15032133025511,
-        "welfare": 78,
-        "military": 50,
-        "corruption": 12,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 96.98841951718238,
-          "energy": 100,
-          "raw": 97.60763603783568
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860550,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333360497,
-        "preset": true,
-        "influence": 767,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125657116357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "malaysia": {
-        "id": "malaysia",
-        "name": "Malaysia",
-        "flag": "🇲🇾",
-        "capital": "Kuala Lumpur",
-        "owner": null,
-        "founded_at": 1789324449759,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 0.14150201524621522,
-        "gdp": {
-          "__bigint__": "100737346752"
-        },
-        "treasury": {
-          "__bigint__": "25002500000"
-        },
-        "prices": 1.001415020152462,
-        "unemployment": 3.727355823245342,
-        "stability": 84.14646021188355,
-        "approval": 85.96965381563903,
-        "welfare": 72,
-        "military": 50,
-        "corruption": 14,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 63,
-          "transport": 60
-        },
-        "resources": {
-          "food": 96.2916826559565,
-          "energy": 98.9991661770694,
-          "raw": 98.8784920320025
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860550,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333060496,
-        "preset": true,
-        "influence": 761,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125739846752"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "singapura": {
-        "id": "singapura",
-        "name": "Singapura",
-        "flag": "🇸🇬",
-        "capital": "Singapore",
-        "owner": null,
-        "founded_at": 1789324449759,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 1,
-        "inflation": 0.7180448522313544,
-        "gdp": {
-          "__bigint__": "100621996149"
-        },
-        "treasury": {
-          "__bigint__": "24997500000"
-        },
-        "prices": 1.0071804485223135,
-        "unemployment": 14.336250842763521,
-        "stability": 99.34940724667118,
-        "approval": 73.64933603524928,
-        "welfare": 100,
-        "military": 50,
-        "corruption": 14,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 98.89067572080398,
-          "energy": 99.78391064612535,
-          "raw": 98.29651016243825
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860551,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789332460473,
-        "preset": true,
-        "influence": 773,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125619496149"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "thailand": {
-        "id": "thailand",
-        "name": "Thailand",
-        "flag": "🇹🇭",
-        "capital": "Bangkok",
-        "owner": null,
-        "founded_at": 1789324449759,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 4.574530402944575,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "24995000000"
-        },
-        "prices": 1.0457453040294458,
-        "unemployment": 6.458127569401183,
-        "stability": 81.16447867273756,
-        "approval": 72.5876776354438,
-        "welfare": 68,
-        "military": 50,
-        "corruption": 16,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 98.51746517710849,
-          "energy": 95.17679581014963,
-          "raw": 98.96105069512328
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860551,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789332460474,
-        "preset": true,
-        "influence": 759,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125657116357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "vietnam": {
-        "id": "vietnam",
-        "name": "Vietnam",
-        "flag": "🇻🇳",
-        "capital": "Hanoi",
-        "owner": null,
-        "founded_at": 1789324449759,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 5.579608863219948,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "24997500000"
-        },
-        "prices": 1.0557960886321995,
-        "unemployment": 8.170044465458446,
-        "stability": 78.62477329096475,
-        "approval": 71.4691850519862,
-        "welfare": 64,
-        "military": 50,
-        "corruption": 14,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 97.69705105724584,
-          "energy": 95.13678450547198,
-          "raw": 96.16212177807115
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 1,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860551,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333060497,
-        "preset": true,
-        "influence": 757,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125659616357"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "rusia": {
-        "id": "rusia",
-        "name": "Rusia",
-        "flag": "🇷🇺",
-        "capital": "Moskow",
-        "owner": null,
-        "founded_at": 1789324449759,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 0.24009835407610677,
-        "gdp": {
-          "__bigint__": "100687216547"
-        },
-        "treasury": {
-          "__bigint__": "25005000000"
-        },
-        "prices": 1.002400983540761,
-        "unemployment": 5.700158495175769,
-        "stability": 89.92540880098592,
-        "approval": 93.50455782777198,
-        "welfare": 74,
-        "military": 50,
-        "corruption": 8,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 87.33799705552546,
-          "energy": 95.39145050443746,
-          "raw": 98.51970899662491
-        },
-        "automatic_government": true,
-        "automatic_news": true,
-        "automatic_war": false,
-        "war_with": {},
-        "treaties": {},
-        "cabinet": {
-          "wapres": null,
-          "menkeu": null,
-          "menhan": null,
-          "mensos": null,
-          "menlu": null
-        },
-        "stats": {
-          "tax_collected": {
-            "__bigint__": "0"
-          },
-          "subsidies": {
-            "__bigint__": "0"
-          },
-          "events": 3,
-          "wars": 0,
-          "scandals": 0,
-          "homeless": 0,
-          "elections": 0
-        },
-        "last_election_year": null,
-        "last_election_month": "2026-09",
-        "last_tick": 1789334860551,
-        "last_tax_day": "2026-09-14",
-        "last_news": 1789333060497,
-        "preset": true,
-        "influence": 766,
-        "diplomacy": 70,
-        "trade_power": 60,
-        "national_wealth": {
-          "__bigint__": "125692216547"
-        },
-        "projects": [],
-        "alliances": {},
-        "prestige": 100
-      },
-      "turki": {
-        "id": "turki",
-        "name": "Turki",
-        "flag": "🇹🇷",
-        "capital": "Ankara",
-        "owner": null,
-        "founded_at": 1789324449759,
-        "year": 2026,
-        "members": {},
-        "groups": {},
-        "tax_rate": 5,
-        "inflation": 6.832342851904525,
-        "gdp": {
-          "__bigint__": "100662116357"
-        },
-        "treasury": {
-          "__bigint__": "24997500000"
-        },
-        "prices": 1.0683234285190453,
-        "unemployment": 6.135258035472869,
-        "stability": 86.52456573515259,
-        "approval": 80.64113528086584,
-        "welfare": 67,
-        "military": 50,
-        "corruption": 10,
-        "import_tariff": 5,
-        "minimum_wage": 0,
-        "citizen_subsidy": {
-          "__bigint__": "0"
-        },
-        "property_tax": 0.5,
-        "services": {
-          "healthcare": 60,
-          "education": 60,
-          "transport": 60
-        },
-        "resources": {
-          "food": 78.06089923902145,
-          "energy": 97.69550171090562,
+          "food": 96.65444523895016,
+          "energy": 85.32015949726483,
           "raw": 100
         },
         "automatic_government": true,
@@ -7953,7 +6395,1565 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789334860551,
+        "last_tick": 1789335760574,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789332460470,
+        "preset": true,
+        "influence": 764,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125720025706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "jepang": {
+        "id": "jepang",
+        "name": "Jepang",
+        "flag": "🇯🇵",
+        "capital": "Tokyo",
+        "owner": null,
+        "founded_at": 1789324449757,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 2.0792203294611467,
+        "gdp": {
+          "__bigint__": "100747701301"
+        },
+        "treasury": {
+          "__bigint__": "25002500000"
+        },
+        "prices": 1.0207922032946115,
+        "unemployment": 6.159718439274707,
+        "stability": 83.65403257944956,
+        "approval": 81.93082084371761,
+        "welfare": 68,
+        "military": 50,
+        "corruption": 14,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 98.78303899154251,
+          "energy": 96.11424336245021,
+          "raw": 97.34165721457636
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760574,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333360494,
+        "preset": true,
+        "influence": 761,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125750201301"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "korea-selatan": {
+        "id": "korea-selatan",
+        "name": "Korea Selatan",
+        "flag": "🇰🇷",
+        "capital": "Seoul",
+        "owner": null,
+        "founded_at": 1789324449757,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 5.502508339833344,
+        "gdp": {
+          "__bigint__": "100747565734"
+        },
+        "treasury": {
+          "__bigint__": "25005000000"
+        },
+        "prices": 1.0550250833983335,
+        "unemployment": 7.2248943954734575,
+        "stability": 84.79717735154411,
+        "approval": 86.96443976035957,
+        "welfare": 67,
+        "military": 50,
+        "corruption": 8,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 98.54553896536838,
+          "energy": 99.92209313939273,
+          "raw": 97.36130821844995
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760575,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333360494,
+        "preset": true,
+        "influence": 762,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125752565734"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "china": {
+        "id": "china",
+        "name": "China",
+        "flag": "🇨🇳",
+        "capital": "Beijing",
+        "owner": null,
+        "founded_at": 1789324449757,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 2.4698389256991837,
+        "gdp": {
+          "__bigint__": "100772756212"
+        },
+        "treasury": {
+          "__bigint__": "24997500000"
+        },
+        "prices": 1.0246983892569919,
+        "unemployment": 3.001525725830267,
+        "stability": 82.20684674743715,
+        "approval": 78.52537778938593,
+        "welfare": 68,
+        "military": 50,
+        "corruption": 14,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 63,
+          "transport": 60
+        },
+        "resources": {
+          "food": 98.70049564816097,
+          "energy": 97.9340030753022,
+          "raw": 97.59234205541748
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760575,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333060494,
+        "preset": true,
+        "influence": 760,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125770256212"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "amerika-serikat": {
+        "id": "amerika-serikat",
+        "name": "Amerika Serikat",
+        "flag": "🇺🇸",
+        "capital": "Washington, D.C.",
+        "owner": null,
+        "founded_at": 1789324449757,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 4.2879189028429225,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "24995000000"
+        },
+        "prices": 1.0428791890284292,
+        "unemployment": 5.593961904457663,
+        "stability": 83.90355363291542,
+        "approval": 73.06672036635558,
+        "welfare": 68,
+        "military": 50,
+        "corruption": 16,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 78.8512291579469,
+          "energy": 99.28461466359866,
+          "raw": 97.69926872578888
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760575,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333360495,
+        "preset": true,
+        "influence": 761,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125717525706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "inggris": {
+        "id": "inggris",
+        "name": "Inggris",
+        "flag": "🇬🇧",
+        "capital": "London",
+        "owner": null,
+        "founded_at": 1789324449757,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 2.855779354889685,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "24995000000"
+        },
+        "prices": 1.0285577935488968,
+        "unemployment": 3.7658959061008392,
+        "stability": 83.50445652633644,
+        "approval": 73.46583261180308,
+        "welfare": 72,
+        "military": 50,
+        "corruption": 16,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 55
+        },
+        "resources": {
+          "food": 93.99826767134954,
+          "energy": 81.70105684260623,
+          "raw": 99.57239897039236
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760575,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789332460472,
+        "preset": true,
+        "influence": 761,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125717525706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "prancis": {
+        "id": "prancis",
+        "name": "Prancis",
+        "flag": "🇫🇷",
+        "capital": "Paris",
+        "owner": null,
+        "founded_at": 1789324449758,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 1,
+        "inflation": 2.4778947272158445,
+        "gdp": {
+          "__bigint__": "100682349200"
+        },
+        "treasury": {
+          "__bigint__": "25000000000"
+        },
+        "prices": 1.0247789472721585,
+        "unemployment": 13.697014647549592,
+        "stability": 95.8397302956211,
+        "approval": 85.01434870379595,
+        "welfare": 89,
+        "military": 50,
+        "corruption": 8,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 81.68829989604103,
+          "energy": 98.81842822069939,
+          "raw": 97.19899843535423
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760575,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333060495,
+        "preset": true,
+        "influence": 771,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125682349200"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "jerman": {
+        "id": "jerman",
+        "name": "Jerman",
+        "flag": "🇩🇪",
+        "capital": "Berlin",
+        "owner": null,
+        "founded_at": 1789324449758,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 1,
+        "inflation": -3.7448400403122957,
+        "gdp": {
+          "__bigint__": "100702385229"
+        },
+        "treasury": {
+          "__bigint__": "25000000000"
+        },
+        "prices": 0.9625515995968771,
+        "unemployment": 9.905559119363753,
+        "stability": 100,
+        "approval": 99.51206584733815,
+        "welfare": 100,
+        "military": 50,
+        "corruption": 8,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 95.3748026181037,
+          "energy": 97.44830066632332,
+          "raw": 97.88272041854847
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760576,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789332760472,
+        "preset": true,
+        "influence": 774,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125702385229"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "italia": {
+        "id": "italia",
+        "name": "Italia",
+        "flag": "🇮🇹",
+        "capital": "Roma",
+        "owner": null,
+        "founded_at": 1789324449758,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 1,
+        "inflation": -0.7697713455960629,
+        "gdp": {
+          "__bigint__": "100702433503"
+        },
+        "treasury": {
+          "__bigint__": "24997500000"
+        },
+        "prices": 0.9923022865440394,
+        "unemployment": 8.338567418601217,
+        "stability": 93.28775367809662,
+        "approval": 67.68477038038543,
+        "welfare": 100,
+        "military": 50,
+        "corruption": 12,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 95.84168009943622,
+          "energy": 95.7208731395922,
+          "raw": 95.7548027888156
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760576,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333660522,
+        "preset": true,
+        "influence": 768,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125699933503"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "brasil": {
+        "id": "brasil",
+        "name": "Brasil",
+        "flag": "🇧🇷",
+        "capital": "Brasilia",
+        "owner": null,
+        "founded_at": 1789324449758,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 2.963024286270818,
+        "gdp": {
+          "__bigint__": "100702493684"
+        },
+        "treasury": {
+          "__bigint__": "24997500000"
+        },
+        "prices": 1.0296302428627082,
+        "unemployment": 8.49762702100193,
+        "stability": 86.3230638720472,
+        "approval": 80.87451467302523,
+        "welfare": 72,
+        "military": 50,
+        "corruption": 10,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 55
+        },
+        "resources": {
+          "food": 98.51381971989841,
+          "energy": 82.73670727073775,
+          "raw": 98.88917777001669
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760576,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333360496,
+        "preset": true,
+        "influence": 763,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125699993684"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "india": {
+        "id": "india",
+        "name": "India",
+        "flag": "🇮🇳",
+        "capital": "New Delhi",
+        "owner": null,
+        "founded_at": 1789324449758,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": -0.011930812518945871,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "25000000000"
+        },
+        "prices": 0.9998806918748105,
+        "unemployment": 5.1015285409844005,
+        "stability": 80.85738409235674,
+        "approval": 78.005192890697,
+        "welfare": 74,
+        "military": 50,
+        "corruption": 6,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 84.38607933291708,
+          "energy": 97.79685553652183,
+          "raw": 98.71118488319665
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760576,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789332760472,
+        "preset": true,
+        "influence": 759,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125722525706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "arab-saudi": {
+        "id": "arab-saudi",
+        "name": "Arab Saudi",
+        "flag": "🇸🇦",
+        "capital": "Riyadh",
+        "owner": null,
+        "founded_at": 1789324449758,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 1.774963564065587,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "25000000000"
+        },
+        "prices": 1.017749635640656,
+        "unemployment": 4.81425483507298,
+        "stability": 89.36039810249298,
+        "approval": 86.22868758632022,
+        "welfare": 74,
+        "military": 50,
+        "corruption": 8,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 55
+        },
+        "resources": {
+          "food": 80.37358205958138,
+          "energy": 84.72929620295092,
+          "raw": 96.60209536263785
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760576,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789332760473,
+        "preset": true,
+        "influence": 765,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125722525706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "australia": {
+        "id": "australia",
+        "name": "Australia",
+        "flag": "🇦🇺",
+        "capital": "Canberra",
+        "owner": null,
+        "founded_at": 1789324449758,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 6.60243416422527,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "25000000000"
+        },
+        "prices": 1.0660243416422528,
+        "unemployment": 6.78004987737391,
+        "stability": 86.7726839264325,
+        "approval": 81.52893778873037,
+        "welfare": 71,
+        "military": 50,
+        "corruption": 8,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 50
+        },
+        "resources": {
+          "food": 98.94738841660585,
+          "energy": 62.770051476121274,
+          "raw": 97.41140939152596
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760576,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333360497,
+        "preset": true,
+        "influence": 763,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125722525706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "kanada": {
+        "id": "kanada",
+        "name": "Kanada",
+        "flag": "🇨🇦",
+        "capital": "Ottawa",
+        "owner": null,
+        "founded_at": 1789324449758,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 0.3174761802025641,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "24995000000"
+        },
+        "prices": 1.0031747618020257,
+        "unemployment": 5.04252087844849,
+        "stability": 91.73734803103443,
+        "approval": 90.6077148575542,
+        "welfare": 78,
+        "military": 50,
+        "corruption": 12,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 96.55690271327276,
+          "energy": 99.08646640134361,
+          "raw": 97.68670426333067
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760577,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333360497,
+        "preset": true,
+        "influence": 767,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125717525706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "malaysia": {
+        "id": "malaysia",
+        "name": "Malaysia",
+        "flag": "🇲🇾",
+        "capital": "Kuala Lumpur",
+        "owner": null,
+        "founded_at": 1789324449759,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": -0.14138726660891895,
+        "gdp": {
+          "__bigint__": "100797801248"
+        },
+        "treasury": {
+          "__bigint__": "25002500000"
+        },
+        "prices": 0.9985861273339108,
+        "unemployment": 3.5497038687293077,
+        "stability": 84.68928254575565,
+        "approval": 86.21379874941982,
+        "welfare": 72,
+        "military": 50,
+        "corruption": 14,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 63,
+          "transport": 60
+        },
+        "resources": {
+          "food": 97.68508201706389,
+          "energy": 97.84256866315214,
+          "raw": 98.7859529730766
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760577,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333060496,
+        "preset": true,
+        "influence": 762,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125800301248"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "singapura": {
+        "id": "singapura",
+        "name": "Singapura",
+        "flag": "🇸🇬",
+        "capital": "Singapore",
+        "owner": null,
+        "founded_at": 1789324449759,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 1,
+        "inflation": 0.8172623093646658,
+        "gdp": {
+          "__bigint__": "100682381421"
+        },
+        "treasury": {
+          "__bigint__": "24997500000"
+        },
+        "prices": 1.0081726230936467,
+        "unemployment": 13.98173850574509,
+        "stability": 100,
+        "approval": 74.68153442981091,
+        "welfare": 100,
+        "military": 50,
+        "corruption": 14,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 98.47997704651937,
+          "energy": 100,
+          "raw": 99.09565398367
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760577,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789332460473,
+        "preset": true,
+        "influence": 774,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125679881421"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "thailand": {
+        "id": "thailand",
+        "name": "Thailand",
+        "flag": "🇹🇭",
+        "capital": "Bangkok",
+        "owner": null,
+        "founded_at": 1789324449759,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 4.360319011594568,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "24995000000"
+        },
+        "prices": 1.0436031901159457,
+        "unemployment": 6.379044655266013,
+        "stability": 81.36996357335293,
+        "approval": 72.38308413081623,
+        "welfare": 68,
+        "military": 50,
+        "corruption": 16,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 97.58213065658968,
+          "energy": 94.43880727539019,
+          "raw": 99.66033703052031
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760577,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789332460474,
+        "preset": true,
+        "influence": 759,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125717525706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "vietnam": {
+        "id": "vietnam",
+        "name": "Vietnam",
+        "flag": "🇻🇳",
+        "capital": "Hanoi",
+        "owner": null,
+        "founded_at": 1789324449759,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 5.287046689646655,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "24997500000"
+        },
+        "prices": 1.0528704668964666,
+        "unemployment": 8.114606754621493,
+        "stability": 78.78420107581756,
+        "approval": 71.14721772568787,
+        "welfare": 64,
+        "military": 50,
+        "corruption": 14,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 96.61194815425344,
+          "energy": 96.95225287256704,
+          "raw": 95.43722130625457
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 1,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760577,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333060497,
+        "preset": true,
+        "influence": 757,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125720025706"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "rusia": {
+        "id": "rusia",
+        "name": "Rusia",
+        "flag": "🇷🇺",
+        "capital": "Moskow",
+        "owner": null,
+        "founded_at": 1789324449759,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": -0.08674338611695012,
+        "gdp": {
+          "__bigint__": "100747640959"
+        },
+        "treasury": {
+          "__bigint__": "25005000000"
+        },
+        "prices": 0.9991325661388305,
+        "unemployment": 6.064247672170868,
+        "stability": 90.58011003080527,
+        "approval": 93.98406958829368,
+        "welfare": 74,
+        "military": 50,
+        "corruption": 8,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 87.53058849567678,
+          "energy": 94.98903440203321,
+          "raw": 97.1285420846453
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760577,
+        "last_tax_day": "2026-09-14",
+        "last_news": 1789333060497,
+        "preset": true,
+        "influence": 766,
+        "diplomacy": 70,
+        "trade_power": 60,
+        "national_wealth": {
+          "__bigint__": "125752640959"
+        },
+        "projects": [],
+        "alliances": {},
+        "prestige": 100
+      },
+      "turki": {
+        "id": "turki",
+        "name": "Turki",
+        "flag": "🇹🇷",
+        "capital": "Ankara",
+        "owner": null,
+        "founded_at": 1789324449759,
+        "year": 2026,
+        "members": {},
+        "groups": {},
+        "tax_rate": 5,
+        "inflation": 6.691800308582924,
+        "gdp": {
+          "__bigint__": "100722525706"
+        },
+        "treasury": {
+          "__bigint__": "24997500000"
+        },
+        "prices": 1.0669180030858292,
+        "unemployment": 6.206820076522751,
+        "stability": 86.7808952198637,
+        "approval": 80.44652430701842,
+        "welfare": 67,
+        "military": 50,
+        "corruption": 10,
+        "import_tariff": 5,
+        "minimum_wage": 0,
+        "citizen_subsidy": {
+          "__bigint__": "0"
+        },
+        "property_tax": 0.5,
+        "services": {
+          "healthcare": 60,
+          "education": 60,
+          "transport": 60
+        },
+        "resources": {
+          "food": 77.96113894257822,
+          "energy": 99.19510600906192,
+          "raw": 99.00008175784467
+        },
+        "automatic_government": true,
+        "automatic_news": true,
+        "automatic_war": false,
+        "war_with": {},
+        "treaties": {},
+        "cabinet": {
+          "wapres": null,
+          "menkeu": null,
+          "menhan": null,
+          "mensos": null,
+          "menlu": null
+        },
+        "stats": {
+          "tax_collected": {
+            "__bigint__": "0"
+          },
+          "subsidies": {
+            "__bigint__": "0"
+          },
+          "events": 3,
+          "wars": 0,
+          "scandals": 0,
+          "homeless": 0,
+          "elections": 0
+        },
+        "last_election_year": null,
+        "last_election_month": "2026-09",
+        "last_tick": 1789335760578,
         "last_tax_day": "2026-09-14",
         "last_news": 1789332460474,
         "preset": true,
@@ -7961,7 +7961,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "125659616357"
+          "__bigint__": "125720025706"
         },
         "projects": [],
         "alliances": {},
