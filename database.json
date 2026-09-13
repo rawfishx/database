@@ -1700,7 +1700,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15495"
+        "__bigint__": "15505"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -2097,9 +2097,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "1386807877179"
+          "__bigint__": "1411983736457"
         },
-        "last_interest": 1789208216413
+        "last_interest": 1789273016413
       },
       "frames": [],
       "active_frame": null,
@@ -2109,7 +2109,7 @@
         "2": "suapi",
         "3": "buatanak"
       },
-      "diamond": 70,
+      "diamond": 80,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -2119,7 +2119,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-12",
+      "last_diamond_bonus": "2026-09-13",
       "limit_reset_at": 1789351042344,
       "daily": {
         "streak": 1,
@@ -4890,14 +4890,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "61286504512"
+        "__bigint__": "69036170368"
       },
-      "next_update": 1789194829149,
+      "next_update": 1789276652862,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "54982614472"
-        },
         {
           "__bigint__": "7185126392"
         },
@@ -4930,19 +4927,19 @@
         },
         {
           "__bigint__": "61286504512"
+        },
+        {
+          "__bigint__": "69036170368"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "428000"
+        "__bigint__": "662000"
       },
-      "next_update": 1789193689149,
+      "next_update": 1789275512862,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "303000"
-        },
         {
           "__bigint__": "876000"
         },
@@ -4975,19 +4972,19 @@
         },
         {
           "__bigint__": "428000"
+        },
+        {
+          "__bigint__": "662000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "17900000"
+        "__bigint__": "13500000"
       },
-      "next_update": 1789193929149,
-      "trend": "📈 Naik",
+      "next_update": 1789275752862,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "10900000"
-        },
         {
           "__bigint__": "14600000"
         },
@@ -5020,19 +5017,19 @@
         },
         {
           "__bigint__": "17900000"
+        },
+        {
+          "__bigint__": "13500000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "22000000"
+        "__bigint__": "44000000"
       },
-      "next_update": 1789194529149,
-      "trend": "📉 Turun",
+      "next_update": 1789276352862,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "30000000"
-        },
         {
           "__bigint__": "21000000"
         },
@@ -5065,19 +5062,19 @@
         },
         {
           "__bigint__": "22000000"
+        },
+        {
+          "__bigint__": "44000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "41000000"
+        "__bigint__": "42000000"
       },
-      "next_update": 1789195429149,
-      "trend": "📉 Turun",
+      "next_update": 1789277252862,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "44000000"
-        },
         {
           "__bigint__": "46000000"
         },
@@ -5110,19 +5107,19 @@
         },
         {
           "__bigint__": "41000000"
+        },
+        {
+          "__bigint__": "42000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1317000000"
+        "__bigint__": "1579000000"
       },
-      "next_update": 1789197229149,
+      "next_update": 1789279052862,
       "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "1135000000"
-        },
         {
           "__bigint__": "1657000000"
         },
@@ -5155,6 +5152,9 @@
         },
         {
           "__bigint__": "1317000000"
+        },
+        {
+          "__bigint__": "1579000000"
         }
       ]
     }
@@ -6000,17 +6000,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 16.64455161281997,
+        "inflation": 16.75023274261297,
         "gdp": {
-          "__bigint__": "1197247723"
+          "__bigint__": "1196529520"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.1664455161281997,
-        "unemployment": 11.141751039321669,
+        "prices": 1.1675023274261296,
+        "unemployment": 11.687099869305118,
         "stability": 0,
-        "approval": 59.20883114676144,
+        "approval": 59.10740930679686,
         "welfare": 100,
         "military": 100,
         "corruption": 35,
@@ -6026,9 +6026,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 80.06051683408023,
-          "energy": 93.36577925616386,
-          "raw": 99.48266169086669
+          "food": 79.69775025239868,
+          "energy": 94.39572670187214,
+          "raw": 100
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6048,7 +6048,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789274825184,
+        "last_tick": 1789275725191,
         "last_tax_day": "2026-09-13",
         "last_news": 1789274225181,
         "last_election_month": "2026-09",
