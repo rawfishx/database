@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10660"
+        "__bigint__": "10670"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -334,7 +334,7 @@
           "__bigint__": "1"
         }
       },
-      "diamond": 80,
+      "diamond": 90,
       "negara": "Belum diatur",
       "squad_id": null,
       "hubungan_sosial": {
@@ -350,7 +350,7 @@
         }
       },
       "profil_lengkap": false,
-      "last_diamond_bonus": "2026-09-12",
+      "last_diamond_bonus": "2026-09-13",
       "limit_reset_at": 1789351042344,
       "sticker_nowm": false,
       "banned_reason": "",
@@ -6000,18 +6000,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 17.40741204592113,
+        "inflation": 17.48803361517823,
         "gdp": {
-          "__bigint__": "1174381493"
+          "__bigint__": "1173677006"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.1740741204592113,
-        "unemployment": 15.77661312715324,
+        "prices": 1.1748803361517823,
+        "unemployment": 15.406465660017698,
         "stability": 0,
-        "approval": 56.69901317034808,
-        "welfare": 98,
+        "approval": 56.523331670879,
+        "welfare": 100,
         "military": 100,
         "corruption": 35,
         "import_tariff": 5,
@@ -6026,9 +6026,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 80.45216419633698,
-          "energy": 94.92533278077829,
-          "raw": 97.87330517320336
+          "food": 81.39999359295068,
+          "energy": 94.01197452354242,
+          "raw": 99.12186607219607
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6048,7 +6048,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789278425205,
+        "last_tick": 1789279325208,
         "last_tax_day": "2026-09-13",
         "last_news": 1789278125206,
         "last_election_month": "2026-09",
