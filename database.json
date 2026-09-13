@@ -1224,7 +1224,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42585"
+        "__bigint__": "42595"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1594,6 +1594,9 @@
         "harga_beli": {
           "__bigint__": "250000"
         }
+      },
+      "negara_state": {
+        "last_risk_day": "2026-09-13"
       }
     },
     "6287797046407@s.whatsapp.net": {
@@ -6003,21 +6006,22 @@
         "founded_at": 1789176462281,
         "year": 2034,
         "members": {
-          "6283138226730@s.whatsapp.net": true
+          "6283138226730@s.whatsapp.net": true,
+          "6282292961437@s.whatsapp.net": true
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 18.478526629335388,
+        "inflation": 18.542134991780824,
         "gdp": {
-          "__bigint__": "1170160909"
+          "__bigint__": "1169458954"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.1847852662933538,
-        "unemployment": 15.587215950794201,
+        "prices": 1.1854213499178083,
+        "unemployment": 15.86801267094762,
         "stability": 0,
-        "approval": 43.69258373335899,
+        "approval": 43.541893443232624,
         "welfare": 100,
         "military": 100,
         "corruption": 33,
@@ -6033,9 +6037,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 80.64795058584612,
-          "energy": 98.39727002373085,
-          "raw": 99.14297823638535
+          "food": 81.59853368904416,
+          "energy": 98.59276627753205,
+          "raw": 100
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6055,7 +6059,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789283825306,
+        "last_tick": 1789284725337,
         "last_tax_day": "2026-09-13",
         "last_news": 1789282625246,
         "last_election_month": "2026-09",
@@ -6063,7 +6067,8 @@
       }
     },
     "countryByUser": {
-      "6283138226730@s.whatsapp.net": "teemoon"
+      "6283138226730@s.whatsapp.net": "teemoon",
+      "6282292961437@s.whatsapp.net": "teemoon"
     },
     "jackpot_pool": {
       "__bigint__": "27663341529"
