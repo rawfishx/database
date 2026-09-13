@@ -1224,7 +1224,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42470"
+        "__bigint__": "42510"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -4067,7 +4067,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "750"
+        "__bigint__": "765"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4126,7 +4126,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789293402565,
-      "limit": 32,
+      "limit": 30,
       "last_reset": "2026-09-13T09:56:42.565Z",
       "achievements": [],
       "transactions": [],
@@ -4387,13 +4387,13 @@
       "registered_at": 1789130571517,
       "name": "Fadhil",
       "uang": {
-        "__bigint__": "4025000"
+        "__bigint__": "4075000"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9190"
+        "__bigint__": "9315"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4441,7 +4441,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 20,
+      "diamond": 30,
       "negara": "indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -4461,7 +4461,7 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "last_diamond_bonus": "2026-09-12",
+      "last_diamond_bonus": "2026-09-13",
       "daily": {
         "streak": 1,
         "last_claim": 1789165399705
@@ -6000,18 +6000,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 14.04048595584593,
+        "inflation": 14.229306270480484,
         "gdp": {
-          "__bigint__": "1200845213"
+          "__bigint__": "1200124851"
         },
         "treasury": {
           "__bigint__": "492537309"
         },
-        "prices": 1.1404048595584593,
-        "unemployment": 11.979314372573239,
+        "prices": 1.142293062704805,
+        "unemployment": 11.885958299508895,
         "stability": 0,
-        "approval": 58.9151192834761,
-        "welfare": 98,
+        "approval": 58.99238672815547,
+        "welfare": 100,
         "military": 100,
         "corruption": 33,
         "import_tariff": 5,
@@ -6026,9 +6026,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 79.54963017973601,
-          "energy": 98.27974365398423,
-          "raw": 99.55406237681555
+          "food": 80.87540961227846,
+          "energy": 99.27010953694409,
+          "raw": 99.20251222216339
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6048,7 +6048,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789270325162,
+        "last_tick": 1789271225163,
         "last_tax_day": "2026-09-13",
         "last_news": 1789270025157,
         "last_election_month": "2026-09",
