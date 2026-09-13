@@ -155,7 +155,7 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "8168705"
+        "__bigint__": "8168706"
       },
       "level": {
         "__bigint__": "6"
@@ -1618,7 +1618,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4700"
+        "__bigint__": "4715"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1667,7 +1667,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 31,
+      "limit": 30,
       "last_reset": "2026-09-14T01:57:22.344Z",
       "frames": [],
       "active_frame": null,
@@ -2801,13 +2801,13 @@
       "registered_at": 1788606800825,
       "name": "Nama",
       "uang": {
-        "__bigint__": "150000"
+        "__bigint__": "154999"
       },
       "level": {
         "__bigint__": "9"
       },
       "xp": {
-        "__bigint__": "28125"
+        "__bigint__": "28200"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2865,12 +2865,20 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 11,
+      "limit": 0,
       "last_reset": "2026-09-14T01:57:22.344Z",
       "achievements": [
         "first_saving"
       ],
       "transactions": [
+        {
+          "type": "mission",
+          "amount": {
+            "__bigint__": "5000"
+          },
+          "mission": "Menabung 1x",
+          "timestamp": 1789314965057
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -2914,7 +2922,9 @@
           "timestamp": 1788662344904
         }
       ],
-      "missions_completed": [],
+      "missions_completed": [
+        "misi_nabung"
+      ],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
@@ -4494,7 +4504,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10955"
+        "__bigint__": "10985"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4542,7 +4552,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 30,
+      "diamond": 40,
       "negara": "indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -4562,7 +4572,7 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "last_diamond_bonus": "2026-09-13",
+      "last_diamond_bonus": "2026-09-14",
       "daily": {
         "streak": 1,
         "last_claim": 1789165399705
@@ -4839,13 +4849,13 @@
       "registered_at": 1789210292275,
       "name": "NabilZyy",
       "uang": {
-        "__bigint__": "5000"
+        "__bigint__": "0"
       },
       "level": {
-        "__bigint__": "2"
+        "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "160"
+        "__bigint__": "805"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4904,15 +4914,62 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789375889013,
-      "limit": 34,
+      "limit": 5,
       "last_reset": "2026-09-14T08:51:29.013Z",
-      "achievements": [],
-      "transactions": [],
-      "missions_completed": [],
+      "achievements": [
+        "first_saving"
+      ],
+      "transactions": [
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "25000"
+          },
+          "timestamp": 1789314910483
+        },
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "15000"
+          },
+          "timestamp": 1789314907229
+        },
+        {
+          "type": "mission",
+          "amount": {
+            "__bigint__": "5000"
+          },
+          "mission": "Menabung 1x",
+          "timestamp": 1789314899124
+        },
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "15000"
+          },
+          "timestamp": 1789314614080
+        }
+      ],
+      "missions_completed": [
+        "misi_nabung"
+      ],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789293089013
+      "limit_reset_notified_at": 1789293089013,
+      "negara_state": {
+        "last_risk_day": "2026-09-13"
+      },
+      "daily": {
+        "streak": 1,
+        "last_claim": 1789314605637
+      },
+      "bank": {
+        "tabungan": {
+          "__bigint__": "25000"
+        },
+        "last_interest": 1789314614080
+      }
     },
     "6287872867480@s.whatsapp.net": {
       "uid": 10053,
@@ -4993,14 +5050,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "43345807656"
+        "__bigint__": "59891157048"
       },
-      "next_update": 1789306045594,
-      "trend": "📉 Turun",
+      "next_update": 1789316120687,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "65362945480"
-        },
         {
           "__bigint__": "63706328728"
         },
@@ -5033,22 +5087,19 @@
         },
         {
           "__bigint__": "43345807656"
+        },
+        {
+          "__bigint__": "59891157048"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "211000"
+        "__bigint__": "83000"
       },
-      "next_update": 1789305023897,
+      "next_update": 1789315158404,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "180000"
-        },
-        {
-          "__bigint__": "314000"
-        },
         {
           "__bigint__": "147000"
         },
@@ -5078,19 +5129,22 @@
         },
         {
           "__bigint__": "211000"
+        },
+        {
+          "__bigint__": "187000"
+        },
+        {
+          "__bigint__": "83000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "17200000"
+        "__bigint__": "13900000"
       },
-      "next_update": 1789305145594,
-      "trend": "📈 Naik",
+      "next_update": 1789315220687,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "14600000"
-        },
         {
           "__bigint__": "19200000"
         },
@@ -5123,19 +5177,19 @@
         },
         {
           "__bigint__": "17200000"
+        },
+        {
+          "__bigint__": "13900000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "22000000"
+        "__bigint__": "37000000"
       },
-      "next_update": 1789305745594,
-      "trend": "➡️ Stabil",
+      "next_update": 1789315820687,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "27000000"
-        },
         {
           "__bigint__": "30000000"
         },
@@ -5168,19 +5222,19 @@
         },
         {
           "__bigint__": "22000000"
+        },
+        {
+          "__bigint__": "37000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "44000000"
+        "__bigint__": "46000000"
       },
-      "next_update": 1789306645594,
-      "trend": "📉 Turun",
+      "next_update": 1789316720687,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "43000000"
-        },
         {
           "__bigint__": "44000000"
         },
@@ -5213,19 +5267,19 @@
         },
         {
           "__bigint__": "44000000"
+        },
+        {
+          "__bigint__": "46000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "1948000000"
+        "__bigint__": "891000000"
       },
-      "next_update": 1789308445594,
-      "trend": "📈 Naik",
+      "next_update": 1789318520687,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "897000000"
-        },
         {
           "__bigint__": "1278000000"
         },
@@ -5258,6 +5312,9 @@
         },
         {
           "__bigint__": "1948000000"
+        },
+        {
+          "__bigint__": "891000000"
         }
       ]
     }
@@ -5963,7 +6020,7 @@
       "price": {
         "__bigint__": "19800"
       },
-      "last_price_update": 1789103234593
+      "last_price_update": 1789315037217
     },
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
@@ -5979,23 +6036,23 @@
     "egg_stock": {
       "telurayam": {
         "stock": 25,
-        "reset_at": 1789105034592
+        "reset_at": 1789316837217
       },
       "telurhutan": {
         "stock": 12,
-        "reset_at": 1789105034592
+        "reset_at": 1789316837217
       },
       "telurnaga": {
         "stock": 6,
-        "reset_at": 1789105034593
+        "reset_at": 1789316837217
       },
       "telurphoenix": {
         "stock": 3,
-        "reset_at": 1789105034593
+        "reset_at": 1789316837217
       },
       "telurmisterius": {
         "stock": 1,
-        "reset_at": 1789105034593
+        "reset_at": 1789316837217
       }
     },
     "custom_investments": {
@@ -6105,17 +6162,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 34.381186921594264,
+        "inflation": 34.67650017222112,
         "gdp": {
-          "__bigint__": "1221453652"
+          "__bigint__": "1220720928"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.3438118692159426,
-        "unemployment": 15.058237763904268,
+        "prices": 1.3467650017222113,
+        "unemployment": 15.308304121744069,
         "stability": 0,
-        "approval": 25.59676649424316,
+        "approval": 24.243264259118803,
         "welfare": 100,
         "military": 100,
         "corruption": 41,
@@ -6131,9 +6188,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 78.38522420587793,
-          "energy": 100,
-          "raw": 97.28947428007926
+          "food": 78.43810697019755,
+          "energy": 98.60764458575053,
+          "raw": 98.94929083607497
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6153,7 +6210,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789314155745,
+        "last_tick": 1789315055745,
         "last_tax_day": "2026-09-13",
         "last_news": 1789311155700,
         "last_election_month": "2026-09",
