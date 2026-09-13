@@ -1224,7 +1224,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42440"
+        "__bigint__": "42470"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -4067,7 +4067,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "740"
+        "__bigint__": "750"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4126,7 +4126,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789293402565,
-      "limit": 34,
+      "limit": 32,
       "last_reset": "2026-09-13T09:56:42.565Z",
       "achievements": [],
       "transactions": [],
@@ -4714,9 +4714,9 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": true,
-      "limit_reset_at": 1789270142458,
+      "limit_reset_at": 1789352962872,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-13T03:29:02.458Z",
+      "last_reset": "2026-09-14T02:29:22.872Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -4729,7 +4729,8 @@
         },
         "last_interest": 1789196918218
       },
-      "last_diamond_bonus": "2026-09-12"
+      "last_diamond_bonus": "2026-09-12",
+      "limit_reset_notified_at": 1789270162872
     },
     "6283151148146@s.whatsapp.net": {
       "uid": 10052,
@@ -5999,18 +6000,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 14.11034031526779,
+        "inflation": 14.04048595584593,
         "gdp": {
-          "__bigint__": "1221574009"
+          "__bigint__": "1200845213"
         },
         "treasury": {
           "__bigint__": "492537309"
         },
-        "prices": 1.1411034031526779,
-        "unemployment": 8.020474282084733,
+        "prices": 1.1404048595584593,
+        "unemployment": 11.979314372573239,
         "stability": 0,
-        "approval": 60.82572832839235,
-        "welfare": 100,
+        "approval": 58.9151192834761,
+        "welfare": 98,
         "military": 100,
         "corruption": 33,
         "import_tariff": 5,
@@ -6025,9 +6026,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 80.3445646041543,
-          "energy": 98.21050777749812,
-          "raw": 99.96029759572572
+          "food": 79.54963017973601,
+          "energy": 98.27974365398423,
+          "raw": 99.55406237681555
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6041,15 +6042,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 23,
+          "events": 24,
           "wars": 0,
           "scandals": 5,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789269425156,
+        "last_tick": 1789270325162,
         "last_tax_day": "2026-09-13",
-        "last_news": 1789266125128,
+        "last_news": 1789270025157,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
