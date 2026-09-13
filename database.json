@@ -1224,7 +1224,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42670"
+        "__bigint__": "42675"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1618,7 +1618,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4630"
+        "__bigint__": "4645"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1711,13 +1711,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "873352"
+        "__bigint__": "0"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15580"
+        "__bigint__": "15595"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1739,7 +1739,7 @@
       "anak": [],
       "invest": {
         "6": {
-          "__bigint__": "1"
+          "__bigint__": "0"
         },
         "GLD": {
           "__bigint__": "872387"
@@ -1790,6 +1790,13 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "93342403972"
+          },
+          "timestamp": 1789294917605
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -2128,7 +2135,7 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "0"
+          "__bigint__": "93342403972"
         },
         "last_interest": 1789287416413
       },
@@ -4259,16 +4266,16 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": false,
-      "limit_reset_at": 1789294864169,
+      "limit_reset_at": 1789377689405,
       "limit": 40,
-      "last_reset": "2026-09-13T10:21:04.169Z",
+      "last_reset": "2026-09-14T09:21:29.405Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789212064169
+      "limit_reset_notified_at": 1789294889405
     },
     "6281995514751@s.whatsapp.net": {
       "uid": 10046,
@@ -4446,13 +4453,13 @@
       "registered_at": 1789130571517,
       "name": "Fadhil",
       "uang": {
-        "__bigint__": "4075000"
+        "__bigint__": "4725000"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "9315"
+        "__bigint__": "10815"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4950,14 +4957,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "26034382968"
+        "__bigint__": "95244419000"
       },
-      "next_update": 1789291718710,
-      "trend": "📉 Turun",
+      "next_update": 1789296096058,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "63214472288"
-        },
         {
           "__bigint__": "45303507096"
         },
@@ -4990,19 +4994,19 @@
         },
         {
           "__bigint__": "26034382968"
+        },
+        {
+          "__bigint__": "95244419000"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "592000"
+        "__bigint__": "615000"
       },
-      "next_update": 1789290663899,
-      "trend": "📉 Turun",
+      "next_update": 1789294956058,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "822000"
-        },
         {
           "__bigint__": "588000"
         },
@@ -5035,19 +5039,19 @@
         },
         {
           "__bigint__": "592000"
+        },
+        {
+          "__bigint__": "615000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "1300000"
+        "__bigint__": "5300000"
       },
-      "next_update": 1789290818710,
-      "trend": "📉 Turun",
+      "next_update": 1789295196058,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "14800000"
-        },
         {
           "__bigint__": "13300000"
         },
@@ -5080,19 +5084,19 @@
         },
         {
           "__bigint__": "1300000"
+        },
+        {
+          "__bigint__": "5300000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "41000000"
+        "__bigint__": "42000000"
       },
-      "next_update": 1789291418710,
-      "trend": "📉 Turun",
+      "next_update": 1789295796058,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "44000000"
-        },
         {
           "__bigint__": "20000000"
         },
@@ -5125,19 +5129,19 @@
         },
         {
           "__bigint__": "41000000"
+        },
+        {
+          "__bigint__": "42000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "42000000"
+        "__bigint__": "43000000"
       },
-      "next_update": 1789292318710,
-      "trend": "📉 Turun",
+      "next_update": 1789296696058,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "48000000"
-        },
         {
           "__bigint__": "46000000"
         },
@@ -5170,19 +5174,19 @@
         },
         {
           "__bigint__": "42000000"
+        },
+        {
+          "__bigint__": "43000000"
         }
       ]
     },
     "BTC": {
       "price": {
-        "__bigint__": "865000000"
+        "__bigint__": "1102000000"
       },
-      "next_update": 1789290669613,
-      "trend": "📉 Turun",
+      "next_update": 1789298496058,
+      "trend": "📈 Naik",
       "history": [
-        {
-          "__bigint__": "1071000000"
-        },
         {
           "__bigint__": "1019000000"
         },
@@ -5215,6 +5219,9 @@
         },
         {
           "__bigint__": "865000000"
+        },
+        {
+          "__bigint__": "1102000000"
         }
       ]
     }
@@ -6061,18 +6068,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 22.12037335084878,
+        "inflation": 25.262956017333025,
         "gdp": {
-          "__bigint__": "1212352634"
+          "__bigint__": "1211625369"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.2212037335084878,
-        "unemployment": 15.700173845945793,
+        "prices": 1.2526295601733302,
+        "unemployment": 16.753219085030658,
         "stability": 0,
-        "approval": 45.28722781061888,
-        "welfare": 100,
+        "approval": 44.91364296194448,
+        "welfare": 96,
         "military": 100,
         "corruption": 33,
         "import_tariff": 5,
@@ -6087,9 +6094,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 81.60295255097921,
-          "energy": 97.20996506762235,
-          "raw": 98.7973429426562
+          "food": 80.18704120289823,
+          "energy": 97.65355352671875,
+          "raw": 98.67240104615884
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6103,15 +6110,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 29,
+          "events": 30,
           "wars": 0,
           "scandals": 5,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789293725594,
+        "last_tick": 1789294625597,
         "last_tax_day": "2026-09-13",
-        "last_news": 1789290425513,
+        "last_news": 1789294625598,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
@@ -6121,7 +6128,7 @@
       "6282292961437@s.whatsapp.net": "teemoon"
     },
     "jackpot_pool": {
-      "__bigint__": "27663341529"
+      "__bigint__": "29566229909"
     }
   },
   "player_market": {},
