@@ -2816,7 +2816,7 @@
         "__bigint__": "9"
       },
       "xp": {
-        "__bigint__": "28200"
+        "__bigint__": "28205"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -6209,17 +6209,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 38.483254033591564,
+        "inflation": 38.620235184509234,
         "gdp": {
-          "__bigint__": "1215604151"
+          "__bigint__": "1214874936"
         },
         "treasury": {
           "__bigint__": "497566099"
         },
-        "prices": 1.3848325403359156,
-        "unemployment": 15.445241787853787,
+        "prices": 1.3862023518450923,
+        "unemployment": 15.723672081057401,
         "stability": 0,
-        "approval": 4.943979852342742,
+        "approval": 3.1679771564580688,
         "welfare": 100,
         "military": 100,
         "corruption": 47,
@@ -6235,9 +6235,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 64.30264059386816,
-          "energy": 95.65971081458738,
-          "raw": 96.06441885380936
+          "food": 63.927046171128254,
+          "energy": 95.34776063666749,
+          "raw": 95.5839249917751
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6257,7 +6257,7 @@
           "homeless": 1,
           "elections": 1
         },
-        "last_tick": 1789321355771,
+        "last_tick": 1789322255774,
         "last_tax_day": "2026-09-14",
         "last_news": 1789319855766,
         "last_election_month": "2026-09",
