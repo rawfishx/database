@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10685"
+        "__bigint__": "10705"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1224,7 +1224,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42675"
+        "__bigint__": "42740"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1618,7 +1618,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4645"
+        "__bigint__": "4670"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1667,7 +1667,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 37,
       "last_reset": "2026-09-14T01:57:22.344Z",
       "frames": [],
       "active_frame": null,
@@ -1717,7 +1717,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15595"
+        "__bigint__": "15645"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -2135,9 +2135,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "93342403972"
+          "__bigint__": "93529182121"
         },
-        "last_interest": 1789287416413
+        "last_interest": 1789294616413
       },
       "frames": [],
       "active_frame": null,
@@ -4347,16 +4347,16 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": false,
-      "limit_reset_at": 1789295104257,
+      "limit_reset_at": 1789377929427,
       "limit": 40,
-      "last_reset": "2026-09-13T10:25:04.257Z",
+      "last_reset": "2026-09-14T09:25:29.427Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789212304257
+      "limit_reset_notified_at": 1789295129427
     },
     "6281313095732@s.whatsapp.net": {
       "uid": 10047,
@@ -4370,7 +4370,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4845"
+        "__bigint__": "4850"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4429,9 +4429,9 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": true,
-      "limit_reset_at": 1789295764494,
+      "limit_reset_at": 1789378589496,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-13T10:36:04.494Z",
+      "last_reset": "2026-09-14T09:36:29.496Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -4439,7 +4439,7 @@
       "last_daily": 0,
       "last_transfer": 0,
       "last_diamond_bonus": "2026-09-13",
-      "limit_reset_notified_at": 1789212964494,
+      "limit_reset_notified_at": 1789295789496,
       "bank": {
         "tabungan": {
           "__bigint__": "0"
@@ -4453,13 +4453,13 @@
       "registered_at": 1789130571517,
       "name": "Fadhil",
       "uang": {
-        "__bigint__": "4725000"
+        "__bigint__": "4775000"
       },
       "level": {
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10815"
+        "__bigint__": "10930"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5577,7 +5577,7 @@
           },
           "url": "https://myanimelist.net/character/164471"
         },
-        "cachedAt": 1789132931012
+        "cachedAt": 1789294984537
       },
       "164473": {
         "data": {
@@ -5918,7 +5918,7 @@
         "muted_users": {
           "6282292961437@s.whatsapp.net": false
         },
-        "antitoxic": true
+        "antitoxic": false
       }
     },
     "tcg": {
@@ -6068,18 +6068,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 25.262956017333025,
+        "inflation": 25.38931597521721,
         "gdp": {
-          "__bigint__": "1211625369"
+          "__bigint__": "1210898540"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.2526295601733302,
-        "unemployment": 16.753219085030658,
+        "prices": 1.253893159752172,
+        "unemployment": 16.590721788345885,
         "stability": 0,
-        "approval": 44.91364296194448,
-        "welfare": 96,
+        "approval": 44.26409897667052,
+        "welfare": 99,
         "military": 100,
         "corruption": 33,
         "import_tariff": 5,
@@ -6094,9 +6094,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 80.18704120289823,
-          "energy": 97.65355352671875,
-          "raw": 98.67240104615884
+          "food": 79.6795048807552,
+          "energy": 98.51068115951355,
+          "raw": 99.33481764940902
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6116,7 +6116,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789294625597,
+        "last_tick": 1789295525606,
         "last_tax_day": "2026-09-13",
         "last_news": 1789294625598,
         "last_election_month": "2026-09",
