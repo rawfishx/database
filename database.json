@@ -4178,16 +4178,16 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": false,
-      "limit_reset_at": 1789293402565,
-      "limit": 30,
-      "last_reset": "2026-09-13T09:56:42.565Z",
+      "limit_reset_at": 1789376249127,
+      "limit": 40,
+      "last_reset": "2026-09-14T08:57:29.127Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789210602565
+      "limit_reset_notified_at": 1789293449127
     },
     "62882022235139@s.whatsapp.net": {
       "uid": 10045,
@@ -6061,17 +6061,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 22.020169930025336,
+        "inflation": 22.12037335084878,
         "gdp": {
-          "__bigint__": "1213080336"
+          "__bigint__": "1212352634"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.2202016993002534,
-        "unemployment": 16.077391367122296,
+        "prices": 1.2212037335084878,
+        "unemployment": 15.700173845945793,
         "stability": 0,
-        "approval": 45.65336854607927,
+        "approval": 45.28722781061888,
         "welfare": 100,
         "military": 100,
         "corruption": 33,
@@ -6087,9 +6087,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 82.5281591442164,
-          "energy": 96.82466413811163,
-          "raw": 98.43705765471806
+          "food": 81.60295255097921,
+          "energy": 97.20996506762235,
+          "raw": 98.7973429426562
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6109,7 +6109,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789292825569,
+        "last_tick": 1789293725594,
         "last_tax_day": "2026-09-13",
         "last_news": 1789290425513,
         "last_election_month": "2026-09",
