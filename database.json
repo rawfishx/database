@@ -155,7 +155,7 @@
       "uid": 99999,
       "name": "dika‼️",
       "uang": {
-        "__bigint__": "8168706"
+        "__bigint__": "8140016"
       },
       "level": {
         "__bigint__": "6"
@@ -363,16 +363,16 @@
         }
       },
       "negara_state": {
-        "last_tax": "2026-09-13",
+        "last_tax": "2026-09-14",
         "last_tax_amount": {
-          "__bigint__": "30201"
+          "__bigint__": "28590"
         },
         "tax_debt": {
           "__bigint__": "0"
         },
         "homeless": false,
         "house_required_since": 0,
-        "last_risk_day": "2026-09-13",
+        "last_risk_day": "2026-09-14",
         "last_loss": {
           "__bigint__": "429931"
         },
@@ -1218,7 +1218,7 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "11314170216"
+        "__bigint__": "11304170116"
       },
       "level": {
         "__bigint__": "10"
@@ -1603,7 +1603,16 @@
         }
       },
       "negara_state": {
-        "last_risk_day": "2026-09-13"
+        "last_risk_day": "2026-09-14",
+        "last_tax": "2026-09-14",
+        "last_tax_amount": {
+          "__bigint__": "10000000"
+        },
+        "tax_debt": {
+          "__bigint__": "0"
+        },
+        "homeless": false,
+        "house_required_since": 0
       }
     },
     "6287797046407@s.whatsapp.net": {
@@ -4172,7 +4181,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "795"
+        "__bigint__": "805"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4231,7 +4240,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789376249127,
-      "limit": 38,
+      "limit": 36,
       "last_reset": "2026-09-14T08:57:29.127Z",
       "achievements": [],
       "transactions": [],
@@ -4958,7 +4967,15 @@
       "last_transfer": 0,
       "limit_reset_notified_at": 1789293089013,
       "negara_state": {
-        "last_risk_day": "2026-09-13"
+        "last_risk_day": "2026-09-14",
+        "tax_debt": {
+          "__bigint__": "1000"
+        },
+        "homeless": true,
+        "homeless_fee": {
+          "__bigint__": "0"
+        },
+        "house_required_since": 1789318955763
       },
       "daily": {
         "streak": 1,
@@ -6192,17 +6209,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 35.43230539714671,
+        "inflation": 35.68694687587491,
         "gdp": {
-          "__bigint__": "1217794424"
+          "__bigint__": "1217063895"
         },
         "treasury": {
-          "__bigint__": "487537309"
+          "__bigint__": "497566099"
         },
-        "prices": 1.3543230539714672,
-        "unemployment": 15.06360526308187,
+        "prices": 1.356869468758749,
+        "unemployment": 15.505895670861092,
         "stability": 0,
-        "approval": 10.11775704418954,
+        "approval": 8.520268243321883,
         "welfare": 100,
         "military": 100,
         "corruption": 47,
@@ -6218,9 +6235,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 80.59525771430017,
-          "energy": 95.60329591934514,
-          "raw": 96.67015260313661
+          "food": 80.00604163492477,
+          "energy": 96.09910852409767,
+          "raw": 95.67154773199438
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6229,7 +6246,7 @@
         "treaties": {},
         "stats": {
           "tax_collected": {
-            "__bigint__": "37309"
+            "__bigint__": "10066099"
           },
           "subsidies": {
             "__bigint__": "0"
@@ -6237,11 +6254,11 @@
           "events": 35,
           "wars": 0,
           "scandals": 7,
-          "homeless": 0,
+          "homeless": 1,
           "elections": 1
         },
-        "last_tick": 1789318655762,
-        "last_tax_day": "2026-09-13",
+        "last_tick": 1789319555765,
+        "last_tax_day": "2026-09-14",
         "last_news": 1789315955751,
         "last_election_month": "2026-09",
         "last_election_year": 2026
