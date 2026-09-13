@@ -4984,9 +4984,10 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789309175716,
+      "limit_reset_at": 1789391977957,
       "limit": 40,
-      "last_reset": "2026-09-13T14:19:35.716Z"
+      "last_reset": "2026-09-14T13:19:37.957Z",
+      "limit_reset_notified_at": 1789309177957
     }
   },
   "market": {
@@ -6103,17 +6104,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 32.80315553464581,
+        "inflation": 33.0813718837364,
         "gdp": {
-          "__bigint__": "1225859240"
+          "__bigint__": "1225123874"
         },
         "treasury": {
           "__bigint__": "492537309"
         },
-        "prices": 1.3280315553464581,
-        "unemployment": 16.243084275022774,
+        "prices": 1.330813718837364,
+        "unemployment": 16.025127157756355,
         "stability": 0,
-        "approval": 40.94619122630688,
+        "approval": 39.86444405113848,
         "welfare": 100,
         "military": 100,
         "corruption": 35,
@@ -6129,9 +6130,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 77.83356923301493,
-          "energy": 98.68071086477929,
-          "raw": 99.61285120089892
+          "food": 78.06415668715891,
+          "energy": 100,
+          "raw": 96.87752926575546
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6151,7 +6152,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789308755643,
+        "last_tick": 1789309655669,
         "last_tax_day": "2026-09-13",
         "last_news": 1789306655585,
         "last_election_month": "2026-09",
