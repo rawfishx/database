@@ -1710,7 +1710,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15520"
+        "__bigint__": "15530"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -2751,7 +2751,7 @@
         "__bigint__": "8"
       },
       "xp": {
-        "__bigint__": "22915"
+        "__bigint__": "22955"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2767,7 +2767,7 @@
       "active_frame": null,
       "cd": {
         "rampok": 1789110162681,
-        "judi": 1789193657436,
+        "judi": 1789287034544,
         "mancing": 1788940051957,
         "interaksi": 1788940170613,
         "kerja": 1789011326373
@@ -2808,12 +2808,19 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 33,
       "last_reset": "2026-09-14T01:57:22.344Z",
       "achievements": [
         "first_saving"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "1"
+          },
+          "timestamp": 1789286711103
+        },
         {
           "type": "saving",
           "amount": {
@@ -2844,9 +2851,9 @@
       "banned_reason": "",
       "bank": {
         "tabungan": {
-          "__bigint__": "59090335"
+          "__bigint__": "59445761"
         },
-        "last_interest": 1789263135131
+        "last_interest": 1789284735131
       },
       "daily": {
         "streak": 5,
@@ -4321,13 +4328,13 @@
       "registered_at": 1789130172970,
       "name": "Ririn",
       "uang": {
-        "__bigint__": "1105000"
+        "__bigint__": "1905000"
       },
       "level": {
-        "__bigint__": "4"
+        "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "3015"
+        "__bigint__": "4830"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4396,7 +4403,13 @@
       "last_daily": 0,
       "last_transfer": 0,
       "last_diamond_bonus": "2026-09-13",
-      "limit_reset_notified_at": 1789212964494
+      "limit_reset_notified_at": 1789212964494,
+      "bank": {
+        "tabungan": {
+          "__bigint__": "0"
+        },
+        "last_interest": 1789286342281
+      }
     },
     "6281356383515@s.whatsapp.net": {
       "uid": 10048,
@@ -6018,18 +6031,18 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 18.677289989317728,
+        "inflation": 21.6882297183383,
         "gdp": {
-          "__bigint__": "1168757420"
+          "__bigint__": "1168056308"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.1867728998931772,
-        "unemployment": 15.747104561885704,
+        "prices": 1.216882297183383,
+        "unemployment": 16.50495156822189,
         "stability": 0,
-        "approval": 43.383226393299,
-        "welfare": 100,
+        "approval": 43.220788867804735,
+        "welfare": 96,
         "military": 100,
         "corruption": 33,
         "import_tariff": 5,
@@ -6044,9 +6057,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 82.84926810731942,
+          "food": 82.22228525192456,
           "energy": 100,
-          "raw": 99.56640644175013
+          "raw": 99.85073686418522
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6060,15 +6073,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 27,
+          "events": 28,
           "wars": 0,
           "scandals": 5,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789285625363,
+        "last_tick": 1789286525393,
         "last_tax_day": "2026-09-13",
-        "last_news": 1789282625246,
+        "last_news": 1789286525393,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
