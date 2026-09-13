@@ -1218,13 +1218,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1425472"
+        "__bigint__": "125472"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42595"
+        "__bigint__": "42670"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1249,7 +1249,7 @@
           "__bigint__": "0"
         },
         "GLD": {
-          "__bigint__": "714"
+          "__bigint__": "715"
         },
         "ETH": {
           "__bigint__": "0"
@@ -1297,6 +1297,13 @@
         "first_saving"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "0"
+          },
+          "timestamp": 1789290780663
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -1704,13 +1711,13 @@
       "registered_at": 1788439991716,
       "name": "ila",
       "uang": {
-        "__bigint__": "90000000"
+        "__bigint__": "873352"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15550"
+        "__bigint__": "15580"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1735,7 +1742,7 @@
           "__bigint__": "1"
         },
         "GLD": {
-          "__bigint__": "0"
+          "__bigint__": "872387"
         },
         "BTC": {
           "__bigint__": "0"
@@ -1783,6 +1790,13 @@
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "withdrawal",
+          "amount": {
+            "__bigint__": "1417539748352"
+          },
+          "timestamp": 1789290532624
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -2114,9 +2128,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "1416123624728"
+          "__bigint__": "0"
         },
-        "last_interest": 1789283816413
+        "last_interest": 1789287416413
       },
       "frames": [],
       "active_frame": null,
@@ -4935,14 +4949,11 @@
   "market": {
     "6": {
       "price": {
-        "__bigint__": "27830976720"
+        "__bigint__": "26034382968"
       },
-      "next_update": 1789288269613,
+      "next_update": 1789291718710,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "1793081136"
-        },
         {
           "__bigint__": "63214472288"
         },
@@ -4975,22 +4986,19 @@
         },
         {
           "__bigint__": "27830976720"
+        },
+        {
+          "__bigint__": "26034382968"
         }
       ]
     },
     "WEEB": {
       "price": {
-        "__bigint__": "202000"
+        "__bigint__": "592000"
       },
-      "next_update": 1789287129613,
+      "next_update": 1789290663899,
       "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "713000"
-        },
-        {
-          "__bigint__": "25000"
-        },
         {
           "__bigint__": "822000"
         },
@@ -5020,19 +5028,22 @@
         },
         {
           "__bigint__": "202000"
+        },
+        {
+          "__bigint__": "631000"
+        },
+        {
+          "__bigint__": "592000"
         }
       ]
     },
     "GLD": {
       "price": {
-        "__bigint__": "15100000"
+        "__bigint__": "1300000"
       },
-      "next_update": 1789287369613,
-      "trend": "📈 Naik",
+      "next_update": 1789290818710,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "16200000"
-        },
         {
           "__bigint__": "14800000"
         },
@@ -5065,19 +5076,19 @@
         },
         {
           "__bigint__": "15100000"
+        },
+        {
+          "__bigint__": "1300000"
         }
       ]
     },
     "SOL": {
       "price": {
-        "__bigint__": "44000000"
+        "__bigint__": "41000000"
       },
-      "next_update": 1789287969613,
-      "trend": "➡️ Stabil",
+      "next_update": 1789291418710,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "24000000"
-        },
         {
           "__bigint__": "44000000"
         },
@@ -5110,19 +5121,19 @@
         },
         {
           "__bigint__": "44000000"
+        },
+        {
+          "__bigint__": "41000000"
         }
       ]
     },
     "ETH": {
       "price": {
-        "__bigint__": "48000000"
+        "__bigint__": "42000000"
       },
-      "next_update": 1789288869613,
-      "trend": "📈 Naik",
+      "next_update": 1789292318710,
+      "trend": "📉 Turun",
       "history": [
-        {
-          "__bigint__": "45000000"
-        },
         {
           "__bigint__": "48000000"
         },
@@ -5155,6 +5166,9 @@
         },
         {
           "__bigint__": "48000000"
+        },
+        {
+          "__bigint__": "42000000"
         }
       ]
     },
@@ -6046,17 +6060,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 21.930194124780265,
+        "inflation": 21.963174630556566,
         "gdp": {
-          "__bigint__": "1165256060"
+          "__bigint__": "1214537049"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.2193019412478026,
-        "unemployment": 16.99584727854869,
+        "prices": 1.2196317463055657,
+        "unemployment": 15.276453938942925,
         "stability": 0,
-        "approval": 41.72487826770404,
+        "approval": 46.36830313118041,
         "welfare": 100,
         "military": 100,
         "corruption": 33,
@@ -6072,9 +6086,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 82.6599300724009,
-          "energy": 98.95794643509618,
-          "raw": 100
+          "food": 83.10264207360996,
+          "energy": 98.2913814206819,
+          "raw": 99.82658092653313
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6088,15 +6102,15 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 28,
+          "events": 29,
           "wars": 0,
           "scandals": 5,
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789290125512,
+        "last_tick": 1789291025537,
         "last_tax_day": "2026-09-13",
-        "last_news": 1789286525393,
+        "last_news": 1789290425513,
         "last_election_month": "2026-09",
         "last_election_year": 2026
       }
