@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10850"
+        "__bigint__": "10855"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -334,7 +334,7 @@
           "__bigint__": "1"
         }
       },
-      "diamond": 90,
+      "diamond": 100,
       "negara": "Belum diatur",
       "squad_id": null,
       "hubungan_sosial": {
@@ -350,7 +350,7 @@
         }
       },
       "profil_lengkap": false,
-      "last_diamond_bonus": "2026-09-13",
+      "last_diamond_bonus": "2026-09-14",
       "limit_reset_at": 1789351042344,
       "sticker_nowm": false,
       "banned_reason": "",
@@ -6209,17 +6209,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 38.620235184509234,
+        "inflation": 38.798279084529284,
         "gdp": {
-          "__bigint__": "1214874936"
+          "__bigint__": "1214146159"
         },
         "treasury": {
           "__bigint__": "497566099"
         },
-        "prices": 1.3862023518450923,
-        "unemployment": 15.723672081057401,
+        "prices": 1.3879827908452929,
+        "unemployment": 15.66076030752322,
         "stability": 0,
-        "approval": 3.1679771564580688,
+        "approval": 1.3829669804598341,
         "welfare": 100,
         "military": 100,
         "corruption": 47,
@@ -6235,9 +6235,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 63.927046171128254,
-          "energy": 95.34776063666749,
-          "raw": 95.5839249917751
+          "food": 64.29699033725451,
+          "energy": 97.08897654222014,
+          "raw": 95.81170658070504
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6257,7 +6257,7 @@
           "homeless": 1,
           "elections": 1
         },
-        "last_tick": 1789322255774,
+        "last_tick": 1789323155776,
         "last_tax_day": "2026-09-14",
         "last_news": 1789319855766,
         "last_election_month": "2026-09",
