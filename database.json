@@ -121,7 +121,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-09-13T09:44:42.454Z",
+      "last_reset": "2026-09-14T08:45:28.900Z",
       "registered": true,
       "frames": [],
       "active_frame": null,
@@ -148,8 +148,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1789292682454,
-      "limit_reset_notified_at": 1789209882454
+      "limit_reset_at": 1789375528900,
+      "limit_reset_notified_at": 1789292728900
     },
     "6283138226730@s.whatsapp.net": {
       "uid": 99999,
@@ -4861,15 +4861,16 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789293084783,
-      "limit": 27,
-      "last_reset": "2026-09-13T09:51:24.783Z",
+      "limit_reset_at": 1789375889013,
+      "limit": 40,
+      "last_reset": "2026-09-14T08:51:29.013Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
-      "last_transfer": 0
+      "last_transfer": 0,
+      "limit_reset_notified_at": 1789293089013
     },
     "6287872867480@s.whatsapp.net": {
       "uid": 10053,
@@ -6060,17 +6061,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 21.971627486241562,
+        "inflation": 22.020169930025336,
         "gdp": {
-          "__bigint__": "1213808474"
+          "__bigint__": "1213080336"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.2197162748624155,
-        "unemployment": 15.794774248170713,
+        "prices": 1.2202016993002534,
+        "unemployment": 16.077391367122296,
         "stability": 0,
-        "approval": 46.01125135200766,
+        "approval": 45.65336854607927,
         "welfare": 100,
         "military": 100,
         "corruption": 33,
@@ -6086,9 +6087,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 82.64355996877701,
-          "energy": 97.53872238352186,
-          "raw": 98.98954317923729
+          "food": 82.5281591442164,
+          "energy": 96.82466413811163,
+          "raw": 98.43705765471806
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6108,7 +6109,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789291925565,
+        "last_tick": 1789292825569,
         "last_tax_day": "2026-09-13",
         "last_news": 1789290425513,
         "last_election_month": "2026-09",
