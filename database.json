@@ -1218,13 +1218,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1675472"
+        "__bigint__": "1425472"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42510"
+        "__bigint__": "42585"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1587,7 +1587,14 @@
         "streak": 1,
         "last_claim": 1788936257409
       },
-      "limit_reset_notified_at": 1789268242344
+      "limit_reset_notified_at": 1789268242344,
+      "rumah": {
+        "kode": "kos",
+        "bought_at": 1789282012344,
+        "harga_beli": {
+          "__bigint__": "250000"
+        }
+      }
     },
     "6287797046407@s.whatsapp.net": {
       "uid": 10017,
@@ -6000,17 +6007,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 17.844222346346726,
+        "inflation": 18.15341592776468,
         "gdp": {
-          "__bigint__": "1172269301"
+          "__bigint__": "1171566082"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.1784422234634673,
-        "unemployment": 15.690046830454003,
+        "prices": 1.1815341592776467,
+        "unemployment": 15.914757195592403,
         "stability": 0,
-        "approval": 56.201666273387126,
+        "approval": 56.016411478631525,
         "welfare": 100,
         "military": 100,
         "corruption": 35,
@@ -6026,9 +6033,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 78.86847246558807,
-          "energy": 96.52240774771924,
-          "raw": 99.41592170741028
+          "food": 78.64457275239064,
+          "energy": 97.69788230225032,
+          "raw": 99.9198565306887
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6048,7 +6055,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789281125212,
+        "last_tick": 1789282025243,
         "last_tax_day": "2026-09-13",
         "last_news": 1789278125206,
         "last_election_month": "2026-09",
@@ -6069,6 +6076,13 @@
       "bought_at": 1789176453208,
       "harga_beli": {
         "__bigint__": "75000"
+      }
+    },
+    "6282292961437@s.whatsapp.net": {
+      "kode": "kos",
+      "bought_at": 1789282012344,
+      "harga_beli": {
+        "__bigint__": "250000"
       }
     }
   }
