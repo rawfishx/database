@@ -1618,7 +1618,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4725"
+        "__bigint__": "4780"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1667,7 +1667,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 30,
+      "limit": 24,
       "last_reset": "2026-09-14T01:57:22.344Z",
       "frames": [],
       "active_frame": null,
@@ -4172,7 +4172,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "780"
+        "__bigint__": "795"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4231,7 +4231,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789376249127,
-      "limit": 39,
+      "limit": 38,
       "last_reset": "2026-09-14T08:57:29.127Z",
       "achievements": [],
       "transactions": [],
@@ -4855,7 +4855,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "805"
+        "__bigint__": "870"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4914,7 +4914,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789375889013,
-      "limit": 5,
+      "limit": 2,
       "last_reset": "2026-09-14T08:51:29.013Z",
       "achievements": [
         "first_saving"
@@ -5717,6 +5717,21 @@
         },
         "cachedAt": 1788764730494
       },
+      "207536": {
+        "data": {
+          "mal_id": 207536,
+          "name": "Yuuka Hayase",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Yuuka Hayase",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/16/469773.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/207536"
+        },
+        "cachedAt": 1789318606889
+      },
       "218925": {
         "data": {
           "mal_id": 218925,
@@ -6001,6 +6016,21 @@
           "url": "https://myanimelist.net/character/33221"
         },
         "cachedAt": 1788939795850
+      },
+      "hayase yuuka": {
+        "data": {
+          "mal_id": 207536,
+          "name": "Yuuka Hayase",
+          "name_kanji": null,
+          "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Yuuka Hayase",
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/16/469773.jpg"
+            }
+          },
+          "url": "https://myanimelist.net/character/207536"
+        },
+        "cachedAt": 1789318606889
       }
     },
     "group_settings": {
@@ -6162,17 +6192,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 35.201169468021654,
+        "inflation": 35.43230539714671,
         "gdp": {
-          "__bigint__": "1218525392"
+          "__bigint__": "1217794424"
         },
         "treasury": {
           "__bigint__": "487537309"
         },
-        "prices": 1.3520116946802165,
-        "unemployment": 15.079256943093506,
+        "prices": 1.3543230539714672,
+        "unemployment": 15.06360526308187,
         "stability": 0,
-        "approval": 11.69787998740435,
+        "approval": 10.11775704418954,
         "welfare": 100,
         "military": 100,
         "corruption": 47,
@@ -6188,9 +6218,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 78.55300691469073,
-          "energy": 97.22276340583723,
-          "raw": 98.20128864711118
+          "food": 80.59525771430017,
+          "energy": 95.60329591934514,
+          "raw": 96.67015260313661
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6210,7 +6240,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789317755758,
+        "last_tick": 1789318655762,
         "last_tax_day": "2026-09-13",
         "last_news": 1789315955751,
         "last_election_month": "2026-09",
