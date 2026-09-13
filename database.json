@@ -161,7 +161,7 @@
         "__bigint__": "6"
       },
       "xp": {
-        "__bigint__": "10705"
+        "__bigint__": "10785"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1224,7 +1224,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "42915"
+        "__bigint__": "43155"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1618,7 +1618,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "4670"
+        "__bigint__": "4685"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1667,7 +1667,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 37,
+      "limit": 34,
       "last_reset": "2026-09-14T01:57:22.344Z",
       "frames": [],
       "active_frame": null,
@@ -1717,7 +1717,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15720"
+        "__bigint__": "15745"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -3130,7 +3130,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-09-12T04:15:08.528Z",
+      "last_reset": "2026-09-14T09:55:49.110Z",
       "diamond": 0,
       "negara": "Belum diatur",
       "squad_id": null,
@@ -3141,7 +3141,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1789186508528
+      "limit_reset_at": 1789379749110
     },
     "6285786196090@s.whatsapp.net": {
       "uid": 10031,
@@ -4695,9 +4695,9 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": true,
-      "limit_reset_at": 1789296724850,
+      "limit_reset_at": 1789379549680,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-13T10:52:04.850Z",
+      "last_reset": "2026-09-14T09:52:29.680Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -4705,7 +4705,7 @@
       "last_daily": 0,
       "last_transfer": 0,
       "last_diamond_bonus": "2026-09-13",
-      "limit_reset_notified_at": 1789213924850
+      "limit_reset_notified_at": 1789296749680
     },
     "6281959150453@s.whatsapp.net": {
       "uid": 10051,
@@ -4807,10 +4807,10 @@
         "__bigint__": "5000"
       },
       "level": {
-        "__bigint__": "1"
+        "__bigint__": "2"
       },
       "xp": {
-        "__bigint__": "80"
+        "__bigint__": "115"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4869,7 +4869,7 @@
       "profil_lengkap": false,
       "isPremium": false,
       "limit_reset_at": 1789375889013,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-14T08:51:29.013Z",
       "achievements": [],
       "transactions": [],
@@ -6068,17 +6068,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 25.426955628811957,
+        "inflation": 25.571954815775573,
         "gdp": {
-          "__bigint__": "1210172148"
+          "__bigint__": "1209446191"
         },
         "treasury": {
           "__bigint__": "490037309"
         },
-        "prices": 1.2542695562881196,
-        "unemployment": 15.943457114989812,
+        "prices": 1.2557195481577557,
+        "unemployment": 16.02661468559547,
         "stability": 0,
-        "approval": 43.6873625146676,
+        "approval": 43.116670316545154,
         "welfare": 100,
         "military": 100,
         "corruption": 33,
@@ -6094,9 +6094,9 @@
           "transport": 60
         },
         "resources": {
-          "food": 80.40979389721956,
-          "energy": 99.43119439463156,
-          "raw": 100
+          "food": 80.19606182099056,
+          "energy": 98.8831415833377,
+          "raw": 99.93595035021742
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6116,7 +6116,7 @@
           "homeless": 0,
           "elections": 1
         },
-        "last_tick": 1789296425631,
+        "last_tick": 1789297325655,
         "last_tax_day": "2026-09-13",
         "last_news": 1789294625598,
         "last_election_month": "2026-09",
