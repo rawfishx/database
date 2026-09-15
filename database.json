@@ -6738,15 +6738,15 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 29.240692111593106,
+        "inflation": 29.18175999653089,
         "gdp": {
-          "__bigint__": "99047694451"
+          "__bigint__": "98988277722"
         },
         "treasury": {
           "__bigint__": "25002526269"
         },
-        "prices": 1.292406921115931,
-        "unemployment": 20.449536505128673,
+        "prices": 1.291817599965309,
+        "unemployment": 20.779692148769254,
         "stability": 0,
         "approval": 0.15,
         "welfare": 100,
@@ -6764,9 +6764,9 @@
           "transport": 50
         },
         "resources": {
-          "food": 82.81932296077018,
-          "energy": 58.38175443287591,
-          "raw": 95.49417045522571
+          "food": 81.23051147208022,
+          "energy": 59.803684796068765,
+          "raw": 94.28875221029931
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6795,7 +6795,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008906,
+        "last_tick": 1789441908920,
         "last_tax_day": "2026-09-15",
         "last_news": 1789438308865,
         "preset": true,
@@ -6803,7 +6803,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "124050220720"
+          "__bigint__": "123990803991"
         },
         "projects": [],
         "alliances": {},
@@ -6825,17 +6825,17 @@
         },
         "groups": {},
         "tax_rate": 19,
-        "inflation": 5.827906334626692,
+        "inflation": 5.926269143308459,
         "gdp": {
-          "__bigint__": "107513437261"
+          "__bigint__": "107545694516"
         },
         "treasury": {
           "__bigint__": "24997675000"
         },
-        "prices": 1.0582790633462669,
-        "unemployment": 16.236146189040717,
-        "stability": 78.95587583042469,
-        "approval": 78.81602520704155,
+        "prices": 1.0592626914330845,
+        "unemployment": 16.192309678706646,
+        "stability": 79.2088697273253,
+        "approval": 78.07491882149631,
         "welfare": 79,
         "military": 50,
         "corruption": 42,
@@ -6851,9 +6851,9 @@
           "transport": 45
         },
         "resources": {
-          "food": 92.68987965789582,
-          "energy": 16.999120549640896,
-          "raw": 89.04080405478163
+          "food": 92.85259934027249,
+          "energy": 14.886354630292697,
+          "raw": 88.31073214582365
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6882,7 +6882,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008906,
+        "last_tick": 1789441908920,
         "last_tax_day": "2026-09-15",
         "last_news": 1789439208879,
         "preset": true,
@@ -6890,7 +6890,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "132511112261"
+          "__bigint__": "132543369516"
         },
         "projects": [],
         "alliances": {},
@@ -6912,20 +6912,20 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 27.042569556930797,
+        "inflation": 28.954639398712455,
         "gdp": {
-          "__bigint__": "99241092685"
+          "__bigint__": "99181559939"
         },
         "treasury": {
-          "__bigint__": "24995000000"
+          "__bigint__": "24992500000"
         },
-        "prices": 1.2704256955693078,
-        "unemployment": 10.328930820168054,
+        "prices": 1.2895463939871246,
+        "unemployment": 10.522894797279374,
         "stability": 0,
         "approval": 0.15,
         "welfare": 100,
         "military": 100,
-        "corruption": 46,
+        "corruption": 48,
         "import_tariff": 5,
         "minimum_wage": 0,
         "citizen_subsidy": {
@@ -6938,9 +6938,9 @@
           "transport": 55
         },
         "resources": {
-          "food": 55.79251155903341,
-          "energy": 73.50313671158436,
-          "raw": 77.96283123613873
+          "food": 55.64537584644433,
+          "energy": 74.09479391378451,
+          "raw": 77.80794408201203
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -6961,7 +6961,7 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 28,
+          "events": 29,
           "wars": 0,
           "scandals": 5,
           "homeless": 0,
@@ -6969,21 +6969,21 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008906,
+        "last_tick": 1789441908920,
         "last_tax_day": "2026-09-15",
-        "last_news": 1789437108840,
+        "last_news": 1789441308907,
         "preset": true,
         "influence": 753,
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "124236092685"
+          "__bigint__": "124174059939"
         },
         "projects": [],
         "alliances": {},
         "prestige": 100,
         "last_event_impacts": [
-          "Harga kebutuhan umum: turun sekitar 2.0% akibat perubahan inflasi."
+          "Harga kebutuhan umum: naik sekitar 1.5% akibat perubahan inflasi."
         ]
       },
       "china": {
@@ -6997,17 +6997,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 21.426174008379384,
+        "inflation": 21.41386128456225,
         "gdp": {
-          "__bigint__": "100346598571"
+          "__bigint__": "100286402655"
         },
         "treasury": {
           "__bigint__": "25005000000"
         },
-        "prices": 1.2142617400837938,
-        "unemployment": 8.563467361864408,
+        "prices": 1.2141386128456224,
+        "unemployment": 8.809276251744171,
         "stability": 0,
-        "approval": 23.831798139090306,
+        "approval": 23.47430724819444,
         "welfare": 100,
         "military": 100,
         "corruption": 34,
@@ -7023,9 +7023,9 @@
           "transport": 55
         },
         "resources": {
-          "food": 57.99961384534117,
-          "energy": 64.94084252206913,
-          "raw": 91.26011978014853
+          "food": 58.658132311226694,
+          "energy": 64.03154603210753,
+          "raw": 92.5158404336257
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7054,7 +7054,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008906,
+        "last_tick": 1789441908920,
         "last_tax_day": "2026-09-15",
         "last_news": 1789439508880,
         "preset": true,
@@ -7062,7 +7062,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "125351598571"
+          "__bigint__": "125291402655"
         },
         "projects": [],
         "alliances": {},
@@ -7082,17 +7082,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 24.648318095950685,
+        "inflation": 24.703661265120463,
         "gdp": {
-          "__bigint__": "102632490724"
+          "__bigint__": "102570923546"
         },
         "treasury": {
           "__bigint__": "24992500000"
         },
-        "prices": 1.246483180959507,
-        "unemployment": 9.163432706201135,
+        "prices": 1.2470366126512047,
+        "unemployment": 8.912033064140363,
         "stability": 0,
-        "approval": 1.0149723823312933,
+        "approval": 0.16491565487597062,
         "welfare": 100,
         "military": 100,
         "corruption": 44,
@@ -7108,9 +7108,9 @@
           "transport": 50
         },
         "resources": {
-          "food": 47.21289460048858,
-          "energy": 54.64225384082657,
-          "raw": 85.91069617620431
+          "food": 46.49388151338626,
+          "energy": 53.99057623433016,
+          "raw": 84.51530181081007
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7139,7 +7139,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008907,
+        "last_tick": 1789441908921,
         "last_tax_day": "2026-09-15",
         "last_news": 1789439208880,
         "preset": true,
@@ -7147,7 +7147,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "127624990724"
+          "__bigint__": "127563423546"
         },
         "projects": [],
         "alliances": {},
@@ -7171,15 +7171,15 @@
         "tax_rate": 1,
         "inflation": -5,
         "gdp": {
-          "__bigint__": "108150686529"
+          "__bigint__": "108215589919"
         },
         "treasury": {
           "__bigint__": "24990000000"
         },
         "prices": 0.95,
-        "unemployment": 6.136248192023727,
-        "stability": 97.6245321225442,
-        "approval": 93.0995835357932,
+        "unemployment": 5.938826324763353,
+        "stability": 98.4221293521841,
+        "approval": 93.42850673298796,
         "welfare": 97,
         "military": 50,
         "corruption": 46,
@@ -7195,9 +7195,9 @@
           "transport": 50
         },
         "resources": {
-          "food": 89.55012648468342,
-          "energy": 51.72948995443893,
-          "raw": 87.22345001406177
+          "food": 89.3998613593533,
+          "energy": 52.17687774831303,
+          "raw": 89.26742088392608
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7226,15 +7226,15 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008907,
+        "last_tick": 1789441908921,
         "last_tax_day": "2026-09-15",
         "last_news": 1789438008866,
         "preset": true,
-        "influence": 773,
+        "influence": 774,
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "133140686529"
+          "__bigint__": "133205589919"
         },
         "projects": [],
         "alliances": {},
@@ -7255,17 +7255,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 52.02409539125088,
+        "inflation": 50.235460845140096,
         "gdp": {
-          "__bigint__": "94683678459"
+          "__bigint__": "94626879615"
         },
         "treasury": {
           "__bigint__": "25005000000"
         },
-        "prices": 1.5202409539125088,
-        "unemployment": 21.47256132430077,
+        "prices": 1.502354608451401,
+        "unemployment": 21.653194957935472,
         "stability": 0,
-        "approval": 0.15,
+        "approval": 3.003028137326011,
         "welfare": 100,
         "military": 100,
         "corruption": 22,
@@ -7281,8 +7281,8 @@
           "transport": 50
         },
         "resources": {
-          "food": 30.233055331422808,
-          "energy": 58.20106467207597,
+          "food": 29.44916550076394,
+          "energy": 58.477150293205796,
           "raw": 100
         },
         "automatic_government": true,
@@ -7304,7 +7304,7 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 27,
+          "events": 28,
           "wars": 0,
           "scandals": 2,
           "homeless": 0,
@@ -7312,21 +7312,21 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008907,
+        "last_tick": 1789441908921,
         "last_tax_day": "2026-09-15",
-        "last_news": 1789436808841,
+        "last_news": 1789441308907,
         "preset": true,
         "influence": 753,
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "119688678459"
+          "__bigint__": "119631879615"
         },
         "projects": [],
         "alliances": {},
         "prestige": 100,
         "last_event_impacts": [
-          "Kesejahteraan: -3.0 poin."
+          "Harga kebutuhan umum: turun sekitar 2.0% akibat perubahan inflasi."
         ]
       },
       "jerman": {
@@ -7340,18 +7340,18 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 24.209392402227273,
+        "inflation": 24.4280411811798,
         "gdp": {
-          "__bigint__": "102427293680"
+          "__bigint__": "102365849596"
         },
         "treasury": {
           "__bigint__": "24997500000"
         },
-        "prices": 1.2420939240222728,
-        "unemployment": 17.07526177362037,
+        "prices": 1.244280411811798,
+        "unemployment": 17.075471311274804,
         "stability": 0,
-        "approval": 32.09763443009388,
-        "welfare": 93,
+        "approval": 31.506279040274705,
+        "welfare": 96,
         "military": 100,
         "corruption": 30,
         "import_tariff": 5,
@@ -7366,9 +7366,9 @@
           "transport": 55
         },
         "resources": {
-          "food": 55.64957360596631,
-          "energy": 75.50588214586034,
-          "raw": 99.49244432548508
+          "food": 55.63886357935087,
+          "energy": 74.47241021968073,
+          "raw": 99.67311513079478
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7397,7 +7397,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008907,
+        "last_tick": 1789441908921,
         "last_tax_day": "2026-09-15",
         "last_news": 1789440108894,
         "preset": true,
@@ -7405,7 +7405,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "127424793680"
+          "__bigint__": "127363349596"
         },
         "projects": [],
         "alliances": {},
@@ -7426,17 +7426,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 26.10679711904488,
+        "inflation": 26.41254249372104,
         "gdp": {
-          "__bigint__": "101380534463"
+          "__bigint__": "101319718309"
         },
         "treasury": {
           "__bigint__": "24997500000"
         },
-        "prices": 1.2610679711904489,
-        "unemployment": 20.676303928927638,
+        "prices": 1.2641254249372105,
+        "unemployment": 20.42075428398841,
         "stability": 0,
-        "approval": 19.762359589867728,
+        "approval": 18.99220763206922,
         "welfare": 100,
         "military": 100,
         "corruption": 38,
@@ -7452,9 +7452,9 @@
           "transport": 50
         },
         "resources": {
-          "food": 56.68837835709838,
-          "energy": 52.75629618700344,
-          "raw": 89.81755743928805
+          "food": 56.58608429611119,
+          "energy": 52.43601460894946,
+          "raw": 88.69729955187537
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7483,7 +7483,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008907,
+        "last_tick": 1789441908921,
         "last_tax_day": "2026-09-15",
         "last_news": 1789437708854,
         "preset": true,
@@ -7491,7 +7491,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "126378034463"
+          "__bigint__": "126317218309"
         },
         "projects": [],
         "alliances": {},
@@ -7511,17 +7511,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 28.2155606758389,
+        "inflation": 28.389256603797843,
         "gdp": {
-          "__bigint__": "97391104986"
+          "__bigint__": "97357677011"
         },
         "treasury": {
-          "__bigint__": "25007500000"
+          "__bigint__": "25012500000"
         },
-        "prices": 1.282155606758389,
-        "unemployment": 23.76527632613957,
+        "prices": 1.2838925660379785,
+        "unemployment": 23.56877620703801,
         "stability": 0,
-        "approval": 45.85097215303794,
+        "approval": 52.44019583976396,
         "welfare": 100,
         "military": 100,
         "corruption": 22,
@@ -7537,9 +7537,9 @@
           "transport": 45
         },
         "resources": {
-          "food": 47.35045622559621,
-          "energy": 47.38707731605213,
-          "raw": 91.68355281847509
+          "food": 47.83716054768408,
+          "energy": 47.25543451494336,
+          "raw": 92.00923741354214
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7560,7 +7560,7 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 28,
+          "events": 29,
           "wars": 0,
           "scandals": 2,
           "homeless": 0,
@@ -7568,21 +7568,21 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008908,
+        "last_tick": 1789441908921,
         "last_tax_day": "2026-09-15",
-        "last_news": 1789437408854,
+        "last_news": 1789441608921,
         "preset": true,
         "influence": 753,
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "122398604986"
+          "__bigint__": "122370177011"
         },
         "projects": [],
         "alliances": {},
         "prestige": 100,
         "last_event_impacts": [
-          "Harga kebutuhan umum: turun sekitar 2.0% akibat perubahan inflasi."
+          "Aktivitas ekonomi/GDP: +Rp 25,000,000."
         ]
       },
       "india": {
@@ -7596,17 +7596,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 36.33462218206875,
+        "inflation": 36.430034718033724,
         "gdp": {
-          "__bigint__": "100541017406"
+          "__bigint__": "100480704861"
         },
         "treasury": {
           "__bigint__": "24982500000"
         },
-        "prices": 1.3633462218206875,
-        "unemployment": 17.73618130176115,
+        "prices": 1.3643003471803372,
+        "unemployment": 18.135333405329476,
         "stability": 0,
-        "approval": 2.6775057644136715,
+        "approval": 1.1828338640417058,
         "welfare": 100,
         "military": 100,
         "corruption": 42,
@@ -7622,9 +7622,9 @@
           "transport": 45
         },
         "resources": {
-          "food": 44.75912654599189,
-          "energy": 48.74349971830787,
-          "raw": 93.76002388589977
+          "food": 44.93048482219735,
+          "energy": 49.95863751641395,
+          "raw": 93.29033431009454
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7653,7 +7653,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008908,
+        "last_tick": 1789441908922,
         "last_tax_day": "2026-09-15",
         "last_news": 1789439508881,
         "preset": true,
@@ -7661,7 +7661,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "125523517406"
+          "__bigint__": "125463204861"
         },
         "projects": [],
         "alliances": {},
@@ -7681,17 +7681,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 35.743997475414524,
+        "inflation": 36.04280506375517,
         "gdp": {
-          "__bigint__": "99636195127"
+          "__bigint__": "99576425367"
         },
         "treasury": {
           "__bigint__": "25012500000"
         },
-        "prices": 1.3574399747541452,
-        "unemployment": 14.582519415804434,
+        "prices": 1.3604280506375517,
+        "unemployment": 14.470871864308359,
         "stability": 0,
-        "approval": 84.48110541869235,
+        "approval": 83.73340813409372,
         "welfare": 100,
         "military": 100,
         "corruption": 18,
@@ -7707,9 +7707,9 @@
           "transport": 55
         },
         "resources": {
-          "food": 35.159452952148705,
-          "energy": 86.75961709057967,
-          "raw": 95.17060539314585
+          "food": 35.42147652440923,
+          "energy": 85.7253822219728,
+          "raw": 97.39007312829868
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7738,7 +7738,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008908,
+        "last_tick": 1789441908922,
         "last_tax_day": "2026-09-15",
         "last_news": 1789439208881,
         "preset": true,
@@ -7746,7 +7746,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "124648695127"
+          "__bigint__": "124588925367"
         },
         "projects": [],
         "alliances": {},
@@ -7767,17 +7767,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 21.145438407594998,
+        "inflation": 21.214527899748422,
         "gdp": {
-          "__bigint__": "98500376465"
+          "__bigint__": "98441288059"
         },
         "treasury": {
           "__bigint__": "25010000000"
         },
-        "prices": 1.21145438407595,
-        "unemployment": 7.162136208882107,
+        "prices": 1.2121452789974843,
+        "unemployment": 7.263216585528285,
         "stability": 0,
-        "approval": 81.30396354474205,
+        "approval": 81.50298323721162,
         "welfare": 100,
         "military": 100,
         "corruption": 16,
@@ -7793,9 +7793,9 @@
           "transport": 40
         },
         "resources": {
-          "food": 45.65705741769182,
-          "energy": 27.236929699788227,
-          "raw": 95.72014085101999
+          "food": 45.56463750917019,
+          "energy": 26.496110536865583,
+          "raw": 95.07030726848767
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7824,7 +7824,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008908,
+        "last_tick": 1789441908922,
         "last_tax_day": "2026-09-15",
         "last_news": 1789438608868,
         "preset": true,
@@ -7832,7 +7832,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "123510376465"
+          "__bigint__": "123451288059"
         },
         "projects": [],
         "alliances": {},
@@ -7852,15 +7852,15 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 24.584305292609752,
+        "inflation": 24.76368824656191,
         "gdp": {
-          "__bigint__": "101913876714"
+          "__bigint__": "101852740618"
         },
         "treasury": {
           "__bigint__": "24992500000"
         },
-        "prices": 1.2458430529260975,
-        "unemployment": 23.296990498875584,
+        "prices": 1.2476368824656192,
+        "unemployment": 23.448622097505496,
         "stability": 0,
         "approval": 0.15,
         "welfare": 100,
@@ -7878,9 +7878,9 @@
           "transport": 50
         },
         "resources": {
-          "food": 62.72792689276048,
-          "energy": 50.763960174226554,
-          "raw": 96.21793046863806
+          "food": 61.36382890701619,
+          "energy": 51.28031914223516,
+          "raw": 96.73187122907203
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7909,7 +7909,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008908,
+        "last_tick": 1789441908922,
         "last_tax_day": "2026-09-15",
         "last_news": 1789438608868,
         "preset": true,
@@ -7917,7 +7917,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "126906376714"
+          "__bigint__": "126845240618"
         },
         "projects": [],
         "alliances": {},
@@ -7937,18 +7937,18 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 12.44955732656052,
+        "inflation": 15.256656534695765,
         "gdp": {
-          "__bigint__": "105747727498"
+          "__bigint__": "105684291552"
         },
         "treasury": {
           "__bigint__": "25000000000"
         },
-        "prices": 1.1244955732656052,
-        "unemployment": 14.522508634430555,
+        "prices": 1.1525665653469577,
+        "unemployment": 14.362619756661335,
         "stability": 0,
-        "approval": 23.39833329835821,
-        "welfare": 100,
+        "approval": 22.788295286151474,
+        "welfare": 96,
         "military": 100,
         "corruption": 60,
         "import_tariff": 5,
@@ -7963,9 +7963,9 @@
           "transport": 55
         },
         "resources": {
-          "food": 73.19292008693995,
-          "energy": 69.78113741453814,
-          "raw": 97.02718143130136
+          "food": 59.00936470064117,
+          "energy": 69.88444487226661,
+          "raw": 97.60586411812663
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -7986,7 +7986,7 @@
           "subsidies": {
             "__bigint__": "0"
           },
-          "events": 28,
+          "events": 29,
           "wars": 0,
           "scandals": 9,
           "homeless": 0,
@@ -7994,22 +7994,23 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008908,
+        "last_tick": 1789441908922,
         "last_tax_day": "2026-09-15",
-        "last_news": 1789438008868,
+        "last_news": 1789441908922,
         "preset": true,
         "influence": 754,
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "130747727498"
+          "__bigint__": "130684291552"
         },
         "projects": [],
         "alliances": {},
         "prestige": 100,
         "last_event_impacts": [
-          "Aktivitas ekonomi/GDP: -Rp 20,000,000.",
-          "Kesejahteraan: -3.0 poin."
+          "Harga kebutuhan umum: naik sekitar 2.5% akibat perubahan inflasi.",
+          "Harga pangan: cenderung naik karena pasokan turun.",
+          "Kesejahteraan: -4.0 poin."
         ]
       },
       "singapura": {
@@ -8023,17 +8024,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 33.81919766346491,
+        "inflation": 34.00932941355241,
         "gdp": {
-          "__bigint__": "96435510698"
+          "__bigint__": "96377660964"
         },
         "treasury": {
           "__bigint__": "24990000000"
         },
-        "prices": 1.338191976634649,
-        "unemployment": 28.525343119529925,
+        "prices": 1.3400932941355241,
+        "unemployment": 28.806305872171748,
         "stability": 0,
-        "approval": 12.944969344006601,
+        "approval": 11.837783510112656,
         "welfare": 100,
         "military": 100,
         "corruption": 34,
@@ -8049,9 +8050,9 @@
           "transport": 55
         },
         "resources": {
-          "food": 61.1720898503226,
-          "energy": 62.864221110090696,
-          "raw": 83.49210143699153
+          "food": 60.4549946258095,
+          "energy": 62.409136456355384,
+          "raw": 85.25705753971248
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -8080,7 +8081,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008909,
+        "last_tick": 1789441908923,
         "last_tax_day": "2026-09-15",
         "last_news": 1789439208882,
         "preset": true,
@@ -8088,7 +8089,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "121425510698"
+          "__bigint__": "121367660964"
         },
         "projects": [],
         "alliances": {},
@@ -8112,17 +8113,17 @@
         },
         "groups": {},
         "tax_rate": 35,
-        "inflation": 46.83047450182633,
+        "inflation": 47.063940146169294,
         "gdp": {
-          "__bigint__": "96035101955"
+          "__bigint__": "95977492419"
         },
         "treasury": {
           "__bigint__": "25002516336"
         },
-        "prices": 1.4683047450182634,
-        "unemployment": 31.63208515738203,
+        "prices": 1.470639401461693,
+        "unemployment": 31.846769344812703,
         "stability": 0,
-        "approval": 18.632497123079027,
+        "approval": 17.16230246315762,
         "welfare": 100,
         "military": 100,
         "corruption": 20,
@@ -8138,9 +8139,9 @@
           "transport": 35
         },
         "resources": {
-          "food": 60.332844088089956,
-          "energy": 18.847209203156687,
-          "raw": 99.29776503501424
+          "food": 60.25038262652287,
+          "energy": 16.997571456056843,
+          "raw": 97.79634593602674
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -8169,7 +8170,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008909,
+        "last_tick": 1789441908923,
         "last_tax_day": "2026-09-15",
         "last_news": 1789438608869,
         "preset": true,
@@ -8177,7 +8178,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "121037618291"
+          "__bigint__": "120980008755"
         },
         "projects": [],
         "alliances": {},
@@ -8197,17 +8198,17 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 14.377723265883045,
+        "inflation": 14.575407270311926,
         "gdp": {
-          "__bigint__": "103776718038"
+          "__bigint__": "103714464461"
         },
         "treasury": {
           "__bigint__": "25005000000"
         },
-        "prices": 1.1437772326588305,
-        "unemployment": 23.116241360744926,
+        "prices": 1.1457540727031192,
+        "unemployment": 23.101021739812897,
         "stability": 0,
-        "approval": 64.77291262095592,
+        "approval": 65.013522084502,
         "welfare": 100,
         "military": 100,
         "corruption": 28,
@@ -8223,9 +8224,9 @@
           "transport": 40
         },
         "resources": {
-          "food": 95.92110127279349,
-          "energy": 8.278865576958976,
-          "raw": 86.40189015773053
+          "food": 95.24269242186324,
+          "energy": 8.970666211926025,
+          "raw": 84.9991645119815
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -8254,7 +8255,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008909,
+        "last_tick": 1789441908923,
         "last_tax_day": "2026-09-15",
         "last_news": 1789440408896,
         "preset": true,
@@ -8262,7 +8263,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "128781718038"
+          "__bigint__": "128719464461"
         },
         "projects": [],
         "alliances": {},
@@ -8282,15 +8283,15 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 33.10206075825679,
+        "inflation": 33.05014268993532,
         "gdp": {
-          "__bigint__": "100988977184"
+          "__bigint__": "100928395917"
         },
         "treasury": {
           "__bigint__": "25005000000"
         },
-        "prices": 1.331020607582568,
-        "unemployment": 5.992368098058295,
+        "prices": 1.3305014268993531,
+        "unemployment": 5.815431100457152,
         "stability": 0,
         "approval": 0.15,
         "welfare": 100,
@@ -8308,9 +8309,9 @@
           "transport": 50
         },
         "resources": {
-          "food": 41.8845222184592,
-          "energy": 63.62715884302309,
-          "raw": 97.13053356371321
+          "food": 43.14927214083341,
+          "energy": 64.07742722030986,
+          "raw": 96.64878539178004
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -8339,7 +8340,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008909,
+        "last_tick": 1789441908923,
         "last_tax_day": "2026-09-15",
         "last_news": 1789438908869,
         "preset": true,
@@ -8347,7 +8348,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "125993977184"
+          "__bigint__": "125933395917"
         },
         "projects": [],
         "alliances": {},
@@ -8367,15 +8368,15 @@
         "members": {},
         "groups": {},
         "tax_rate": 35,
-        "inflation": 55.437683968188715,
+        "inflation": 55.57419185332511,
         "gdp": {
-          "__bigint__": "95655408356"
+          "__bigint__": "95598026590"
         },
         "treasury": {
           "__bigint__": "24987500000"
         },
-        "prices": 1.5543768396818871,
-        "unemployment": 29.379956080315694,
+        "prices": 1.555741918533251,
+        "unemployment": 29.735645540148575,
         "stability": 0,
         "approval": 0.15,
         "welfare": 100,
@@ -8393,9 +8394,9 @@
           "transport": 50
         },
         "resources": {
-          "food": 57.115428840970246,
-          "energy": 65.2467230622407,
-          "raw": 72.48971061271965
+          "food": 58.544288992320624,
+          "energy": 65.17345015811765,
+          "raw": 72.56496490854772
         },
         "automatic_government": true,
         "automatic_news": true,
@@ -8424,7 +8425,7 @@
         },
         "last_election_year": null,
         "last_election_month": "2026-09",
-        "last_tick": 1789441008909,
+        "last_tick": 1789441908923,
         "last_tax_day": "2026-09-15",
         "last_news": 1789437708856,
         "preset": true,
@@ -8432,7 +8433,7 @@
         "diplomacy": 70,
         "trade_power": 60,
         "national_wealth": {
-          "__bigint__": "120642908356"
+          "__bigint__": "120585526590"
         },
         "projects": [],
         "alliances": {},
