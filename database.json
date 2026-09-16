@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12361"
+        "__bigint__": "12396"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -3027,7 +3027,7 @@
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "53995"
+        "__bigint__": "54005"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3086,7 +3086,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 2,
+      "limit": 0,
       "last_reset": "2026-09-16T22:58:34.569Z",
       "achievements": [
         "first_saving",
@@ -4565,16 +4565,16 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": false,
-      "limit_reset_at": 1789541938626,
-      "limit": 34,
-      "last_reset": "2026-09-16T06:58:58.626Z",
+      "limit_reset_at": 1789624779812,
+      "limit": 40,
+      "last_reset": "2026-09-17T05:59:39.812Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789459138626,
+      "limit_reset_notified_at": 1789541979812,
       "country_reset_required": false,
       "health": {
         "hp": 100,
@@ -6974,11 +6974,7 @@
           "6281313095732@s.whatsapp.net": true,
           "6283138226730@s.whatsapp.net": true
         },
-        "groups": {
-          "120363412061249246@g.us": {
-            "linked_at": 1789495377299
-          }
-        },
+        "groups": {},
         "tax_rate": 35,
         "inflation": 77.85934374270798,
         "gdp": {
@@ -8708,7 +8704,7 @@
     },
     "saataa_rebrand_registration_version": 3,
     "analytics": {
-      "total_commands": 81,
+      "total_commands": 89,
       "command_counts": {
         "menu": 7,
         "topuser": 1,
@@ -8719,7 +8715,7 @@
         "ik": 2,
         "usaha": 2,
         "negarahubungkan": 5,
-        "negara": 3,
+        "negara": 4,
         "negaralist": 3,
         "profil": 1,
         "ping": 2,
@@ -8727,8 +8723,8 @@
         "negarawarga": 1,
         "stiker": 7,
         "claim": 2,
-        "balapkuda": 1,
-        "quiz": 7,
+        "balapkuda": 2,
+        "quiz": 8,
         "jawab": 6,
         "math": 5,
         "jadibot": 7,
@@ -8739,27 +8735,31 @@
         "tabung": 2,
         "rampok": 1,
         "tarik": 1,
-        "brat": 1
+        "brat": 1,
+        "kick": 1,
+        "negaracabut": 1,
+        "kudagabung": 1,
+        "kstalk": 2
       },
       "user_counts": {
-        "6283138226730@s.whatsapp.net": 48,
-        "6289526468474@s.whatsapp.net": 28,
+        "6283138226730@s.whatsapp.net": 54,
+        "6289526468474@s.whatsapp.net": 30,
         "6281959150453@s.whatsapp.net": 5
       },
       "group_counts": {
         "120363402872389104@g.us": 18,
-        "120363412061249246@g.us": 20,
-        "120363430435543929@g.us": 32
+        "120363412061249246@g.us": 26,
+        "120363430435543929@g.us": 34
       },
       "user_last_seen": {
-        "6283138226730@s.whatsapp.net": 1789539205971,
-        "6289526468474@s.whatsapp.net": 1789539377364,
+        "6283138226730@s.whatsapp.net": 1789542002004,
+        "6289526468474@s.whatsapp.net": 1789541917614,
         "6281959150453@s.whatsapp.net": 1789539528948
       },
       "group_last_seen": {
         "120363402872389104@g.us": 1789539205971,
-        "120363412061249246@g.us": 1789530453050,
-        "120363430435543929@g.us": 1789539528948
+        "120363412061249246@g.us": 1789542002004,
+        "120363430435543929@g.us": 1789541917614
       },
       "user_names": {
         "6283138226730@s.whatsapp.net": "dika‼️",
