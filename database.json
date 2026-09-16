@@ -159,13 +159,13 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "8089750"
+        "__bigint__": "8239750"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12281"
+        "__bigint__": "12316"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -389,6 +389,14 @@
         "total_modal": {
           "__bigint__": "0"
         }
+      },
+      "garage": {
+        "motors": [],
+        "activeMotor": null
+      },
+      "stable": {
+        "horses": [],
+        "activeHorse": null
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -8659,9 +8667,9 @@
     },
     "saataa_rebrand_registration_version": 3,
     "analytics": {
-      "total_commands": 39,
+      "total_commands": 45,
       "command_counts": {
-        "menu": 3,
+        "menu": 5,
         "topuser": 1,
         "menuadmin": 1,
         "online": 1,
@@ -8677,24 +8685,27 @@
         "angkatpemimpin": 4,
         "negarawarga": 1,
         "stiker": 7,
-        "claim": 1
+        "claim": 1,
+        "balapkuda": 1,
+        "quiz": 1,
+        "jawab": 2
       },
       "user_counts": {
-        "6283138226730@s.whatsapp.net": 38,
+        "6283138226730@s.whatsapp.net": 44,
         "6289526468474@s.whatsapp.net": 1
       },
       "group_counts": {
         "120363402872389104@g.us": 17,
-        "120363412061249246@g.us": 14,
+        "120363412061249246@g.us": 20,
         "120363430435543929@g.us": 8
       },
       "user_last_seen": {
-        "6283138226730@s.whatsapp.net": 1789495734447,
+        "6283138226730@s.whatsapp.net": 1789530453050,
         "6289526468474@s.whatsapp.net": 1789495584145
       },
       "group_last_seen": {
         "120363402872389104@g.us": 1789494626974,
-        "120363412061249246@g.us": 1789495439278,
+        "120363412061249246@g.us": 1789530453050,
         "120363430435543929@g.us": 1789495734447
       },
       "user_names": {
@@ -8730,6 +8741,16 @@
             "xp_awarded": 0
           }
         }
+      }
+    },
+    "races": {
+      "120363412061249246@g.us": {
+        "type": "horse",
+        "status": "open",
+        "owner": "6283138226730@s.whatsapp.net",
+        "runners": [],
+        "tick": 0,
+        "winner": null
       }
     }
   },
