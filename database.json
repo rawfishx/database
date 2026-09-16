@@ -785,7 +785,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "785"
+        "__bigint__": "790"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -3021,13 +3021,13 @@
       "registered_at": 1788606800825,
       "name": "nama",
       "uang": {
-        "__bigint__": "200000"
+        "__bigint__": "210000"
       },
       "level": {
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "53655"
+        "__bigint__": "53780"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3086,7 +3086,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 29,
       "last_reset": "2026-09-16T22:58:34.569Z",
       "achievements": [
         "first_saving"
@@ -3198,7 +3198,7 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "last_report": 1788606849630,
+      "last_report": 1789538244483,
       "banned_reason": "",
       "bank": {
         "tabungan": {
@@ -5153,13 +5153,13 @@
       "registered_at": 1789187342461,
       "name": "feby",
       "uang": {
-        "__bigint__": "1212919"
+        "__bigint__": "1232919"
       },
       "level": {
         "__bigint__": "4"
       },
       "xp": {
-        "__bigint__": "3360"
+        "__bigint__": "3470"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5209,7 +5209,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 40,
+      "diamond": 50,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -5235,7 +5235,7 @@
         },
         "last_interest": 1789196918218
       },
-      "last_diamond_bonus": "2026-09-15",
+      "last_diamond_bonus": "2026-09-16",
       "limit_reset_notified_at": 1789518694959,
       "country_reset_required": false,
       "health": {
@@ -6273,7 +6273,15 @@
       "152969823653952@lid": "447974045725@s.whatsapp.net"
     },
     "jadibot": {
-      "requests": {},
+      "requests": {
+        "BU23P2": {
+          "requester": "6289526468474@s.whatsapp.net",
+          "requesterName": "nama",
+          "number": "6281234567890",
+          "status": "pending",
+          "created_at": 1789538230610
+        }
+      },
       "active": {}
     },
     "mal_cache": {
@@ -8667,7 +8675,7 @@
     },
     "saataa_rebrand_registration_version": 3,
     "analytics": {
-      "total_commands": 45,
+      "total_commands": 54,
       "command_counts": {
         "menu": 5,
         "topuser": 1,
@@ -8685,39 +8693,46 @@
         "angkatpemimpin": 4,
         "negarawarga": 1,
         "stiker": 7,
-        "claim": 1,
+        "claim": 2,
         "balapkuda": 1,
         "quiz": 1,
-        "jawab": 2
+        "jawab": 2,
+        "math": 4,
+        "jadibot": 2,
+        "report": 2
       },
       "user_counts": {
         "6283138226730@s.whatsapp.net": 44,
-        "6289526468474@s.whatsapp.net": 1
+        "6289526468474@s.whatsapp.net": 8,
+        "6281959150453@s.whatsapp.net": 2
       },
       "group_counts": {
         "120363402872389104@g.us": 17,
         "120363412061249246@g.us": 20,
-        "120363430435543929@g.us": 8
+        "120363430435543929@g.us": 13
       },
       "user_last_seen": {
         "6283138226730@s.whatsapp.net": 1789530453050,
-        "6289526468474@s.whatsapp.net": 1789495584145
+        "6289526468474@s.whatsapp.net": 1789538244483,
+        "6281959150453@s.whatsapp.net": 1789538090751
       },
       "group_last_seen": {
         "120363402872389104@g.us": 1789494626974,
         "120363412061249246@g.us": 1789530453050,
-        "120363430435543929@g.us": 1789495734447
+        "120363430435543929@g.us": 1789538114654
       },
       "user_names": {
         "6283138226730@s.whatsapp.net": "dika‼️",
-        "6289526468474@s.whatsapp.net": "Anda"
+        "6289526468474@s.whatsapp.net": "Anda",
+        "6281959150453@s.whatsapp.net": "feby"
       },
       "group_names": {
         "120363402872389104@g.us": "hama"
       },
       "first_seen": {
         "6283138226730@s.whatsapp.net": 1789492262455,
-        "6289526468474@s.whatsapp.net": 1789495584145
+        "6289526468474@s.whatsapp.net": 1789495584145,
+        "6281959150453@s.whatsapp.net": 1789538030915
       },
       "rpg_daily": {
         "date": "2026-09-16",
@@ -8735,7 +8750,7 @@
           },
           "6289526468474@s.whatsapp.net": {
             "counts": {
-              "claim": 1
+              "claim": 2
             },
             "claimed": [],
             "xp_awarded": 0
