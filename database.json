@@ -159,12 +159,14 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "6824198"
+        "__bigint__": "6974198"
       },
       "level": {
         "__bigint__": "7"
       },
-      "xp": 12511,
+      "xp": {
+        "__bigint__": "12586"
+      },
       "role": "owner",
       "status_hubungan": "pacaran",
       "point_asmara": 0,
@@ -5154,9 +5156,9 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": true,
-      "limit_reset_at": 1789545239866,
+      "limit_reset_at": 1789628063382,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-16T07:53:59.866Z",
+      "last_reset": "2026-09-17T06:54:23.382Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -5164,7 +5166,7 @@
       "last_daily": 0,
       "last_transfer": 0,
       "last_diamond_bonus": "2026-09-13",
-      "limit_reset_notified_at": 1789462439866,
+      "limit_reset_notified_at": 1789545263382,
       "country_reset_required": true
     },
     "6281959150453@s.whatsapp.net": {
@@ -8702,7 +8704,7 @@
     },
     "saataa_rebrand_registration_version": 3,
     "analytics": {
-      "total_commands": 105,
+      "total_commands": 115,
       "command_counts": {
         "menu": 9,
         "topuser": 1,
@@ -8722,8 +8724,8 @@
         "stiker": 7,
         "claim": 2,
         "balapkuda": 2,
-        "quiz": 12,
-        "jawab": 7,
+        "quiz": 14,
+        "jawab": 12,
         "math": 5,
         "jadibot": 7,
         "report": 3,
@@ -8738,26 +8740,27 @@
         "negaracabut": 1,
         "kudagabung": 1,
         "kstalk": 4,
-        "tafsir": 4
+        "tafsir": 4,
+        "cek": 3
       },
       "user_counts": {
-        "6283138226730@s.whatsapp.net": 70,
+        "6283138226730@s.whatsapp.net": 80,
         "6289526468474@s.whatsapp.net": 30,
         "6281959150453@s.whatsapp.net": 5
       },
       "group_counts": {
         "120363402872389104@g.us": 19,
-        "120363412061249246@g.us": 34,
+        "120363412061249246@g.us": 44,
         "120363430435543929@g.us": 41
       },
       "user_last_seen": {
-        "6283138226730@s.whatsapp.net": 1789544425863,
+        "6283138226730@s.whatsapp.net": 1789545130937,
         "6289526468474@s.whatsapp.net": 1789541917614,
         "6281959150453@s.whatsapp.net": 1789539528948
       },
       "group_last_seen": {
         "120363402872389104@g.us": 1789543005423,
-        "120363412061249246@g.us": 1789544425863,
+        "120363412061249246@g.us": 1789545130937,
         "120363430435543929@g.us": 1789542929845
       },
       "user_names": {
