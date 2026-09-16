@@ -3021,13 +3021,13 @@
       "registered_at": 1788606800825,
       "name": "nama",
       "uang": {
-        "__bigint__": "60000"
+        "__bigint__": "260000"
       },
       "level": {
-        "__bigint__": "11"
+        "__bigint__": "12"
       },
       "xp": {
-        "__bigint__": "54025"
+        "__bigint__": "64040"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3086,7 +3086,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 37,
       "last_reset": "2026-09-17T21:58:40.618Z",
       "achievements": [
         "first_saving",
@@ -3224,13 +3224,13 @@
       "banned_reason": "",
       "bank": {
         "tabungan": {
-          "__bigint__": "77899999"
+          "__bigint__": "79234935"
         },
-        "last_interest": 1789536735131
+        "last_interest": 1789597935131
       },
       "daily": {
-        "streak": 8,
-        "last_claim": 1789495584146
+        "streak": 9,
+        "last_claim": 1789600235341
       },
       "ikan": {
         "salmon": {
@@ -8705,7 +8705,7 @@
     },
     "saataa_rebrand_registration_version": 3,
     "analytics": {
-      "total_commands": 136,
+      "total_commands": 139,
       "command_counts": {
         "menu": 12,
         "topuser": 1,
@@ -8723,7 +8723,7 @@
         "angkatpemimpin": 4,
         "negarawarga": 1,
         "stiker": 8,
-        "claim": 2,
+        "claim": 3,
         "balapkuda": 2,
         "quiz": 15,
         "jawab": 13,
@@ -8732,7 +8732,7 @@
         "report": 3,
         "jadibotreject": 1,
         "jadibotacc": 1,
-        "uang": 2,
+        "uang": 4,
         "tabung": 2,
         "rampok": 1,
         "tarik": 1,
@@ -8748,7 +8748,7 @@
       },
       "user_counts": {
         "6283138226730@s.whatsapp.net": 85,
-        "6289526468474@s.whatsapp.net": 30,
+        "6289526468474@s.whatsapp.net": 33,
         "6281959150453@s.whatsapp.net": 5,
         "6287812039629@s.whatsapp.net": 8,
         "6287797046407@s.whatsapp.net": 3,
@@ -8762,7 +8762,7 @@
       },
       "user_last_seen": {
         "6283138226730@s.whatsapp.net": 1789572125880,
-        "6289526468474@s.whatsapp.net": 1789541917614,
+        "6289526468474@s.whatsapp.net": 1789600235341,
         "6281959150453@s.whatsapp.net": 1789539528948,
         "6287812039629@s.whatsapp.net": 1789565754571,
         "6287797046407@s.whatsapp.net": 1789570802771,
@@ -8796,23 +8796,11 @@
         "6282292961437@s.whatsapp.net": 1789563483346
       },
       "rpg_daily": {
-        "date": "2026-09-16",
+        "date": "2026-09-17",
         "users": {
-          "6283138226730@s.whatsapp.net": {
-            "counts": {
-              "usaha": 2,
-              "negarahubungkan": 5,
-              "negara": 3,
-              "negaralist": 3,
-              "negarawarga": 1
-            },
-            "claimed": [],
-            "xp_awarded": 0
-          },
           "6289526468474@s.whatsapp.net": {
             "counts": {
-              "claim": 2,
-              "rampok": 1
+              "claim": 1
             },
             "claimed": [],
             "xp_awarded": 0
