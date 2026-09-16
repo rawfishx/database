@@ -1707,7 +1707,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5185"
+        "__bigint__": "5190"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1756,7 +1756,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 39,
+      "limit": 38,
       "last_reset": "2026-09-16T22:58:34.569Z",
       "frames": [],
       "active_frame": null,
@@ -1832,7 +1832,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "16275"
+        "__bigint__": "16295"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -2323,9 +2323,9 @@
       },
       "bank": {
         "tabungan": {
-          "__bigint__": "9344720893263"
+          "__bigint__": "9803971801988"
         },
-        "last_interest": 1789388216413
+        "last_interest": 1789561016413
       },
       "frames": [],
       "active_frame": null,
@@ -2335,7 +2335,7 @@
         "2": "cium",
         "3": "jalan"
       },
-      "diamond": 100,
+      "diamond": 110,
       "negara": "Jepang",
       "squad_id": null,
       "hubungan_sosial": {
@@ -2345,7 +2345,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-15",
+      "last_diamond_bonus": "2026-09-16",
       "limit_reset_at": 1789599514569,
       "daily": {
         "streak": 1,
@@ -4507,7 +4507,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "995"
+        "__bigint__": "1000"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4566,7 +4566,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789624779812,
-      "limit": 36,
+      "limit": 35,
       "last_reset": "2026-09-17T05:59:39.812Z",
       "achievements": [],
       "transactions": [],
@@ -8705,9 +8705,9 @@
     },
     "saataa_rebrand_registration_version": 3,
     "analytics": {
-      "total_commands": 120,
+      "total_commands": 125,
       "command_counts": {
-        "menu": 9,
+        "menu": 11,
         "topuser": 1,
         "menuadmin": 1,
         "online": 1,
@@ -8732,11 +8732,11 @@
         "report": 3,
         "jadibotreject": 1,
         "jadibotacc": 1,
-        "uang": 1,
+        "uang": 2,
         "tabung": 2,
         "rampok": 1,
         "tarik": 1,
-        "brat": 5,
+        "brat": 7,
         "kick": 1,
         "negaracabut": 1,
         "kudagabung": 1,
@@ -8748,32 +8748,35 @@
         "6283138226730@s.whatsapp.net": 80,
         "6289526468474@s.whatsapp.net": 30,
         "6281959150453@s.whatsapp.net": 5,
-        "6287812039629@s.whatsapp.net": 4,
-        "6287797046407@s.whatsapp.net": 1
+        "6287812039629@s.whatsapp.net": 5,
+        "6287797046407@s.whatsapp.net": 2,
+        "6288245583791@s.whatsapp.net": 3
       },
       "group_counts": {
         "120363402872389104@g.us": 19,
         "120363412061249246@g.us": 44,
-        "120363430435543929@g.us": 46
+        "120363430435543929@g.us": 51
       },
       "user_last_seen": {
         "6283138226730@s.whatsapp.net": 1789545130937,
         "6289526468474@s.whatsapp.net": 1789541917614,
         "6281959150453@s.whatsapp.net": 1789539528948,
-        "6287812039629@s.whatsapp.net": 1789557032637,
-        "6287797046407@s.whatsapp.net": 1789555779846
+        "6287812039629@s.whatsapp.net": 1789562269229,
+        "6287797046407@s.whatsapp.net": 1789562158623,
+        "6288245583791@s.whatsapp.net": 1789562057216
       },
       "group_last_seen": {
         "120363402872389104@g.us": 1789543005423,
         "120363412061249246@g.us": 1789545130937,
-        "120363430435543929@g.us": 1789557032637
+        "120363430435543929@g.us": 1789562269229
       },
       "user_names": {
         "6283138226730@s.whatsapp.net": "dika‼️",
         "6289526468474@s.whatsapp.net": "Anda",
         "6281959150453@s.whatsapp.net": "feby",
         "6287812039629@s.whatsapp.net": "nabila",
-        "6287797046407@s.whatsapp.net": "ulfa~"
+        "6287797046407@s.whatsapp.net": "ulfa~",
+        "6288245583791@s.whatsapp.net": "ila |• スハイラ"
       },
       "group_names": {
         "120363402872389104@g.us": "hama"
@@ -8783,7 +8786,8 @@
         "6289526468474@s.whatsapp.net": 1789495584145,
         "6281959150453@s.whatsapp.net": 1789538030915,
         "6287812039629@s.whatsapp.net": 1789548734223,
-        "6287797046407@s.whatsapp.net": 1789555779846
+        "6287797046407@s.whatsapp.net": 1789555779846,
+        "6288245583791@s.whatsapp.net": 1789562023416
       },
       "rpg_daily": {
         "date": "2026-09-16",
