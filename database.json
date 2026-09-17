@@ -3033,13 +3033,13 @@
       "registered_at": 1788606800825,
       "name": "nama",
       "uang": {
-        "__bigint__": "260000"
+        "__bigint__": "460000"
       },
       "level": {
         "__bigint__": "12"
       },
       "xp": {
-        "__bigint__": "64080"
+        "__bigint__": "74090"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3098,7 +3098,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-18T20:59:04.281Z",
       "achievements": [
         "first_saving",
@@ -3241,8 +3241,8 @@
         "last_interest": 1789597935131
       },
       "daily": {
-        "streak": 9,
-        "last_claim": 1789600235341
+        "streak": 10,
+        "last_claim": 1789685494644
       },
       "ikan": {
         "salmon": {
@@ -8717,7 +8717,7 @@
     },
     "saataa_rebrand_registration_version": 3,
     "analytics": {
-      "total_commands": 156,
+      "total_commands": 157,
       "command_counts": {
         "menu": 14,
         "topuser": 1,
@@ -8735,7 +8735,7 @@
         "angkatpemimpin": 4,
         "negarawarga": 1,
         "stiker": 11,
-        "claim": 3,
+        "claim": 4,
         "balapkuda": 3,
         "quiz": 15,
         "jawab": 13,
@@ -8763,7 +8763,7 @@
       },
       "user_counts": {
         "6283138226730@s.whatsapp.net": 90,
-        "6289526468474@s.whatsapp.net": 40,
+        "6289526468474@s.whatsapp.net": 41,
         "6281959150453@s.whatsapp.net": 6,
         "6287812039629@s.whatsapp.net": 8,
         "6287797046407@s.whatsapp.net": 3,
@@ -8778,7 +8778,7 @@
       },
       "user_last_seen": {
         "6283138226730@s.whatsapp.net": 1789642205642,
-        "6289526468474@s.whatsapp.net": 1789639132796,
+        "6289526468474@s.whatsapp.net": 1789685494644,
         "6281959150453@s.whatsapp.net": 1789645435074,
         "6287812039629@s.whatsapp.net": 1789565754571,
         "6287797046407@s.whatsapp.net": 1789570802771,
@@ -8815,18 +8815,11 @@
         "6281313095732@s.whatsapp.net": 1789653821230
       },
       "rpg_daily": {
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "users": {
           "6289526468474@s.whatsapp.net": {
             "counts": {
               "claim": 1
-            },
-            "claimed": [],
-            "xp_awarded": 0
-          },
-          "6283138226730@s.whatsapp.net": {
-            "counts": {
-              "toko": 1
             },
             "claimed": [],
             "xp_awarded": 0
