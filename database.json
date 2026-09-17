@@ -159,13 +159,13 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "7224198"
+        "__bigint__": "6974198"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12726"
+        "__bigint__": "12761"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -395,8 +395,20 @@
         "activeMotor": null
       },
       "stable": {
-        "horses": [],
-        "activeHorse": null
+        "horses": [
+          {
+            "id": "horse_1789642205643_5547",
+            "model": "kuda_muda",
+            "nama": "Kuda Lokal",
+            "icon": "🐎",
+            "health": 100,
+            "level": 1,
+            "speed": 42,
+            "power": 45,
+            "stamina": 50
+          }
+        ],
+        "activeHorse": "horse_1789642205643_5547"
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -6830,7 +6842,7 @@
       "price": {
         "__bigint__": "19800"
       },
-      "last_price_update": 1789444140802
+      "last_price_update": 1789642148896
     },
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
@@ -6846,23 +6858,23 @@
     "egg_stock": {
       "telurayam": {
         "stock": 25,
-        "reset_at": 1789316837217
+        "reset_at": 1789643948896
       },
       "telurhutan": {
         "stock": 12,
-        "reset_at": 1789316837217
+        "reset_at": 1789643948896
       },
       "telurnaga": {
         "stock": 6,
-        "reset_at": 1789316837217
+        "reset_at": 1789643948896
       },
       "telurphoenix": {
         "stock": 3,
-        "reset_at": 1789316837217
+        "reset_at": 1789643948896
       },
       "telurmisterius": {
         "stock": 1,
-        "reset_at": 1789316837217
+        "reset_at": 1789643948896
       }
     },
     "custom_investments": {
@@ -8705,7 +8717,7 @@
     },
     "saataa_rebrand_registration_version": 3,
     "analytics": {
-      "total_commands": 148,
+      "total_commands": 152,
       "command_counts": {
         "menu": 13,
         "topuser": 1,
@@ -8724,7 +8736,7 @@
         "negarawarga": 1,
         "stiker": 11,
         "claim": 3,
-        "balapkuda": 2,
+        "balapkuda": 3,
         "quiz": 15,
         "jawab": 13,
         "math": 5,
@@ -8739,16 +8751,18 @@
         "brat": 12,
         "kick": 1,
         "negaracabut": 1,
-        "kudagabung": 1,
+        "kudagabung": 2,
         "kstalk": 4,
         "tafsir": 4,
         "cek": 3,
         "play": 1,
         "am": 1,
-        "tt": 5
+        "tt": 5,
+        "toko": 1,
+        "belikuda": 1
       },
       "user_counts": {
-        "6283138226730@s.whatsapp.net": 86,
+        "6283138226730@s.whatsapp.net": 90,
         "6289526468474@s.whatsapp.net": 40,
         "6281959150453@s.whatsapp.net": 5,
         "6287812039629@s.whatsapp.net": 8,
@@ -8758,11 +8772,11 @@
       },
       "group_counts": {
         "120363402872389104@g.us": 21,
-        "120363412061249246@g.us": 46,
+        "120363412061249246@g.us": 50,
         "120363430435543929@g.us": 60
       },
       "user_last_seen": {
-        "6283138226730@s.whatsapp.net": 1789628402549,
+        "6283138226730@s.whatsapp.net": 1789642205642,
         "6289526468474@s.whatsapp.net": 1789639132796,
         "6281959150453@s.whatsapp.net": 1789539528948,
         "6287812039629@s.whatsapp.net": 1789565754571,
@@ -8772,7 +8786,7 @@
       },
       "group_last_seen": {
         "120363402872389104@g.us": 1789572064823,
-        "120363412061249246@g.us": 1789640948147,
+        "120363412061249246@g.us": 1789642205642,
         "120363430435543929@g.us": 1789572125880
       },
       "user_names": {
@@ -8802,6 +8816,13 @@
           "6289526468474@s.whatsapp.net": {
             "counts": {
               "claim": 1
+            },
+            "claimed": [],
+            "xp_awarded": 0
+          },
+          "6283138226730@s.whatsapp.net": {
+            "counts": {
+              "toko": 1
             },
             "claimed": [],
             "xp_awarded": 0
