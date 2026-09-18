@@ -5597,6 +5597,89 @@
         "last_accident": 0
       },
       "limit_reset_notified_at": 1789721956976
+    },
+    "62895622905647@s.whatsapp.net": {
+      "uid": 10055,
+      "registered": false,
+      "registered_at": null,
+      "name": "akihiko",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1789741811099,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "limit_reset_at": 1789824611099,
+      "limit": 40,
+      "last_reset": "2026-09-19T13:30:11.099Z",
+      "health": {
+        "hp": 100,
+        "max_hp": 100,
+        "status": "sehat",
+        "hospital_until": 0,
+        "hospital_fee": {
+          "__bigint__": "0"
+        },
+        "last_accident": 0
+      }
     }
   },
   "market": {
@@ -6248,7 +6331,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10054,
+    "last_uid": 10055,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -6305,7 +6388,8 @@
       "232478660939922@lid": "6281959150453@s.whatsapp.net",
       "100378351796471@lid": "6283151148146@s.whatsapp.net",
       "155628190306512@lid": "6287872867480@s.whatsapp.net",
-      "152969823653952@lid": "447974045725@s.whatsapp.net"
+      "152969823653952@lid": "447974045725@s.whatsapp.net",
+      "215414806167617@lid": "62895622905647@s.whatsapp.net"
     },
     "jadibot": {
       "requests": {
