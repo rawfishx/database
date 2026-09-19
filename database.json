@@ -6010,9 +6010,9 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789824611099,
+      "limit_reset_at": 1789907454810,
       "limit": 40,
-      "last_reset": "2026-09-19T13:30:11.099Z",
+      "last_reset": "2026-09-20T12:30:54.810Z",
       "health": {
         "hp": 100,
         "max_hp": 100,
@@ -6022,7 +6022,8 @@
           "__bigint__": "0"
         },
         "last_accident": 0
-      }
+      },
+      "limit_reset_notified_at": 1789824654810
     }
   },
   "market": {
