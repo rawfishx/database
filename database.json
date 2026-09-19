@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13141"
+        "__bigint__": "13146"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1341,13 +1341,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011284517273"
+        "__bigint__": "1011284475316"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "45570"
+        "__bigint__": "45610"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1759,18 +1759,28 @@
         "last_accident": 0
       },
       "saataa_life": {
-        "job": "kurir",
+        "job": "kreator",
         "place": "pusat",
         "energy": 100,
         "reputation": 0,
         "skill": 1,
         "discipline": 50,
-        "social": 50,
+        "social": 52,
         "luck": 50,
         "criminal": 0,
         "inventory": {},
-        "history": [],
-        "weekly": {},
+        "history": [
+          {
+            "type": "pasangan",
+            "amount": "41957",
+            "note": "jalan bersama pasangan",
+            "timestamp": 1789814915477
+          }
+        ],
+        "weekly": {
+          "expenses": 41957,
+          "familyCost": 41957
+        },
         "weeklyStart": 1789813120071,
         "lastTick": 1789813120071,
         "lastWeeklyReport": "",
@@ -1787,7 +1797,7 @@
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 70,
+          "happiness": 78,
           "childrenCost": 0
         },
         "assets": {
@@ -1942,7 +1952,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "16475"
+        "__bigint__": "16520"
       },
       "role": "player",
       "status_hubungan": "menikah",
@@ -1957,7 +1967,7 @@
       "cd": {
         "tebakangka": 1788661786032,
         "rampok": 1789373435027,
-        "interaksi": 1789305223328,
+        "interaksi": 1789814984737,
         "tebakbendera": 1788661644031,
         "kabur": 1789112110230
       },
@@ -2418,13 +2428,13 @@
       "pasangan": {
         "id": 164471,
         "nama": "Satoru Gojou",
-        "point_asmara": 216,
+        "point_asmara": 224,
         "uang": {
           "__bigint__": "1001000607000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789305202581,
+        "last_interaksi": 1789814864737,
         "ai_profile": {
           "name": "Satoru Gojou",
           "about": "Details\n\t\t\t\tClubs\n                Pictures\n\n              Top\n              >\n              Characters\n              >\n              Satoru Gojou",
@@ -2445,7 +2455,7 @@
         "2": "cium",
         "3": "jalan"
       },
-      "diamond": 120,
+      "diamond": 130,
       "negara": "Jepang",
       "squad_id": null,
       "hubungan_sosial": {
@@ -2455,7 +2465,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-18",
+      "last_diamond_bonus": "2026-09-19",
       "limit_reset_at": 1789847968066,
       "daily": {
         "streak": 1,
@@ -2464,14 +2474,14 @@
       "limit_reset_notified_at": 1789765168066,
       "country_reset_required": false,
       "health": {
-        "hp": 84,
+        "hp": 48,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
         "hospital_fee": {
           "__bigint__": "0"
         },
-        "last_accident": 1789714821608
+        "last_accident": 1789814906894
       },
       "negara_state": {
         "last_risk_day": "2026-09-16",
@@ -2487,6 +2497,52 @@
           "__bigint__": "250000"
         },
         "house_required_since": 1789405308346
+      },
+      "saataa_life": {
+        "job": "kurir",
+        "place": "pusat",
+        "energy": 100,
+        "reputation": 0,
+        "skill": 1,
+        "discipline": 50,
+        "social": 50,
+        "luck": 50,
+        "criminal": 0,
+        "inventory": {},
+        "history": [],
+        "weekly": {},
+        "weeklyStart": 1789814741731,
+        "lastTick": 1789814741731,
+        "lastWeeklyReport": "",
+        "dailyExpenses": 0,
+        "totalIncome": 0,
+        "totalExpense": 0,
+        "farm": {
+          "land": 2,
+          "plots": [],
+          "harvest": 0,
+          "failed": 0,
+          "pests": 0,
+          "water": 100
+        },
+        "family": {
+          "partnerCost": 0,
+          "happiness": 70,
+          "childrenCost": 0
+        },
+        "assets": {
+          "house": null,
+          "vehicles": []
+        },
+        "business": null,
+        "event": {
+          "active": null,
+          "lastAt": 0
+        },
+        "weeklyStats": {},
+        "portfolio": {},
+        "projects": {},
+        "_legacy_modal_migrated": true
       }
     },
     "6285783576861@s.whatsapp.net": {
@@ -6736,7 +6792,7 @@
           },
           "url": "https://myanimelist.net/character/164471"
         },
-        "cachedAt": 1789294984537
+        "cachedAt": 1789814865012
       },
       "164473": {
         "data": {
@@ -9122,12 +9178,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 56
+        "unknown": 68
       },
       "users": {
         "[object Object]": {
-          "count": 56,
-          "last": 1789813851902
+          "count": 68,
+          "last": 1789814956365
         }
       },
       "groups": {}
