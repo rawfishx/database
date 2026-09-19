@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12936"
+        "__bigint__": "12971"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -424,7 +424,42 @@
         "inventory": {},
         "portfolio": {},
         "projects": {},
-        "history": []
+        "history": [],
+        "discipline": 50,
+        "social": 50,
+        "luck": 50,
+        "criminal": 0,
+        "weekly": {},
+        "weeklyStart": 1789811684733,
+        "lastTick": 1789811684733,
+        "lastWeeklyReport": "",
+        "dailyExpenses": 0,
+        "totalIncome": 0,
+        "totalExpense": 0,
+        "farm": {
+          "land": 2,
+          "plots": [],
+          "harvest": 0,
+          "failed": 0,
+          "pests": 0,
+          "water": 100
+        },
+        "family": {
+          "partnerCost": 0,
+          "happiness": 70,
+          "childrenCost": 0
+        },
+        "assets": {
+          "house": null,
+          "vehicles": []
+        },
+        "business": null,
+        "event": {
+          "active": null,
+          "lastAt": 0
+        },
+        "weeklyStats": {},
+        "_legacy_modal_migrated": true
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -8943,12 +8978,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 22
+        "unknown": 28
       },
       "users": {
         "[object Object]": {
-          "count": 22,
-          "last": 1789807699332
+          "count": 28,
+          "last": 1789811787608
         }
       },
       "groups": {}
