@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12831"
+        "__bigint__": "12871"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -409,6 +409,22 @@
           }
         ],
         "activeHorse": "horse_1789642205643_5547"
+      },
+      "saataa_life": {
+        "wallet_version": 1,
+        "job": "kurir",
+        "place": "pusat",
+        "energy": 100,
+        "worked_at": 0,
+        "travel_at": 0,
+        "daily_at": 0,
+        "streak": 0,
+        "reputation": 0,
+        "skill": 1,
+        "inventory": {},
+        "portfolio": {},
+        "projects": {},
+        "history": []
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -8927,12 +8943,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 1
+        "unknown": 9
       },
       "users": {
         "[object Object]": {
-          "count": 1,
-          "last": 1789800382542
+          "count": 9,
+          "last": 1789802439578
         }
       },
       "groups": {}
