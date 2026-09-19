@@ -1347,7 +1347,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "45610"
+        "__bigint__": "45625"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1692,13 +1692,13 @@
       "pasangan": {
         "id": 6977,
         "nama": "Sawako Kuronuma",
-        "point_asmara": 104,
+        "point_asmara": 89,
         "uang": {
           "__bigint__": "0"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789113411041,
+        "last_interaksi": 1789815148137,
         "mulai_ikatan": 1788613162727,
         "ai_profile": {
           "name": "Sawako Kuronuma",
@@ -6687,7 +6687,7 @@
           },
           "url": "https://myanimelist.net/character/6977"
         },
-        "cachedAt": 1789113411352
+        "cachedAt": 1789815148473
       },
       "33221": {
         "data": {
@@ -9178,12 +9178,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 68
+        "unknown": 69
       },
       "users": {
         "[object Object]": {
-          "count": 68,
-          "last": 1789814956365
+          "count": 69,
+          "last": 1789815148137
         }
       },
       "groups": {}
