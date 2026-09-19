@@ -3344,13 +3344,13 @@
       "registered_at": 1788606800825,
       "name": "nama",
       "uang": {
-        "__bigint__": "660000"
+        "__bigint__": "0"
       },
       "level": {
         "__bigint__": "13"
       },
       "xp": {
-        "__bigint__": "84165"
+        "__bigint__": "84365"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -3409,13 +3409,27 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 31,
+      "limit": 16,
       "last_reset": "2026-09-19T19:59:28.066Z",
       "achievements": [
         "first_saving",
         "saving_10"
       ],
       "transactions": [
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "1050000"
+          },
+          "timestamp": 1789842428478
+        },
+        {
+          "type": "saving",
+          "amount": {
+            "__bigint__": "660000"
+          },
+          "timestamp": 1789842317872
+        },
         {
           "type": "withdrawal",
           "amount": {
@@ -3547,9 +3561,9 @@
       "banned_reason": "",
       "bank": {
         "tabungan": {
-          "__bigint__": "84131991"
+          "__bigint__": "86432682"
         },
-        "last_interest": 1789813935131
+        "last_interest": 1789839135131
       },
       "daily": {
         "streak": 11,
@@ -3701,9 +3715,9 @@
         "inventory": {},
         "history": [],
         "weekly": {},
-        "weeklyStart": 1789816787537,
+        "weeklyStart": 1789842295441,
         "lastTick": 1789816787537,
-        "lastWeeklyReport": "",
+        "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
         "totalExpense": 0,
@@ -9386,12 +9400,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 132
+        "unknown": 146
       },
       "users": {
         "[object Object]": {
-          "count": 132,
-          "last": 1789829876915
+          "count": 146,
+          "last": 1789842437472
         }
       },
       "groups": {}
