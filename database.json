@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13461"
+        "__bigint__": "13491"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -332,7 +332,7 @@
           "__bigint__": "1"
         }
       },
-      "diamond": 150,
+      "diamond": 160,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -348,7 +348,7 @@
         }
       },
       "profil_lengkap": false,
-      "last_diamond_bonus": "2026-09-19",
+      "last_diamond_bonus": "2026-09-20",
       "limit_reset_at": 1789930802969,
       "sticker_nowm": false,
       "banned_reason": "",
@@ -425,9 +425,9 @@
         "luck": 50,
         "criminal": 0,
         "weekly": {},
-        "weeklyStart": 1789811684733,
+        "weeklyStart": 1789859616254,
         "lastTick": 1789811684733,
-        "lastWeeklyReport": "",
+        "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
         "totalExpense": 0,
@@ -1338,13 +1338,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011263775316"
+        "__bigint__": "1011273055322"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "46085"
+        "__bigint__": "46310"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1362,7 +1362,8 @@
         "interaksi": 1789113531041,
         "tebakemoji": 1788760878807,
         "kabur": 1789368862777,
-        "suit": 1789813551820
+        "suit": 1789813551820,
+        "dadu": 1789859227303
       },
       "anak": [],
       "invest": {
@@ -1708,7 +1709,7 @@
         "2": "segss",
         "3": "suapi"
       },
-      "diamond": 150,
+      "diamond": 160,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1718,7 +1719,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-19",
+      "last_diamond_bonus": "2026-09-20",
       "limit_reset_at": 1789930802969,
       "daily": {
         "streak": 1,
@@ -1767,6 +1768,126 @@
         "criminal": 0,
         "inventory": {},
         "history": [
+          {
+            "type": "tanam",
+            "amount": "50000",
+            "note": "Strawberry",
+            "timestamp": 1789859053373
+          },
+          {
+            "type": "tanam",
+            "amount": "50000",
+            "note": "Strawberry",
+            "timestamp": 1789859048917
+          },
+          {
+            "type": "tanam",
+            "amount": "50000",
+            "note": "Strawberry",
+            "timestamp": 1789859044097
+          },
+          {
+            "type": "tanam",
+            "amount": "50000",
+            "note": "Strawberry",
+            "timestamp": 1789859037529
+          },
+          {
+            "type": "tanam",
+            "amount": "50000",
+            "note": "Strawberry",
+            "timestamp": 1789859031097
+          },
+          {
+            "type": "tanam",
+            "amount": "90000",
+            "note": "Anggur",
+            "timestamp": 1789859004088
+          },
+          {
+            "type": "tanam",
+            "amount": "90000",
+            "note": "Anggur",
+            "timestamp": 1789858998990
+          },
+          {
+            "type": "tanam",
+            "amount": "90000",
+            "note": "Anggur",
+            "timestamp": 1789858995456
+          },
+          {
+            "type": "tanam",
+            "amount": "90000",
+            "note": "Anggur",
+            "timestamp": 1789858991812
+          },
+          {
+            "type": "tanam",
+            "amount": "90000",
+            "note": "Anggur",
+            "timestamp": 1789858987409
+          },
+          {
+            "type": "tanam",
+            "amount": "9000",
+            "note": "Jagung",
+            "timestamp": 1789858972597
+          },
+          {
+            "type": "tanam",
+            "amount": "9000",
+            "note": "Jagung",
+            "timestamp": 1789858969199
+          },
+          {
+            "type": "tanam",
+            "amount": "9000",
+            "note": "Jagung",
+            "timestamp": 1789858963727
+          },
+          {
+            "type": "tanam",
+            "amount": "9000",
+            "note": "Jagung",
+            "timestamp": 1789858957804
+          },
+          {
+            "type": "tanam",
+            "amount": "9000",
+            "note": "Jagung",
+            "timestamp": 1789858953055
+          },
+          {
+            "type": "tanam",
+            "amount": "5000",
+            "note": "Padi",
+            "timestamp": 1789858940944
+          },
+          {
+            "type": "tanam",
+            "amount": "5000",
+            "note": "Padi",
+            "timestamp": 1789858936807
+          },
+          {
+            "type": "tanam",
+            "amount": "5000",
+            "note": "Padi",
+            "timestamp": 1789858933195
+          },
+          {
+            "type": "tanam",
+            "amount": "5000",
+            "note": "Padi",
+            "timestamp": 1789858929265
+          },
+          {
+            "type": "tanam",
+            "amount": "5000",
+            "note": "Padi",
+            "timestamp": 1789858922988
+          },
           {
             "type": "lahan",
             "amount": "2000000",
@@ -1883,18 +2004,518 @@
           }
         ],
         "weekly": {
-          "expenses": 20741957,
-          "familyCost": 41957
+          "expenses": 770000
         },
-        "weeklyStart": 1789813120071,
+        "weeklyStart": 1789858922988,
         "lastTick": 1789813120071,
-        "lastWeeklyReport": "",
+        "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
         "totalExpense": 0,
         "farm": {
           "land": 20,
-          "plots": [],
+          "plots": [
+            {
+              "crop": {
+                "name": "Padi",
+                "icon": "🌾",
+                "seed": {
+                  "__bigint__": "5000"
+                },
+                "growDays": 2,
+                "yieldMin": {
+                  "__bigint__": "15000"
+                },
+                "yieldMax": {
+                  "__bigint__": "30000"
+                },
+                "water": 20,
+                "quality": 2,
+                "pest": 0.16
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Padi",
+                "icon": "🌾",
+                "seed": {
+                  "__bigint__": "5000"
+                },
+                "growDays": 2,
+                "yieldMin": {
+                  "__bigint__": "15000"
+                },
+                "yieldMax": {
+                  "__bigint__": "30000"
+                },
+                "water": 20,
+                "quality": 2,
+                "pest": 0.16
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Padi",
+                "icon": "🌾",
+                "seed": {
+                  "__bigint__": "5000"
+                },
+                "growDays": 2,
+                "yieldMin": {
+                  "__bigint__": "15000"
+                },
+                "yieldMax": {
+                  "__bigint__": "30000"
+                },
+                "water": 20,
+                "quality": 2,
+                "pest": 0.16
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Padi",
+                "icon": "🌾",
+                "seed": {
+                  "__bigint__": "5000"
+                },
+                "growDays": 2,
+                "yieldMin": {
+                  "__bigint__": "15000"
+                },
+                "yieldMax": {
+                  "__bigint__": "30000"
+                },
+                "water": 20,
+                "quality": 2,
+                "pest": 0.16
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Padi",
+                "icon": "🌾",
+                "seed": {
+                  "__bigint__": "5000"
+                },
+                "growDays": 2,
+                "yieldMin": {
+                  "__bigint__": "15000"
+                },
+                "yieldMax": {
+                  "__bigint__": "30000"
+                },
+                "water": 20,
+                "quality": 2,
+                "pest": 0.16
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Jagung",
+                "icon": "🌽",
+                "seed": {
+                  "__bigint__": "9000"
+                },
+                "growDays": 3,
+                "yieldMin": {
+                  "__bigint__": "26000"
+                },
+                "yieldMax": {
+                  "__bigint__": "50000"
+                },
+                "water": 25,
+                "quality": 3,
+                "pest": 0.14
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Jagung",
+                "icon": "🌽",
+                "seed": {
+                  "__bigint__": "9000"
+                },
+                "growDays": 3,
+                "yieldMin": {
+                  "__bigint__": "26000"
+                },
+                "yieldMax": {
+                  "__bigint__": "50000"
+                },
+                "water": 25,
+                "quality": 3,
+                "pest": 0.14
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Jagung",
+                "icon": "🌽",
+                "seed": {
+                  "__bigint__": "9000"
+                },
+                "growDays": 3,
+                "yieldMin": {
+                  "__bigint__": "26000"
+                },
+                "yieldMax": {
+                  "__bigint__": "50000"
+                },
+                "water": 25,
+                "quality": 3,
+                "pest": 0.14
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Jagung",
+                "icon": "🌽",
+                "seed": {
+                  "__bigint__": "9000"
+                },
+                "growDays": 3,
+                "yieldMin": {
+                  "__bigint__": "26000"
+                },
+                "yieldMax": {
+                  "__bigint__": "50000"
+                },
+                "water": 25,
+                "quality": 3,
+                "pest": 0.14
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Jagung",
+                "icon": "🌽",
+                "seed": {
+                  "__bigint__": "9000"
+                },
+                "growDays": 3,
+                "yieldMin": {
+                  "__bigint__": "26000"
+                },
+                "yieldMax": {
+                  "__bigint__": "50000"
+                },
+                "water": 25,
+                "quality": 3,
+                "pest": 0.14
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Anggur",
+                "icon": "🍇",
+                "seed": {
+                  "__bigint__": "90000"
+                },
+                "growDays": 7,
+                "yieldMin": {
+                  "__bigint__": "300000"
+                },
+                "yieldMax": {
+                  "__bigint__": "650000"
+                },
+                "water": 45,
+                "quality": 5,
+                "pest": 0.19
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Anggur",
+                "icon": "🍇",
+                "seed": {
+                  "__bigint__": "90000"
+                },
+                "growDays": 7,
+                "yieldMin": {
+                  "__bigint__": "300000"
+                },
+                "yieldMax": {
+                  "__bigint__": "650000"
+                },
+                "water": 45,
+                "quality": 5,
+                "pest": 0.19
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Anggur",
+                "icon": "🍇",
+                "seed": {
+                  "__bigint__": "90000"
+                },
+                "growDays": 7,
+                "yieldMin": {
+                  "__bigint__": "300000"
+                },
+                "yieldMax": {
+                  "__bigint__": "650000"
+                },
+                "water": 45,
+                "quality": 5,
+                "pest": 0.19
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Anggur",
+                "icon": "🍇",
+                "seed": {
+                  "__bigint__": "90000"
+                },
+                "growDays": 7,
+                "yieldMin": {
+                  "__bigint__": "300000"
+                },
+                "yieldMax": {
+                  "__bigint__": "650000"
+                },
+                "water": 45,
+                "quality": 5,
+                "pest": 0.19
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Anggur",
+                "icon": "🍇",
+                "seed": {
+                  "__bigint__": "90000"
+                },
+                "growDays": 7,
+                "yieldMin": {
+                  "__bigint__": "300000"
+                },
+                "yieldMax": {
+                  "__bigint__": "650000"
+                },
+                "water": 45,
+                "quality": 5,
+                "pest": 0.19
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Strawberry",
+                "icon": "🍓",
+                "seed": {
+                  "__bigint__": "50000"
+                },
+                "growDays": 5,
+                "yieldMin": {
+                  "__bigint__": "150000"
+                },
+                "yieldMax": {
+                  "__bigint__": "300000"
+                },
+                "water": 35,
+                "quality": 5,
+                "pest": 0.23
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Strawberry",
+                "icon": "🍓",
+                "seed": {
+                  "__bigint__": "50000"
+                },
+                "growDays": 5,
+                "yieldMin": {
+                  "__bigint__": "150000"
+                },
+                "yieldMax": {
+                  "__bigint__": "300000"
+                },
+                "water": 35,
+                "quality": 5,
+                "pest": 0.23
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Strawberry",
+                "icon": "🍓",
+                "seed": {
+                  "__bigint__": "50000"
+                },
+                "growDays": 5,
+                "yieldMin": {
+                  "__bigint__": "150000"
+                },
+                "yieldMax": {
+                  "__bigint__": "300000"
+                },
+                "water": 35,
+                "quality": 5,
+                "pest": 0.23
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Strawberry",
+                "icon": "🍓",
+                "seed": {
+                  "__bigint__": "50000"
+                },
+                "growDays": 5,
+                "yieldMin": {
+                  "__bigint__": "150000"
+                },
+                "yieldMax": {
+                  "__bigint__": "300000"
+                },
+                "water": 35,
+                "quality": 5,
+                "pest": 0.23
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Strawberry",
+                "icon": "🍓",
+                "seed": {
+                  "__bigint__": "50000"
+                },
+                "growDays": 5,
+                "yieldMin": {
+                  "__bigint__": "150000"
+                },
+                "yieldMax": {
+                  "__bigint__": "300000"
+                },
+                "water": 35,
+                "quality": 5,
+                "pest": 0.23
+              },
+              "age": 0,
+              "health": 100,
+              "water": 70,
+              "pest": false,
+              "pestDays": 0,
+              "fertilizer": 0
+            }
+          ],
           "harvest": 0,
           "failed": 0,
           "pests": 0,
@@ -1920,7 +2541,8 @@
         "projects": {},
         "_legacy_modal_migrated": true,
         "profession_selected": true
-      }
+      },
+      "last_report": 1789859328023
     },
     "6287797046407@s.whatsapp.net": {
       "uid": 10017,
@@ -6876,6 +7498,14 @@
           "status": "pending_pairing",
           "created_at": 1789538525536,
           "approved_at": 1789538600090
+        },
+        "4ZFHOR": {
+          "requester": "6282292961437@s.whatsapp.net",
+          "requesterName": "kevin",
+          "number": "6282292961437",
+          "status": "rejected",
+          "created_at": 1789859440568,
+          "reason": "gatau ah"
         }
       },
       "active": {}
@@ -7404,7 +8034,8 @@
     "jodoh_cd": {
       "120363402872389104@g.us": 1788433061304,
       "120363430077495840@g.us": 1788593809165,
-      "120363430435543929@g.us": 1789202778730
+      "120363430435543929@g.us": 1789202778730,
+      "120363412061249246@g.us": 1789859395546
     },
     "menu": {
       "custom_text": "",
@@ -9400,12 +10031,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 146
+        "unknown": 179
       },
       "users": {
         "[object Object]": {
-          "count": 146,
-          "last": 1789842437472
+          "count": 179,
+          "last": 1789859734026
         }
       },
       "groups": {}
