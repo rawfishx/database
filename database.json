@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13111"
+        "__bigint__": "13141"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1347,7 +1347,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "45440"
+        "__bigint__": "45570"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1364,7 +1364,8 @@
         "rampok": 1789375460653,
         "interaksi": 1789113531041,
         "tebakemoji": 1788760878807,
-        "kabur": 1789368862777
+        "kabur": 1789368862777,
+        "suit": 1789813551820
       },
       "anak": [],
       "invest": {
@@ -4616,7 +4617,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1025"
+        "__bigint__": "1045"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4675,7 +4676,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789873234891,
-      "limit": 40,
+      "limit": 36,
       "last_reset": "2026-09-20T03:00:34.891Z",
       "achievements": [],
       "transactions": [],
@@ -4709,6 +4710,52 @@
           "__bigint__": "500"
         },
         "house_required_since": 1789405308346
+      },
+      "saataa_life": {
+        "job": "kurir",
+        "place": "pusat",
+        "energy": 100,
+        "reputation": 0,
+        "skill": 1,
+        "discipline": 50,
+        "social": 50,
+        "luck": 50,
+        "criminal": 0,
+        "inventory": {},
+        "history": [],
+        "weekly": {},
+        "weeklyStart": 1789813510875,
+        "lastTick": 1789813510875,
+        "lastWeeklyReport": "",
+        "dailyExpenses": 0,
+        "totalIncome": 0,
+        "totalExpense": 0,
+        "farm": {
+          "land": 2,
+          "plots": [],
+          "harvest": 0,
+          "failed": 0,
+          "pests": 0,
+          "water": 100
+        },
+        "family": {
+          "partnerCost": 0,
+          "happiness": 70,
+          "childrenCost": 0
+        },
+        "assets": {
+          "house": null,
+          "vehicles": []
+        },
+        "business": null,
+        "event": {
+          "active": null,
+          "lastAt": 0
+        },
+        "weeklyStats": {},
+        "portfolio": {},
+        "projects": {},
+        "_legacy_modal_migrated": true
       }
     },
     "62882022235139@s.whatsapp.net": {
@@ -9075,12 +9122,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 43
+        "unknown": 56
       },
       "users": {
         "[object Object]": {
-          "count": 43,
-          "last": 1789813254888
+          "count": 56,
+          "last": 1789813851902
         }
       },
       "groups": {}
