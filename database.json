@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12971"
+        "__bigint__": "13111"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1347,7 +1347,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "45310"
+        "__bigint__": "45440"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1710,7 +1710,7 @@
         "2": "segss",
         "3": "suapi"
       },
-      "diamond": 140,
+      "diamond": 150,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1720,7 +1720,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-18",
+      "last_diamond_bonus": "2026-09-19",
       "limit_reset_at": 1789847968066,
       "daily": {
         "streak": 1,
@@ -1756,6 +1756,52 @@
           "__bigint__": "0"
         },
         "last_accident": 0
+      },
+      "saataa_life": {
+        "job": "kurir",
+        "place": "pusat",
+        "energy": 100,
+        "reputation": 0,
+        "skill": 1,
+        "discipline": 50,
+        "social": 50,
+        "luck": 50,
+        "criminal": 0,
+        "inventory": {},
+        "history": [],
+        "weekly": {},
+        "weeklyStart": 1789813120071,
+        "lastTick": 1789813120071,
+        "lastWeeklyReport": "",
+        "dailyExpenses": 0,
+        "totalIncome": 0,
+        "totalExpense": 0,
+        "farm": {
+          "land": 2,
+          "plots": [],
+          "harvest": 0,
+          "failed": 0,
+          "pests": 0,
+          "water": 100
+        },
+        "family": {
+          "partnerCost": 0,
+          "happiness": 70,
+          "childrenCost": 0
+        },
+        "assets": {
+          "house": null,
+          "vehicles": []
+        },
+        "business": null,
+        "event": {
+          "active": null,
+          "lastAt": 0
+        },
+        "weeklyStats": {},
+        "portfolio": {},
+        "projects": {},
+        "_legacy_modal_migrated": true
       }
     },
     "6287797046407@s.whatsapp.net": {
@@ -4835,13 +4881,13 @@
       "registered_at": 1789130172970,
       "name": "ririn",
       "uang": {
-        "__bigint__": "1905233"
+        "__bigint__": "1925233"
       },
       "level": {
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5325"
+        "__bigint__": "5450"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -4889,7 +4935,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 60,
+      "diamond": 70,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -4909,7 +4955,7 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "last_diamond_bonus": "2026-09-18",
+      "last_diamond_bonus": "2026-09-19",
       "limit_reset_notified_at": 1789792835448,
       "bank": {
         "tabungan": {
@@ -4919,14 +4965,14 @@
       },
       "country_reset_required": false,
       "health": {
-        "hp": 100,
+        "hp": 69,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
         "hospital_fee": {
           "__bigint__": "0"
         },
-        "last_accident": 0
+        "last_accident": 1789812474769
       },
       "negara_state": {
         "last_risk_day": "2026-09-16",
@@ -4942,6 +4988,52 @@
           "__bigint__": "38100"
         },
         "house_required_since": 1789491839061
+      },
+      "saataa_life": {
+        "job": "kurir",
+        "place": "pusat",
+        "energy": 100,
+        "reputation": 0,
+        "skill": 1,
+        "discipline": 50,
+        "social": 50,
+        "luck": 50,
+        "criminal": 0,
+        "inventory": {},
+        "history": [],
+        "weekly": {},
+        "weeklyStart": 1789812475184,
+        "lastTick": 1789812475184,
+        "lastWeeklyReport": "",
+        "dailyExpenses": 0,
+        "totalIncome": 0,
+        "totalExpense": 0,
+        "farm": {
+          "land": 2,
+          "plots": [],
+          "harvest": 0,
+          "failed": 0,
+          "pests": 0,
+          "water": 100
+        },
+        "family": {
+          "partnerCost": 0,
+          "happiness": 70,
+          "childrenCost": 0
+        },
+        "assets": {
+          "house": null,
+          "vehicles": []
+        },
+        "business": null,
+        "event": {
+          "active": null,
+          "lastAt": 0
+        },
+        "weeklyStats": {},
+        "portfolio": {},
+        "projects": {},
+        "_legacy_modal_migrated": true
       }
     },
     "6281356383515@s.whatsapp.net": {
@@ -6969,6 +7061,11 @@
           "6282292961437@s.whatsapp.net": false
         },
         "antitoxic": false
+      },
+      "120363412061249246@g.us": {
+        "muted_users": {
+          "6282292961437@s.whatsapp.net": false
+        }
       }
     },
     "tcg": {
@@ -8978,12 +9075,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 28
+        "unknown": 43
       },
       "users": {
         "[object Object]": {
-          "count": 28,
-          "last": 1789811787608
+          "count": 43,
+          "last": 1789813254888
         }
       },
       "groups": {}
