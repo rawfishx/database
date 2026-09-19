@@ -1338,13 +1338,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011284475316"
+        "__bigint__": "1011263775316"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "45825"
+        "__bigint__": "46005"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1768,6 +1768,114 @@
         "inventory": {},
         "history": [
           {
+            "type": "lahan",
+            "amount": "2000000",
+            "note": "lahan menjadi 20 slot",
+            "timestamp": 1789828097087
+          },
+          {
+            "type": "lahan",
+            "amount": "1900000",
+            "note": "lahan menjadi 19 slot",
+            "timestamp": 1789828094507
+          },
+          {
+            "type": "lahan",
+            "amount": "1800000",
+            "note": "lahan menjadi 18 slot",
+            "timestamp": 1789828087713
+          },
+          {
+            "type": "lahan",
+            "amount": "1700000",
+            "note": "lahan menjadi 17 slot",
+            "timestamp": 1789828078630
+          },
+          {
+            "type": "lahan",
+            "amount": "1600000",
+            "note": "lahan menjadi 16 slot",
+            "timestamp": 1789828067228
+          },
+          {
+            "type": "lahan",
+            "amount": "1500000",
+            "note": "lahan menjadi 15 slot",
+            "timestamp": 1789828065611
+          },
+          {
+            "type": "lahan",
+            "amount": "1400000",
+            "note": "lahan menjadi 14 slot",
+            "timestamp": 1789828064087
+          },
+          {
+            "type": "lahan",
+            "amount": "1300000",
+            "note": "lahan menjadi 13 slot",
+            "timestamp": 1789828062238
+          },
+          {
+            "type": "lahan",
+            "amount": "1200000",
+            "note": "lahan menjadi 12 slot",
+            "timestamp": 1789828060462
+          },
+          {
+            "type": "lahan",
+            "amount": "1100000",
+            "note": "lahan menjadi 11 slot",
+            "timestamp": 1789828058811
+          },
+          {
+            "type": "lahan",
+            "amount": "1000000",
+            "note": "lahan menjadi 10 slot",
+            "timestamp": 1789828056078
+          },
+          {
+            "type": "lahan",
+            "amount": "900000",
+            "note": "lahan menjadi 9 slot",
+            "timestamp": 1789828037690
+          },
+          {
+            "type": "lahan",
+            "amount": "800000",
+            "note": "lahan menjadi 8 slot",
+            "timestamp": 1789828028960
+          },
+          {
+            "type": "lahan",
+            "amount": "700000",
+            "note": "lahan menjadi 7 slot",
+            "timestamp": 1789828024472
+          },
+          {
+            "type": "lahan",
+            "amount": "600000",
+            "note": "lahan menjadi 6 slot",
+            "timestamp": 1789828012656
+          },
+          {
+            "type": "lahan",
+            "amount": "500000",
+            "note": "lahan menjadi 5 slot",
+            "timestamp": 1789827995799
+          },
+          {
+            "type": "lahan",
+            "amount": "400000",
+            "note": "lahan menjadi 4 slot",
+            "timestamp": 1789827987986
+          },
+          {
+            "type": "lahan",
+            "amount": "300000",
+            "note": "lahan menjadi 3 slot",
+            "timestamp": 1789827924418
+          },
+          {
             "type": "pasangan",
             "amount": "41957",
             "note": "jalan bersama pasangan",
@@ -1775,7 +1883,7 @@
           }
         ],
         "weekly": {
-          "expenses": 41957,
+          "expenses": 20741957,
           "familyCost": 41957
         },
         "weeklyStart": 1789813120071,
@@ -1785,7 +1893,7 @@
         "totalIncome": 0,
         "totalExpense": 0,
         "farm": {
-          "land": 2,
+          "land": 20,
           "plots": [],
           "harvest": 0,
           "failed": 0,
@@ -9278,12 +9386,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 103
+        "unknown": 125
       },
       "users": {
         "[object Object]": {
-          "count": 103,
-          "last": 1789827200995
+          "count": 125,
+          "last": 1789828302154
         }
       },
       "groups": {}
