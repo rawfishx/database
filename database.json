@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13396"
+        "__bigint__": "13421"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -5087,7 +5087,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5450"
+        "__bigint__": "5470"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5219,7 +5219,8 @@
         "family": {
           "partnerCost": 0,
           "happiness": 70,
-          "childrenCost": 0
+          "childrenCost": 0,
+          "partnerInteractionAt": 0
         },
         "assets": {
           "house": null,
@@ -5233,7 +5234,8 @@
         "weeklyStats": {},
         "portfolio": {},
         "projects": {},
-        "_legacy_modal_migrated": true
+        "_legacy_modal_migrated": true,
+        "profession_selected": true
       }
     },
     "6281356383515@s.whatsapp.net": {
@@ -9276,12 +9278,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 102
+        "unknown": 103
       },
       "users": {
         "[object Object]": {
-          "count": 102,
-          "last": 1789822717721
+          "count": 103,
+          "last": 1789827200995
         }
       },
       "groups": {}
