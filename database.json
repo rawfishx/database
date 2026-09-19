@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13326"
+        "__bigint__": "13351"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1826,7 +1826,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5210"
+        "__bigint__": "5215"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -1875,7 +1875,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-19T19:59:28.066Z",
       "frames": [],
       "active_frame": null,
@@ -1934,6 +1934,54 @@
           "__bigint__": "22849"
         },
         "house_required_since": 1789405308346
+      },
+      "saataa_life": {
+        "job": null,
+        "profession_selected": false,
+        "place": "pusat",
+        "energy": 100,
+        "reputation": 0,
+        "skill": 1,
+        "discipline": 50,
+        "social": 50,
+        "luck": 50,
+        "criminal": 0,
+        "inventory": {},
+        "history": [],
+        "weekly": {},
+        "weeklyStart": 1789818710494,
+        "lastTick": 1789818710494,
+        "lastWeeklyReport": "",
+        "dailyExpenses": 0,
+        "totalIncome": 0,
+        "totalExpense": 0,
+        "farm": {
+          "land": 2,
+          "plots": [],
+          "harvest": 0,
+          "failed": 0,
+          "pests": 0,
+          "water": 100
+        },
+        "family": {
+          "partnerCost": 0,
+          "happiness": 70,
+          "childrenCost": 0,
+          "partnerInteractionAt": 0
+        },
+        "assets": {
+          "house": null,
+          "vehicles": []
+        },
+        "business": null,
+        "event": {
+          "active": null,
+          "lastAt": 0
+        },
+        "weeklyStats": {},
+        "portfolio": {},
+        "projects": {},
+        "_legacy_modal_migrated": true
       }
     },
     "6288245583791@s.whatsapp.net": {
@@ -9227,12 +9275,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 85
+        "unknown": 91
       },
       "users": {
         "[object Object]": {
-          "count": 85,
-          "last": 1789817875376
+          "count": 91,
+          "last": 1789819233492
         }
       },
       "groups": {}
