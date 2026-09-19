@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "12826"
+        "__bigint__": "12831"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -8924,6 +8924,18 @@
         "tick": 0,
         "winner": null
       }
+    },
+    "activity": {
+      "commands": {
+        "unknown": 1
+      },
+      "users": {
+        "[object Object]": {
+          "count": 1,
+          "last": 1789800382542
+        }
+      },
+      "groups": {}
     }
   },
   "player_market": {},
