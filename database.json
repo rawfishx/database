@@ -5522,7 +5522,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1070"
+        "__bigint__": "1080"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5581,7 +5581,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789873234891,
-      "limit": 31,
+      "limit": 30,
       "last_reset": "2026-09-20T03:00:34.891Z",
       "achievements": [],
       "transactions": [],
@@ -10089,12 +10089,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 206
+        "unknown": 207
       },
       "users": {
         "[object Object]": {
-          "count": 206,
-          "last": 1789866022154
+          "count": 207,
+          "last": 1789866217252
         }
       },
       "groups": {}
