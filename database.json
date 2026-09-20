@@ -1338,13 +1338,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011273055322"
+        "__bigint__": "1011273047322"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "46325"
+        "__bigint__": "46395"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2004,7 +2004,7 @@
           }
         ],
         "weekly": {
-          "expenses": 770000
+          "expenses": 778000
         },
         "weeklyStart": 1789858922988,
         "lastTick": 1789813120071,
@@ -2035,7 +2035,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2060,7 +2060,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2085,7 +2085,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2557,7 +2557,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5220"
+        "__bigint__": "5245"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5515,7 +5515,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1050"
+        "__bigint__": "1060"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5574,7 +5574,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789873234891,
-      "limit": 35,
+      "limit": 33,
       "last_reset": "2026-09-20T03:00:34.891Z",
       "achievements": [],
       "transactions": [],
@@ -6285,7 +6285,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "3830"
+        "__bigint__": "3835"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -6335,7 +6335,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 70,
+      "diamond": 80,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -6361,7 +6361,7 @@
         },
         "last_interest": 1789196918218
       },
-      "last_diamond_bonus": "2026-09-18",
+      "last_diamond_bonus": "2026-09-20",
       "limit_reset_notified_at": 1789849983016,
       "country_reset_required": false,
       "health": {
@@ -10034,12 +10034,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 188
+        "unknown": 194
       },
       "users": {
         "[object Object]": {
-          "count": 188,
-          "last": 1789863361935
+          "count": 194,
+          "last": 1789864058825
         }
       },
       "groups": {}
