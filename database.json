@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13556"
+        "__bigint__": "13616"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -414,14 +414,21 @@
         "travel_at": 0,
         "daily_at": 0,
         "streak": 0,
-        "reputation": 0,
+        "reputation": 7,
         "skill": 1,
         "inventory": {},
         "portfolio": {},
         "projects": {},
-        "history": [],
+        "history": [
+          {
+            "type": "event",
+            "amount": "0",
+            "note": "dompet: Laporkan",
+            "timestamp": 1789865571816
+          }
+        ],
         "discipline": 50,
-        "social": 50,
+        "social": 53,
         "luck": 50,
         "criminal": 0,
         "weekly": {},
@@ -452,7 +459,7 @@
         "business": null,
         "event": {
           "active": null,
-          "lastAt": 0
+          "lastAt": 1789865557550
         },
         "weeklyStats": {},
         "_legacy_modal_migrated": true,
@@ -1344,7 +1351,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "46425"
+        "__bigint__": "46455"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1747,14 +1754,14 @@
         "house_required_since": 0
       },
       "health": {
-        "hp": 100,
+        "hp": 65,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
         "hospital_fee": {
           "__bigint__": "0"
         },
-        "last_accident": 0
+        "last_accident": 1789865353294
       },
       "saataa_life": {
         "job": "kreator",
@@ -5515,7 +5522,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1065"
+        "__bigint__": "1070"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5574,7 +5581,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789873234891,
-      "limit": 32,
+      "limit": 31,
       "last_reset": "2026-09-20T03:00:34.891Z",
       "achievements": [],
       "transactions": [],
@@ -6285,7 +6292,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "3835"
+        "__bigint__": "3860"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -6388,6 +6395,54 @@
           "__bigint__": "24842"
         },
         "house_required_since": 1789405308346
+      },
+      "saataa_life": {
+        "job": null,
+        "profession_selected": false,
+        "place": "pusat",
+        "energy": 100,
+        "reputation": 0,
+        "skill": 1,
+        "discipline": 50,
+        "social": 50,
+        "luck": 50,
+        "criminal": 0,
+        "inventory": {},
+        "history": [],
+        "weekly": {},
+        "weeklyStart": 1789865784405,
+        "lastTick": 1789865783494,
+        "lastWeeklyReport": "2026-09-13",
+        "dailyExpenses": 0,
+        "totalIncome": 0,
+        "totalExpense": 0,
+        "farm": {
+          "land": 2,
+          "plots": [],
+          "harvest": 0,
+          "failed": 0,
+          "pests": 0,
+          "water": 100
+        },
+        "family": {
+          "partnerCost": 0,
+          "happiness": 70,
+          "childrenCost": 0,
+          "partnerInteractionAt": 0
+        },
+        "assets": {
+          "house": null,
+          "vehicles": []
+        },
+        "business": null,
+        "event": {
+          "active": null,
+          "lastAt": 0
+        },
+        "weeklyStats": {},
+        "portfolio": {},
+        "projects": {},
+        "_legacy_modal_migrated": true
       }
     },
     "6283151148146@s.whatsapp.net": {
@@ -10034,12 +10089,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 195
+        "unknown": 206
       },
       "users": {
         "[object Object]": {
-          "count": 195,
-          "last": 1789865112028
+          "count": 206,
+          "last": 1789866022154
         }
       },
       "groups": {}
