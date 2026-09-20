@@ -1345,13 +1345,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011273021322"
+        "__bigint__": "1011272007322"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "46545"
+        "__bigint__": "46665"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1366,7 +1366,7 @@
       "cd": {
         "tebakangka": 1788671119526,
         "rampok": 1789375460653,
-        "interaksi": 1789113531041,
+        "interaksi": 1789874395863,
         "tebakemoji": 1788760878807,
         "kabur": 1789368862777,
         "suit": 1789813551820,
@@ -1697,13 +1697,13 @@
       "pasangan": {
         "id": 6977,
         "nama": "Sawako Kuronuma",
-        "point_asmara": 89,
+        "point_asmara": 97,
         "uang": {
-          "__bigint__": "0"
+          "__bigint__": "1000000"
         },
         "kehamilan": false,
         "waktu_mulai": 0,
-        "last_interaksi": 1789815148137,
+        "last_interaksi": 1789874471842,
         "mulai_ikatan": 1788613162727,
         "ai_profile": {
           "name": "Sawako Kuronuma",
@@ -1712,9 +1712,10 @@
         }
       },
       "act_session": {
-        "1": "jalan",
-        "2": "segss",
-        "3": "suapi"
+        "1": "kencan",
+        "2": "suapmesra",
+        "3": "rencanakeluarga",
+        "expiresAt": 1789874571844
       },
       "diamond": 160,
       "negara": "Indonesia",
@@ -1754,14 +1755,14 @@
         "house_required_since": 0
       },
       "health": {
-        "hp": 65,
+        "hp": 21,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
         "hospital_fee": {
           "__bigint__": "0"
         },
-        "last_accident": 1789865353294
+        "last_accident": 1789874303073
       },
       "saataa_life": {
         "job": "kreator",
@@ -2011,7 +2012,7 @@
           }
         ],
         "weekly": {
-          "expenses": 804000
+          "expenses": 818000
         },
         "weeklyStart": 1789858922988,
         "lastTick": 1789813120071,
@@ -2367,7 +2368,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2392,7 +2393,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2417,7 +2418,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2442,7 +2443,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2467,7 +2468,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2492,7 +2493,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -2517,7 +2518,7 @@
               },
               "age": 0,
               "health": 100,
-              "water": 70,
+              "water": 100,
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
@@ -5735,16 +5736,16 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789874735216,
+      "limit_reset_at": 1789957570213,
       "limit": 40,
-      "last_reset": "2026-09-20T03:25:35.216Z",
+      "last_reset": "2026-09-21T02:26:10.213Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789791935216,
+      "limit_reset_notified_at": 1789874770213,
       "country_reset_required": true
     },
     "6281995514751@s.whatsapp.net": {
@@ -5817,16 +5818,16 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789874975300,
+      "limit_reset_at": 1789957810272,
       "limit": 40,
-      "last_reset": "2026-09-20T03:29:35.300Z",
+      "last_reset": "2026-09-21T02:30:10.272Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789792175300,
+      "limit_reset_notified_at": 1789875010272,
       "country_reset_required": true
     },
     "6281313095732@s.whatsapp.net": {
@@ -10089,12 +10090,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 224
+        "unknown": 238
       },
       "users": {
         "[object Object]": {
-          "count": 224,
-          "last": 1789874212841
+          "count": 238,
+          "last": 1789874471842
         }
       },
       "groups": {}
