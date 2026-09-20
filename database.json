@@ -2565,7 +2565,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5270"
+        "__bigint__": "5275"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2593,7 +2593,7 @@
         "status": false,
         "waktu_mulai": 0
       },
-      "afk_time": 0,
+      "afk_time": 1789875209460,
       "energi": 100,
       "inventory": {},
       "hutang": {
@@ -2614,7 +2614,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-20T19:00:02.969Z",
       "frames": [],
       "active_frame": null,
@@ -2624,7 +2624,7 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "afk_reason": "",
+      "afk_reason": "Tanpa alasan",
       "bank": {
         "tabungan": {
           "__bigint__": "0"
@@ -2688,9 +2688,9 @@
         "inventory": {},
         "history": [],
         "weekly": {},
-        "weeklyStart": 1789818710494,
+        "weeklyStart": 1789875209460,
         "lastTick": 1789818710494,
-        "lastWeeklyReport": "",
+        "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
         "totalExpense": 0,
@@ -5901,9 +5901,9 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": true,
-      "limit_reset_at": 1789875635448,
+      "limit_reset_at": 1789958470422,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-20T03:40:35.448Z",
+      "last_reset": "2026-09-21T02:41:10.422Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -5911,7 +5911,7 @@
       "last_daily": 0,
       "last_transfer": 0,
       "last_diamond_bonus": "2026-09-20",
-      "limit_reset_notified_at": 1789792835448,
+      "limit_reset_notified_at": 1789875670422,
       "bank": {
         "tabungan": {
           "__bigint__": "0"
@@ -6064,9 +6064,9 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": true,
-      "limit_reset_at": 1789875695456,
+      "limit_reset_at": 1789958530437,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-20T03:41:35.456Z",
+      "last_reset": "2026-09-21T02:42:10.437Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -6084,7 +6084,7 @@
         },
         "last_interest": 1789200967735
       },
-      "limit_reset_notified_at": 1789792895456,
+      "limit_reset_notified_at": 1789875730437,
       "country_reset_required": false,
       "health": {
         "hp": 87,
@@ -6182,16 +6182,16 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789875695456,
+      "limit_reset_at": 1789958530437,
       "limit": 40,
-      "last_reset": "2026-09-20T03:41:35.456Z",
+      "last_reset": "2026-09-21T02:42:10.437Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789792895456,
+      "limit_reset_notified_at": 1789875730437,
       "country_reset_required": true
     },
     "6281391893131@s.whatsapp.net": {
@@ -10090,12 +10090,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 238
+        "unknown": 239
       },
       "users": {
         "[object Object]": {
-          "count": 238,
-          "last": 1789874471842
+          "count": 239,
+          "last": 1789875209460
         }
       },
       "groups": {}
