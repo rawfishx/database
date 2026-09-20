@@ -2609,7 +2609,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5290"
+        "__bigint__": "5295"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2658,7 +2658,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-21T18:00:05.479Z",
       "frames": [],
       "active_frame": null,
@@ -5614,10 +5614,10 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1789939385218,
+      "limit_reset_at": 1790022188945,
       "limit": 40,
-      "last_reset": "2026-09-20T21:23:05.218Z",
-      "limit_reset_notified_at": 1789856585218,
+      "last_reset": "2026-09-21T20:23:08.945Z",
+      "limit_reset_notified_at": 1789939388945,
       "country_reset_required": true
     },
     "6287812039629@s.whatsapp.net": {
@@ -10214,12 +10214,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 267
+        "unknown": 268
       },
       "users": {
         "[object Object]": {
-          "count": 267,
-          "last": 1789921606397
+          "count": 268,
+          "last": 1789939202652
         }
       },
       "groups": {}
