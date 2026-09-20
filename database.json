@@ -5523,7 +5523,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1090"
+        "__bigint__": "1095"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5582,7 +5582,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789956069916,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-21T02:01:09.916Z",
       "achievements": [],
       "transactions": [],
@@ -6268,9 +6268,9 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": true,
-      "limit_reset_at": 1789876535639,
+      "limit_reset_at": 1789959370632,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-20T03:55:35.639Z",
+      "last_reset": "2026-09-21T02:56:10.632Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -6278,7 +6278,7 @@
       "last_daily": 0,
       "last_transfer": 0,
       "last_diamond_bonus": "2026-09-13",
-      "limit_reset_notified_at": 1789793735639,
+      "limit_reset_notified_at": 1789876570632,
       "country_reset_required": true
     },
     "6281959150453@s.whatsapp.net": {
@@ -10090,12 +10090,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 239
+        "unknown": 240
       },
       "users": {
         "[object Object]": {
-          "count": 239,
-          "last": 1789875209460
+          "count": 240,
+          "last": 1789876716839
         }
       },
       "groups": {}
