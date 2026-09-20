@@ -5632,7 +5632,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1095"
+        "__bigint__": "1100"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5691,7 +5691,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789956069916,
-      "limit": 39,
+      "limit": 38,
       "last_reset": "2026-09-21T02:01:09.916Z",
       "achievements": [],
       "transactions": [],
@@ -5702,7 +5702,7 @@
       "limit_reset_notified_at": 1789873269916,
       "country_reset_required": false,
       "health": {
-        "hp": 100,
+        "hp": 98,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
@@ -5727,7 +5727,7 @@
         "house_required_since": 1789405308346
       },
       "saataa_life": {
-        "job": "kurir",
+        "job": null,
         "place": "pusat",
         "energy": 100,
         "reputation": 0,
@@ -5737,10 +5737,25 @@
         "luck": 50,
         "criminal": 0,
         "inventory": {},
-        "history": [],
-        "weekly": {},
+        "history": [
+          {
+            "type": "pemecatan",
+            "amount": "0",
+            "note": "kontrak Kurir Kota berakhir karena terlalu lama tidak bekerja",
+            "timestamp": 1789918759720
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "0",
+            "note": "saldo tidak cukup untuk biaya hidup",
+            "timestamp": 1789918759720
+          }
+        ],
+        "weekly": {
+          "expenses": 0
+        },
         "weeklyStart": 1789862367871,
-        "lastTick": 1789813510875,
+        "lastTick": 1789899910875,
         "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
@@ -5772,7 +5787,7 @@
         "portfolio": {},
         "projects": {},
         "_legacy_modal_migrated": true,
-        "profession_selected": true
+        "profession_selected": false
       }
     },
     "62882022235139@s.whatsapp.net": {
@@ -10199,12 +10214,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 258
+        "unknown": 259
       },
       "users": {
         "[object Object]": {
-          "count": 258,
-          "last": 1789917566148
+          "count": 259,
+          "last": 1789918759721
         }
       },
       "groups": {}
