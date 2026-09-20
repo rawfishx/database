@@ -3595,7 +3595,7 @@
       "uid": 10023,
       "registered": true,
       "registered_at": null,
-      "name": "Player",
+      "name": "dapaw",
       "uang": {
         "__bigint__": "5000"
       },
@@ -3603,7 +3603,7 @@
         "__bigint__": "1"
       },
       "xp": {
-        "__bigint__": "10"
+        "__bigint__": "50"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -3621,7 +3621,7 @@
       "invest": {},
       "blacklist_karakter": [],
       "distrik": "Awal",
-      "gender": "Belum diatur",
+      "gender": "laki aja deh",
       "exp_multiplier": 1,
       "exp_buff_until": 0,
       "banned_until": 0,
@@ -3651,7 +3651,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 37,
       "last_reset": "2026-09-20T19:00:02.969Z",
       "diamond": 0,
       "negara": "Belum diatur",
@@ -3662,7 +3662,7 @@
         "teman_dekat": []
       },
       "pending_relasi": {},
-      "profil_lengkap": false,
+      "profil_lengkap": true,
       "limit_reset_at": 1789930802969,
       "limit_reset_notified_at": 1789848002969,
       "country_reset_required": true,
@@ -3675,6 +3675,54 @@
           "__bigint__": "0"
         },
         "last_accident": 0
+      },
+      "saataa_life": {
+        "job": null,
+        "profession_selected": false,
+        "place": "pusat",
+        "energy": 100,
+        "reputation": 0,
+        "skill": 1,
+        "discipline": 50,
+        "social": 50,
+        "luck": 50,
+        "criminal": 0,
+        "inventory": {},
+        "history": [],
+        "weekly": {},
+        "weeklyStart": 1789895145245,
+        "lastTick": 1789895144966,
+        "lastWeeklyReport": "2026-09-13",
+        "dailyExpenses": 0,
+        "totalIncome": 0,
+        "totalExpense": 0,
+        "farm": {
+          "land": 2,
+          "plots": [],
+          "harvest": 0,
+          "failed": 0,
+          "pests": 0,
+          "water": 100
+        },
+        "family": {
+          "partnerCost": 0,
+          "happiness": 70,
+          "childrenCost": 0,
+          "partnerInteractionAt": 0
+        },
+        "assets": {
+          "house": null,
+          "vehicles": []
+        },
+        "business": null,
+        "event": {
+          "active": null,
+          "lastAt": 0
+        },
+        "weeklyStats": {},
+        "portfolio": {},
+        "projects": {},
+        "_legacy_modal_migrated": true
       }
     },
     "6283824953390@s.whatsapp.net": {
@@ -10090,12 +10138,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 244
+        "unknown": 247
       },
       "users": {
         "[object Object]": {
-          "count": 244,
-          "last": 1789894340060
+          "count": 247,
+          "last": 1789895186750
         }
       },
       "groups": {}
