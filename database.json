@@ -5515,7 +5515,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1045"
+        "__bigint__": "1050"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5574,7 +5574,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1789873234891,
-      "limit": 36,
+      "limit": 35,
       "last_reset": "2026-09-20T03:00:34.891Z",
       "achievements": [],
       "transactions": [],
@@ -5622,9 +5622,9 @@
         "inventory": {},
         "history": [],
         "weekly": {},
-        "weeklyStart": 1789813510875,
+        "weeklyStart": 1789862367871,
         "lastTick": 1789813510875,
-        "lastWeeklyReport": "",
+        "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
         "totalExpense": 0,
@@ -5639,7 +5639,8 @@
         "family": {
           "partnerCost": 0,
           "happiness": 70,
-          "childrenCost": 0
+          "childrenCost": 0,
+          "partnerInteractionAt": 0
         },
         "assets": {
           "house": null,
@@ -5653,7 +5654,8 @@
         "weeklyStats": {},
         "portfolio": {},
         "projects": {},
-        "_legacy_modal_migrated": true
+        "_legacy_modal_migrated": true,
+        "profession_selected": true
       }
     },
     "62882022235139@s.whatsapp.net": {
@@ -10032,12 +10034,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 185
+        "unknown": 186
       },
       "users": {
         "[object Object]": {
-          "count": 185,
-          "last": 1789860303635
+          "count": 186,
+          "last": 1789862367872
         }
       },
       "groups": {}
