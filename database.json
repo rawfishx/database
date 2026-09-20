@@ -159,13 +159,13 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "6974198"
+        "__bigint__": "6920198"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13616"
+        "__bigint__": "13661"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -396,30 +396,50 @@
             "model": "kuda_muda",
             "nama": "Kuda Lokal",
             "icon": "🐎",
-            "health": 100,
+            "health": 99,
             "level": 1,
             "speed": 42,
             "power": 45,
-            "stamina": 50
+            "stamina": 50,
+            "status": "sehat",
+            "sickDays": 0
           }
         ],
         "activeHorse": "horse_1789642205643_5547"
       },
       "saataa_life": {
         "wallet_version": 1,
-        "job": "kurir",
+        "job": null,
         "place": "pusat",
         "energy": 100,
         "worked_at": 0,
         "travel_at": 0,
         "daily_at": 0,
         "streak": 0,
-        "reputation": 7,
+        "reputation": 4,
         "skill": 1,
         "inventory": {},
         "portfolio": {},
         "projects": {},
         "history": [
+          {
+            "type": "pemecatan",
+            "amount": "0",
+            "note": "kontrak Kurir Kota berakhir karena terlalu lama tidak bekerja",
+            "timestamp": 1789912158000
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "4000",
+            "note": "biaya hidup harian",
+            "timestamp": 1789912158000
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "50000",
+            "note": "pajak harian 1%",
+            "timestamp": 1789912158000
+          },
           {
             "type": "event",
             "amount": "0",
@@ -431,13 +451,16 @@
         "social": 53,
         "luck": 50,
         "criminal": 0,
-        "weekly": {},
+        "weekly": {
+          "expenses": 54000,
+          "tax": 50000
+        },
         "weeklyStart": 1789859616254,
-        "lastTick": 1789811684733,
+        "lastTick": 1789898084733,
         "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 0,
+        "dailyExpenses": 4000,
         "totalIncome": 0,
-        "totalExpense": 0,
+        "totalExpense": 54000,
         "farm": {
           "land": 2,
           "plots": [],
@@ -448,7 +471,7 @@
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 70,
+          "happiness": 67,
           "childrenCost": 0,
           "partnerInteractionAt": 0
         },
@@ -463,7 +486,8 @@
         },
         "weeklyStats": {},
         "_legacy_modal_migrated": true,
-        "profession_selected": true
+        "profession_selected": false,
+        "tax_paid": "50000"
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -1351,7 +1375,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "46740"
+        "__bigint__": "46815"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -10175,12 +10199,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 250
+        "unknown": 256
       },
       "users": {
         "[object Object]": {
-          "count": 250,
-          "last": 1789908347995
+          "count": 256,
+          "last": 1789912281730
         }
       },
       "groups": {}
