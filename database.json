@@ -4059,7 +4059,7 @@
         "__bigint__": "13"
       },
       "xp": {
-        "__bigint__": "84370"
+        "__bigint__": "84385"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -4118,7 +4118,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 39,
+      "limit": 36,
       "last_reset": "2026-09-21T18:00:05.479Z",
       "achievements": [
         "first_saving",
@@ -4332,7 +4332,7 @@
           "rarity": "Epic",
           "bobot": 28.9,
           "level": 1,
-          "hunger": 78,
+          "hunger": 60,
           "menang": 0,
           "kalah": 0,
           "created_at": 1788611784834,
@@ -4346,7 +4346,7 @@
           "rarity": "Epic",
           "bobot": 11.2,
           "level": 1,
-          "hunger": 77,
+          "hunger": 58,
           "menang": 0,
           "kalah": 0,
           "created_at": 1788611806931,
@@ -4394,7 +4394,7 @@
       },
       "country_reset_required": false,
       "health": {
-        "hp": 98,
+        "hp": 96,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
@@ -4431,6 +4431,12 @@
             "type": "biaya_hidup",
             "amount": "0",
             "note": "saldo tidak cukup untuk biaya hidup",
+            "timestamp": 1789993261218
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "0",
+            "note": "saldo tidak cukup untuk biaya hidup",
             "timestamp": 1789966406343
           }
         ],
@@ -4438,7 +4444,7 @@
           "expenses": 0
         },
         "weeklyStart": 1789842295441,
-        "lastTick": 1789903187537,
+        "lastTick": 1789989587537,
         "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
@@ -4453,7 +4459,7 @@
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 63,
+          "happiness": 56,
           "childrenCost": 0,
           "partnerInteractionAt": 0
         },
@@ -10196,12 +10202,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 286
+        "unknown": 289
       },
       "users": {
         "[object Object]": {
-          "count": 286,
-          "last": 1789992922897
+          "count": 289,
+          "last": 1789993305911
         }
       },
       "groups": {}
