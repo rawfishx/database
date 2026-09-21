@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13851"
+        "__bigint__": "13951"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1387,7 +1387,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "47060"
+        "__bigint__": "47130"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1791,14 +1791,14 @@
         "house_required_since": 0
       },
       "health": {
-        "hp": 21,
+        "hp": 1,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
         "hospital_fee": {
           "__bigint__": "0"
         },
-        "last_accident": 1789874303073
+        "last_accident": 1789997705542
       },
       "saataa_life": {
         "job": null,
@@ -2578,7 +2578,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5315"
+        "__bigint__": "5350"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2627,7 +2627,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 35,
+      "limit": 33,
       "last_reset": "2026-09-21T18:00:05.479Z",
       "frames": [],
       "active_frame": null,
@@ -10231,12 +10231,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 302
+        "unknown": 318
       },
       "users": {
         "[object Object]": {
-          "count": 302,
-          "last": 1789997014996
+          "count": 318,
+          "last": 1789997949353
         }
       },
       "groups": {}
