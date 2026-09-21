@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13811"
+        "__bigint__": "13821"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1387,7 +1387,7 @@
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "47045"
+        "__bigint__": "47060"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -2572,13 +2572,13 @@
       "registered_at": 1788607926528,
       "name": "ulfa",
       "uang": {
-        "__bigint__": "1102976"
+        "__bigint__": "1090447"
       },
       "level": {
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5295"
+        "__bigint__": "5300"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2627,7 +2627,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 39,
+      "limit": 38,
       "last_reset": "2026-09-21T18:00:05.479Z",
       "frames": [],
       "active_frame": null,
@@ -2704,6 +2704,18 @@
             "type": "biaya_hidup",
             "amount": "1500",
             "note": "biaya hidup harian",
+            "timestamp": 1789996161724
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "11029",
+            "note": "pajak harian 1%",
+            "timestamp": 1789996161724
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "1500",
+            "note": "biaya hidup harian",
             "timestamp": 1789908347994
           },
           {
@@ -2714,15 +2726,15 @@
           }
         ],
         "weekly": {
-          "expenses": 12656,
-          "tax": 11156
+          "expenses": 25185,
+          "tax": 22185
         },
         "weeklyStart": 1789875209460,
-        "lastTick": 1789905110494,
+        "lastTick": 1789991510494,
         "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 1500,
+        "dailyExpenses": 3000,
         "totalIncome": 0,
-        "totalExpense": 12656,
+        "totalExpense": 25185,
         "farm": {
           "land": 2,
           "plots": [],
@@ -2750,7 +2762,7 @@
         "portfolio": {},
         "projects": {},
         "_legacy_modal_migrated": true,
-        "tax_paid": "11156"
+        "tax_paid": "11029"
       }
     },
     "6288245583791@s.whatsapp.net": {
@@ -6399,13 +6411,13 @@
       "registered_at": 1789187342461,
       "name": "feby",
       "uang": {
-        "__bigint__": "1282919"
+        "__bigint__": "1268590"
       },
       "level": {
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "3860"
+        "__bigint__": "3870"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -6455,7 +6467,7 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 80,
+      "diamond": 90,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -6481,7 +6493,7 @@
         },
         "last_interest": 1789196918218
       },
-      "last_diamond_bonus": "2026-09-20",
+      "last_diamond_bonus": "2026-09-21",
       "limit_reset_notified_at": 1789932786286,
       "country_reset_required": false,
       "health": {
@@ -6521,14 +6533,30 @@
         "luck": 50,
         "criminal": 0,
         "inventory": {},
-        "history": [],
-        "weekly": {},
+        "history": [
+          {
+            "type": "biaya_hidup",
+            "amount": "1500",
+            "note": "biaya hidup harian",
+            "timestamp": 1789996109437
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "12829",
+            "note": "pajak harian 1%",
+            "timestamp": 1789996109437
+          }
+        ],
+        "weekly": {
+          "expenses": 14329,
+          "tax": 12829
+        },
         "weeklyStart": 1789865784405,
-        "lastTick": 1789865783494,
+        "lastTick": 1789952183494,
         "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 0,
+        "dailyExpenses": 1500,
         "totalIncome": 0,
-        "totalExpense": 0,
+        "totalExpense": 14329,
         "farm": {
           "land": 2,
           "plots": [],
@@ -6555,7 +6583,8 @@
         "weeklyStats": {},
         "portfolio": {},
         "projects": {},
-        "_legacy_modal_migrated": true
+        "_legacy_modal_migrated": true,
+        "tax_paid": "12829"
       }
     },
     "6283151148146@s.whatsapp.net": {
@@ -10202,12 +10231,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 292
+        "unknown": 295
       },
       "users": {
         "[object Object]": {
-          "count": 292,
-          "last": 1789995736066
+          "count": 295,
+          "last": 1789996161724
         }
       },
       "groups": {}
