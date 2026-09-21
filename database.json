@@ -159,13 +159,13 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "6920198"
+        "__bigint__": "6866198"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13686"
+        "__bigint__": "13711"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -396,7 +396,7 @@
             "model": "kuda_muda",
             "nama": "Kuda Lokal",
             "icon": "🐎",
-            "health": 99,
+            "health": 95,
             "level": 1,
             "speed": 42,
             "power": 45,
@@ -422,6 +422,18 @@
         "portfolio": {},
         "projects": {},
         "history": [
+          {
+            "type": "biaya_hidup",
+            "amount": "4000",
+            "note": "biaya hidup harian",
+            "timestamp": 1789984676814
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "50000",
+            "note": "pajak harian 1%",
+            "timestamp": 1789984676814
+          },
           {
             "type": "pemecatan",
             "amount": "0",
@@ -452,15 +464,15 @@
         "luck": 50,
         "criminal": 0,
         "weekly": {
-          "expenses": 54000,
-          "tax": 50000
+          "expenses": 108000,
+          "tax": 100000
         },
         "weeklyStart": 1789859616254,
-        "lastTick": 1789898084733,
+        "lastTick": 1789984484733,
         "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 4000,
+        "dailyExpenses": 8000,
         "totalIncome": 0,
-        "totalExpense": 54000,
+        "totalExpense": 108000,
         "farm": {
           "land": 2,
           "plots": [],
@@ -471,7 +483,7 @@
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 67,
+          "happiness": 64,
           "childrenCost": 0,
           "partnerInteractionAt": 0
         },
@@ -10227,12 +10239,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 270
+        "unknown": 273
       },
       "users": {
         "[object Object]": {
-          "count": 270,
-          "last": 1789983839394
+          "count": 273,
+          "last": 1789984676815
         }
       },
       "groups": {}
