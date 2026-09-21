@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "13961"
+        "__bigint__": "14006"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -2578,7 +2578,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5350"
+        "__bigint__": "5375"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2627,7 +2627,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 33,
+      "limit": 32,
       "last_reset": "2026-09-21T18:00:05.479Z",
       "frames": [],
       "active_frame": null,
@@ -10231,12 +10231,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 320
+        "unknown": 327
       },
       "users": {
         "[object Object]": {
-          "count": 320,
-          "last": 1789998253122
+          "count": 327,
+          "last": 1789998722281
         }
       },
       "groups": {}
