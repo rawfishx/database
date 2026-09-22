@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15086"
+        "__bigint__": "15216"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1435,13 +1435,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011272284531"
+        "__bigint__": "1011272218531"
       },
       "level": {
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "48135"
+        "__bigint__": "48200"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1845,12 +1845,12 @@
         "house_required_since": 0
       },
       "health": {
-        "hp": 0,
+        "hp": 100,
         "max_hp": 100,
-        "status": "hospital",
-        "hospital_until": 1790078377587,
+        "status": "sehat",
+        "hospital_until": 0,
         "hospital_fee": {
-          "__bigint__": "66000"
+          "__bigint__": "0"
         },
         "last_accident": 1790077897587
       },
@@ -10252,12 +10252,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 433
+        "unknown": 449
       },
       "users": {
         "[object Object]": {
-          "count": 433,
-          "last": 1790078194184
+          "count": 449,
+          "last": 1790079329542
         }
       },
       "groups": {}
