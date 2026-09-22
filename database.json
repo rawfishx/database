@@ -159,13 +159,13 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "6866198"
+        "__bigint__": "7526553"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14071"
+        "__bigint__": "14311"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -183,7 +183,8 @@
         "interaksi": 1789442621786,
         "mancing": 1788613047443,
         "rampok": 1789375345105,
-        "crash": 1789328038690
+        "crash": 1789328038690,
+        "koin": 1790075755618
       },
       "anak": [],
       "invest": {},
@@ -268,6 +269,14 @@
       "achievements": [],
       "transactions": [
         {
+          "type": "mission",
+          "amount": {
+            "__bigint__": "50000"
+          },
+          "mission": "Sultan Muda",
+          "timestamp": 1790075496796
+        },
+        {
           "type": "withdrawal",
           "amount": {
             "__bigint__": "0"
@@ -278,7 +287,9 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "missions_completed": [],
+      "missions_completed": [
+        "misi_rich"
+      ],
       "bank": {
         "tabungan": {
           "__bigint__": "0"
@@ -366,7 +377,7 @@
         "owner": "indonesia"
       },
       "health": {
-        "hp": 100,
+        "hp": 99,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
@@ -396,7 +407,7 @@
             "model": "kuda_muda",
             "nama": "Kuda Lokal",
             "icon": "🐎",
-            "health": 95,
+            "health": 91,
             "level": 1,
             "speed": 42,
             "power": 45,
@@ -409,19 +420,59 @@
       },
       "saataa_life": {
         "wallet_version": 1,
-        "job": null,
+        "job": "kontraktor",
         "place": "pusat",
-        "energy": 100,
-        "worked_at": 0,
+        "energy": 87,
+        "worked_at": 1790075420909,
         "travel_at": 0,
         "daily_at": 0,
         "streak": 0,
-        "reputation": 4,
-        "skill": 1,
-        "inventory": {},
+        "reputation": 5,
+        "skill": 2,
+        "inventory": {
+          "obat": 1,
+          "toolkit": 1,
+          "helmproyek": 1
+        },
         "portfolio": {},
         "projects": {},
         "history": [
+          {
+            "type": "kerja",
+            "amount": "171355",
+            "note": "Kontraktor Proyek",
+            "timestamp": 1790075420909
+          },
+          {
+            "type": "belanja",
+            "amount": "85000",
+            "note": "Helm Proyek x1",
+            "timestamp": 1790075405920
+          },
+          {
+            "type": "belanja",
+            "amount": "75000",
+            "note": "Toolkit Kerja x1",
+            "timestamp": 1790075398691
+          },
+          {
+            "type": "belanja",
+            "amount": "12000",
+            "note": "Obat Ringan x1",
+            "timestamp": 1790075319663
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "4000",
+            "note": "biaya hidup harian",
+            "timestamp": 1790075283688
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "50000",
+            "note": "pajak harian 1%",
+            "timestamp": 1790075283688
+          },
           {
             "type": "biaya_hidup",
             "amount": "4000",
@@ -459,20 +510,22 @@
             "timestamp": 1789865571816
           }
         ],
-        "discipline": 50,
+        "discipline": 51,
         "social": 53,
         "luck": 50,
         "criminal": 0,
         "weekly": {
-          "expenses": 108000,
-          "tax": 100000
+          "expenses": 334000,
+          "tax": 150000,
+          "work": 1,
+          "income": 171355
         },
         "weeklyStart": 1789859616254,
-        "lastTick": 1789984484733,
+        "lastTick": 1790070884733,
         "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 8000,
-        "totalIncome": 0,
-        "totalExpense": 108000,
+        "dailyExpenses": 12000,
+        "totalIncome": 171355,
+        "totalExpense": 162000,
         "farm": {
           "land": 2,
           "plots": [],
@@ -483,7 +536,7 @@
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 64,
+          "happiness": 61,
           "childrenCost": 0,
           "partnerInteractionAt": 0
         },
@@ -498,8 +551,9 @@
         },
         "weeklyStats": {},
         "_legacy_modal_migrated": true,
-        "profession_selected": false,
-        "tax_paid": "50000"
+        "profession_selected": true,
+        "tax_paid": "50000",
+        "last_work_day": "2026-09-20"
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -10231,12 +10285,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 343
+        "unknown": 370
       },
       "users": {
         "[object Object]": {
-          "count": 343,
-          "last": 1790066580808
+          "count": 370,
+          "last": 1790075745618
         }
       },
       "groups": {}
