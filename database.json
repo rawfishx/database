@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15631"
+        "__bigint__": "15656"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1463,7 +1463,7 @@
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "48390"
+        "__bigint__": "48410"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1867,14 +1867,14 @@
         "house_required_since": 0
       },
       "health": {
-        "hp": 100,
+        "hp": 70,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
         "hospital_fee": {
           "__bigint__": "0"
         },
-        "last_accident": 1790077897587
+        "last_accident": 1790090669226
       },
       "saataa_life": {
         "job": null,
@@ -10358,12 +10358,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 506
+        "unknown": 510
       },
       "users": {
         "[object Object]": {
-          "count": 506,
-          "last": 1790090519775
+          "count": 510,
+          "last": 1790090704370
         }
       },
       "groups": {}
