@@ -159,13 +159,13 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "7596553"
+        "__bigint__": "4779953"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "15216"
+        "__bigint__": "15486"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -407,13 +407,35 @@
             "model": "kuda_muda",
             "nama": "Kuda Lokal",
             "icon": "🐎",
-            "health": 91,
+            "health": 94,
             "level": 1,
             "speed": 42,
             "power": 45,
             "stamina": 50,
             "status": "sehat",
             "sickDays": 0
+          },
+          {
+            "id": "horse_1790079785924_m22vm",
+            "model": "kuda_muda",
+            "nama": "Lokal Sprint",
+            "icon": "🐎",
+            "health": 100,
+            "level": 1,
+            "speed": 42,
+            "power": 45,
+            "stamina": 58
+          },
+          {
+            "id": "horse_1790079808195_brar7",
+            "model": "kuda_elite",
+            "nama": "Silver Comet",
+            "icon": "🦄",
+            "health": 100,
+            "level": 1,
+            "speed": 84,
+            "power": 76,
+            "stamina": 88
           }
         ],
         "activeHorse": "horse_1789642205643_5547"
@@ -1441,7 +1463,7 @@
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "48200"
+        "__bigint__": "48310"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -10252,12 +10274,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 449
+        "unknown": 484
       },
       "users": {
         "[object Object]": {
-          "count": 449,
-          "last": 1790079329542
+          "count": 484,
+          "last": 1790079978107
         }
       },
       "groups": {}
