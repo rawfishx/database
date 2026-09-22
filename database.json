@@ -4071,7 +4071,7 @@
         "__bigint__": "13"
       },
       "xp": {
-        "__bigint__": "84385"
+        "__bigint__": "84395"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -4130,7 +4130,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 38,
       "last_reset": "2026-09-22T17:00:07.816Z",
       "achievements": [
         "first_saving",
@@ -5860,16 +5860,16 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1790040376367,
+      "limit_reset_at": 1790123232288,
       "limit": 40,
-      "last_reset": "2026-09-22T01:26:16.367Z",
+      "last_reset": "2026-09-23T00:27:12.288Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1789957576367,
+      "limit_reset_notified_at": 1790040432288,
       "country_reset_required": true
     },
     "6281995514751@s.whatsapp.net": {
@@ -10231,12 +10231,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 338
+        "unknown": 340
       },
       "users": {
         "[object Object]": {
-          "count": 338,
-          "last": 1790003638505
+          "count": 340,
+          "last": 1790039814579
         }
       },
       "groups": {}
