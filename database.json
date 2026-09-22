@@ -159,13 +159,13 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "7526553"
+        "__bigint__": "7596553"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "14476"
+        "__bigint__": "14846"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1435,13 +1435,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011272144531"
+        "__bigint__": "1011272214531"
       },
       "level": {
         "__bigint__": "10"
       },
       "xp": {
-        "__bigint__": "47250"
+        "__bigint__": "47670"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -10252,12 +10252,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 392
+        "unknown": 411
       },
       "users": {
         "[object Object]": {
-          "count": 392,
-          "last": 1790076608461
+          "count": 411,
+          "last": 1790077532742
         }
       },
       "groups": {}
