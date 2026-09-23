@@ -4092,7 +4092,7 @@
         "__bigint__": "13"
       },
       "xp": {
-        "__bigint__": "84395"
+        "__bigint__": "84400"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -4151,7 +4151,7 @@
         "rod_max": 10
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-23T16:00:29.006Z",
       "achievements": [
         "first_saving",
@@ -4365,7 +4365,7 @@
           "rarity": "Epic",
           "bobot": 28.9,
           "level": 1,
-          "hunger": 60,
+          "hunger": 15,
           "menang": 0,
           "kalah": 0,
           "created_at": 1788611784834,
@@ -4379,7 +4379,7 @@
           "rarity": "Epic",
           "bobot": 11.2,
           "level": 1,
-          "hunger": 58,
+          "hunger": 19,
           "menang": 0,
           "kalah": 0,
           "created_at": 1788611806931,
@@ -4427,7 +4427,7 @@
       },
       "country_reset_required": false,
       "health": {
-        "hp": 96,
+        "hp": 92,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
@@ -4464,6 +4464,18 @@
             "type": "biaya_hidup",
             "amount": "0",
             "note": "saldo tidak cukup untuk biaya hidup",
+            "timestamp": 1790164816729
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "0",
+            "note": "saldo tidak cukup untuk biaya hidup",
+            "timestamp": 1790164816729
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "0",
+            "note": "saldo tidak cukup untuk biaya hidup",
             "timestamp": 1789993261218
           },
           {
@@ -4477,7 +4489,7 @@
           "expenses": 0
         },
         "weeklyStart": 1789842295441,
-        "lastTick": 1789989587537,
+        "lastTick": 1790162387537,
         "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
@@ -4492,7 +4504,7 @@
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 56,
+          "happiness": 42,
           "childrenCost": 0,
           "partnerInteractionAt": 0
         },
@@ -10348,12 +10360,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 549
+        "unknown": 550
       },
       "users": {
         "[object Object]": {
-          "count": 549,
-          "last": 1790161452674
+          "count": 550,
+          "last": 1790164816730
         }
       },
       "groups": {}
