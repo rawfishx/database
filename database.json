@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "16336"
+        "__bigint__": "16381"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -7085,9 +7085,9 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1790171375416,
+      "limit_reset_at": 1790254207445,
       "limit": 40,
-      "last_reset": "2026-09-23T13:49:35.416Z",
+      "last_reset": "2026-09-24T12:50:07.445Z",
       "health": {
         "hp": 100,
         "max_hp": 100,
@@ -7097,7 +7097,8 @@
           "__bigint__": "0"
         },
         "last_accident": 0
-      }
+      },
+      "limit_reset_notified_at": 1790171407445
     }
   },
   "market": {
@@ -10360,12 +10361,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 558
+        "unknown": 562
       },
       "users": {
         "[object Object]": {
-          "count": 558,
-          "last": 1790170505019
+          "count": 562,
+          "last": 1790171267156
         }
       },
       "groups": {}
