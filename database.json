@@ -159,13 +159,13 @@
       "uid": 99999,
       "name": "Player",
       "uang": {
-        "__bigint__": "4728154"
+        "__bigint__": "4676873"
       },
       "level": {
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "16481"
+        "__bigint__": "16486"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -407,7 +407,7 @@
             "model": "kuda_muda",
             "nama": "Kuda Lokal",
             "icon": "🐎",
-            "health": 93,
+            "health": 92,
             "level": 1,
             "speed": 42,
             "power": 45,
@@ -420,7 +420,7 @@
             "model": "kuda_muda",
             "nama": "Lokal Sprint",
             "icon": "🐎",
-            "health": 96,
+            "health": 95,
             "level": 1,
             "speed": 42,
             "power": 45,
@@ -433,7 +433,7 @@
             "model": "kuda_elite",
             "nama": "Silver Comet",
             "icon": "🦄",
-            "health": 96,
+            "health": 92,
             "level": 1,
             "speed": 84,
             "power": 76,
@@ -463,6 +463,18 @@
         "portfolio": {},
         "projects": {},
         "history": [
+          {
+            "type": "biaya_hidup",
+            "amount": "4000",
+            "note": "biaya hidup harian",
+            "timestamp": 1790253830644
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "47281",
+            "note": "pajak harian 1%",
+            "timestamp": 1790253830644
+          },
           {
             "type": "biaya_hidup",
             "amount": "4000",
@@ -553,17 +565,17 @@
         "luck": 50,
         "criminal": 0,
         "weekly": {
-          "expenses": 385799,
-          "tax": 197799,
+          "expenses": 437080,
+          "tax": 245080,
           "work": 1,
           "income": 171355
         },
         "weeklyStart": 1789859616254,
-        "lastTick": 1790157284733,
+        "lastTick": 1790243684733,
         "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 16000,
+        "dailyExpenses": 20000,
         "totalIncome": 171355,
-        "totalExpense": 213799,
+        "totalExpense": 265080,
         "farm": {
           "land": 2,
           "plots": [],
@@ -574,7 +586,7 @@
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 58,
+          "happiness": 55,
           "childrenCost": 0,
           "partnerInteractionAt": 0
         },
@@ -590,7 +602,7 @@
         "weeklyStats": {},
         "_legacy_modal_migrated": true,
         "profession_selected": true,
-        "tax_paid": "47799",
+        "tax_paid": "47281",
         "last_work_day": "2026-09-20"
       }
     },
@@ -7085,9 +7097,9 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1790254207445,
+      "limit_reset_at": 1790337033478,
       "limit": 40,
-      "last_reset": "2026-09-24T12:50:07.445Z",
+      "last_reset": "2026-09-25T11:50:33.478Z",
       "health": {
         "hp": 100,
         "max_hp": 100,
@@ -7098,7 +7110,7 @@
         },
         "last_accident": 0
       },
-      "limit_reset_notified_at": 1790171407445
+      "limit_reset_notified_at": 1790254233478
     }
   },
   "market": {
@@ -10361,12 +10373,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 572
+        "unknown": 573
       },
       "users": {
         "[object Object]": {
-          "count": 572,
-          "last": 1790239588488
+          "count": 573,
+          "last": 1790253830645
         }
       },
       "groups": {}
