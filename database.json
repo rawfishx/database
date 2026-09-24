@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "16436"
+        "__bigint__": "16461"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -6917,9 +6917,9 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1790218916100,
+      "limit_reset_at": 1790301739492,
       "limit": 40,
-      "last_reset": "2026-09-24T03:01:56.100Z",
+      "last_reset": "2026-09-25T02:02:19.492Z",
       "health": {
         "hp": 100,
         "max_hp": 100,
@@ -6930,7 +6930,7 @@
         },
         "last_accident": 0
       },
-      "limit_reset_notified_at": 1790136116100
+      "limit_reset_notified_at": 1790218939492
     },
     "62895622905647@s.whatsapp.net": {
       "uid": 10055,
@@ -10361,12 +10361,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 565
+        "unknown": 569
       },
       "users": {
         "[object Object]": {
-          "count": 565,
-          "last": 1790214635204
+          "count": 569,
+          "last": 1790219011444
         }
       },
       "groups": {}
