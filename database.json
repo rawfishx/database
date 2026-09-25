@@ -165,7 +165,7 @@
         "__bigint__": "7"
       },
       "xp": {
-        "__bigint__": "17041"
+        "__bigint__": "17101"
       },
       "role": "owner",
       "status_hubungan": "pacaran",
@@ -1503,7 +1503,7 @@
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "49365"
+        "__bigint__": "49385"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1869,7 +1869,7 @@
         "3": "rencanakeluarga",
         "expiresAt": 1789874571844
       },
-      "diamond": 210,
+      "diamond": 220,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1879,7 +1879,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-25",
+      "last_diamond_bonus": "2026-09-26",
       "limit_reset_at": 1790427725968,
       "daily": {
         "streak": 1,
@@ -10307,12 +10307,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 592
+        "unknown": 595
       },
       "users": {
         "[object Object]": {
-          "count": 592,
-          "last": 1790346913565
+          "count": 595,
+          "last": 1790376173163
         }
       },
       "groups": {}
