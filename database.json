@@ -1485,13 +1485,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011272967438"
+        "__bigint__": "1011273148869"
       },
       "level": {
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "49100"
+        "__bigint__": "49115"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1918,6 +1918,30 @@
         "history": [
           {
             "type": "panen",
+            "amount": "196853",
+            "note": "Strawberry (70/100)",
+            "timestamp": 1790333577191
+          },
+          {
+            "type": "panen",
+            "amount": "42578",
+            "note": "Jagung (100/100)",
+            "timestamp": 1790333577191
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "8000",
+            "note": "biaya hidup harian",
+            "timestamp": 1790333577191
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "50000",
+            "note": "pajak harian 1%",
+            "timestamp": 1790333577191
+          },
+          {
+            "type": "panen",
             "amount": "303338",
             "note": "Strawberry (70/100)",
             "timestamp": 1790256064067
@@ -2290,47 +2314,22 @@
           }
         ],
         "weekly": {
-          "expenses": 1129500,
-          "tax": 250000,
-          "farmHarvest": 12,
-          "income": 1047616
+          "expenses": 1187500,
+          "tax": 300000,
+          "farmHarvest": 14,
+          "income": 1287047
         },
         "weeklyStart": 1789858922988,
-        "lastTick": 1790245120071,
+        "lastTick": 1790331520071,
         "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 61500,
-        "totalIncome": 1047616,
-        "totalExpense": 311500,
+        "dailyExpenses": 69500,
+        "totalIncome": 1287047,
+        "totalExpense": 369500,
         "farm": {
           "land": 20,
           "plots": [
             {
               "crop": {
-                "name": "Jagung",
-                "icon": "🌽",
-                "seed": {
-                  "__bigint__": "9000"
-                },
-                "growDays": 3,
-                "yieldMin": {
-                  "__bigint__": "26000"
-                },
-                "yieldMax": {
-                  "__bigint__": "50000"
-                },
-                "water": 25,
-                "quality": 3,
-                "pest": 0.14
-              },
-              "age": 2,
-              "health": 100,
-              "water": 87.5,
-              "pest": false,
-              "pestDays": 0,
-              "fertilizer": 0
-            },
-            {
-              "crop": {
                 "name": "Anggur",
                 "icon": "🍇",
                 "seed": {
@@ -2372,7 +2371,7 @@
                 "quality": 5,
                 "pest": 0.19
               },
-              "age": 5,
+              "age": 6,
               "health": 100,
               "water": 100,
               "pest": false,
@@ -2397,7 +2396,7 @@
                 "quality": 5,
                 "pest": 0.19
               },
-              "age": 5,
+              "age": 6,
               "health": 100,
               "water": 100,
               "pest": false,
@@ -2422,59 +2421,34 @@
                 "quality": 5,
                 "pest": 0.19
               },
-              "age": 5,
-              "health": 90,
-              "water": 35,
-              "pest": true,
-              "pestDays": 2,
-              "fertilizer": 0
-            },
-            {
-              "crop": {
-                "name": "Anggur",
-                "icon": "🍇",
-                "seed": {
-                  "__bigint__": "90000"
-                },
-                "growDays": 7,
-                "yieldMin": {
-                  "__bigint__": "300000"
-                },
-                "yieldMax": {
-                  "__bigint__": "650000"
-                },
-                "water": 45,
-                "quality": 5,
-                "pest": 0.19
-              },
-              "age": 5,
-              "health": 90,
-              "water": 100,
-              "pest": true,
-              "pestDays": 2,
-              "fertilizer": 0
-            },
-            {
-              "crop": {
-                "name": "Strawberry",
-                "icon": "🍓",
-                "seed": {
-                  "__bigint__": "50000"
-                },
-                "growDays": 5,
-                "yieldMin": {
-                  "__bigint__": "150000"
-                },
-                "yieldMax": {
-                  "__bigint__": "300000"
-                },
-                "water": 35,
-                "quality": 5,
-                "pest": 0.23
-              },
-              "age": 4,
+              "age": 6,
               "health": 80,
-              "water": 82.5,
+              "water": 12.5,
+              "pest": true,
+              "pestDays": 3,
+              "fertilizer": 0
+            },
+            {
+              "crop": {
+                "name": "Anggur",
+                "icon": "🍇",
+                "seed": {
+                  "__bigint__": "90000"
+                },
+                "growDays": 7,
+                "yieldMin": {
+                  "__bigint__": "300000"
+                },
+                "yieldMax": {
+                  "__bigint__": "650000"
+                },
+                "water": 45,
+                "quality": 5,
+                "pest": 0.19
+              },
+              "age": 6,
+              "health": 80,
+              "water": 77.5,
               "pest": true,
               "pestDays": 3,
               "fertilizer": 0
@@ -2505,14 +2479,14 @@
               "fertilizer": 0
             }
           ],
-          "harvest": 12,
+          "harvest": 14,
           "failed": 0,
           "pests": 8,
           "water": 100
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 63,
+          "happiness": 60,
           "childrenCost": 0,
           "partnerInteractionAt": 0
         },
@@ -10321,12 +10295,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 582
+        "unknown": 583
       },
       "users": {
         "[object Object]": {
-          "count": 582,
-          "last": 1790313382313
+          "count": 583,
+          "last": 1790333577192
         }
       },
       "groups": {}
