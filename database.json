@@ -1503,7 +1503,7 @@
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "49280"
+        "__bigint__": "49365"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -6469,9 +6469,9 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "isPremium": true,
-      "limit_reset_at": 1790346877746,
+      "limit_reset_at": 1790429706803,
       "limit": "UNLIMITED",
-      "last_reset": "2026-09-25T14:34:37.746Z",
+      "last_reset": "2026-09-26T13:35:06.803Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -6485,7 +6485,7 @@
         "last_interest": 1789196918218
       },
       "last_diamond_bonus": "2026-09-21",
-      "limit_reset_notified_at": 1790264077746,
+      "limit_reset_notified_at": 1790346906803,
       "country_reset_required": false,
       "health": {
         "hp": 100,
@@ -10307,12 +10307,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 588
+        "unknown": 592
       },
       "users": {
         "[object Object]": {
-          "count": 588,
-          "last": 1790336109035
+          "count": 592,
+          "last": 1790346913565
         }
       },
       "groups": {}
