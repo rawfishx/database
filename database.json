@@ -5554,7 +5554,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1135"
+        "__bigint__": "1145"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5613,7 +5613,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1790453054028,
-      "limit": 40,
+      "limit": 38,
       "last_reset": "2026-09-26T20:04:14.028Z",
       "achievements": [],
       "transactions": [],
@@ -5624,7 +5624,7 @@
       "limit_reset_notified_at": 1790370254028,
       "country_reset_required": false,
       "health": {
-        "hp": 90,
+        "hp": 86,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
@@ -5660,6 +5660,18 @@
         "criminal": 0,
         "inventory": {},
         "history": [
+          {
+            "type": "biaya_hidup",
+            "amount": "0",
+            "note": "saldo tidak cukup untuk biaya hidup",
+            "timestamp": 1790432191080
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "0",
+            "note": "saldo tidak cukup untuk biaya hidup",
+            "timestamp": 1790432191080
+          },
           {
             "type": "biaya_hidup",
             "amount": "0",
@@ -5701,7 +5713,7 @@
           "expenses": 0
         },
         "weeklyStart": 1789862367871,
-        "lastTick": 1790245510875,
+        "lastTick": 1790418310875,
         "lastWeeklyReport": "2026-09-13",
         "dailyExpenses": 0,
         "totalIncome": 0,
@@ -10262,12 +10274,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 598
+        "unknown": 600
       },
       "users": {
         "[object Object]": {
-          "count": 598,
-          "last": 1790421701853
+          "count": 600,
+          "last": 1790432226734
         }
       },
       "groups": {}
