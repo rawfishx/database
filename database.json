@@ -2482,13 +2482,13 @@
       "registered_at": 1788607926528,
       "name": "ulfa",
       "uang": {
-        "__bigint__": "1090447"
+        "__bigint__": "1029655"
       },
       "level": {
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5380"
+        "__bigint__": "5395"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2537,7 +2537,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 38,
       "last_reset": "2026-09-27T12:02:30.036Z",
       "frames": [],
       "active_frame": null,
@@ -2614,6 +2614,66 @@
             "type": "biaya_hidup",
             "amount": "1500",
             "note": "biaya hidup harian",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "10415",
+            "note": "pajak harian 1%",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "1500",
+            "note": "biaya hidup harian",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "10536",
+            "note": "pajak harian 1%",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "1500",
+            "note": "biaya hidup harian",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "10657",
+            "note": "pajak harian 1%",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "1500",
+            "note": "biaya hidup harian",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "10780",
+            "note": "pajak harian 1%",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "1500",
+            "note": "biaya hidup harian",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "10904",
+            "note": "pajak harian 1%",
+            "timestamp": 1790493725402
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "1500",
+            "note": "biaya hidup harian",
             "timestamp": 1789996161724
           },
           {
@@ -2635,16 +2695,13 @@
             "timestamp": 1789908347994
           }
         ],
-        "weekly": {
-          "expenses": 25185,
-          "tax": 22185
-        },
-        "weeklyStart": 1789875209460,
-        "lastTick": 1789991510494,
-        "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 3000,
+        "weekly": {},
+        "weeklyStart": 1790493726192,
+        "lastTick": 1790423510494,
+        "lastWeeklyReport": "2026-09-20",
+        "dailyExpenses": 10500,
         "totalIncome": 0,
-        "totalExpense": 25185,
+        "totalExpense": 85977,
         "farm": {
           "land": 2,
           "plots": [],
@@ -2672,7 +2729,7 @@
         "portfolio": {},
         "projects": {},
         "_legacy_modal_migrated": true,
-        "tax_paid": "11029"
+        "tax_paid": "10415"
       }
     },
     "6288245583791@s.whatsapp.net": {
@@ -10274,12 +10331,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 600
+        "unknown": 602
       },
       "users": {
         "[object Object]": {
-          "count": 600,
-          "last": 1790432226734
+          "count": 602,
+          "last": 1790494432505
         }
       },
       "groups": {}
