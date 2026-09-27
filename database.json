@@ -2458,13 +2458,13 @@
       "registered_at": 1788607926528,
       "name": "ulfa",
       "uang": {
-        "__bigint__": "1029655"
+        "__bigint__": "1017859"
       },
       "level": {
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5400"
+        "__bigint__": "5415"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -2513,7 +2513,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 37,
       "last_reset": "2026-09-28T11:02:59.187Z",
       "frames": [],
       "active_frame": null,
@@ -2586,6 +2586,18 @@
         "criminal": 0,
         "inventory": {},
         "history": [
+          {
+            "type": "biaya_hidup",
+            "amount": "1500",
+            "note": "biaya hidup harian",
+            "timestamp": 1790517808020
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "10296",
+            "note": "pajak harian 1%",
+            "timestamp": 1790517808020
+          },
           {
             "type": "biaya_hidup",
             "amount": "1500",
@@ -2671,13 +2683,16 @@
             "timestamp": 1789908347994
           }
         ],
-        "weekly": {},
+        "weekly": {
+          "expenses": 11796,
+          "tax": 10296
+        },
         "weeklyStart": 1790493726192,
-        "lastTick": 1790423510494,
+        "lastTick": 1790509910494,
         "lastWeeklyReport": "2026-09-20",
-        "dailyExpenses": 10500,
+        "dailyExpenses": 12000,
         "totalIncome": 0,
-        "totalExpense": 85977,
+        "totalExpense": 97773,
         "farm": {
           "land": 2,
           "plots": [],
@@ -2705,7 +2720,7 @@
         "portfolio": {},
         "projects": {},
         "_legacy_modal_migrated": true,
-        "tax_paid": "10415"
+        "tax_paid": "10296"
       }
     },
     "6288245583791@s.whatsapp.net": {
@@ -10311,12 +10326,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 606
+        "unknown": 609
       },
       "users": {
         "[object Object]": {
-          "count": 606,
-          "last": 1790516267829
+          "count": 609,
+          "last": 1790517832014
         }
       },
       "groups": {}
