@@ -4678,7 +4678,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-09-27T13:21:31.143Z",
+      "last_reset": "2026-09-28T12:22:01.271Z",
       "diamond": 0,
       "negara": "Belum diatur",
       "squad_id": null,
@@ -4689,8 +4689,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1790515291143,
-      "limit_reset_notified_at": 1790432491143,
+      "limit_reset_at": 1790598121271,
+      "limit_reset_notified_at": 1790515321271,
       "country_reset_required": true
     },
     "6285820163031@s.whatsapp.net": {
@@ -5618,7 +5618,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1145"
+        "__bigint__": "1155"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5677,7 +5677,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1790535873965,
-      "limit": 40,
+      "limit": 38,
       "last_reset": "2026-09-27T19:04:33.965Z",
       "achievements": [],
       "transactions": [],
@@ -5688,7 +5688,7 @@
       "limit_reset_notified_at": 1790453073965,
       "country_reset_required": false,
       "health": {
-        "hp": 86,
+        "hp": 84,
         "max_hp": 100,
         "status": "sehat",
         "hospital_until": 0,
@@ -5724,6 +5724,12 @@
         "criminal": 0,
         "inventory": {},
         "history": [
+          {
+            "type": "biaya_hidup",
+            "amount": "0",
+            "note": "saldo tidak cukup untuk biaya hidup",
+            "timestamp": 1790515778516
+          },
           {
             "type": "biaya_hidup",
             "amount": "0",
@@ -5773,12 +5779,10 @@
             "timestamp": 1789918759720
           }
         ],
-        "weekly": {
-          "expenses": 0
-        },
-        "weeklyStart": 1789862367871,
-        "lastTick": 1790418310875,
-        "lastWeeklyReport": "2026-09-13",
+        "weekly": {},
+        "weeklyStart": 1790515779352,
+        "lastTick": 1790504710875,
+        "lastWeeklyReport": "2026-09-20",
         "dailyExpenses": 0,
         "totalIncome": 0,
         "totalExpense": 0,
@@ -10338,12 +10342,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 603
+        "unknown": 605
       },
       "users": {
         "[object Object]": {
-          "count": 603,
-          "last": 1790501322711
+          "count": 605,
+          "last": 1790516122940
         }
       },
       "groups": {}
