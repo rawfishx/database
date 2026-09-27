@@ -1504,13 +1504,13 @@
       "registered_at": 1788435144522,
       "name": "kevin",
       "uang": {
-        "__bigint__": "1011274487790"
+        "__bigint__": "1011275431471"
       },
       "level": {
         "__bigint__": "11"
       },
       "xp": {
-        "__bigint__": "49430"
+        "__bigint__": "49435"
       },
       "role": "player",
       "status_hubungan": "pacaran",
@@ -1876,7 +1876,7 @@
         "3": "rencanakeluarga",
         "expiresAt": 1789874571844
       },
-      "diamond": 220,
+      "diamond": 230,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1886,7 +1886,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-26",
+      "last_diamond_bonus": "2026-09-27",
       "limit_reset_at": 1790593379187,
       "daily": {
         "streak": 1,
@@ -1935,6 +1935,30 @@
         "criminal": 0,
         "inventory": {},
         "history": [
+          {
+            "type": "panen",
+            "amount": "657007",
+            "note": "Anggur (70/100)",
+            "timestamp": 1790516267375
+          },
+          {
+            "type": "panen",
+            "amount": "342174",
+            "note": "Anggur (70/100)",
+            "timestamp": 1790516267375
+          },
+          {
+            "type": "biaya_hidup",
+            "amount": "5500",
+            "note": "biaya hidup harian",
+            "timestamp": 1790516267375
+          },
+          {
+            "type": "pajak_otomatis",
+            "amount": "50000",
+            "note": "pajak harian 1%",
+            "timestamp": 1790516267375
+          },
           {
             "type": "panen",
             "amount": "210752",
@@ -2362,46 +2386,16 @@
             "timestamp": 1789814915477
           }
         ],
-        "weekly": {
-          "expenses": 1248500,
-          "tax": 350000,
-          "farmHarvest": 17,
-          "income": 2686968
-        },
-        "weeklyStart": 1789858922988,
-        "lastTick": 1790417920071,
-        "lastWeeklyReport": "2026-09-13",
-        "dailyExpenses": 76500,
-        "totalIncome": 2686968,
-        "totalExpense": 426500,
+        "weekly": {},
+        "weeklyStart": 1790516267828,
+        "lastTick": 1790504320071,
+        "lastWeeklyReport": "2026-09-20",
+        "dailyExpenses": 82000,
+        "totalIncome": 3686149,
+        "totalExpense": 482000,
         "farm": {
           "land": 20,
           "plots": [
-            {
-              "crop": {
-                "name": "Anggur",
-                "icon": "🍇",
-                "seed": {
-                  "__bigint__": "90000"
-                },
-                "growDays": 7,
-                "yieldMin": {
-                  "__bigint__": "300000"
-                },
-                "yieldMax": {
-                  "__bigint__": "650000"
-                },
-                "water": 45,
-                "quality": 5,
-                "pest": 0.19
-              },
-              "age": 6,
-              "health": 80,
-              "water": 77.5,
-              "pest": true,
-              "pestDays": 3,
-              "fertilizer": 0
-            },
             {
               "crop": {
                 "name": "Anggur",
@@ -2426,41 +2420,16 @@
               "pest": false,
               "pestDays": 0,
               "fertilizer": 0
-            },
-            {
-              "crop": {
-                "name": "Anggur",
-                "icon": "🍇",
-                "seed": {
-                  "__bigint__": "90000"
-                },
-                "growDays": 7,
-                "yieldMin": {
-                  "__bigint__": "300000"
-                },
-                "yieldMax": {
-                  "__bigint__": "650000"
-                },
-                "water": 45,
-                "quality": 5,
-                "pest": 0.19
-              },
-              "age": 6,
-              "health": 80,
-              "water": 77.5,
-              "pest": true,
-              "pestDays": 3,
-              "fertilizer": 0
             }
           ],
-          "harvest": 17,
+          "harvest": 19,
           "failed": 0,
           "pests": 9,
           "water": 100
         },
         "family": {
           "partnerCost": 0,
-          "happiness": 57,
+          "happiness": 54,
           "childrenCost": 0,
           "partnerInteractionAt": 0
         },
@@ -2495,7 +2464,7 @@
         "__bigint__": "5"
       },
       "xp": {
-        "__bigint__": "5395"
+        "__bigint__": "5400"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -5618,7 +5587,7 @@
         "__bigint__": "3"
       },
       "xp": {
-        "__bigint__": "1155"
+        "__bigint__": "1160"
       },
       "role": "player",
       "status_hubungan": "lajang",
@@ -10342,12 +10311,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 605
+        "unknown": 606
       },
       "users": {
         "[object Object]": {
-          "count": 605,
-          "last": 1790516122940
+          "count": 606,
+          "last": 1790516267829
         }
       },
       "groups": {}
