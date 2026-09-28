@@ -10399,12 +10399,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 697
+        "unknown": 712
       },
       "users": {
         "[object Object]": {
-          "count": 697,
-          "last": 1790599258121
+          "count": 712,
+          "last": 1790599778413
         }
       },
       "groups": {}
@@ -10412,6 +10412,15 @@
     "console_config": {
       "mode": "normal",
       "debug": true
+    },
+    "saataa_nowplaying": {
+      "120363429679202978@g.us": {
+        "title": "Heroik (Album)",
+        "artist": "Efek Rumah Kaca",
+        "album": "Rimpang",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/24/72/29/24722902-fe06-9461-c548-c22bed50c0aa/196922319990_Cover.jpg/600x600bb.jpg",
+        "at": 1790599505029
+      }
     }
   },
   "player_market": {},
