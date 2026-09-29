@@ -2538,7 +2538,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 39,
       "last_reset": "2026-09-30T09:03:37.722Z",
       "frames": [],
       "active_frame": null,
@@ -10399,12 +10399,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 807
+        "unknown": 808
       },
       "users": {
         "[object Object]": {
-          "count": 807,
-          "last": 1790693320012
+          "count": 808,
+          "last": 1790700226463
         }
       },
       "groups": {}
