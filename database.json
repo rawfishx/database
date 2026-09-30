@@ -8694,9 +8694,9 @@
     "wa_auto": {
       "autoread": false,
       "autoreact": false,
-      "antidelete": false,
+      "antidelete": true,
       "antiviewonce": false,
-      "antidelete_target": null
+      "antidelete_target": "120363402872389104@g.us"
     },
     "countries": {
       "indonesia": {
@@ -10573,12 +10573,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 860
+        "unknown": 871
       },
       "users": {
         "[object Object]": {
-          "count": 860,
-          "last": 1790772511003
+          "count": 871,
+          "last": 1790773902964
         }
       },
       "groups": {}
