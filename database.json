@@ -4687,7 +4687,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-09-30T10:22:38.277Z",
+      "last_reset": "2026-10-01T09:23:35.673Z",
       "diamond": 0,
       "negara": "Belum diatur",
       "squad_id": null,
@@ -4698,8 +4698,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1790763758277,
-      "limit_reset_notified_at": 1790680958277,
+      "limit_reset_at": 1790846615673,
+      "limit_reset_notified_at": 1790763815673,
       "country_reset_required": true
     },
     "6285820163031@s.whatsapp.net": {
@@ -8392,7 +8392,7 @@
       },
       "120363429679202978@g.us": {
         "muted_users": {
-          "6282292961437@s.whatsapp.net": true
+          "6282292961437@s.whatsapp.net": false
         },
         "antistiker": true
       }
@@ -10405,12 +10405,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 813
+        "unknown": 815
       },
       "users": {
         "[object Object]": {
-          "count": 813,
-          "last": 1790762860647
+          "count": 815,
+          "last": 1790764170269
         }
       },
       "groups": {}
