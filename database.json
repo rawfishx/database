@@ -1901,7 +1901,7 @@
         "3": "rencanakeluarga",
         "expiresAt": 1789874571844
       },
-      "diamond": 250,
+      "diamond": 260,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1911,7 +1911,7 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-09-29",
+      "last_diamond_bonus": "2026-09-30",
       "limit_reset_at": 1790841874857,
       "daily": {
         "streak": 1,
@@ -8389,6 +8389,12 @@
         "muted_users": {
           "6282292961437@s.whatsapp.net": false
         }
+      },
+      "120363429679202978@g.us": {
+        "muted_users": {
+          "6282292961437@s.whatsapp.net": true
+        },
+        "antistiker": true
       }
     },
     "tcg": {
@@ -10399,12 +10405,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 811
+        "unknown": 813
       },
       "users": {
         "[object Object]": {
-          "count": 811,
-          "last": 1790762438522
+          "count": 813,
+          "last": 1790762860647
         }
       },
       "groups": {}
