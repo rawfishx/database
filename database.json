@@ -1537,16 +1537,17 @@
       "xp": {
         "__bigint__": "49710"
       },
-      "role": "player",
+      "role": "admin bot",
       "status_hubungan": "pacaran",
       "point_asmara": 0,
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
       "badges": [
         "🪪 SAATAA Pioneer",
-        "💎 Premium User🎗️"
+        "💎 Premium User🎗️",
+        "⚒️ Admin Bot 🛡️"
       ],
-      "active_badge": "💎 Premium User🎗️",
+      "active_badge": "⚒️ Admin Bot 🛡️",
       "cd": {
         "tebakangka": 1788671119526,
         "rampok": 1789375460653,
@@ -10405,12 +10406,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 823
+        "unknown": 843
       },
       "users": {
         "[object Object]": {
-          "count": 823,
-          "last": 1790768142774
+          "count": 843,
+          "last": 1790770243513
         }
       },
       "groups": {}
