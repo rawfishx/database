@@ -7138,6 +7138,89 @@
         "last_accident": 0
       },
       "limit_reset_notified_at": 1790751212994
+    },
+    "120363430349780522@newsletter": {
+      "uid": 10057,
+      "registered": false,
+      "registered_at": null,
+      "name": "Player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1790770322486,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "diamond": 0,
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "limit_reset_at": 1790853122486,
+      "limit": 40,
+      "last_reset": "2026-10-01T11:12:02.486Z",
+      "health": {
+        "hp": 100,
+        "max_hp": 100,
+        "status": "sehat",
+        "hospital_until": 0,
+        "hospital_fee": {
+          "__bigint__": "0"
+        },
+        "last_accident": 0
+      }
     }
   },
   "market": {
@@ -7789,7 +7872,7 @@
       }
     },
     "acc_group": "120363402872389104@g.us",
-    "last_uid": 10056,
+    "last_uid": 10057,
     "whitelist_karakter": [],
     "muted_groups": {
       "120363430077495840@g.us": false,
@@ -10406,12 +10489,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 843
+        "unknown": 844
       },
       "users": {
         "[object Object]": {
-          "count": 843,
-          "last": 1790770243513
+          "count": 844,
+          "last": 1790770319336
         }
       },
       "groups": {}
