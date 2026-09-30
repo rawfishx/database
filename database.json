@@ -8695,7 +8695,8 @@
       "autoread": false,
       "autoreact": false,
       "antidelete": false,
-      "antiviewonce": false
+      "antiviewonce": false,
+      "antidelete_target": null
     },
     "countries": {
       "indonesia": {
@@ -10572,12 +10573,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 851
+        "unknown": 857
       },
       "users": {
         "[object Object]": {
-          "count": 851,
-          "last": 1790770878530
+          "count": 857,
+          "last": 1790771482506
         }
       },
       "groups": {}
