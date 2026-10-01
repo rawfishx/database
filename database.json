@@ -2518,7 +2518,7 @@
         "status": false,
         "waktu_mulai": 0
       },
-      "afk_time": 0,
+      "afk_time": 1790863794603,
       "energi": 100,
       "inventory": {},
       "hutang": {
@@ -2539,7 +2539,7 @@
         "rod_max": 0
       },
       "isPremium": false,
-      "limit": 40,
+      "limit": 33,
       "last_reset": "2026-10-02T07:04:40.409Z",
       "frames": [],
       "active_frame": null,
@@ -2549,7 +2549,7 @@
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "afk_reason": "",
+      "afk_reason": "Tanpa alasan",
       "bank": {
         "tabungan": {
           "__bigint__": "0"
@@ -5687,7 +5687,7 @@
       "profil_lengkap": true,
       "isPremium": false,
       "limit_reset_at": 1790867182513,
-      "limit": 40,
+      "limit": 38,
       "last_reset": "2026-10-01T15:06:22.513Z",
       "achievements": [],
       "transactions": [],
@@ -10573,12 +10573,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 924
+        "unknown": 932
       },
       "users": {
         "[object Object]": {
-          "count": 924,
-          "last": 1790856273475
+          "count": 932,
+          "last": 1790863794601
         }
       },
       "groups": {}
