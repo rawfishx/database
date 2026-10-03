@@ -690,7 +690,7 @@
         "seasonFinished": false,
         "adventureCount": 2,
         "createdAt": 1791001796616,
-        "updatedAt": 1791008096032,
+        "updatedAt": 1791009759850,
         "character": "rawraw",
         "characterName": "RAWRAW",
         "xpMultiplier": 1.2,
@@ -7189,7 +7189,7 @@
     },
     "120363430349780522@newsletter": {
       "uid": 10057,
-      "registered": false,
+      "registered": true,
       "registered_at": null,
       "name": "Player",
       "uang": {
@@ -7246,7 +7246,6 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 0,
       "squad_id": null,
       "hubungan_sosial": {
         "saudara": [],
@@ -10620,12 +10619,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 1007
+        "unknown": 1014
       },
       "users": {
         "[object Object]": {
-          "count": 1007,
-          "last": 1791008126768
+          "count": 1014,
+          "last": 1791009759848
         }
       },
       "groups": {}
