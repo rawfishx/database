@@ -135,13 +135,85 @@
       ],
       "role": "admin bot",
       "active_badge": "⚒️ Admin Bot 🛡️"
+    },
+    "120363430349780522@newsletter": {
+      "uid": 100002,
+      "registered": true,
+      "registered_at": null,
+      "name": "Player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1791018936283,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "limit_reset_at": 1791101736283,
+      "limit": 40,
+      "last_reset": "2026-10-04T08:15:36.283Z"
     }
   },
   "global": {
     "lid_map": {
       "45510060707863@lid": "6283138226730@s.whatsapp.net"
     },
-    "last_uid": 100001,
+    "last_uid": 100002,
     "squads": {},
     "antitoxic_words": [
       "anjing",
