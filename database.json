@@ -649,17 +649,17 @@
       },
       "rpg": {
         "level": 1,
-        "xp": 0,
+        "xp": 36,
         "maxHp": 100,
-        "hp": 100,
-        "stamina": 100,
+        "hp": 80,
+        "stamina": 80,
         "maxStamina": 100,
         "speed": 10,
         "knowledge": 0,
         "defense": 20,
         "statSpeed": 1.2,
-        "hunger": 100,
-        "thirst": 100,
+        "hunger": 90,
+        "thirst": 90,
         "region": "bolnavia",
         "weapon": "tangan",
         "inventory": {
@@ -688,9 +688,9 @@
         ],
         "bossDefeated": {},
         "seasonFinished": false,
-        "adventureCount": 0,
+        "adventureCount": 1,
         "createdAt": 1791001796616,
-        "updatedAt": 1791006054686,
+        "updatedAt": 1791006409752,
         "character": "rawraw",
         "characterName": "RAWRAW",
         "xpMultiplier": 1.2,
@@ -10620,12 +10620,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 985
+        "unknown": 992
       },
       "users": {
         "[object Object]": {
-          "count": 985,
-          "last": 1791006054684
+          "count": 992,
+          "last": 1791006409752
         }
       },
       "groups": {}
