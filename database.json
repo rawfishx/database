@@ -649,9 +649,9 @@
       },
       "rpg": {
         "level": 1,
-        "xp": 36,
+        "xp": 72,
         "maxHp": 100,
-        "hp": 95,
+        "hp": 80,
         "stamina": 80,
         "maxStamina": 100,
         "speed": 10,
@@ -664,7 +664,7 @@
         "weapon": "tangan",
         "inventory": {
           "kayu": 0,
-          "tulang": 0,
+          "tulang": 3,
           "besi": 0,
           "kain": 0,
           "rantai": 0,
@@ -682,22 +682,7 @@
             "speed": 1
           }
         },
-        "battle": {
-          "name": "Tulang Jalanan",
-          "hp": 24,
-          "maxHp": 30,
-          "attack": 9,
-          "defense": 6,
-          "xp": 30,
-          "boss": false,
-          "drops": [
-            [
-              "tulang",
-              2,
-              5
-            ]
-          ]
-        },
+        "battle": null,
         "opened": [
           "bolnavia"
         ],
@@ -705,7 +690,7 @@
         "seasonFinished": false,
         "adventureCount": 2,
         "createdAt": 1791001796616,
-        "updatedAt": 1791008045447,
+        "updatedAt": 1791008096032,
         "character": "rawraw",
         "characterName": "RAWRAW",
         "xpMultiplier": 1.2,
@@ -10635,12 +10620,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 1000
+        "unknown": 1007
       },
       "users": {
         "[object Object]": {
-          "count": 1000,
-          "last": 1791008045446
+          "count": 1007,
+          "last": 1791008126768
         }
       },
       "groups": {}
