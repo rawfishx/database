@@ -343,7 +343,6 @@
           "__bigint__": "1"
         }
       },
-      "diamond": 290,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -359,7 +358,6 @@
         }
       },
       "profil_lengkap": false,
-      "last_diamond_bonus": "2026-10-03",
       "limit_reset_at": 1791007505041,
       "sticker_nowm": false,
       "banned_reason": "",
@@ -648,6 +646,56 @@
             "thumbnail": "https://i.ytimg.com/vi/hHheRaQq4V4/hq720.jpg"
           }
         ]
+      },
+      "rpg": {
+        "level": 1,
+        "xp": 0,
+        "maxHp": 100,
+        "hp": 100,
+        "stamina": 100,
+        "maxStamina": 100,
+        "speed": 10,
+        "knowledge": 0,
+        "defense": 20,
+        "statSpeed": 1.2,
+        "hunger": 100,
+        "thirst": 100,
+        "region": "bolnavia",
+        "weapon": "tangan",
+        "inventory": {
+          "kayu": 0,
+          "tulang": 0,
+          "besi": 0,
+          "kain": 0,
+          "rantai": 0,
+          "batu_gelap": 0,
+          "inti_gelap": 0,
+          "fragmen_bos": 0,
+          "pahok_fragmen": 0,
+          "ransum": 3,
+          "air": 3
+        },
+        "weapons": {
+          "tangan": {
+            "level": 1,
+            "damage": 5,
+            "speed": 1
+          }
+        },
+        "battle": null,
+        "opened": [
+          "bolnavia"
+        ],
+        "bossDefeated": {},
+        "seasonFinished": false,
+        "adventureCount": 0,
+        "createdAt": 1791001796616,
+        "updatedAt": 1791001796616,
+        "character": "rawraw",
+        "characterName": "RAWRAW",
+        "xpMultiplier": 1.2,
+        "name": "dika nih bossh",
+        "registered": true
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -7224,7 +7272,7 @@
     },
     "120363410639362880@newsletter": {
       "uid": 10058,
-      "registered": false,
+      "registered": true,
       "registered_at": null,
       "name": "Player",
       "uang": {
@@ -7281,7 +7329,6 @@
         "rod_uses": 0,
         "rod_max": 0
       },
-      "diamond": 0,
       "squad_id": null,
       "hubungan_sosial": {
         "saudara": [],
@@ -8649,7 +8696,6 @@
     ],
     "missions": {},
     "custom_achievements": {},
-    "diamond_price": 500000,
     "removed_investments": {},
     "limit_config": {
       "default": 40,
@@ -10574,12 +10620,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 972
+        "unknown": 976
       },
       "users": {
         "[object Object]": {
-          "count": 972,
-          "last": 1790979431295
+          "count": 976,
+          "last": 1791001989019
         }
       },
       "groups": {}
