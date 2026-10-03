@@ -690,12 +690,14 @@
         "seasonFinished": false,
         "adventureCount": 0,
         "createdAt": 1791001796616,
-        "updatedAt": 1791001796616,
+        "updatedAt": 1791003122576,
         "character": "rawraw",
         "characterName": "RAWRAW",
         "xpMultiplier": 1.2,
         "name": "dika nih bossh",
-        "registered": true
+        "registered": true,
+        "registrationStep": null,
+        "gender": "cowok"
       }
     },
     "6281375684720@s.whatsapp.net": {
@@ -1950,7 +1952,6 @@
         "3": "rencanakeluarga",
         "expiresAt": 1789874571844
       },
-      "diamond": 280,
       "negara": "Indonesia",
       "squad_id": null,
       "hubungan_sosial": {
@@ -1960,7 +1961,6 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "last_diamond_bonus": "2026-10-02",
       "limit_reset_at": 1791007505041,
       "daily": {
         "streak": 1,
@@ -10620,12 +10620,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 977
+        "unknown": 982
       },
       "users": {
         "[object Object]": {
-          "count": 977,
-          "last": 1791002566980
+          "count": 982,
+          "last": 1791003122576
         }
       },
       "groups": {}
