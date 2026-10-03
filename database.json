@@ -225,7 +225,7 @@
       },
       "isPremium": true,
       "limit": "UNLIMITED",
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "afk_reason": "",
       "pasangan": {
         "id": 183,
@@ -358,10 +358,10 @@
         }
       },
       "profil_lengkap": false,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "sticker_nowm": false,
       "banned_reason": "",
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_notified_at": 1791007512268,
       "rumah": {
         "kode": "kontrakan",
         "bought_at": 1789176453208,
@@ -651,15 +651,15 @@
         "level": 1,
         "xp": 36,
         "maxHp": 100,
-        "hp": 80,
+        "hp": 95,
         "stamina": 80,
         "maxStamina": 100,
         "speed": 10,
         "knowledge": 0,
         "defense": 20,
         "statSpeed": 1.2,
-        "hunger": 90,
-        "thirst": 90,
+        "hunger": 72,
+        "thirst": 70,
         "region": "bolnavia",
         "weapon": "tangan",
         "inventory": {
@@ -682,15 +682,30 @@
             "speed": 1
           }
         },
-        "battle": null,
+        "battle": {
+          "name": "Tulang Jalanan",
+          "hp": 24,
+          "maxHp": 30,
+          "attack": 9,
+          "defense": 6,
+          "xp": 30,
+          "boss": false,
+          "drops": [
+            [
+              "tulang",
+              2,
+              5
+            ]
+          ]
+        },
         "opened": [
           "bolnavia"
         ],
         "bossDefeated": {},
         "seasonFinished": false,
-        "adventureCount": 1,
+        "adventureCount": 2,
         "createdAt": 1791001796616,
-        "updatedAt": 1791006409752,
+        "updatedAt": 1791008045447,
         "character": "rawraw",
         "characterName": "RAWRAW",
         "xpMultiplier": 1.2,
@@ -1044,7 +1059,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -1070,8 +1085,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1791007505041,
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_at": 1791090312268,
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true
     },
     "6285864475003@s.whatsapp.net": {
@@ -1665,7 +1680,7 @@
       },
       "isPremium": true,
       "limit": "UNLIMITED",
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "achievements": [
         "first_saving"
       ],
@@ -1961,12 +1976,12 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "daily": {
         "streak": 1,
         "last_claim": 1788936257409
       },
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_notified_at": 1791007512268,
       "rumah": {
         "kode": "kos",
         "bought_at": 1789282012344,
@@ -2588,7 +2603,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "frames": [],
       "active_frame": null,
       "achievements": [],
@@ -2614,9 +2629,9 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "banned_reason": "",
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_notified_at": 1791007512268,
       "daily": {
         "streak": 1,
         "last_claim": 1789212109509
@@ -2882,7 +2897,7 @@
       },
       "isPremium": true,
       "limit": "UNLIMITED",
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "achievements": [
         "first_saving",
         "saving_10"
@@ -3326,12 +3341,12 @@
       "pending_relasi": {},
       "profil_lengkap": true,
       "last_diamond_bonus": "2026-09-19",
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "daily": {
         "streak": 1,
         "last_claim": 1788994006011
       },
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": false,
       "health": {
         "hp": 48,
@@ -3726,7 +3741,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "diamond": 0,
       "negara": "Belum diatur",
       "squad_id": null,
@@ -3737,8 +3752,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "limit_reset_at": 1791007505041,
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_at": 1791090312268,
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true,
       "health": {
         "hp": 100,
@@ -3860,7 +3875,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "diamond": 0,
       "negara": "Belum diatur",
       "squad_id": null,
@@ -3871,8 +3886,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "limit_reset_at": 1791007505041,
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_at": 1791090312268,
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true,
       "health": {
         "hp": 100,
@@ -4163,7 +4178,7 @@
       },
       "isPremium": false,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "achievements": [
         "first_saving",
         "saving_10"
@@ -4415,8 +4430,8 @@
       },
       "pending_relasi": {},
       "profil_lengkap": true,
-      "limit_reset_at": 1791007505041,
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_at": 1791090312268,
+      "limit_reset_notified_at": 1791007512268,
       "pasangan": {
         "id": 33221,
         "nama": "Sora Kasugano",
@@ -5027,9 +5042,9 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
@@ -5042,7 +5057,7 @@
         },
         "last_interest": 1788764809101
       },
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true
     },
     "6285709649309@s.whatsapp.net": {
@@ -5115,10 +5130,10 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
-      "limit_reset_notified_at": 1790924705041,
+      "last_reset": "2026-10-04T05:05:12.268Z",
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true
     },
     "6283836033866@s.whatsapp.net": {
@@ -5191,16 +5206,16 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true
     },
     "6283142352160@s.whatsapp.net": {
@@ -5273,10 +5288,10 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
-      "limit_reset_notified_at": 1790924705041,
+      "last_reset": "2026-10-04T05:05:12.268Z",
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true
     },
     "6283863848895@s.whatsapp.net": {
@@ -5349,10 +5364,10 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
-      "limit_reset_notified_at": 1790924705041,
+      "last_reset": "2026-10-04T05:05:12.268Z",
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true
     },
     "6285719075956@s.whatsapp.net": {
@@ -5425,16 +5440,16 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
+      "last_reset": "2026-10-04T05:05:12.268Z",
       "achievements": [],
       "transactions": [],
       "missions_completed": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
-      "limit_reset_notified_at": 1790924705041,
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true
     },
     "62895619024348@s.whatsapp.net": {
@@ -5507,10 +5522,10 @@
       "pending_relasi": {},
       "profil_lengkap": false,
       "isPremium": false,
-      "limit_reset_at": 1791007505041,
+      "limit_reset_at": 1791090312268,
       "limit": 40,
-      "last_reset": "2026-10-03T06:05:05.041Z",
-      "limit_reset_notified_at": 1790924705041,
+      "last_reset": "2026-10-04T05:05:12.268Z",
+      "limit_reset_notified_at": 1791007512268,
       "country_reset_required": true
     },
     "120363402792078806@g.us": {
@@ -10620,12 +10635,12 @@
     },
     "activity": {
       "commands": {
-        "unknown": 992
+        "unknown": 1000
       },
       "users": {
         "[object Object]": {
-          "count": 992,
-          "last": 1791006409752
+          "count": 1000,
+          "last": 1791008045446
         }
       },
       "groups": {}
