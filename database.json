@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 8,
-      "last_chat": 1791275904133,
+      "total_chat": 10,
+      "last_chat": 1791275941149,
       "uang": {
         "__bigint__": "5000"
       },
@@ -83,27 +83,28 @@
     "last_uid": 100001,
     "activity": {
       "commands": {
-        "menu": 1,
+        "menu": 2,
         "menuowner": 2,
         "claimowner": 1,
         "api": 2,
         "githubbackup": 1,
-        "showchat": 1
+        "showchat": 1,
+        "syncid": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 8,
-          "last": 1791275904135
+          "count": 10,
+          "last": 1791275941151
         }
       },
       "groups": {
         "120363402872389104@g.us": {
-          "count": 8,
-          "last": 1791275904135,
-          "chat": 8
+          "count": 10,
+          "last": 1791275941151,
+          "chat": 10
         }
       },
-      "total_chat": 8,
+      "total_chat": 10,
       "since": 1791275792057
     },
     "squads": {},
