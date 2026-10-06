@@ -386,8 +386,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 1,
-      "last_chat": 1791281488806,
+      "total_chat": 2,
+      "last_chat": 1791281523131,
       "uang": {
         "__bigint__": "5000"
       },
@@ -453,7 +453,7 @@
       "isPremium": false,
       "premium_until": 0,
       "limit_reset_at": 1791364288806,
-      "limit": 39,
+      "limit": 38,
       "last_reset": "2026-10-07T09:11:28.806Z"
     }
   },
@@ -485,7 +485,8 @@
         "antiedit": 1,
         "ig": 1,
         "en2id": 1,
-        "id2en": 2
+        "id2en": 2,
+        "lirik": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -497,8 +498,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1,
-          "last": 1791281488807
+          "count": 2,
+          "last": 1791281523132
         }
       },
       "groups": {
@@ -508,9 +509,9 @@
           "chat": 23
         },
         "120363429679202978@g.us": {
-          "count": 21,
-          "last": 1791281488807,
-          "chat": 32
+          "count": 22,
+          "last": 1791281523132,
+          "chat": 33
         },
         "120363412061249246@g.us": {
           "count": 1,
@@ -518,7 +519,7 @@
           "chat": 3
         }
       },
-      "total_chat": 68,
+      "total_chat": 69,
       "since": 1791275792057
     },
     "squads": {},
