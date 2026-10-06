@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 39,
-      "last_chat": 1791277300751,
+      "total_chat": 47,
+      "last_chat": 1791277356966,
       "uang": {
         "__bigint__": "5000"
       },
@@ -170,7 +170,7 @@
         "claimowner": 1,
         "api": 4,
         "githubbackup": 1,
-        "showchat": 1,
+        "showchat": 2,
         "syncid": 1,
         "osaka2": 6,
         "osaka": 1,
@@ -178,12 +178,14 @@
         "chposts": 1,
         "chforward": 4,
         "chinfo": 2,
-        "profil": 1
+        "profil": 1,
+        "antidel": 2,
+        "antiedit": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 33,
-          "last": 1791277248421
+          "count": 37,
+          "last": 1791277356968
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -197,12 +199,12 @@
           "chat": 18
         },
         "120363429679202978@g.us": {
-          "count": 15,
-          "last": 1791277300751,
-          "chat": 21
+          "count": 19,
+          "last": 1791277356968,
+          "chat": 29
         }
       },
-      "total_chat": 41,
+      "total_chat": 49,
       "since": 1791275792057
     },
     "squads": {},
@@ -235,6 +237,14 @@
       "title": "SAATAA ANDAGII",
       "updated_at": 0,
       "updated_by": null
+    },
+    "wa_auto": {
+      "autoread": false,
+      "autoreact": false,
+      "antidelete": true,
+      "antidelete_target": null,
+      "antiviewonce": false,
+      "antiedit": true
     }
   }
 }
