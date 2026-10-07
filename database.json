@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 833,
-      "last_chat": 1791389872527,
+      "total_chat": 834,
+      "last_chat": 1791390025512,
       "uang": {
         "__bigint__": "5000"
       },
@@ -765,6 +765,81 @@
       "limit_reset_at": 1791456931333,
       "limit": 40,
       "last_reset": "2026-10-08T10:55:31.333Z"
+    },
+    "120363412448391707@newsletter": {
+      "uid": 100011,
+      "registered": true,
+      "registered_at": null,
+      "name": "Player",
+      "total_chat": 1,
+      "last_chat": 1791390016565,
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1791390016565,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "premium_until": 0,
+      "limit_reset_at": 1791472816565,
+      "limit": 40,
+      "last_reset": "2026-10-08T15:20:16.565Z"
     }
   },
   "global": {
@@ -777,7 +852,7 @@
       "270944421585045@lid": "6287797046407@s.whatsapp.net",
       "90899224772734@lid": "6282358371656@s.whatsapp.net"
     },
-    "last_uid": 100010,
+    "last_uid": 100011,
     "activity": {
       "commands": {
         "menu": 10,
@@ -790,7 +865,7 @@
         "osaka2": 7,
         "osaka": 6,
         "statusgrup": 4,
-        "chposts": 4,
+        "chposts": 5,
         "chforward": 8,
         "chinfo": 2,
         "profil": 1,
@@ -816,8 +891,8 @@
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 84,
-          "last": 1791389872528
+          "count": 85,
+          "last": 1791390025513
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -838,9 +913,9 @@
       },
       "groups": {
         "120363402872389104@g.us": {
-          "count": 43,
-          "last": 1791389872528,
-          "chat": 51
+          "count": 44,
+          "last": 1791390025513,
+          "chat": 52
         },
         "120363429679202978@g.us": {
           "count": 74,
@@ -853,7 +928,7 @@
           "chat": 5
         }
       },
-      "total_chat": 2153,
+      "total_chat": 2155,
       "since": 1791275792057
     },
     "squads": {},
