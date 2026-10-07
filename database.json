@@ -163,8 +163,8 @@
       "registered": true,
       "registered_at": null,
       "name": "Player",
-      "total_chat": 86,
-      "last_chat": 1791373783622,
+      "total_chat": 88,
+      "last_chat": 1791373835388,
       "uang": {
         "__bigint__": "5000"
       },
@@ -762,7 +762,7 @@
           "chat": 5
         }
       },
-      "total_chat": 512,
+      "total_chat": 514,
       "since": 1791275792057
     },
     "squads": {},
@@ -803,6 +803,8 @@
       "antidelete_target": null,
       "antiviewonce": false,
       "antiedit": true
-    }
+    },
+    "group_access": {},
+    "pending_groups": {}
   }
 }
