@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 825,
-      "last_chat": 1791389540695,
+      "total_chat": 826,
+      "last_chat": 1791389661978,
       "uang": {
         "__bigint__": "5000"
       },
@@ -74,7 +74,13 @@
       "limit_reset_at": 1791441433021,
       "limit": 40,
       "last_reset": "2026-10-08T06:37:13.021Z",
-      "limit_reset_notified_at": 1791358633021
+      "limit_reset_notified_at": 1791358633021,
+      "achievements": [],
+      "transactions": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0,
+      "missions_completed": []
     },
     "6289526468474@s.whatsapp.net": {
       "uid": 100002,
@@ -238,8 +244,8 @@
       "registered": true,
       "registered_at": null,
       "name": "Player",
-      "total_chat": 11,
-      "last_chat": 1791375279011,
+      "total_chat": 12,
+      "last_chat": 1791389661720,
       "uang": {
         "__bigint__": "5000"
       },
@@ -805,12 +811,13 @@
         "amiibo": 1,
         "tebakkata": 1,
         "tebakpokemon": 1,
-        "family100": 1
+        "family100": 1,
+        "ping": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 77,
-          "last": 1791389540696
+          "count": 78,
+          "last": 1791389661979
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -831,9 +838,9 @@
       },
       "groups": {
         "120363402872389104@g.us": {
-          "count": 36,
-          "last": 1791389540696,
-          "chat": 43
+          "count": 37,
+          "last": 1791389661979,
+          "chat": 44
         },
         "120363429679202978@g.us": {
           "count": 74,
@@ -846,7 +853,7 @@
           "chat": 5
         }
       },
-      "total_chat": 2144,
+      "total_chat": 2146,
       "since": 1791275792057
     },
     "squads": {},
