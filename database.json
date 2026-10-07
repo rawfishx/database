@@ -389,8 +389,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 699,
-      "last_chat": 1791386450805,
+      "total_chat": 703,
+      "last_chat": 1791386568513,
       "uang": {
         "__bigint__": "5000"
       },
@@ -456,7 +456,7 @@
       "isPremium": false,
       "premium_until": 0,
       "limit_reset_at": 1791447135348,
-      "limit": 22,
+      "limit": 21,
       "last_reset": "2026-10-08T08:12:15.348Z",
       "limit_reset_notified_at": 1791364335348
     },
@@ -799,7 +799,8 @@
         "brat": 2,
         "hd": 3,
         "gamegratis": 1,
-        "diskongame": 1
+        "diskongame": 1,
+        "stiker": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -811,8 +812,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 20,
-          "last": 1791386098020
+          "count": 21,
+          "last": 1791386557472
         },
         "6281313095732@s.whatsapp.net": {
           "count": 1,
@@ -830,9 +831,9 @@
           "chat": 31
         },
         "120363429679202978@g.us": {
-          "count": 50,
-          "last": 1791386500353,
-          "chat": 1692
+          "count": 51,
+          "last": 1791386568513,
+          "chat": 1696
         },
         "120363412061249246@g.us": {
           "count": 3,
@@ -840,7 +841,7 @@
           "chat": 5
         }
       },
-      "total_chat": 1879,
+      "total_chat": 1883,
       "since": 1791275792057
     },
     "squads": {},
