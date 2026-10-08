@@ -396,8 +396,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 1198,
-      "last_chat": 1791454899105,
+      "total_chat": 1203,
+      "last_chat": 1791454922169,
       "uang": {
         "__bigint__": "5000"
       },
@@ -468,7 +468,8 @@
       "limit": "UNLIMITED",
       "last_reset": "2026-10-09T07:12:21.459Z",
       "limit_reset_notified_at": 1791364335348,
-      "premium_granted_at": 1791446852220
+      "premium_granted_at": 1791446852220,
+      "game_points": 0
     },
     "41794393870583@lid": {
       "uid": 100007,
@@ -914,7 +915,7 @@
         "asahotak": 2,
         "nyerah": 3,
         "tebaktebakan": 3,
-        "clue": 1,
+        "clue": 2,
         "kuis": 1
       },
       "users": {
@@ -927,8 +928,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 69,
-          "last": 1791454898257
+          "count": 70,
+          "last": 1791454918210
         },
         "6281313095732@s.whatsapp.net": {
           "count": 1,
@@ -946,9 +947,9 @@
           "chat": 91
         },
         "120363429679202978@g.us": {
-          "count": 144,
-          "last": 1791454899105,
-          "chat": 2762
+          "count": 145,
+          "last": 1791454922169,
+          "chat": 2767
         },
         "120363412061249246@g.us": {
           "count": 3,
@@ -956,7 +957,7 @@
           "chat": 5
         }
       },
-      "total_chat": 3061,
+      "total_chat": 3066,
       "since": 1791275792057
     },
     "squads": {},
