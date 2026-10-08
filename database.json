@@ -395,8 +395,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 1136,
-      "last_chat": 1791451882019,
+      "total_chat": 1139,
+      "last_chat": 1791451916850,
       "uang": {
         "__bigint__": "5000"
       },
@@ -903,7 +903,8 @@
         "addadmin": 1,
         "addprem": 2,
         "caklontong": 1,
-        "mute": 1
+        "mute": 1,
+        "unmute": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -915,8 +916,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 58,
-          "last": 1791451857791
+          "count": 59,
+          "last": 1791451910680
         },
         "6281313095732@s.whatsapp.net": {
           "count": 1,
@@ -934,9 +935,9 @@
           "chat": 91
         },
         "120363429679202978@g.us": {
-          "count": 115,
-          "last": 1791451886065,
-          "chat": 2633
+          "count": 116,
+          "last": 1791451916850,
+          "chat": 2636
         },
         "120363412061249246@g.us": {
           "count": 3,
@@ -944,7 +945,7 @@
           "chat": 5
         }
       },
-      "total_chat": 2920,
+      "total_chat": 2923,
       "since": 1791275792057
     },
     "squads": {},
@@ -964,7 +965,7 @@
     "group_settings": {
       "120363429679202978@g.us": {
         "muted_users": {
-          "6282358371656@s.whatsapp.net": true
+          "6282358371656@s.whatsapp.net": false
         }
       }
     },
