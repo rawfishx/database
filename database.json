@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 880,
-      "last_chat": 1791446682439,
+      "total_chat": 885,
+      "last_chat": 1791446836373,
       "uang": {
         "__bigint__": "5000"
       },
@@ -409,15 +409,16 @@
       "hutang": {
         "__bigint__": "0"
       },
-      "role": "player",
+      "role": "admin bot",
       "status_hubungan": "lajang",
       "point_asmara": 0,
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
       "badges": [
-        "🪪 SAATAA Pioneer"
+        "🪪 SAATAA Pioneer",
+        "⚒️ Admin Bot 🛡️"
       ],
-      "active_badge": "🪪 SAATAA Pioneer",
+      "active_badge": "⚒️ Admin Bot 🛡️",
       "frames": [],
       "active_frame": null,
       "cd": {},
@@ -858,7 +859,7 @@
     "activity": {
       "commands": {
         "menu": 13,
-        "menuowner": 3,
+        "menuowner": 4,
         "claimowner": 1,
         "api": 5,
         "githubbackup": 1,
@@ -896,12 +897,13 @@
         "forward": 1,
         "up": 1,
         "tebakgambar": 1,
-        "caturjawab": 1
+        "caturjawab": 1,
+        "addadmin": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 117,
-          "last": 1791446639253
+          "count": 119,
+          "last": 1791446829523
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -927,9 +929,9 @@
           "chat": 89
         },
         "120363429679202978@g.us": {
-          "count": 85,
-          "last": 1791446782041,
-          "chat": 1983
+          "count": 87,
+          "last": 1791446836373,
+          "chat": 1988
         },
         "120363412061249246@g.us": {
           "count": 3,
@@ -937,7 +939,7 @@
           "chat": 5
         }
       },
-      "total_chat": 2255,
+      "total_chat": 2260,
       "since": 1791275792057
     },
     "squads": {},
