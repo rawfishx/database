@@ -395,8 +395,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 1131,
-      "last_chat": 1791451807698,
+      "total_chat": 1134,
+      "last_chat": 1791451857790,
       "uang": {
         "__bigint__": "5000"
       },
@@ -701,8 +701,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 495,
-      "last_chat": 1791451788832,
+      "total_chat": 501,
+      "last_chat": 1791451851638,
       "uang": {
         "__bigint__": "5000"
       },
@@ -902,7 +902,8 @@
         "caturjawab": 1,
         "addadmin": 1,
         "addprem": 2,
-        "caklontong": 1
+        "caklontong": 1,
+        "mute": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -914,8 +915,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 57,
-          "last": 1791450787501
+          "count": 58,
+          "last": 1791451857791
         },
         "6281313095732@s.whatsapp.net": {
           "count": 1,
@@ -933,9 +934,9 @@
           "chat": 91
         },
         "120363429679202978@g.us": {
-          "count": 114,
-          "last": 1791451807698,
-          "chat": 2620
+          "count": 115,
+          "last": 1791451857791,
+          "chat": 2629
         },
         "120363412061249246@g.us": {
           "count": 3,
@@ -943,7 +944,7 @@
           "chat": 5
         }
       },
-      "total_chat": 2907,
+      "total_chat": 2916,
       "since": 1791275792057
     },
     "squads": {},
@@ -960,7 +961,13 @@
     "missions": {},
     "custom_achievements": {},
     "removed_investments": {},
-    "group_settings": {},
+    "group_settings": {
+      "120363429679202978@g.us": {
+        "muted_users": {
+          "6282358371656@s.whatsapp.net": true
+        }
+      }
+    },
     "limit_config": {
       "default": 40,
       "costs": {
