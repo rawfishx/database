@@ -71,8 +71,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791524263114,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-09T05:37:43.114Z",
       "limit_reset_notified_at": 1791441463114,
       "achievements": [],
@@ -153,8 +153,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791525583547,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-09T05:59:43.547Z",
       "achievements": [],
       "transactions": [],
@@ -235,8 +235,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791530566168,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-09T07:22:46.168Z"
     },
     "120363410639362880@newsletter": {
@@ -244,8 +244,8 @@
       "registered": true,
       "registered_at": null,
       "name": "Player",
-      "total_chat": 31,
-      "last_chat": 1791448555426,
+      "total_chat": 32,
+      "last_chat": 1791454205374,
       "uang": {
         "__bigint__": "5000"
       },
@@ -310,9 +310,9 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791452637539,
-      "limit": 40,
-      "last_reset": "2026-10-08T09:43:57.539Z"
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
+      "last_reset": "2026-10-09T10:10:05.374Z"
     },
     "447723442078@s.whatsapp.net": {
       "uid": 100005,
@@ -385,8 +385,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791528755068,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-09T06:52:35.068Z",
       "limit_reset_notified_at": 1791445955068
     },
@@ -540,8 +540,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791365133606,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-07T09:25:33.606Z"
     },
     "6281313095732@s.whatsapp.net": {
@@ -615,8 +615,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791522882584,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-09T05:14:42.584Z",
       "limit_reset_notified_at": 1791440082584
     },
@@ -691,8 +691,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791528815069,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-09T06:53:35.069Z",
       "limit_reset_notified_at": 1791446015069
     },
@@ -767,8 +767,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791456931333,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-08T10:55:31.333Z"
     },
     "120363412448391707@newsletter": {
@@ -842,8 +842,8 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1791472816565,
-      "limit": 40,
+      "limit_reset_at": 1791540605374,
+      "limit": 15,
       "last_reset": "2026-10-08T15:20:16.565Z"
     }
   },
@@ -945,7 +945,7 @@
           "chat": 5
         }
       },
-      "total_chat": 3002,
+      "total_chat": 3003,
       "since": 1791275792057
     },
     "squads": {},
@@ -970,10 +970,18 @@
       }
     },
     "limit_config": {
-      "default": 40,
+      "default": 15,
       "costs": {
         "aimg": 3,
-        "prediksi": 5
+        "prediksi": 5,
+        "leaderboard": 0,
+        "lb": 0,
+        "poin": 0,
+        "gamepoin": 0,
+        "tukarpoin": 0,
+        "clue": 0,
+        "nyerah": 0,
+        "menyerah": 0
       }
     },
     "saataaGames": {},
@@ -994,6 +1002,7 @@
       "antiedit": true
     },
     "group_access": {},
-    "pending_groups": {}
+    "pending_groups": {},
+    "limit_system_version": 2
   }
 }
