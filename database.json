@@ -859,6 +859,81 @@
       "limit_reset_at": 1791540605374,
       "limit": 15,
       "last_reset": "2026-10-08T15:20:16.565Z"
+    },
+    "6287812039629@s.whatsapp.net": {
+      "uid": 100012,
+      "registered": true,
+      "registered_at": null,
+      "name": "nabilaa",
+      "total_chat": 1,
+      "last_chat": 1791524966081,
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1791524966081,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "premium_until": 0,
+      "limit_reset_at": 1791611366081,
+      "limit": 14,
+      "last_reset": "2026-10-10T05:49:26.081Z"
     }
   },
   "global": {
@@ -869,9 +944,10 @@
       "268212218413273@lid": "6282292961437@s.whatsapp.net",
       "212210425016347@lid": "6281313095732@s.whatsapp.net",
       "270944421585045@lid": "6287797046407@s.whatsapp.net",
-      "90899224772734@lid": "6282358371656@s.whatsapp.net"
+      "90899224772734@lid": "6282358371656@s.whatsapp.net",
+      "258360217739383@lid": "6287812039629@s.whatsapp.net"
     },
-    "last_uid": 100011,
+    "last_uid": 100012,
     "activity": {
       "commands": {
         "menu": 17,
@@ -896,7 +972,7 @@
         "lirik": 46,
         "play": 60,
         "tt": 1,
-        "brat": 3,
+        "brat": 4,
         "hd": 3,
         "gamegratis": 1,
         "diskongame": 1,
@@ -958,6 +1034,10 @@
         "6287797046407@s.whatsapp.net": {
           "count": 4,
           "last": 1791380789311
+        },
+        "6287812039629@s.whatsapp.net": {
+          "count": 1,
+          "last": 1791524966082
         }
       },
       "groups": {
@@ -972,12 +1052,12 @@
           "chat": 4415
         },
         "120363412061249246@g.us": {
-          "count": 3,
-          "last": 1791524464942,
-          "chat": 28
+          "count": 4,
+          "last": 1791524966082,
+          "chat": 29
         }
       },
-      "total_chat": 4814,
+      "total_chat": 4815,
       "since": 1791275792057
     },
     "squads": {},
