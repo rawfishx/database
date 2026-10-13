@@ -1547,6 +1547,81 @@
       "limit_reset_at": 1791932092839,
       "limit": 15,
       "last_reset": "2026-10-13T22:54:52.839Z"
+    },
+    "447974045725@s.whatsapp.net": {
+      "uid": 100021,
+      "registered": true,
+      "registered_at": null,
+      "name": "Player",
+      "total_chat": 1,
+      "last_chat": 1791927505350,
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "role": "player",
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "frames": [],
+      "active_frame": null,
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "joined_at": 1791927505350,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "squad_id": null,
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "premium_until": 0,
+      "limit_reset_at": 1792013905350,
+      "limit": 15,
+      "last_reset": "2026-10-14T21:38:25.350Z"
     }
   },
   "global": {
@@ -1562,9 +1637,10 @@
       "96830792671476@lid": "6281356383515@s.whatsapp.net",
       "232478660939922@lid": "6281959150453@s.whatsapp.net",
       "252733726687342@lid": "6283841852697@s.whatsapp.net",
-      "39033233244257@lid": "6282295293891@s.whatsapp.net"
+      "39033233244257@lid": "6282295293891@s.whatsapp.net",
+      "152969823653952@lid": "447974045725@s.whatsapp.net"
     },
-    "last_uid": 100020,
+    "last_uid": 100021,
     "activity": {
       "commands": {
         "menu": 26,
@@ -1710,7 +1786,7 @@
           "chat": 73
         }
       },
-      "total_chat": 12864,
+      "total_chat": 12865,
       "since": 1791275792057
     },
     "squads": {},
