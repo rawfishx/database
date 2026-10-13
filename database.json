@@ -949,8 +949,8 @@
       "registered": true,
       "registered_at": null,
       "name": "~fadhil adhyaksa",
-      "total_chat": 1,
-      "last_chat": 1791526410379,
+      "total_chat": 2,
+      "last_chat": 1791888283637,
       "uang": {
         "__bigint__": "5000"
       },
@@ -1016,7 +1016,7 @@
       "isPremium": false,
       "premium_until": 0,
       "limit_reset_at": 1791958539675,
-      "limit": 15,
+      "limit": 14,
       "last_reset": "2026-10-14T06:15:39.675Z",
       "limit_reset_notified_at": 1791872139675
     },
@@ -1587,7 +1587,7 @@
         "en2id": 2,
         "id2en": 2,
         "lirik": 81,
-        "play": 99,
+        "play": 100,
         "tt": 5,
         "brat": 10,
         "hd": 7,
@@ -1686,6 +1686,10 @@
         "6282358371656@s.whatsapp.net": {
           "count": 6,
           "last": 1791876522548
+        },
+        "6281356383515@s.whatsapp.net": {
+          "count": 1,
+          "last": 1791888283639
         }
       },
       "groups": {
@@ -1700,12 +1704,12 @@
           "chat": 10520
         },
         "120363412061249246@g.us": {
-          "count": 9,
-          "last": 1791805204429,
-          "chat": 51
+          "count": 10,
+          "last": 1791888283639,
+          "chat": 52
         }
       },
-      "total_chat": 11717,
+      "total_chat": 11718,
       "since": 1791275792057
     },
     "squads": {},
