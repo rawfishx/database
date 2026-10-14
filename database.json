@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 4833,
-      "last_chat": 1792018212851,
+      "total_chat": 4834,
+      "last_chat": 1792018251300,
       "uang": {
         "__bigint__": "5000"
       },
@@ -410,8 +410,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 4725,
-      "last_chat": 1792018222597,
+      "total_chat": 4729,
+      "last_chat": 1792018255024,
       "uang": {
         "__bigint__": "5000"
       },
@@ -1814,7 +1814,8 @@
         "chreact": 1,
         "wordle": 5,
         "qris": 1,
-        "allin": 1
+        "allin": 1,
+        "playselect": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -1826,8 +1827,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 303,
-          "last": 1792018222625
+          "count": 304,
+          "last": 1792018255025
         },
         "6281313095732@s.whatsapp.net": {
           "count": 1,
@@ -1861,9 +1862,9 @@
           "chat": 132
         },
         "120363429679202978@g.us": {
-          "count": 588,
-          "last": 1792018222625,
-          "chat": 12932
+          "count": 589,
+          "last": 1792018255025,
+          "chat": 12937
         },
         "120363412061249246@g.us": {
           "count": 20,
@@ -1871,7 +1872,7 @@
           "chat": 74
         }
       },
-      "total_chat": 14552,
+      "total_chat": 14557,
       "since": 1791275792057
     },
     "squads": {},
@@ -1930,6 +1931,15 @@
     },
     "group_access": {},
     "pending_groups": {},
-    "limit_system_version": 2
+    "limit_system_version": 2,
+    "saataa_nowplaying": {
+      "120363429679202978@g.us": {
+        "title": "Sorry",
+        "artist": "510 Music",
+        "url": "https://youtube.com/watch?v=ZxLStVwIbus",
+        "thumbnail": "https://i.ytimg.com/vi/ZxLStVwIbus/hq720.jpg",
+        "at": 1792018255025
+      }
+    }
   }
 }
