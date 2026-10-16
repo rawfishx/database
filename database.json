@@ -430,8 +430,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 5440,
-      "last_chat": 1792142132961,
+      "total_chat": 5444,
+      "last_chat": 1792143118110,
       "uang": {
         "__bigint__": "5000"
       },
@@ -516,7 +516,24 @@
       "profilePageId": "0c29db29a34a9a6e19",
       "profilePageSignature": ".?\nSelamat siang\nhttps://rawfishx.github.io/menu.jpg",
       "profilePageUpdatedAt": 1792043010500,
-      "profilePageCreated": true
+      "profilePageCreated": true,
+      "fishing": {
+        "level": 1,
+        "xp": 0,
+        "money": 200,
+        "energy": 84,
+        "maxEnergy": 100,
+        "fish": {},
+        "items": {
+          "cacing": 8
+        },
+        "parts": {},
+        "rod": "bambu",
+        "rodDur": 23,
+        "location": "sungai",
+        "lastEnergy": 1792143107756,
+        "limited": {}
+      }
     },
     "41794393870583@lid": {
       "uid": 100007,
@@ -1840,7 +1857,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 25,
-        "mancing": 2,
+        "mancing": 4,
         "tebakkimia": 2
       },
       "users": {
@@ -1853,8 +1870,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 412,
-          "last": 1792141805063
+          "count": 414,
+          "last": 1792143118112
         },
         "6281313095732@s.whatsapp.net": {
           "count": 1,
@@ -1888,9 +1905,9 @@
           "chat": 134
         },
         "120363429679202978@g.us": {
-          "count": 733,
-          "last": 1792143050816,
-          "chat": 14296
+          "count": 735,
+          "last": 1792143118112,
+          "chat": 14300
         },
         "120363412061249246@g.us": {
           "count": 20,
@@ -1898,7 +1915,7 @@
           "chat": 74
         }
       },
-      "total_chat": 15958,
+      "total_chat": 15962,
       "since": 1791275792057
     },
     "squads": {},
