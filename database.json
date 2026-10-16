@@ -430,8 +430,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 5454,
-      "last_chat": 1792143237959,
+      "total_chat": 5462,
+      "last_chat": 1792143301959,
       "uang": {
         "__bigint__": "5000"
       },
@@ -520,15 +520,17 @@
       "fishing": {
         "level": 1,
         "xp": 0,
-        "money": 180,
-        "energy": 76,
+        "money": 120,
+        "energy": 68,
         "maxEnergy": 100,
         "fish": {},
         "items": {
-          "cacing": 7,
-          "pelet": 1
+          "cacing": 6,
+          "pelet": 2
         },
-        "parts": {},
+        "parts": {
+          "serat": 1
+        },
         "rod": "bambu",
         "rodDur": 24,
         "location": "sungai",
@@ -1858,9 +1860,9 @@
         "qris": 1,
         "allin": 1,
         "playselect": 25,
-        "mancing": 5,
+        "mancing": 6,
         "tebakkimia": 2,
-        "tokoikan": 4
+        "tokoikan": 7
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -1872,8 +1874,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 420,
-          "last": 1792143237961
+          "count": 424,
+          "last": 1792143289655
         },
         "6281313095732@s.whatsapp.net": {
           "count": 1,
@@ -1907,9 +1909,9 @@
           "chat": 134
         },
         "120363429679202978@g.us": {
-          "count": 741,
-          "last": 1792143237961,
-          "chat": 14310
+          "count": 745,
+          "last": 1792143301959,
+          "chat": 14318
         },
         "120363412061249246@g.us": {
           "count": 20,
@@ -1917,7 +1919,7 @@
           "chat": 74
         }
       },
-      "total_chat": 15972,
+      "total_chat": 15980,
       "since": 1791275792057
     },
     "squads": {},
