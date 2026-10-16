@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 4997,
-      "last_chat": 1792129761659,
+      "total_chat": 4998,
+      "last_chat": 1792129898009,
       "uang": {
         "__bigint__": "5000"
       },
@@ -98,20 +98,23 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 1,
-        "xp": 0,
+        "xp": 1,
         "money": 200,
-        "energy": 100,
+        "energy": 92,
         "maxEnergy": 100,
-        "fish": {},
+        "fish": {
+          "teri": 1
+        },
         "items": {
-          "cacing": 10
+          "cacing": 9
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 25,
+        "rodDur": 24,
         "location": "sungai",
-        "lastEnergy": 1792042439040,
-        "limited": {}
+        "lastEnergy": 1792129739040,
+        "limited": {},
+        "tokenSaataa": null
       }
     },
     "6289526468474@s.whatsapp.net": {
@@ -427,8 +430,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 5301,
-      "last_chat": 1792129851558,
+      "total_chat": 5302,
+      "last_chat": 1792129857959,
       "uang": {
         "__bigint__": "5000"
       },
@@ -1837,12 +1840,12 @@
         "qris": 1,
         "allin": 1,
         "playselect": 20,
-        "mancing": 1
+        "mancing": 2
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 407,
-          "last": 1792129761660
+          "count": 408,
+          "last": 1792129898011
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -1884,9 +1887,9 @@
           "chat": 133
         },
         "120363429679202978@g.us": {
-          "count": 698,
-          "last": 1792129851559,
-          "chat": 14086
+          "count": 699,
+          "last": 1792129898011,
+          "chat": 14088
         },
         "120363412061249246@g.us": {
           "count": 20,
@@ -1894,7 +1897,7 @@
           "chat": 74
         }
       },
-      "total_chat": 15747,
+      "total_chat": 15749,
       "since": 1791275792057
     },
     "squads": {},
