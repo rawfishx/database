@@ -430,8 +430,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 5346,
-      "last_chat": 1792131833559,
+      "total_chat": 5351,
+      "last_chat": 1792131925458,
       "uang": {
         "__bigint__": "5000"
       },
@@ -505,7 +505,7 @@
       "last_reset": "2026-10-16T07:15:28.929Z",
       "limit_reset_notified_at": 1792048528929,
       "premium_granted_at": 1792129761660,
-      "game_points": 0,
+      "game_points": 20,
       "fun": {
         "pts": 10,
         "played": 2,
@@ -1747,7 +1747,7 @@
     "last_uid": 100022,
     "activity": {
       "commands": {
-        "menu": 36,
+        "menu": 37,
         "menuowner": 4,
         "claimowner": 1,
         "api": 9,
@@ -1840,7 +1840,8 @@
         "qris": 1,
         "allin": 1,
         "playselect": 20,
-        "mancing": 2
+        "mancing": 2,
+        "tebakkimia": 2
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -1852,8 +1853,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 389,
-          "last": 1792131798355
+          "count": 392,
+          "last": 1792131921858
         },
         "6281313095732@s.whatsapp.net": {
           "count": 1,
@@ -1887,9 +1888,9 @@
           "chat": 133
         },
         "120363429679202978@g.us": {
-          "count": 710,
-          "last": 1792131833559,
-          "chat": 14139
+          "count": 713,
+          "last": 1792131925458,
+          "chat": 14144
         },
         "120363412061249246@g.us": {
           "count": 20,
@@ -1897,7 +1898,7 @@
           "chat": 74
         }
       },
-      "total_chat": 15800,
+      "total_chat": 15805,
       "since": 1791275792057
     },
     "squads": {},
