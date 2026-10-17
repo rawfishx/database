@@ -100,46 +100,46 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 1,
-        "xp": 25,
+        "xp": 30,
         "money": 414,
-        "energy": 69,
+        "energy": 37,
         "maxEnergy": 100,
         "fish": {
-          "teri": 3,
+          "teri": 4,
           "lele": 2,
-          "mujair": 2,
-          "nila": 0,
-          "wader": 4,
+          "mujair": 3,
+          "nila": 1,
+          "wader": 5,
           "gabus": 1
         },
         "items": {
           "cacing": 0,
-          "pelet": 6
+          "pelet": 2
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 4,
+        "rodDur": 0,
         "location": "sungai",
         "lastEnergy": 1792277039040,
         "limited": {},
-        "tokenSaataa": 34,
+        "tokenSaataa": 42,
         "stats": {
-          "catches": 16,
-          "fails": 3,
+          "catches": 20,
+          "fails": 4,
           "sold": 7,
           "soldCoins": 114,
-          "tokenEarned": 34,
+          "tokenEarned": 42,
           "failStreak": 0,
           "byRarity": {
-            "common": 15,
+            "common": 19,
             "uncommon": 1
           },
           "byFish": {
-            "mujair": 3,
-            "nila": 2,
-            "teri": 4,
+            "mujair": 4,
+            "nila": 3,
+            "teri": 5,
             "lele": 2,
-            "wader": 4,
+            "wader": 5,
             "gabus": 1
           }
         },
