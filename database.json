@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 5686,
-      "last_chat": 1792224996179,
+      "total_chat": 5687,
+      "last_chat": 1792225005525,
       "uang": {
         "__bigint__": "5000"
       },
@@ -100,43 +100,46 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 1,
-        "xp": 19,
+        "xp": 23,
         "money": 314,
-        "energy": 33,
+        "energy": 25,
         "maxEnergy": 100,
         "fish": {
           "teri": 3,
           "lele": 2,
           "mujair": 2,
           "nila": 0,
-          "wader": 1
+          "wader": 2,
+          "gabus": 1
         },
         "items": {
-          "cacing": 1
+          "cacing": 0
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 9,
+        "rodDur": 8,
         "location": "sungai",
         "lastEnergy": 1792224839040,
         "limited": {},
-        "tokenSaataa": 24,
+        "tokenSaataa": 30,
         "stats": {
-          "catches": 12,
+          "catches": 14,
           "fails": 2,
           "sold": 7,
           "soldCoins": 114,
-          "tokenEarned": 24,
-          "failStreak": 1,
+          "tokenEarned": 30,
+          "failStreak": 0,
           "byRarity": {
-            "common": 12
+            "common": 13,
+            "uncommon": 1
           },
           "byFish": {
             "mujair": 3,
             "nila": 2,
             "teri": 4,
             "lele": 2,
-            "wader": 1
+            "wader": 2,
+            "gabus": 1
           }
         },
         "story": {
@@ -2100,7 +2103,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 44,
-        "mancing": 34,
+        "mancing": 35,
         "tebakkimia": 2,
         "tokoikan": 22,
         "cek": 8,
@@ -2114,8 +2117,8 @@
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 509,
-          "last": 1792224996180
+          "count": 510,
+          "last": 1792225005526
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -2161,9 +2164,9 @@
           "chat": 181
         },
         "120363429679202978@g.us": {
-          "count": 869,
-          "last": 1792224996180,
-          "chat": 16324
+          "count": 870,
+          "last": 1792225005526,
+          "chat": 16325
         },
         "120363412061249246@g.us": {
           "count": 20,
@@ -2171,7 +2174,7 @@
           "chat": 74
         }
       },
-      "total_chat": 18075,
+      "total_chat": 18076,
       "since": 1791275792057
     },
     "squads": {},
