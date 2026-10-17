@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 5555,
-      "last_chat": 1792218309490,
+      "total_chat": 5558,
+      "last_chat": 1792218388680,
       "uang": {
         "__bigint__": "5000"
       },
@@ -117,7 +117,7 @@
         "rod": "bambu",
         "rodDur": 6,
         "location": "sungai",
-        "lastEnergy": 1792217339040,
+        "lastEnergy": 1792218239040,
         "limited": {},
         "tokenSaataa": 10,
         "stats": {
@@ -826,8 +826,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 4438,
-      "last_chat": 1792217538809,
+      "total_chat": 4440,
+      "last_chat": 1792218381509,
       "uang": {
         "__bigint__": "5000"
       },
@@ -893,9 +893,37 @@
       "isPremium": false,
       "premium_until": 0,
       "limit_reset_at": 1792231996607,
-      "limit": 14,
+      "limit": 13,
       "last_reset": "2026-10-17T10:13:16.607Z",
-      "limit_reset_notified_at": 1792145596607
+      "limit_reset_notified_at": 1792145596607,
+      "fishing": {
+        "level": 1,
+        "xp": 0,
+        "money": 200,
+        "energy": 100,
+        "maxEnergy": 100,
+        "fish": {},
+        "items": {
+          "cacing": 10
+        },
+        "parts": {},
+        "rod": "bambu",
+        "rodDur": 12,
+        "location": "sungai",
+        "lastEnergy": 1792218350479,
+        "limited": {},
+        "tokenSaataa": 0,
+        "stats": {
+          "catches": 0,
+          "fails": 0,
+          "sold": 0,
+          "soldCoins": 0,
+          "tokenEarned": 0,
+          "failStreak": 0,
+          "byRarity": {},
+          "byFish": {}
+        }
+      }
     },
     "120363412448391707@newsletter": {
       "uid": 100011,
@@ -2069,9 +2097,9 @@
         "qris": 1,
         "allin": 1,
         "playselect": 44,
-        "mancing": 22,
+        "mancing": 23,
         "tebakkimia": 2,
-        "tokoikan": 13,
+        "tokoikan": 14,
         "cek": 8,
         "setnama": 2,
         "nowplaying": 2,
@@ -2083,8 +2111,8 @@
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 487,
-          "last": 1792217479783
+          "count": 488,
+          "last": 1792218388683
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -2111,8 +2139,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 21,
-          "last": 1792127942358
+          "count": 22,
+          "last": 1792218350479
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2130,9 +2158,9 @@
           "chat": 179
         },
         "120363429679202978@g.us": {
-          "count": 846,
-          "last": 1792218309490,
-          "chat": 15811
+          "count": 848,
+          "last": 1792218388683,
+          "chat": 15816
         },
         "120363412061249246@g.us": {
           "count": 20,
@@ -2140,7 +2168,7 @@
           "chat": 74
         }
       },
-      "total_chat": 17559,
+      "total_chat": 17564,
       "since": 1791275792057
     },
     "squads": {},
