@@ -911,14 +911,14 @@
       "limit_reset_notified_at": 1792232021709,
       "fishing": {
         "level": 1,
-        "xp": 11,
+        "xp": 13,
         "money": 250,
         "energy": 57,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
           "lele": 1,
-          "nila": 1,
+          "nila": 2,
           "wader": 1,
           "mujair": 2
         },
@@ -931,22 +931,22 @@
         "location": "sungai",
         "lastEnergy": 1792296410479,
         "limited": {},
-        "tokenSaataa": 14,
+        "tokenSaataa": 16,
         "stats": {
-          "catches": 6,
+          "catches": 7,
           "fails": 0,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 14,
+          "tokenEarned": 16,
           "failStreak": 0,
           "byRarity": {
             "uncommon": 1,
-            "common": 5
+            "common": 6
           },
           "byFish": {
             "patin": 1,
             "lele": 1,
-            "nila": 1,
+            "nila": 2,
             "wader": 1,
             "mujair": 2
           }
