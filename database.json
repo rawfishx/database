@@ -841,8 +841,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 5340,
-      "last_chat": 1792327990500,
+      "total_chat": 5341,
+      "last_chat": 1792330414135,
       "uang": {
         "__bigint__": "5000"
       },
@@ -914,44 +914,46 @@
       "limit_reset_notified_at": 1792232021709,
       "fishing": {
         "level": 1,
-        "xp": 15,
+        "xp": 16,
         "money": 250,
-        "energy": 84,
+        "energy": 92,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
           "lele": 1,
           "nila": 3,
           "wader": 1,
-          "mujair": 2
+          "mujair": 2,
+          "teri": 1
         },
         "items": {
-          "cacing": 1
+          "cacing": 0
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 3,
+        "rodDur": 2,
         "location": "sungai",
-        "lastEnergy": 1792300010479,
+        "lastEnergy": 1792330370479,
         "limited": {},
-        "tokenSaataa": 18,
+        "tokenSaataa": 20,
         "stats": {
-          "catches": 8,
+          "catches": 9,
           "fails": 1,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 18,
+          "tokenEarned": 20,
           "failStreak": 0,
           "byRarity": {
             "uncommon": 1,
-            "common": 7
+            "common": 8
           },
           "byFish": {
             "patin": 1,
             "lele": 1,
             "nila": 3,
             "wader": 1,
-            "mujair": 2
+            "mujair": 2,
+            "teri": 1
           }
         },
         "story": {
@@ -2139,7 +2141,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 104,
-        "mancing": 52,
+        "mancing": 53,
         "tebakkimia": 2,
         "tokoikan": 25,
         "cek": 8,
@@ -2188,8 +2190,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 48,
-          "last": 1792323482276
+          "count": 49,
+          "last": 1792330414137
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2207,9 +2209,9 @@
           "chat": 203
         },
         "120363429679202978@g.us": {
-          "count": 1141,
-          "last": 1792329806123,
-          "chat": 18639
+          "count": 1142,
+          "last": 1792330414137,
+          "chat": 18640
         },
         "120363412061249246@g.us": {
           "count": 40,
@@ -2217,7 +2219,7 @@
           "chat": 105
         }
       },
-      "total_chat": 20525,
+      "total_chat": 20526,
       "since": 1791275792057
     },
     "squads": {},
