@@ -465,8 +465,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 6812,
-      "last_chat": 1792299959905,
+      "total_chat": 6815,
+      "last_chat": 1792300038535,
       "uang": {
         "__bigint__": "5000"
       },
@@ -839,8 +839,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 5081,
-      "last_chat": 1792299947070,
+      "total_chat": 5087,
+      "last_chat": 1792300036233,
       "uang": {
         "__bigint__": "5000"
       },
@@ -906,14 +906,14 @@
       "isPremium": false,
       "premium_until": 0,
       "limit_reset_at": 1792318421709,
-      "limit": 7,
+      "limit": 6,
       "last_reset": "2026-10-18T10:13:41.709Z",
       "limit_reset_notified_at": 1792232021709,
       "fishing": {
         "level": 1,
         "xp": 13,
         "money": 250,
-        "energy": 57,
+        "energy": 92,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
@@ -923,22 +923,22 @@
           "mujair": 2
         },
         "items": {
-          "cacing": 3
+          "cacing": 2
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 5,
+        "rodDur": 4,
         "location": "sungai",
-        "lastEnergy": 1792296410479,
+        "lastEnergy": 1792300010479,
         "limited": {},
         "tokenSaataa": 16,
         "stats": {
           "catches": 7,
-          "fails": 0,
+          "fails": 1,
           "sold": 0,
           "soldCoins": 0,
           "tokenEarned": 16,
-          "failStreak": 0,
+          "failStreak": 1,
           "byRarity": {
             "uncommon": 1,
             "common": 6
@@ -2062,7 +2062,7 @@
         "en2id": 2,
         "id2en": 2,
         "lirik": 223,
-        "play": 222,
+        "play": 223,
         "tt": 29,
         "brat": 14,
         "hd": 8,
@@ -2135,7 +2135,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 64,
-        "mancing": 47,
+        "mancing": 48,
         "tebakkimia": 2,
         "tokoikan": 25,
         "cek": 8,
@@ -2162,8 +2162,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 567,
-          "last": 1792299909822
+          "count": 568,
+          "last": 1792300038537
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2182,8 +2182,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 30,
-          "last": 1792296530938
+          "count": 31,
+          "last": 1792300029025
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2201,9 +2201,9 @@
           "chat": 199
         },
         "120363429679202978@g.us": {
-          "count": 992,
-          "last": 1792299959905,
-          "chat": 17762
+          "count": 994,
+          "last": 1792300038537,
+          "chat": 17771
         },
         "120363412061249246@g.us": {
           "count": 40,
@@ -2211,7 +2211,7 @@
           "chat": 105
         }
       },
-      "total_chat": 19605,
+      "total_chat": 19614,
       "since": 1791275792057
     },
     "squads": {},
