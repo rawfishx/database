@@ -845,8 +845,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 5578,
-      "last_chat": 1792397542826,
+      "total_chat": 5582,
+      "last_chat": 1792397582675,
       "uang": {
         "__bigint__": "5000"
       },
@@ -918,44 +918,44 @@
       "limit_reset_notified_at": 1792232021709,
       "fishing": {
         "level": 1,
-        "xp": 20,
+        "xp": 21,
         "money": 540,
-        "energy": 92,
+        "energy": 85,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
           "lele": 2,
           "nila": 3,
-          "wader": 1,
+          "wader": 2,
           "mujair": 2,
           "teri": 1
         },
         "items": {
-          "cacing": 1
+          "cacing": 0
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 1,
+        "rodDur": 0,
         "location": "sungai",
-        "lastEnergy": 1792397510479,
+        "lastEnergy": 1792397570479,
         "limited": {},
-        "tokenSaataa": 22,
+        "tokenSaataa": 24,
         "stats": {
-          "catches": 10,
+          "catches": 11,
           "fails": 1,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 22,
+          "tokenEarned": 24,
           "failStreak": 0,
           "byRarity": {
             "uncommon": 1,
-            "common": 9
+            "common": 10
           },
           "byFish": {
             "patin": 1,
             "lele": 2,
             "nila": 3,
-            "wader": 1,
+            "wader": 2,
             "mujair": 2,
             "teri": 1
           }
@@ -974,6 +974,13 @@
             "genetic": "Bertulang Padat",
             "priceMultiplier": 1.15,
             "at": 1792397542828
+          },
+          {
+            "id": "wader",
+            "weight": 1.2,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792397563440
           }
         ]
       },
@@ -2156,7 +2163,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 117,
-        "mancing": 64,
+        "mancing": 66,
         "tebakkimia": 2,
         "tokoikan": 33,
         "cek": 9,
@@ -2214,8 +2221,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 68,
-          "last": 1792397542827
+          "count": 70,
+          "last": 1792397582676
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2233,9 +2240,9 @@
           "chat": 203
         },
         "120363429679202978@g.us": {
-          "count": 1263,
-          "last": 1792397542827,
-          "chat": 19355
+          "count": 1265,
+          "last": 1792397582676,
+          "chat": 19359
         },
         "120363412061249246@g.us": {
           "count": 41,
@@ -2243,7 +2250,7 @@
           "chat": 107
         }
       },
-      "total_chat": 21254,
+      "total_chat": 21258,
       "since": 1791275792057
     },
     "squads": {},
