@@ -465,8 +465,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 7386,
-      "last_chat": 1792397250945,
+      "total_chat": 7390,
+      "last_chat": 1792401476170,
       "uang": {
         "__bigint__": "5000"
       },
@@ -555,8 +555,8 @@
       "fishing": {
         "level": 1,
         "xp": 13,
-        "money": 350,
-        "energy": 83,
+        "money": 290,
+        "energy": 92,
         "maxEnergy": 100,
         "fish": {
           "nila": 2,
@@ -567,24 +567,24 @@
         },
         "items": {
           "cacing": 0,
-          "pelet": 2
+          "pelet": 4
         },
         "parts": {
           "serat": 1
         },
         "rod": "bambu",
-        "rodDur": 1,
+        "rodDur": 0,
         "location": "sungai",
-        "lastEnergy": 1792395287756,
+        "lastEnergy": 1792401407756,
         "limited": {},
         "tokenSaataa": 16,
         "stats": {
           "catches": 8,
-          "fails": 3,
+          "fails": 4,
           "sold": 0,
           "soldCoins": 0,
           "tokenEarned": 16,
-          "failStreak": 0,
+          "failStreak": 1,
           "byRarity": {
             "common": 8
           },
@@ -2090,7 +2090,7 @@
         "en2id": 2,
         "id2en": 2,
         "lirik": 284,
-        "play": 278,
+        "play": 279,
         "tt": 39,
         "brat": 16,
         "hd": 9,
@@ -2163,7 +2163,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 117,
-        "mancing": 67,
+        "mancing": 68,
         "tebakkimia": 2,
         "tokoikan": 35,
         "cek": 9,
@@ -2189,7 +2189,7 @@
         "m": 3,
         "buat": 1,
         "cekinv": 1,
-        "beli": 9
+        "beli": 10
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -2201,8 +2201,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 726,
-          "last": 1792395713336
+          "count": 729,
+          "last": 1792401476173
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2240,9 +2240,9 @@
           "chat": 203
         },
         "120363429679202978@g.us": {
-          "count": 1271,
-          "last": 1792397810441,
-          "chat": 19372
+          "count": 1274,
+          "last": 1792401476173,
+          "chat": 19376
         },
         "120363412061249246@g.us": {
           "count": 41,
@@ -2250,7 +2250,7 @@
           "chat": 107
         }
       },
-      "total_chat": 21271,
+      "total_chat": 21275,
       "since": 1791275792057
     },
     "squads": {},
@@ -2327,13 +2327,13 @@
       }
     },
     "fishingWeather": {
-      "id": "cerah",
-      "name": "Cerah",
-      "luck": 0,
-      "weight": 1,
-      "desc": "Cuaca normal."
+      "id": "berkabut",
+      "name": "Berkabut",
+      "luck": 0.08,
+      "weight": 0.96,
+      "desc": "Peluang ikan langka sedikit naik."
     },
-    "fishingWeatherId": "cerah",
-    "fishingWeatherAt": 1792397542827
+    "fishingWeatherId": "berkabut",
+    "fishingWeatherAt": 1792401142827
   }
 }
