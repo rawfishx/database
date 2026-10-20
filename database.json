@@ -845,8 +845,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 5754,
-      "last_chat": 1792447818418,
+      "total_chat": 5758,
+      "last_chat": 1792473079945,
       "uang": {
         "__bigint__": "5000"
       },
@@ -920,7 +920,7 @@
         "level": 1,
         "xp": 32,
         "money": 445,
-        "energy": 85,
+        "energy": 92,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
@@ -931,22 +931,22 @@
           "teri": 1
         },
         "items": {
-          "cacing": 15
+          "cacing": 14
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 8,
+        "rodDur": 7,
         "location": "sungai",
-        "lastEnergy": 1792404530479,
+        "lastEnergy": 1792472990479,
         "limited": {},
         "tokenSaataa": 32,
         "stats": {
           "catches": 15,
-          "fails": 1,
+          "fails": 2,
           "sold": 0,
           "soldCoins": 0,
           "tokenEarned": 32,
-          "failStreak": 0,
+          "failStreak": 1,
           "byRarity": {
             "uncommon": 1,
             "common": 14
@@ -2118,7 +2118,7 @@
         "en2id": 2,
         "id2en": 2,
         "lirik": 309,
-        "play": 292,
+        "play": 293,
         "tt": 44,
         "brat": 17,
         "hd": 9,
@@ -2190,8 +2190,8 @@
         "wordle": 5,
         "qris": 1,
         "allin": 1,
-        "playselect": 127,
-        "mancing": 76,
+        "playselect": 128,
+        "mancing": 77,
         "tebakkimia": 2,
         "tokoikan": 37,
         "cek": 9,
@@ -2249,8 +2249,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 86,
-          "last": 1792405208949
+          "count": 89,
+          "last": 1792473079946
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2268,9 +2268,9 @@
           "chat": 203
         },
         "120363429679202978@g.us": {
-          "count": 1357,
-          "last": 1792448035501,
-          "chat": 19799
+          "count": 1360,
+          "last": 1792473079946,
+          "chat": 19803
         },
         "120363412061249246@g.us": {
           "count": 42,
@@ -2278,7 +2278,7 @@
           "chat": 108
         }
       },
-      "total_chat": 21705,
+      "total_chat": 21709,
       "since": 1791275792057
     },
     "squads": {},
@@ -2340,11 +2340,11 @@
     "limit_system_version": 2,
     "saataa_nowplaying": {
       "120363429679202978@g.us": {
-        "title": "Raissa Anggiani - Menari Aku Menari (Official Lyric Video)",
-        "artist": "Raissa Anggiani",
-        "url": "https://youtube.com/watch?v=MI_tz75YL_c",
-        "thumbnail": "https://i.ytimg.com/vi/MI_tz75YL_c/hq720.jpg",
-        "at": 1792421335746
+        "title": "Lyodra - Teganya Kau (Official Music Video)",
+        "artist": "Lyodra Official",
+        "url": "https://youtube.com/watch?v=o9Y3iA8jKDs",
+        "thumbnail": "https://i.ytimg.com/vi/o9Y3iA8jKDs/hq720.jpg",
+        "at": 1792473079946
       },
       "120363412061249246@g.us": {
         "title": "Steve Lacy - Dark Red (Lyrics)",
@@ -2355,13 +2355,13 @@
       }
     },
     "fishingWeather": {
-      "id": "badai",
-      "name": "Badai",
-      "luck": 0.12,
-      "weight": 1.2,
-      "desc": "Tarikan kuat, ikan bisa lebih berat."
+      "id": "hujan",
+      "name": "Hujan",
+      "luck": 0.05,
+      "weight": 1.08,
+      "desc": "Ikan lebih aktif."
     },
-    "fishingWeatherId": "badai",
-    "fishingWeatherAt": 1792402942827
+    "fishingWeatherId": "hujan",
+    "fishingWeatherAt": 1792471342827
   }
 }
