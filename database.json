@@ -465,8 +465,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 7655,
-      "last_chat": 1792503518381,
+      "total_chat": 7660,
+      "last_chat": 1792503554323,
       "uang": {
         "__bigint__": "5000"
       },
@@ -556,7 +556,7 @@
         "level": 1,
         "xp": 17,
         "money": 290,
-        "energy": 78,
+        "energy": 71,
         "maxEnergy": 100,
         "fish": {
           "nila": 2,
@@ -567,24 +567,24 @@
         },
         "items": {
           "cacing": 0,
-          "pelet": 1
+          "pelet": 0
         },
         "parts": {
           "serat": 1
         },
         "rod": "bambu",
-        "rodDur": 9,
+        "rodDur": 8,
         "location": "sungai",
-        "lastEnergy": 1792503467756,
+        "lastEnergy": 1792503527756,
         "limited": {},
         "tokenSaataa": 20,
         "stats": {
           "catches": 10,
-          "fails": 5,
+          "fails": 6,
           "sold": 0,
           "soldCoins": 0,
           "tokenEarned": 20,
-          "failStreak": 0,
+          "failStreak": 1,
           "byRarity": {
             "common": 10
           },
@@ -2207,9 +2207,9 @@
         "qris": 1,
         "allin": 1,
         "playselect": 138,
-        "mancing": 81,
+        "mancing": 83,
         "tebakkimia": 2,
-        "tokoikan": 38,
+        "tokoikan": 39,
         "cek": 9,
         "setnama": 2,
         "nowplaying": 2,
@@ -2251,8 +2251,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 823,
-          "last": 1792503497077
+          "count": 826,
+          "last": 1792503554324
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2290,9 +2290,9 @@
           "chat": 206
         },
         "120363429679202978@g.us": {
-          "count": 1428,
-          "last": 1792503518381,
-          "chat": 20037
+          "count": 1431,
+          "last": 1792503554324,
+          "chat": 20042
         },
         "120363412061249246@g.us": {
           "count": 47,
@@ -2300,7 +2300,7 @@
           "chat": 113
         }
       },
-      "total_chat": 21982,
+      "total_chat": 21987,
       "since": 1791275792057
     },
     "squads": {},
