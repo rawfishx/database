@@ -465,8 +465,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 7665,
-      "last_chat": 1792503614196,
+      "total_chat": 7666,
+      "last_chat": 1792503627504,
       "uang": {
         "__bigint__": "5000"
       },
@@ -554,12 +554,12 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 1,
-        "xp": 24,
+        "xp": 26,
         "money": 190,
-        "energy": 56,
+        "energy": 48,
         "maxEnergy": 100,
         "fish": {
-          "nila": 2,
+          "nila": 3,
           "mujair": 5,
           "teri": 2,
           "lele": 2,
@@ -567,29 +567,29 @@
         },
         "items": {
           "cacing": 0,
-          "pelet": 3
+          "pelet": 2
         },
         "parts": {
           "serat": 1
         },
         "rod": "bambu",
-        "rodDur": 6,
+        "rodDur": 5,
         "location": "sungai",
         "lastEnergy": 1792503587756,
         "limited": {},
-        "tokenSaataa": 24,
+        "tokenSaataa": 26,
         "stats": {
-          "catches": 12,
+          "catches": 13,
           "fails": 6,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 24,
+          "tokenEarned": 26,
           "failStreak": 0,
           "byRarity": {
-            "common": 12
+            "common": 13
           },
           "byFish": {
-            "nila": 2,
+            "nila": 3,
             "mujair": 5,
             "teri": 2,
             "lele": 2,
@@ -631,6 +631,13 @@
             "genetic": "Bertulang Padat",
             "priceMultiplier": 1.15,
             "at": 1792503614198
+          },
+          {
+            "id": "nila",
+            "weight": 4.37,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792503627505
           }
         ]
       },
@@ -2221,7 +2228,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 138,
-        "mancing": 85,
+        "mancing": 86,
         "tebakkimia": 2,
         "tokoikan": 39,
         "cek": 9,
@@ -2265,8 +2272,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 830,
-          "last": 1792503614197
+          "count": 831,
+          "last": 1792503627505
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2304,9 +2311,9 @@
           "chat": 206
         },
         "120363429679202978@g.us": {
-          "count": 1435,
-          "last": 1792503614197,
-          "chat": 20047
+          "count": 1436,
+          "last": 1792503627505,
+          "chat": 20048
         },
         "120363412061249246@g.us": {
           "count": 47,
@@ -2314,7 +2321,7 @@
           "chat": 113
         }
       },
-      "total_chat": 21992,
+      "total_chat": 21993,
       "since": 1791275792057
     },
     "squads": {},
