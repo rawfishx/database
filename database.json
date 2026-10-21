@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 7100,
-      "last_chat": 1792577062125,
+      "total_chat": 7101,
+      "last_chat": 1792577567172,
       "uang": {
         "__bigint__": "5000"
       },
@@ -469,8 +469,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 8030,
-      "last_chat": 1792577530155,
+      "total_chat": 8035,
+      "last_chat": 1792577573687,
       "uang": {
         "__bigint__": "5000"
       },
@@ -558,46 +558,46 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 1,
-        "xp": 54,
+        "xp": 56,
         "money": 823,
-        "energy": 67,
+        "energy": 44,
         "maxEnergy": 100,
         "fish": {
           "nila": 0,
           "mujair": 0,
-          "teri": 0,
+          "teri": 1,
           "lele": 0,
-          "wader": 0
+          "wader": 1
         },
         "items": {
           "cacing": 0,
-          "pelet": 3
+          "pelet": 0
         },
         "parts": {
           "serat": 1
         },
         "rod": "bambu",
-        "rodDur": 12,
+        "rodDur": 9,
         "location": "sungai",
-        "lastEnergy": 1792577507756,
+        "lastEnergy": 1792577567756,
         "limited": {},
-        "tokenSaataa": 36,
+        "tokenSaataa": 40,
         "stats": {
-          "catches": 18,
-          "fails": 6,
+          "catches": 20,
+          "fails": 7,
           "sold": 18,
           "soldCoins": 1004,
-          "tokenEarned": 36,
-          "failStreak": 0,
+          "tokenEarned": 40,
+          "failStreak": 1,
           "byRarity": {
-            "common": 18
+            "common": 20
           },
           "byFish": {
             "nila": 4,
             "mujair": 7,
-            "teri": 4,
+            "teri": 5,
             "lele": 2,
-            "wader": 1
+            "wader": 2
           }
         },
         "story": {
@@ -607,7 +607,22 @@
           "debt": 79,
           "debtNpc": "Paman Joko"
         },
-        "fishRecords": []
+        "fishRecords": [
+          {
+            "id": "wader",
+            "weight": 1.83,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792577561293
+          },
+          {
+            "id": "teri",
+            "weight": 1.39,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792577573688
+          }
+        ]
       },
       "achievements": [
         "mancing_1"
@@ -850,8 +865,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 6204,
-      "last_chat": 1792577523918,
+      "total_chat": 6205,
+      "last_chat": 1792577541166,
       "uang": {
         "__bigint__": "5000"
       },
@@ -923,7 +938,7 @@
       "limit_reset_notified_at": 1792491326417,
       "fishing": {
         "level": 1,
-        "xp": 33,
+        "xp": 46,
         "money": 445,
         "energy": 92,
         "maxEnergy": 100,
@@ -933,27 +948,28 @@
           "nila": 4,
           "wader": 4,
           "mujair": 4,
-          "teri": 1
+          "teri": 1,
+          "gabus": 1
         },
         "items": {
-          "cacing": 13
+          "cacing": 12
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 6,
+        "rodDur": 5,
         "location": "sungai",
-        "lastEnergy": 1792576010479,
+        "lastEnergy": 1792577510479,
         "limited": {},
-        "tokenSaataa": 34,
+        "tokenSaataa": 38,
         "stats": {
-          "catches": 16,
+          "catches": 17,
           "fails": 2,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 34,
+          "tokenEarned": 38,
           "failStreak": 0,
           "byRarity": {
-            "uncommon": 1,
+            "uncommon": 2,
             "common": 15
           },
           "byFish": {
@@ -962,7 +978,8 @@
             "nila": 4,
             "wader": 4,
             "mujair": 4,
-            "teri": 1
+            "teri": 1,
+            "gabus": 1
           }
         },
         "story": {
@@ -1021,6 +1038,13 @@
             "genetic": "Bersisik Emas",
             "priceMultiplier": 1.7,
             "at": 1792576015097
+          },
+          {
+            "id": "gabus",
+            "weight": 8.39,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792577541168
           }
         ]
       },
@@ -2498,7 +2522,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 160,
-        "mancing": 99,
+        "mancing": 102,
         "tebakkimia": 2,
         "tokoikan": 43,
         "cek": 10,
@@ -2524,7 +2548,7 @@
         "m": 4,
         "buat": 1,
         "cekinv": 1,
-        "beli": 21,
+        "beli": 22,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -2551,8 +2575,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 906,
-          "last": 1792577530156
+          "count": 909,
+          "last": 1792577573688
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2571,8 +2595,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 105,
-          "last": 1792576782051
+          "count": 106,
+          "last": 1792577541167
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2598,9 +2622,9 @@
           "chat": 221
         },
         "120363429679202978@g.us": {
-          "count": 1582,
-          "last": 1792577530156,
-          "chat": 21136
+          "count": 1586,
+          "last": 1792577573688,
+          "chat": 21143
         },
         "120363412061249246@g.us": {
           "count": 47,
@@ -2608,7 +2632,7 @@
           "chat": 113
         }
       },
-      "total_chat": 23106,
+      "total_chat": 23113,
       "since": 1791275792057
     },
     "squads": {},
@@ -2690,14 +2714,14 @@
       }
     },
     "fishingWeather": {
-      "id": "badai",
-      "name": "Badai",
-      "luck": 0.12,
-      "weight": 1.2,
-      "desc": "Tarikan kuat, ikan bisa lebih berat."
+      "id": "cerah",
+      "name": "Cerah",
+      "luck": 0,
+      "weight": 1,
+      "desc": "Cuaca normal."
     },
-    "fishingWeatherId": "badai",
-    "fishingWeatherAt": 1792575742827,
+    "fishingWeatherId": "cerah",
+    "fishingWeatherAt": 1792577542827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
