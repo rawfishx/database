@@ -886,8 +886,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 6169,
-      "last_chat": 1792575975173,
+      "total_chat": 6171,
+      "last_chat": 1792576015095,
       "uang": {
         "__bigint__": "5000"
       },
@@ -959,7 +959,7 @@
       "limit_reset_notified_at": 1792491326417,
       "fishing": {
         "level": 1,
-        "xp": 32,
+        "xp": 33,
         "money": 445,
         "energy": 92,
         "maxEnergy": 100,
@@ -968,36 +968,36 @@
           "lele": 2,
           "nila": 4,
           "wader": 4,
-          "mujair": 3,
+          "mujair": 4,
           "teri": 1
         },
         "items": {
-          "cacing": 14
+          "cacing": 13
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 7,
+        "rodDur": 6,
         "location": "sungai",
-        "lastEnergy": 1792472990479,
+        "lastEnergy": 1792576010479,
         "limited": {},
-        "tokenSaataa": 32,
+        "tokenSaataa": 34,
         "stats": {
-          "catches": 15,
+          "catches": 16,
           "fails": 2,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 32,
-          "failStreak": 1,
+          "tokenEarned": 34,
+          "failStreak": 0,
           "byRarity": {
             "uncommon": 1,
-            "common": 14
+            "common": 15
           },
           "byFish": {
             "patin": 1,
             "lele": 2,
             "nila": 4,
             "wader": 4,
-            "mujair": 3,
+            "mujair": 4,
             "teri": 1
           }
         },
@@ -1050,6 +1050,13 @@
             "genetic": "Bersisik Emas",
             "priceMultiplier": 1.7,
             "at": 1792404531329
+          },
+          {
+            "id": "mujair",
+            "weight": 1.31,
+            "genetic": "Bersisik Emas",
+            "priceMultiplier": 1.7,
+            "at": 1792576015097
           }
         ]
       },
@@ -2284,8 +2291,8 @@
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 9,
-      "last_chat": 1792575861984,
+      "total_chat": 12,
+      "last_chat": 1792576028203,
       "hutang": {
         "__bigint__": "0"
       },
@@ -2527,7 +2534,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 148,
-        "mancing": 91,
+        "mancing": 92,
         "tebakkimia": 2,
         "tokoikan": 41,
         "cek": 10,
@@ -2600,8 +2607,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 101,
-          "last": 1792574252278
+          "count": 102,
+          "last": 1792576015096
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2623,9 +2630,9 @@
           "chat": 221
         },
         "120363429679202978@g.us": {
-          "count": 1534,
-          "last": 1792575975173,
-          "chat": 20907
+          "count": 1535,
+          "last": 1792576028203,
+          "chat": 20912
         },
         "120363412061249246@g.us": {
           "count": 47,
@@ -2633,7 +2640,7 @@
           "chat": 113
         }
       },
-      "total_chat": 22874,
+      "total_chat": 22879,
       "since": 1791275792057
     },
     "squads": {},
@@ -2715,14 +2722,14 @@
       }
     },
     "fishingWeather": {
-      "id": "cerah",
-      "name": "Cerah",
-      "luck": 0,
-      "weight": 1,
-      "desc": "Cuaca normal."
+      "id": "badai",
+      "name": "Badai",
+      "luck": 0.12,
+      "weight": 1.2,
+      "desc": "Tarikan kuat, ikan bisa lebih berat."
     },
-    "fishingWeatherId": "cerah",
-    "fishingWeatherAt": 1792570342827,
+    "fishingWeatherId": "badai",
+    "fishingWeatherAt": 1792575742827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
