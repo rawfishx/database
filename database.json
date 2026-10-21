@@ -901,8 +901,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 6223,
-      "last_chat": 1792577829384,
+      "total_chat": 6226,
+      "last_chat": 1792577847362,
       "uang": {
         "__bigint__": "5000"
       },
@@ -974,13 +974,13 @@
       "limit_reset_notified_at": 1792491326417,
       "fishing": {
         "level": 1,
-        "xp": 58,
-        "money": 445,
-        "energy": 25,
+        "xp": 61,
+        "money": 645,
+        "energy": 1,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
-          "lele": 2,
+          "lele": 3,
           "nila": 7,
           "wader": 6,
           "mujair": 6,
@@ -988,29 +988,29 @@
           "gabus": 1
         },
         "items": {
-          "cacing": 3
+          "cacing": 0
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 8,
+        "rodDur": 5,
         "location": "sungai",
         "lastEnergy": 1792577810479,
         "limited": {},
-        "tokenSaataa": 52,
+        "tokenSaataa": 64,
         "stats": {
-          "catches": 24,
-          "fails": 4,
+          "catches": 25,
+          "fails": 6,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 52,
-          "failStreak": 0,
+          "tokenEarned": 54,
+          "failStreak": 2,
           "byRarity": {
             "uncommon": 2,
-            "common": 22
+            "common": 23
           },
           "byFish": {
             "patin": 1,
-            "lele": 2,
+            "lele": 3,
             "nila": 7,
             "wader": 6,
             "mujair": 6,
@@ -1130,11 +1130,19 @@
             "genetic": "Bercahaya",
             "priceMultiplier": 2,
             "at": 1792577829385
+          },
+          {
+            "id": "lele",
+            "weight": 6.18,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792577835573
           }
         ]
       },
       "achievements": [
-        "mancing_1"
+        "mancing_1",
+        "mancing_25"
       ],
       "premium_granted_at": 1792300959874
     },
@@ -2607,7 +2615,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 160,
-        "mancing": 114,
+        "mancing": 117,
         "tebakkimia": 2,
         "tokoikan": 44,
         "cek": 10,
@@ -2680,8 +2688,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 118,
-          "last": 1792577829385
+          "count": 121,
+          "last": 1792577847363
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2707,9 +2715,9 @@
           "chat": 221
         },
         "120363429679202978@g.us": {
-          "count": 1601,
-          "last": 1792577829385,
-          "chat": 21181
+          "count": 1604,
+          "last": 1792577847363,
+          "chat": 21184
         },
         "120363412061249246@g.us": {
           "count": 47,
@@ -2717,7 +2725,7 @@
           "chat": 113
         }
       },
-      "total_chat": 23151,
+      "total_chat": 23154,
       "since": 1791275792057
     },
     "squads": {},
