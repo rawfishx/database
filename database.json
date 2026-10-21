@@ -74,10 +74,10 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1792577726417,
+      "limit_reset_at": 1792664173472,
       "limit": 15,
-      "last_reset": "2026-10-21T10:15:26.417Z",
-      "limit_reset_notified_at": 1792491326417,
+      "last_reset": "2026-10-22T10:16:13.472Z",
+      "limit_reset_notified_at": 1792577773472,
       "achievements": [
         "mancing_1",
         "mancing_25"
@@ -227,16 +227,16 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1792577726417,
+      "limit_reset_at": 1792664173472,
       "limit": 15,
-      "last_reset": "2026-10-21T10:15:26.417Z",
+      "last_reset": "2026-10-22T10:16:13.472Z",
       "achievements": [],
       "transactions": [],
       "daily_streak": 0,
       "last_daily": 0,
       "last_transfer": 0,
       "missions_completed": [],
-      "limit_reset_notified_at": 1792491326417
+      "limit_reset_notified_at": 1792577773472
     },
     "120363430349780522@newsletter": {
       "uid": 100003,
@@ -459,18 +459,18 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1792577726417,
+      "limit_reset_at": 1792664173472,
       "limit": 15,
-      "last_reset": "2026-10-21T10:15:26.417Z",
-      "limit_reset_notified_at": 1792491326417
+      "last_reset": "2026-10-22T10:16:13.472Z",
+      "limit_reset_notified_at": 1792577773472
     },
     "6282292961437@s.whatsapp.net": {
       "uid": 100006,
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 8047,
-      "last_chat": 1792577710652,
+      "total_chat": 8052,
+      "last_chat": 1792577805021,
       "uang": {
         "__bigint__": "5000"
       },
@@ -815,10 +815,10 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1792577726417,
+      "limit_reset_at": 1792664173472,
       "limit": 15,
-      "last_reset": "2026-10-21T10:15:26.417Z",
-      "limit_reset_notified_at": 1792491326417
+      "last_reset": "2026-10-22T10:16:13.472Z",
+      "limit_reset_notified_at": 1792577773472
     },
     "6287797046407@s.whatsapp.net": {
       "uid": 100009,
@@ -891,18 +891,18 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "limit_reset_at": 1792577726417,
-      "limit": 14,
-      "last_reset": "2026-10-21T10:15:26.417Z",
-      "limit_reset_notified_at": 1792491326417
+      "limit_reset_at": 1792664173472,
+      "limit": 15,
+      "last_reset": "2026-10-22T10:16:13.472Z",
+      "limit_reset_notified_at": 1792577773472
     },
     "6282358371656@s.whatsapp.net": {
       "uid": 100010,
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 6217,
-      "last_chat": 1792577769559,
+      "total_chat": 6223,
+      "last_chat": 1792577829384,
       "uang": {
         "__bigint__": "5000"
       },
@@ -974,46 +974,46 @@
       "limit_reset_notified_at": 1792491326417,
       "fishing": {
         "level": 1,
-        "xp": 52,
+        "xp": 58,
         "money": 445,
-        "energy": 56,
+        "energy": 25,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
           "lele": 2,
-          "nila": 6,
-          "wader": 4,
-          "mujair": 5,
+          "nila": 7,
+          "wader": 6,
+          "mujair": 6,
           "teri": 1,
           "gabus": 1
         },
         "items": {
-          "cacing": 7
+          "cacing": 3
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 0,
+        "rodDur": 8,
         "location": "sungai",
-        "lastEnergy": 1792577750479,
+        "lastEnergy": 1792577810479,
         "limited": {},
-        "tokenSaataa": 44,
+        "tokenSaataa": 52,
         "stats": {
-          "catches": 20,
+          "catches": 24,
           "fails": 4,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 44,
+          "tokenEarned": 52,
           "failStreak": 0,
           "byRarity": {
             "uncommon": 2,
-            "common": 18
+            "common": 22
           },
           "byFish": {
             "patin": 1,
             "lele": 2,
-            "nila": 6,
-            "wader": 4,
-            "mujair": 5,
+            "nila": 7,
+            "wader": 6,
+            "mujair": 6,
             "teri": 1,
             "gabus": 1
           }
@@ -1102,6 +1102,34 @@
             "genetic": null,
             "priceMultiplier": 1,
             "at": 1792577737624
+          },
+          {
+            "id": "nila",
+            "weight": 0.94,
+            "genetic": "Bertulang Padat",
+            "priceMultiplier": 1.15,
+            "at": 1792577798699
+          },
+          {
+            "id": "wader",
+            "weight": 2.3,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792577808390
+          },
+          {
+            "id": "wader",
+            "weight": 2.17,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792577823525
+          },
+          {
+            "id": "mujair",
+            "weight": 6.68,
+            "genetic": "Bercahaya",
+            "priceMultiplier": 2,
+            "at": 1792577829385
           }
         ]
       },
@@ -2579,7 +2607,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 160,
-        "mancing": 110,
+        "mancing": 114,
         "tebakkimia": 2,
         "tokoikan": 44,
         "cek": 10,
@@ -2605,7 +2633,7 @@
         "m": 4,
         "buat": 1,
         "cekinv": 1,
-        "beli": 23,
+        "beli": 24,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -2652,8 +2680,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 113,
-          "last": 1792577754125
+          "count": 118,
+          "last": 1792577829385
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -2679,9 +2707,9 @@
           "chat": 221
         },
         "120363429679202978@g.us": {
-          "count": 1596,
-          "last": 1792577769559,
-          "chat": 21170
+          "count": 1601,
+          "last": 1792577829385,
+          "chat": 21181
         },
         "120363412061249246@g.us": {
           "count": 47,
@@ -2689,7 +2717,7 @@
           "chat": 113
         }
       },
-      "total_chat": 23140,
+      "total_chat": 23151,
       "since": 1791275792057
     },
     "squads": {},
