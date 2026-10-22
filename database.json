@@ -469,8 +469,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 8327,
-      "last_chat": 1792656218363,
+      "total_chat": 8328,
+      "last_chat": 1792656306762,
       "uang": {
         "__bigint__": "5000"
       },
@@ -558,45 +558,45 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 1,
-        "xp": 64,
+        "xp": 70,
         "money": 903,
-        "energy": 5,
+        "energy": 92,
         "maxEnergy": 100,
         "fish": {
           "nila": 0,
           "mujair": 0,
           "teri": 5,
-          "lele": 1,
+          "lele": 2,
           "wader": 1
         },
         "items": {
           "cacing": 0,
-          "pelet": 1
+          "pelet": 0
         },
         "parts": {
           "serat": 1
         },
         "rod": "bambu",
-        "rodDur": 4,
+        "rodDur": 3,
         "location": "sungai",
-        "lastEnergy": 1792577627756,
+        "lastEnergy": 1792656287756,
         "limited": {},
-        "tokenSaataa": 60,
+        "tokenSaataa": 62,
         "stats": {
-          "catches": 25,
+          "catches": 26,
           "fails": 7,
           "sold": 18,
           "soldCoins": 1004,
-          "tokenEarned": 50,
+          "tokenEarned": 52,
           "failStreak": 0,
           "byRarity": {
-            "common": 25
+            "common": 26
           },
           "byFish": {
             "nila": 4,
             "mujair": 7,
             "teri": 9,
-            "lele": 3,
+            "lele": 4,
             "wader": 2
           }
         },
@@ -656,6 +656,13 @@
             "genetic": null,
             "priceMultiplier": 1,
             "at": 1792577643660
+          },
+          {
+            "id": "lele",
+            "weight": 9.53,
+            "genetic": "Bersisik Emas",
+            "priceMultiplier": 1.7,
+            "at": 1792656306764
           }
         ]
       },
@@ -2631,7 +2638,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 172,
-        "mancing": 120,
+        "mancing": 121,
         "tebakkimia": 2,
         "tokoikan": 45,
         "cek": 10,
@@ -2687,8 +2694,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 947,
-          "last": 1792656218364
+          "count": 948,
+          "last": 1792656306764
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2734,9 +2741,9 @@
           "chat": 228
         },
         "120363429679202978@g.us": {
-          "count": 1659,
-          "last": 1792656218364,
-          "chat": 22697
+          "count": 1660,
+          "last": 1792656306764,
+          "chat": 22698
         },
         "120363412061249246@g.us": {
           "count": 47,
@@ -2744,7 +2751,7 @@
           "chat": 113
         }
       },
-      "total_chat": 24686,
+      "total_chat": 24687,
       "since": 1791275792057
     },
     "squads": {},
@@ -2826,14 +2833,14 @@
       }
     },
     "fishingWeather": {
-      "id": "berkabut",
-      "name": "Berkabut",
-      "luck": 0.08,
-      "weight": 0.96,
-      "desc": "Peluang ikan langka sedikit naik."
+      "id": "badai",
+      "name": "Badai",
+      "luck": 0.12,
+      "weight": 1.2,
+      "desc": "Tarikan kuat, ikan bisa lebih berat."
     },
-    "fishingWeatherId": "berkabut",
-    "fishingWeatherAt": 1792588342827,
+    "fishingWeatherId": "badai",
+    "fishingWeatherAt": 1792654942827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
