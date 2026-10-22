@@ -469,8 +469,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 8328,
-      "last_chat": 1792656306762,
+      "total_chat": 8330,
+      "last_chat": 1792656328874,
       "uang": {
         "__bigint__": "5000"
       },
@@ -558,46 +558,46 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 1,
-        "xp": 70,
-        "money": 903,
-        "energy": 92,
+        "xp": 79,
+        "money": 703,
+        "energy": 68,
         "maxEnergy": 100,
         "fish": {
           "nila": 0,
-          "mujair": 0,
-          "teri": 5,
+          "mujair": 1,
+          "teri": 6,
           "lele": 2,
-          "wader": 1
+          "wader": 2
         },
         "items": {
           "cacing": 0,
-          "pelet": 0
+          "pelet": 7
         },
         "parts": {
           "serat": 1
         },
         "rod": "bambu",
-        "rodDur": 3,
+        "rodDur": 0,
         "location": "sungai",
         "lastEnergy": 1792656287756,
         "limited": {},
-        "tokenSaataa": 62,
+        "tokenSaataa": 68,
         "stats": {
-          "catches": 26,
+          "catches": 29,
           "fails": 7,
           "sold": 18,
           "soldCoins": 1004,
-          "tokenEarned": 52,
+          "tokenEarned": 58,
           "failStreak": 0,
           "byRarity": {
-            "common": 26
+            "common": 29
           },
           "byFish": {
             "nila": 4,
-            "mujair": 7,
-            "teri": 9,
+            "mujair": 8,
+            "teri": 10,
             "lele": 4,
-            "wader": 2
+            "wader": 3
           }
         },
         "story": {
@@ -663,6 +663,27 @@
             "genetic": "Bersisik Emas",
             "priceMultiplier": 1.7,
             "at": 1792656306764
+          },
+          {
+            "id": "teri",
+            "weight": 0.66,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792656328876
+          },
+          {
+            "id": "wader",
+            "weight": 5.31,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792656328876
+          },
+          {
+            "id": "mujair",
+            "weight": 10.87,
+            "genetic": "Bersisik Emas",
+            "priceMultiplier": 1.7,
+            "at": 1792656328876
           }
         ]
       },
@@ -2638,7 +2659,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 172,
-        "mancing": 121,
+        "mancing": 122,
         "tebakkimia": 2,
         "tokoikan": 45,
         "cek": 10,
@@ -2664,7 +2685,7 @@
         "m": 4,
         "buat": 1,
         "cekinv": 1,
-        "beli": 25,
+        "beli": 26,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -2694,8 +2715,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 948,
-          "last": 1792656306764
+          "count": 950,
+          "last": 1792656328876
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2741,9 +2762,9 @@
           "chat": 228
         },
         "120363429679202978@g.us": {
-          "count": 1660,
-          "last": 1792656306764,
-          "chat": 22698
+          "count": 1662,
+          "last": 1792656328876,
+          "chat": 22700
         },
         "120363412061249246@g.us": {
           "count": 47,
@@ -2751,7 +2772,7 @@
           "chat": 113
         }
       },
-      "total_chat": 24687,
+      "total_chat": 24689,
       "since": 1791275792057
     },
     "squads": {},
