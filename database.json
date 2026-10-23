@@ -473,8 +473,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 8735,
-      "last_chat": 1792748475197,
+      "total_chat": 8736,
+      "last_chat": 1792748505348,
       "uang": {
         "__bigint__": "5000"
       },
@@ -2640,7 +2640,7 @@
         "eventikan": 2,
         "cuaca": 1,
         "spotifycard": 2,
-        "cepatketik": 2
+        "cepatketik": 3
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -2652,8 +2652,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1051,
-          "last": 1792748461148
+          "count": 1052,
+          "last": 1792748505350
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2699,9 +2699,9 @@
           "chat": 229
         },
         "120363429679202978@g.us": {
-          "count": 1794,
-          "last": 1792748475197,
-          "chat": 23620
+          "count": 1795,
+          "last": 1792748505350,
+          "chat": 23621
         },
         "120363412061249246@g.us": {
           "count": 48,
@@ -2709,7 +2709,7 @@
           "chat": 114
         }
       },
-      "total_chat": 25656,
+      "total_chat": 25657,
       "since": 1791275792057
     },
     "squads": {},
@@ -2756,7 +2756,14 @@
     },
     "saataaGames": {
       "120363429679202978@g.us:6282292961437@s.whatsapp.net:cepatketik": {
-        "until": 1792748481148
+        "until": 1792748525350
+      },
+      "type:120363429679202978@g.us:1792748505350": {
+        "type": "type",
+        "sender": "6282292961437@s.whatsapp.net",
+        "answer": "kemerdekaan",
+        "started": 1792748505350,
+        "expires": 1792748525350
       }
     },
     "saataa_rebrand_registration_version": 3,
