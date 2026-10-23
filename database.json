@@ -473,8 +473,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 8456,
-      "last_chat": 1792732487185,
+      "total_chat": 8457,
+      "last_chat": 1792732543724,
       "uang": {
         "__bigint__": "5000"
       },
@@ -561,49 +561,49 @@
       "profilePageUpdatedAt": 1792292669063,
       "profilePageCreated": true,
       "fishing": {
-        "level": 1,
-        "xp": 99,
+        "level": 2,
+        "xp": 5,
         "money": 459,
-        "energy": 7,
+        "energy": 76,
         "maxEnergy": 100,
         "fish": {
-          "nila": 2,
-          "mujair": 2,
+          "nila": 3,
+          "mujair": 3,
           "teri": 6,
           "lele": 3,
-          "wader": 3,
+          "wader": 4,
           "mas": 0
         },
         "items": {
           "cacing": 0,
-          "pelet": 19
+          "pelet": 15
         },
         "parts": {
           "serat": 1
         },
         "rod": "bambu",
-        "rodDur": 4,
+        "rodDur": 0,
         "location": "sungai",
-        "lastEnergy": 1792656467756,
+        "lastEnergy": 1792732487756,
         "limited": {},
-        "tokenSaataa": 82,
+        "tokenSaataa": 88,
         "stats": {
-          "catches": 35,
-          "fails": 9,
+          "catches": 38,
+          "fails": 10,
           "sold": 19,
           "soldCoins": 1212,
-          "tokenEarned": 72,
-          "failStreak": 2,
+          "tokenEarned": 78,
+          "failStreak": 1,
           "byRarity": {
-            "common": 34,
+            "common": 37,
             "uncommon": 1
           },
           "byFish": {
-            "nila": 6,
-            "mujair": 9,
+            "nila": 7,
+            "mujair": 10,
             "teri": 10,
             "lele": 5,
-            "wader": 4,
+            "wader": 5,
             "mas": 1
           }
         },
@@ -726,6 +726,27 @@
             "genetic": null,
             "priceMultiplier": 1,
             "at": 1792656416466
+          },
+          {
+            "id": "nila",
+            "weight": 8.34,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792732543727
+          },
+          {
+            "id": "mujair",
+            "weight": 7.7,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792732543727
+          },
+          {
+            "id": "wader",
+            "weight": 5.67,
+            "genetic": null,
+            "priceMultiplier": 1,
+            "at": 1792732543728
           }
         ]
       },
@@ -2703,7 +2724,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 187,
-        "mancing": 126,
+        "mancing": 127,
         "tebakkimia": 2,
         "tokoikan": 45,
         "cek": 10,
@@ -2759,8 +2780,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 998,
-          "last": 1792732487186
+          "count": 999,
+          "last": 1792732543726
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -2806,9 +2827,9 @@
           "chat": 229
         },
         "120363429679202978@g.us": {
-          "count": 1737,
-          "last": 1792732487186,
-          "chat": 23090
+          "count": 1738,
+          "last": 1792732543726,
+          "chat": 23091
         },
         "120363412061249246@g.us": {
           "count": 48,
@@ -2816,7 +2837,7 @@
           "chat": 114
         }
       },
-      "total_chat": 25125,
+      "total_chat": 25126,
       "since": 1791275792057
     },
     "squads": {},
@@ -2905,7 +2926,7 @@
       "desc": "Peluang ikan langka sedikit naik."
     },
     "fishingWeatherId": "berkabut",
-    "fishingWeatherAt": 1792660342827,
+    "fishingWeatherAt": 1792732342827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
