@@ -2573,7 +2573,7 @@
     },
     "6281225595394@s.whatsapp.net": {
       "uid": 100029,
-      "name": "Player 5394",
+      "name": "￴",
       "registered": true,
       "registered_at": 1792896629964,
       "joined_at": 1792896629964,
@@ -2594,7 +2594,55 @@
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "auto_registered": true
+      "total_chat": 1,
+      "last_chat": 1792896864750,
+      "hutang": {
+        "__bigint__": "0"
+      },
+      "status_hubungan": "lajang",
+      "point_asmara": 0,
+      "status_profil": "Saya menggunakan SAATAA ANDAGII",
+      "location": "Belum diatur",
+      "cd": {},
+      "anak": [],
+      "invest": {},
+      "blacklist_karakter": [],
+      "distrik": "Awal",
+      "gender": "Belum diatur",
+      "exp_multiplier": 1,
+      "exp_buff_until": 0,
+      "banned_until": 0,
+      "kehamilan": {
+        "status": false,
+        "waktu_mulai": 0
+      },
+      "afk_time": 0,
+      "energi": 100,
+      "inventory": {},
+      "pinjol": {
+        "amount": {
+          "__bigint__": "0"
+        },
+        "due_time": 0
+      },
+      "fishing_gear": {
+        "active_bait": null,
+        "bait_uses": 0,
+        "bait_max": 0,
+        "active_rod": null,
+        "rod_uses": 0,
+        "rod_max": 0
+      },
+      "hubungan_sosial": {
+        "saudara": [],
+        "sahabat": [],
+        "teman_dekat": []
+      },
+      "pending_relasi": {},
+      "profil_lengkap": false,
+      "isPremium": false,
+      "premium_until": 0,
+      "last_reset": "2026-10-26T02:50:29.964Z"
     }
   },
   "global": {
@@ -2827,8 +2875,8 @@
         },
         "120363429679202978@g.us": {
           "count": 1948,
-          "last": 1792896823774,
-          "chat": 24789
+          "last": 1792896864750,
+          "chat": 24790
         },
         "120363412061249246@g.us": {
           "count": 48,
@@ -2836,7 +2884,7 @@
           "chat": 114
         }
       },
-      "total_chat": 26863,
+      "total_chat": 26864,
       "since": 1791275792057
     },
     "squads": {},
