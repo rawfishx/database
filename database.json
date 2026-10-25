@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 7909,
-      "last_chat": 1792929129096,
+      "total_chat": 7911,
+      "last_chat": 1792929187077,
       "uang": {
         "__bigint__": "5000"
       },
@@ -570,8 +570,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 9279,
-      "last_chat": 1792929096684,
+      "total_chat": 9282,
+      "last_chat": 1792929210958,
       "uang": {
         "__bigint__": "5000"
       },
@@ -959,8 +959,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 7696,
-      "last_chat": 1792929112499,
+      "total_chat": 7699,
+      "last_chat": 1792929218177,
       "uang": {
         "__bigint__": "5000"
       },
@@ -2643,6 +2643,31 @@
       "isPremium": false,
       "premium_until": 0,
       "last_reset": "2026-10-26T02:50:29.964Z"
+    },
+    "6282176435868@s.whatsapp.net": {
+      "uid": 100030,
+      "name": "Player 5868",
+      "registered": true,
+      "registered_at": 1792929218177,
+      "joined_at": 1792929218177,
+      "role": "player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "limit": 15,
+      "limit_reset_at": 1793015618177,
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "achievements": [],
+      "auto_registered": true
     }
   },
   "global": {
@@ -2667,9 +2692,11 @@
       "220551150837906@lid": "628175727889@s.whatsapp.net",
       "70197348163740@lid": "6287836489181@s.whatsapp.net",
       "91462033248457@lid": "6282246878442@s.whatsapp.net",
-      "45733013147838@lid": "6281225595394@s.whatsapp.net"
+      "45733013147838@lid": "6281225595394@s.whatsapp.net",
+      "184048592892119@lid": "6282156067424@s.whatsapp.net",
+      "112155101778123@lid": "6282176435868@s.whatsapp.net"
     },
-    "last_uid": 100029,
+    "last_uid": 100030,
     "activity": {
       "commands": {
         "menu": 94,
@@ -2875,8 +2902,8 @@
         },
         "120363429679202978@g.us": {
           "count": 2041,
-          "last": 1792929129096,
-          "chat": 25437
+          "last": 1792929218177,
+          "chat": 25445
         },
         "120363412061249246@g.us": {
           "count": 48,
@@ -2884,7 +2911,7 @@
           "chat": 114
         }
       },
-      "total_chat": 27515,
+      "total_chat": 27523,
       "since": 1791275792057
     },
     "squads": {},
