@@ -2307,8 +2307,8 @@
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 240,
-      "last_chat": 1792984421581,
+      "total_chat": 243,
+      "last_chat": 1792984659101,
       "hutang": {
         "__bigint__": "0"
       },
@@ -2742,15 +2742,15 @@
       "xp": {
         "__bigint__": "0"
       },
-      "limit": 15,
+      "limit": 14,
       "limit_reset_at": 1793015744461,
       "badges": [
         "🪪 SAATAA Pioneer"
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 6,
-      "last_chat": 1792984521157,
+      "total_chat": 7,
+      "last_chat": 1792984649541,
       "hutang": {
         "__bigint__": "0"
       },
@@ -2797,7 +2797,35 @@
       "profil_lengkap": false,
       "isPremium": false,
       "premium_until": 0,
-      "last_reset": "2026-10-26T11:55:44.461Z"
+      "last_reset": "2026-10-26T11:55:44.461Z",
+      "fishing": {
+        "level": 1,
+        "xp": 0,
+        "money": 200,
+        "energy": 100,
+        "maxEnergy": 100,
+        "fish": {},
+        "items": {
+          "cacing": 10
+        },
+        "parts": {},
+        "rod": "bambu",
+        "rodDur": 12,
+        "location": "sungai",
+        "lastEnergy": 1792984649543,
+        "limited": {},
+        "tokenSaataa": 0,
+        "stats": {
+          "catches": 0,
+          "fails": 0,
+          "sold": 0,
+          "soldCoins": 0,
+          "tokenEarned": 0,
+          "failStreak": 0,
+          "byRarity": {},
+          "byFish": {}
+        }
+      }
     }
   },
   "global": {
@@ -2960,7 +2988,7 @@
         "console": 1,
         "lokasi": 2,
         "pindah": 1,
-        "info": 4,
+        "info": 5,
         "antitoxic": 2,
         "katatoxic": 2,
         "toxicadd": 4,
@@ -3022,6 +3050,10 @@
         "6282246878442@s.whatsapp.net": {
           "count": 14,
           "last": 1792838573383
+        },
+        "6282156067424@s.whatsapp.net": {
+          "count": 1,
+          "last": 1792984649543
         }
       },
       "groups": {
@@ -3031,9 +3063,9 @@
           "chat": 234
         },
         "120363429679202978@g.us": {
-          "count": 2070,
-          "last": 1792984565831,
-          "chat": 25603
+          "count": 2071,
+          "last": 1792984659101,
+          "chat": 25607
         },
         "120363412061249246@g.us": {
           "count": 48,
@@ -3041,7 +3073,7 @@
           "chat": 114
         }
       },
-      "total_chat": 27685,
+      "total_chat": 27689,
       "since": 1791275792057
     },
     "squads": {},
