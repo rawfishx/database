@@ -2323,8 +2323,8 @@
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 529,
-      "last_chat": 1793027006693,
+      "total_chat": 530,
+      "last_chat": 1793027027569,
       "hutang": {
         "__bigint__": "0"
       },
@@ -2759,15 +2759,15 @@
       "xp": {
         "__bigint__": "0"
       },
-      "limit": 11,
+      "limit": 10,
       "limit_reset_at": 1793102188082,
       "badges": [
         "🪪 SAATAA Pioneer"
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 67,
-      "last_chat": 1793026853747,
+      "total_chat": 68,
+      "last_chat": 1793027032547,
       "hutang": {
         "__bigint__": "0"
       },
@@ -2788,7 +2788,7 @@
         "status": false,
         "waktu_mulai": 0
       },
-      "afk_time": 0,
+      "afk_time": 1793027032550,
       "energi": 100,
       "inventory": {},
       "pinjol": {
@@ -2843,7 +2843,13 @@
           "byFish": {}
         }
       },
-      "limit_reset_notified_at": 1793015788082
+      "limit_reset_notified_at": 1793015788082,
+      "transactions": [],
+      "daily_streak": 0,
+      "last_daily": 0,
+      "last_transfer": 0,
+      "missions_completed": [],
+      "afk_reason": "Tanpa alasan"
     },
     "6288230326513@s.whatsapp.net": {
       "uid": 100032,
@@ -3174,7 +3180,8 @@
         "setpack": 2,
         "tafsir": 1,
         "jadwalshalat": 1,
-        "shalat": 1
+        "shalat": 1,
+        "afk": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -3226,8 +3233,8 @@
           "last": 1792838573383
         },
         "6282156067424@s.whatsapp.net": {
-          "count": 6,
-          "last": 1793026821965
+          "count": 7,
+          "last": 1793027032548
         },
         "6283178790226@s.whatsapp.net": {
           "count": 1,
@@ -3241,9 +3248,9 @@
           "chat": 258
         },
         "120363429679202978@g.us": {
-          "count": 2130,
-          "last": 1793027006693,
-          "chat": 27512
+          "count": 2131,
+          "last": 1793027032548,
+          "chat": 27514
         },
         "120363412061249246@g.us": {
           "count": 48,
@@ -3251,7 +3258,7 @@
           "chat": 114
         }
       },
-      "total_chat": 29643,
+      "total_chat": 29645,
       "since": 1791275792057
     },
     "squads": {},
