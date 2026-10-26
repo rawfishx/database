@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 8081,
-      "last_chat": 1793002938933,
+      "total_chat": 8085,
+      "last_chat": 1793003076827,
       "uang": {
         "__bigint__": "5000"
       },
@@ -101,12 +101,12 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 2,
-        "xp": 108,
+        "xp": 109,
         "money": 3864,
         "energy": 92,
         "maxEnergy": 100,
         "fish": {
-          "teri": 2,
+          "teri": 3,
           "lele": 3,
           "mujair": 2,
           "nila": 2,
@@ -117,31 +117,31 @@
           "belut": 0
         },
         "items": {
-          "cacing": 18,
+          "cacing": 17,
           "pelet": 2
         },
         "parts": {},
         "rod": "kayu",
-        "rodDur": 30,
+        "rodDur": 29,
         "location": "sungai",
-        "lastEnergy": 1792984559040,
+        "lastEnergy": 1793003039040,
         "limited": {},
-        "tokenSaataa": 144,
+        "tokenSaataa": 146,
         "stats": {
-          "catches": 59,
+          "catches": 60,
           "fails": 18,
           "sold": 49,
           "soldCoins": 4299,
-          "tokenEarned": 134,
+          "tokenEarned": 136,
           "failStreak": 0,
           "byRarity": {
-            "common": 51,
+            "common": 52,
             "uncommon": 8
           },
           "byFish": {
             "mujair": 9,
             "nila": 10,
-            "teri": 10,
+            "teri": 11,
             "lele": 10,
             "wader": 12,
             "gabus": 1,
@@ -261,6 +261,14 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1792984565832
+          },
+          {
+            "id": "teri",
+            "weight": 4.4,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793003045124
           }
         ]
       }
@@ -3120,14 +3128,14 @@
         "tolaksuit": 1,
         "suitjawab": 7,
         "lirikselect": 84,
-        "m": 9,
+        "m": 10,
         "buat": 1,
         "cekinv": 1,
         "beli": 35,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
-        "ikan": 5,
+        "ikan": 8,
         "tas": 3,
         "listikan": 2,
         "setchname": 3,
@@ -3151,8 +3159,8 @@
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 889,
-          "last": 1793002815177
+          "count": 893,
+          "last": 1793003076829
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -3205,14 +3213,14 @@
       },
       "groups": {
         "120363402872389104@g.us": {
-          "count": 184,
-          "last": 1792857173468,
-          "chat": 234
+          "count": 187,
+          "last": 1793003076829,
+          "chat": 237
         },
         "120363429679202978@g.us": {
-          "count": 2081,
-          "last": 1793002938933,
-          "chat": 26365
+          "count": 2082,
+          "last": 1793003045121,
+          "chat": 26366
         },
         "120363412061249246@g.us": {
           "count": 48,
@@ -3220,7 +3228,7 @@
           "chat": 114
         }
       },
-      "total_chat": 28454,
+      "total_chat": 28458,
       "since": 1791275792057
     },
     "squads": {},
@@ -3306,14 +3314,14 @@
       }
     },
     "fishingWeather": {
-      "id": "berkabut",
-      "name": "Berkabut",
-      "luck": 0.08,
-      "weight": 0.96,
-      "desc": "Peluang ikan langka sedikit naik."
+      "id": "cerah",
+      "name": "Cerah",
+      "luck": 0,
+      "weight": 1,
+      "desc": "Cuaca normal."
     },
-    "fishingWeatherId": "berkabut",
-    "fishingWeatherAt": 1792984342827,
+    "fishingWeatherId": "cerah",
+    "fishingWeatherAt": 1793002342827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
