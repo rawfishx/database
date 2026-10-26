@@ -2307,8 +2307,8 @@
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 329,
-      "last_chat": 1792993657619,
+      "total_chat": 330,
+      "last_chat": 1792996695604,
       "hutang": {
         "__bigint__": "0"
       },
@@ -2898,6 +2898,31 @@
       "limit_reset_at": 1793077016449,
       "limit": 15,
       "last_reset": "2026-10-27T04:56:56.449Z"
+    },
+    "6283178790226@s.whatsapp.net": {
+      "uid": 100033,
+      "name": "Player 0226",
+      "registered": true,
+      "registered_at": 1792996695604,
+      "joined_at": 1792996695604,
+      "role": "player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "limit": 15,
+      "limit_reset_at": 1793083095604,
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "achievements": [],
+      "auto_registered": true
     }
   },
   "global": {
@@ -2928,7 +2953,7 @@
       "76747374608443@lid": "6283178790226@s.whatsapp.net",
       "197122574049340@lid": "6288230326513@s.whatsapp.net"
     },
-    "last_uid": 100032,
+    "last_uid": 100033,
     "activity": {
       "commands": {
         "menu": 94,
@@ -3138,8 +3163,8 @@
         },
         "120363429679202978@g.us": {
           "count": 2074,
-          "last": 1792996538473,
-          "chat": 26299
+          "last": 1792996695604,
+          "chat": 26300
         },
         "120363412061249246@g.us": {
           "count": 48,
@@ -3147,7 +3172,7 @@
           "chat": 114
         }
       },
-      "total_chat": 28386,
+      "total_chat": 28387,
       "since": 1791275792057
     },
     "squads": {},
