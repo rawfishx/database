@@ -594,8 +594,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 10064,
-      "last_chat": 1793109758611,
+      "total_chat": 10067,
+      "last_chat": 1793109800843,
       "uang": {
         "__bigint__": "5000"
       },
@@ -682,21 +682,21 @@
       "profilePageUpdatedAt": 1792292669063,
       "profilePageCreated": true,
       "fishing": {
-        "level": 2,
-        "xp": 138,
-        "money": 3187,
-        "energy": 4,
+        "level": 3,
+        "xp": 3,
+        "money": 4885,
+        "energy": 20,
         "maxEnergy": 100,
         "fish": {
-          "nila": 1,
-          "mujair": 2,
+          "nila": 0,
+          "mujair": 0,
           "teri": 0,
-          "lele": 2,
-          "wader": 2,
+          "lele": 0,
+          "wader": 0,
           "mas": 0,
-          "belut": 1,
+          "belut": 0,
           "patin": 0,
-          "gabus": 1
+          "gabus": 0
         },
         "items": {
           "cacing": 0,
@@ -708,14 +708,14 @@
         "rod": "kayu",
         "rodDur": 11,
         "location": "sungai",
-        "lastEnergy": 1793109707756,
+        "lastEnergy": 1793109767756,
         "limited": {},
         "tokenSaataa": 134,
         "stats": {
           "catches": 56,
           "fails": 16,
-          "sold": 47,
-          "soldCoins": 4417,
+          "sold": 56,
+          "soldCoins": 6115,
           "tokenEarned": 124,
           "failStreak": 0,
           "byRarity": {
@@ -741,80 +741,7 @@
           "debt": 0,
           "debtNpc": "Paman Joko"
         },
-        "fishRecords": [
-          {
-            "id": "wader",
-            "weight": 9.75,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793109758617
-          },
-          {
-            "id": "belut",
-            "weight": 9.42,
-            "genetic": "Bertulang Padat",
-            "mutationId": "tulang_padat",
-            "priceMultiplier": 1.15,
-            "at": 1793109758618
-          },
-          {
-            "id": "lele",
-            "weight": 5.67,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793109758619
-          },
-          {
-            "id": "gabus",
-            "weight": 8.36,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793109758619
-          },
-          {
-            "id": "mujair",
-            "weight": 2.36,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793109758619
-          },
-          {
-            "id": "mujair",
-            "weight": 3.9,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793109758620
-          },
-          {
-            "id": "nila",
-            "weight": 7.6,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793109758620
-          },
-          {
-            "id": "wader",
-            "weight": 5.53,
-            "genetic": "Albino",
-            "mutationId": "albino",
-            "priceMultiplier": 2.5,
-            "at": 1793109758620
-          },
-          {
-            "id": "lele",
-            "weight": 0.89,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793109758621
-          }
-        ]
+        "fishRecords": []
       },
       "achievements": [
         "mancing_1",
@@ -3205,7 +3132,7 @@
         "setnama": 2,
         "nowplaying": 2,
         "rakit": 1,
-        "jualikan": 8,
+        "jualikan": 9,
         "ytmp4": 1,
         "allmenu": 2,
         "character": 1,
@@ -3270,8 +3197,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1216,
-          "last": 1793109758612
+          "count": 1217,
+          "last": 1793109780395
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3325,9 +3252,9 @@
           "chat": 262
         },
         "120363429679202978@g.us": {
-          "count": 2199,
-          "last": 1793109758612,
-          "chat": 28003
+          "count": 2200,
+          "last": 1793109800843,
+          "chat": 28006
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3335,7 +3262,7 @@
           "chat": 116
         }
       },
-      "total_chat": 30143,
+      "total_chat": 30146,
       "since": 1791275792057
     },
     "squads": {},
