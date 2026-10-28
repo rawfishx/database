@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 8456,
-      "last_chat": 1793193002502,
+      "total_chat": 8460,
+      "last_chat": 1793193112965,
       "uang": {
         "__bigint__": "5000"
       },
@@ -594,8 +594,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 10532,
-      "last_chat": 1793193032367,
+      "total_chat": 10536,
+      "last_chat": 1793193107550,
       "uang": {
         "__bigint__": "5000"
       },
@@ -685,7 +685,7 @@
         "level": 3,
         "xp": 3,
         "money": 4885,
-        "energy": 20,
+        "energy": 92,
         "maxEnergy": 100,
         "fish": {
           "nila": 0,
@@ -700,24 +700,24 @@
         },
         "items": {
           "cacing": 0,
-          "pelet": 1
+          "pelet": 0
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 11,
+        "rodDur": 10,
         "location": "sungai",
-        "lastEnergy": 1793109767756,
+        "lastEnergy": 1793193047756,
         "limited": {},
         "tokenSaataa": 134,
         "stats": {
           "catches": 56,
-          "fails": 16,
+          "fails": 17,
           "sold": 56,
           "soldCoins": 6115,
           "tokenEarned": 124,
-          "failStreak": 0,
+          "failStreak": 1,
           "byRarity": {
             "common": 50,
             "uncommon": 6
@@ -985,8 +985,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 8987,
-      "last_chat": 1793193027009,
+      "total_chat": 8993,
+      "last_chat": 1793193109286,
       "uang": {
         "__bigint__": "5000"
       },
@@ -2942,15 +2942,15 @@
       "xp": {
         "__bigint__": "0"
       },
-      "limit": 13,
+      "limit": 12,
       "limit_reset_at": 1793255934575,
       "badges": [
         "🪪 SAATAA Pioneer"
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 31,
-      "last_chat": 1793193054427,
+      "total_chat": 33,
+      "last_chat": 1793193074712,
       "hutang": {
         "__bigint__": "0"
       },
@@ -3150,10 +3150,10 @@
         "wordle": 5,
         "qris": 1,
         "allin": 1,
-        "playselect": 281,
-        "mancing": 130,
+        "playselect": 282,
+        "mancing": 131,
         "tebakkimia": 2,
-        "tokoikan": 46,
+        "tokoikan": 47,
         "cek": 11,
         "setnama": 2,
         "nowplaying": 2,
@@ -3223,8 +3223,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1265,
-          "last": 1793192834849
+          "count": 1267,
+          "last": 1793193107552
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3267,8 +3267,8 @@
           "last": 1793171773539
         },
         "6283178790226@s.whatsapp.net": {
-          "count": 2,
-          "last": 1793193054429
+          "count": 3,
+          "last": 1793193063761
         }
       },
       "groups": {
@@ -3278,9 +3278,9 @@
           "chat": 262
         },
         "120363429679202978@g.us": {
-          "count": 2294,
-          "last": 1793193054429,
-          "chat": 29555
+          "count": 2297,
+          "last": 1793193112965,
+          "chat": 29571
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3288,7 +3288,7 @@
           "chat": 116
         }
       },
-      "total_chat": 31697,
+      "total_chat": 31713,
       "since": 1791275792057
     },
     "squads": {},
@@ -3359,11 +3359,11 @@
     "limit_system_version": 2,
     "saataa_nowplaying": {
       "120363429679202978@g.us": {
-        "title": "Devy Berlian - Pemberi Harapan Palsu (Official Music Video NAGASWARA) #music",
-        "artist": "NAGASWARA Official Video Indonesian Music Channel",
-        "url": "https://youtube.com/watch?v=LxcONOaWxQw",
-        "thumbnail": "https://i.ytimg.com/vi/LxcONOaWxQw/hq720.jpg",
-        "at": 1793192834849
+        "title": "Rebellion Rose -  Aku, Kamu dan Samudra (Official Music Video & murphydarchy prewedding video)",
+        "artist": "REBELLIONROSE",
+        "url": "https://youtube.com/watch?v=kRaSBCarcso",
+        "thumbnail": "https://i.ytimg.com/vi/kRaSBCarcso/hq720.jpg",
+        "at": 1793193063761
       },
       "120363412061249246@g.us": {
         "title": "Steve Lacy - Dark Red (Lyrics)",
@@ -3381,14 +3381,14 @@
       }
     },
     "fishingWeather": {
-      "id": "badai",
-      "name": "Badai",
-      "luck": 0.12,
-      "weight": 1.2,
-      "desc": "Tarikan kuat, ikan bisa lebih berat."
+      "id": "hujan",
+      "name": "Hujan",
+      "luck": 0.05,
+      "weight": 1.08,
+      "desc": "Ikan lebih aktif."
     },
-    "fishingWeatherId": "badai",
-    "fishingWeatherAt": 1793108542827,
+    "fishingWeatherId": "hujan",
+    "fishingWeatherAt": 1793191342827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
