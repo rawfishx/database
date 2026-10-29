@@ -3024,15 +3024,15 @@
       "xp": {
         "__bigint__": "0"
       },
-      "limit": 0,
+      "limit": 20,
       "limit_reset_at": 1793255934575,
       "badges": [
         "🪪 SAATAA Pioneer"
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 91,
-      "last_chat": 1793232455014,
+      "total_chat": 92,
+      "last_chat": 1793232596598,
       "hutang": {
         "__bigint__": "0"
       },
@@ -3297,7 +3297,8 @@
         "ttt": 8,
         "getpp": 1,
         "musicsearch": 2,
-        "buatredeem": 1
+        "buatredeem": 1,
+        "redeem": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
@@ -3353,8 +3354,8 @@
           "last": 1793171773539
         },
         "6283178790226@s.whatsapp.net": {
-          "count": 16,
-          "last": 1793230210788
+          "count": 17,
+          "last": 1793232596600
         }
       },
       "groups": {
@@ -3364,9 +3365,9 @@
           "chat": 264
         },
         "120363429679202978@g.us": {
-          "count": 2342,
-          "last": 1793232568155,
-          "chat": 29917
+          "count": 2343,
+          "last": 1793232596600,
+          "chat": 29918
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3374,7 +3375,7 @@
           "chat": 116
         }
       },
-      "total_chat": 32061,
+      "total_chat": 32062,
       "since": 1791275792057
     },
     "squads": {},
@@ -3528,8 +3529,10 @@
           "limit": 20
         },
         "limit": 1,
-        "used": 0,
-        "claimed_by": [],
+        "used": 1,
+        "claimed_by": [
+          "6283178790226@s.whatsapp.net"
+        ],
         "expired": 1793837355383,
         "creator": "6283138226730@s.whatsapp.net",
         "created_at": 1793232555383
