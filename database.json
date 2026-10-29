@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 8467,
-      "last_chat": 1793232504781,
+      "total_chat": 8468,
+      "last_chat": 1793232555377,
       "uang": {
         "__bigint__": "5000"
       },
@@ -3296,12 +3296,13 @@
         "afk": 2,
         "ttt": 8,
         "getpp": 1,
-        "musicsearch": 2
+        "musicsearch": 2,
+        "buatredeem": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 958,
-          "last": 1793232504782
+          "count": 959,
+          "last": 1793232555380
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -3358,9 +3359,9 @@
       },
       "groups": {
         "120363402872389104@g.us": {
-          "count": 209,
-          "last": 1793232504782,
-          "chat": 263
+          "count": 210,
+          "last": 1793232555380,
+          "chat": 264
         },
         "120363429679202978@g.us": {
           "count": 2342,
@@ -3373,7 +3374,7 @@
           "chat": 116
         }
       },
-      "total_chat": 32059,
+      "total_chat": 32060,
       "since": 1791275792057
     },
     "squads": {},
@@ -3520,6 +3521,19 @@
         "active": true
       }
     ],
-    "fishingCatalog": {}
+    "fishingCatalog": {},
+    "redeem_codes": {
+      "9LCDSM": {
+        "reward": {
+          "limit": 20
+        },
+        "limit": 1,
+        "used": 0,
+        "claimed_by": [],
+        "expired": 1793837355383,
+        "creator": "6283138226730@s.whatsapp.net",
+        "created_at": 1793232555383
+      }
+    }
   }
 }
