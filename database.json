@@ -594,8 +594,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 10946,
-      "last_chat": 1793365343538,
+      "total_chat": 10950,
+      "last_chat": 1793365451492,
       "uang": {
         "__bigint__": "5000"
       },
@@ -683,56 +683,56 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 3,
-        "xp": 42,
-        "money": 2685,
-        "energy": 4,
+        "xp": 65,
+        "money": 1385,
+        "energy": 5,
         "maxEnergy": 100,
         "fish": {
-          "nila": 3,
-          "mujair": 6,
-          "teri": 2,
+          "nila": 5,
+          "mujair": 9,
+          "teri": 3,
           "lele": 3,
           "wader": 4,
           "mas": 0,
           "belut": 0,
           "patin": 0,
-          "gabus": 0
+          "gabus": 3
         },
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 7
+          "udangumpan": 15
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 22,
+        "rodDur": 10,
         "location": "sungai",
-        "lastEnergy": 1793348807756,
+        "lastEnergy": 1793365427756,
         "limited": {},
-        "tokenSaataa": 170,
+        "tokenSaataa": 194,
         "stats": {
-          "catches": 74,
-          "fails": 22,
+          "catches": 83,
+          "fails": 25,
           "sold": 56,
           "soldCoins": 6115,
-          "tokenEarned": 160,
+          "tokenEarned": 184,
           "failStreak": 0,
           "byRarity": {
-            "common": 68,
-            "uncommon": 6
+            "common": 74,
+            "uncommon": 9
           },
           "byFish": {
-            "nila": 12,
-            "mujair": 19,
-            "teri": 12,
+            "nila": 14,
+            "mujair": 22,
+            "teri": 13,
             "lele": 12,
             "wader": 13,
             "mas": 2,
             "belut": 2,
             "patin": 1,
-            "gabus": 1
+            "gabus": 4
           }
         },
         "story": {
@@ -886,6 +886,78 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1793348849858
+          },
+          {
+            "id": "nila",
+            "weight": 4.2,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793365427355
+          },
+          {
+            "id": "mujair",
+            "weight": 2,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793365427356
+          },
+          {
+            "id": "gabus",
+            "weight": 0.73,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793365427356
+          },
+          {
+            "id": "mujair",
+            "weight": 2.55,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793365427356
+          },
+          {
+            "id": "gabus",
+            "weight": 2.92,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793365427356
+          },
+          {
+            "id": "nila",
+            "weight": 3.85,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793365451494
+          },
+          {
+            "id": "mujair",
+            "weight": 0.77,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793365451494
+          },
+          {
+            "id": "teri",
+            "weight": 8.81,
+            "genetic": "Bertulang Padat",
+            "mutationId": "tulang_padat",
+            "priceMultiplier": 1.15,
+            "at": 1793365451494
+          },
+          {
+            "id": "gabus",
+            "weight": 6.96,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793365451494
           }
         ]
       },
@@ -3312,7 +3384,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 335,
-        "mancing": 136,
+        "mancing": 138,
         "tebakkimia": 2,
         "tokoikan": 49,
         "cek": 11,
@@ -3338,7 +3410,7 @@
         "m": 12,
         "buat": 1,
         "cekinv": 1,
-        "beli": 40,
+        "beli": 41,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -3389,8 +3461,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1351,
-          "last": 1793349708489
+          "count": 1354,
+          "last": 1793365451493
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3444,9 +3516,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2478,
-          "last": 1793365402326,
-          "chat": 31065
+          "count": 2481,
+          "last": 1793365451493,
+          "chat": 31069
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3454,7 +3526,7 @@
           "chat": 116
         }
       },
-      "total_chat": 33216,
+      "total_chat": 33220,
       "since": 1791275792057
     },
     "squads": {},
