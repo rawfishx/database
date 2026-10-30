@@ -594,8 +594,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 10827,
-      "last_chat": 1793348831883,
+      "total_chat": 10829,
+      "last_chat": 1793348849856,
       "uang": {
         "__bigint__": "5000"
       },
@@ -683,16 +683,16 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 3,
-        "xp": 31,
-        "money": 3335,
-        "energy": 60,
+        "xp": 42,
+        "money": 2685,
+        "energy": 4,
         "maxEnergy": 100,
         "fish": {
-          "nila": 1,
-          "mujair": 4,
+          "nila": 3,
+          "mujair": 6,
           "teri": 2,
           "lele": 3,
-          "wader": 3,
+          "wader": 4,
           "mas": 0,
           "belut": 0,
           "patin": 0,
@@ -701,34 +701,34 @@
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 4
+          "udangumpan": 7
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 29,
+        "rodDur": 22,
         "location": "sungai",
         "lastEnergy": 1793348807756,
         "limited": {},
-        "tokenSaataa": 160,
+        "tokenSaataa": 170,
         "stats": {
-          "catches": 69,
-          "fails": 20,
+          "catches": 74,
+          "fails": 22,
           "sold": 56,
           "soldCoins": 6115,
-          "tokenEarned": 150,
+          "tokenEarned": 160,
           "failStreak": 0,
           "byRarity": {
-            "common": 63,
+            "common": 68,
             "uncommon": 6
           },
           "byFish": {
-            "nila": 10,
-            "mujair": 17,
+            "nila": 12,
+            "mujair": 19,
             "teri": 12,
             "lele": 12,
-            "wader": 12,
+            "wader": 13,
             "mas": 2,
             "belut": 2,
             "patin": 1,
@@ -846,6 +846,46 @@
             "mutationId": "sisik_emas",
             "priceMultiplier": 1.7,
             "at": 1793348812712
+          },
+          {
+            "id": "mujair",
+            "weight": 7.6,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793348849857
+          },
+          {
+            "id": "nila",
+            "weight": 3.34,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793348849857
+          },
+          {
+            "id": "nila",
+            "weight": 2.6,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793348849857
+          },
+          {
+            "id": "wader",
+            "weight": 3.41,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793348849858
+          },
+          {
+            "id": "mujair",
+            "weight": 7.01,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793348849858
           }
         ]
       },
@@ -2439,8 +2479,8 @@
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 989,
-      "last_chat": 1793348661427,
+      "total_chat": 991,
+      "last_chat": 1793348851586,
       "hutang": {
         "__bigint__": "0"
       },
@@ -3272,7 +3312,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 329,
-        "mancing": 135,
+        "mancing": 136,
         "tebakkimia": 2,
         "tokoikan": 49,
         "cek": 11,
@@ -3298,7 +3338,7 @@
         "m": 11,
         "buat": 1,
         "cekinv": 1,
-        "beli": 39,
+        "beli": 40,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -3349,8 +3389,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1338,
-          "last": 1793348831884
+          "count": 1340,
+          "last": 1793348849857
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3404,9 +3444,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2450,
-          "last": 1793348831884,
-          "chat": 30652
+          "count": 2452,
+          "last": 1793348851586,
+          "chat": 30656
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3414,7 +3454,7 @@
           "chat": 116
         }
       },
-      "total_chat": 32802,
+      "total_chat": 32806,
       "since": 1791275792057
     },
     "squads": {},
