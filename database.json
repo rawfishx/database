@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 8711,
-      "last_chat": 1793365333367,
+      "total_chat": 8717,
+      "last_chat": 1793365402326,
       "uang": {
         "__bigint__": "5000"
       },
@@ -103,7 +103,7 @@
         "level": 2,
         "xp": 116,
         "money": 3864,
-        "energy": 100,
+        "energy": 92,
         "maxEnergy": 100,
         "fish": {
           "teri": 3,
@@ -117,23 +117,23 @@
           "belut": 0
         },
         "items": {
-          "cacing": 16,
+          "cacing": 15,
           "pelet": 2
         },
         "parts": {},
         "rod": "kayu",
-        "rodDur": 28,
+        "rodDur": 27,
         "location": "sungai",
-        "lastEnergy": 1793017559040,
+        "lastEnergy": 1793365379040,
         "limited": {},
         "tokenSaataa": 150,
         "stats": {
           "catches": 61,
-          "fails": 18,
+          "fails": 19,
           "sold": 49,
           "soldCoins": 4299,
           "tokenEarned": 140,
-          "failStreak": 0,
+          "failStreak": 1,
           "byRarity": {
             "common": 52,
             "uncommon": 9
@@ -2479,8 +2479,8 @@
       ],
       "active_badge": "🪪 SAATAA Pioneer",
       "achievements": [],
-      "total_chat": 1144,
-      "last_chat": 1793365363343,
+      "total_chat": 1148,
+      "last_chat": 1793365383380,
       "hutang": {
         "__bigint__": "0"
       },
@@ -3335,7 +3335,7 @@
         "tolaksuit": 1,
         "suitjawab": 7,
         "lirikselect": 112,
-        "m": 11,
+        "m": 12,
         "buat": 1,
         "cekinv": 1,
         "beli": 40,
@@ -3381,8 +3381,8 @@
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 970,
-          "last": 1793363932456
+          "count": 971,
+          "last": 1793365395101
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -3444,9 +3444,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2477,
-          "last": 1793365363343,
-          "chat": 31055
+          "count": 2478,
+          "last": 1793365402326,
+          "chat": 31065
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3454,7 +3454,7 @@
           "chat": 116
         }
       },
-      "total_chat": 33206,
+      "total_chat": 33216,
       "since": 1791275792057
     },
     "squads": {},
@@ -3547,14 +3547,14 @@
       }
     },
     "fishingWeather": {
-      "id": "cerah",
-      "name": "Cerah",
-      "luck": 0,
-      "weight": 1,
-      "desc": "Cuaca normal."
+      "id": "hujan",
+      "name": "Hujan",
+      "luck": 0.05,
+      "weight": 1.08,
+      "desc": "Ikan lebih aktif."
     },
-    "fishingWeatherId": "cerah",
-    "fishingWeatherAt": 1793347942827,
+    "fishingWeatherId": "hujan",
+    "fishingWeatherAt": 1793364142827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
