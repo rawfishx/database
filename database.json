@@ -594,8 +594,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 10823,
-      "last_chat": 1793348799466,
+      "total_chat": 10827,
+      "last_chat": 1793348831883,
       "uang": {
         "__bigint__": "5000"
       },
@@ -683,16 +683,16 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 3,
-        "xp": 26,
-        "money": 3595,
-        "energy": 6,
+        "xp": 31,
+        "money": 3335,
+        "energy": 60,
         "maxEnergy": 100,
         "fish": {
           "nila": 1,
-          "mujair": 3,
-          "teri": 1,
-          "lele": 2,
-          "wader": 2,
+          "mujair": 4,
+          "teri": 2,
+          "lele": 3,
+          "wader": 3,
           "mas": 0,
           "belut": 0,
           "patin": 0,
@@ -701,34 +701,34 @@
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 5
+          "udangumpan": 4
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 34,
+        "rodDur": 29,
         "location": "sungai",
-        "lastEnergy": 1793193167756,
+        "lastEnergy": 1793348807756,
         "limited": {},
-        "tokenSaataa": 152,
+        "tokenSaataa": 160,
         "stats": {
-          "catches": 65,
-          "fails": 19,
+          "catches": 69,
+          "fails": 20,
           "sold": 56,
           "soldCoins": 6115,
-          "tokenEarned": 142,
+          "tokenEarned": 150,
           "failStreak": 0,
           "byRarity": {
-            "common": 59,
+            "common": 63,
             "uncommon": 6
           },
           "byFish": {
             "nila": 10,
-            "mujair": 16,
-            "teri": 11,
-            "lele": 11,
-            "wader": 11,
+            "mujair": 17,
+            "teri": 12,
+            "lele": 12,
+            "wader": 12,
             "mas": 2,
             "belut": 2,
             "patin": 1,
@@ -814,6 +814,38 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1793193171790
+          },
+          {
+            "id": "lele",
+            "weight": 1.58,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793348812710
+          },
+          {
+            "id": "wader",
+            "weight": 7.14,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793348812712
+          },
+          {
+            "id": "teri",
+            "weight": 4.26,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793348812712
+          },
+          {
+            "id": "mujair",
+            "weight": 4.53,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793348812712
           }
         ]
       },
@@ -3240,9 +3272,9 @@
         "qris": 1,
         "allin": 1,
         "playselect": 329,
-        "mancing": 134,
+        "mancing": 135,
         "tebakkimia": 2,
-        "tokoikan": 48,
+        "tokoikan": 49,
         "cek": 11,
         "setnama": 2,
         "nowplaying": 2,
@@ -3262,11 +3294,11 @@
         "terimasuit": 3,
         "tolaksuit": 1,
         "suitjawab": 7,
-        "lirikselect": 109,
+        "lirikselect": 110,
         "m": 11,
         "buat": 1,
         "cekinv": 1,
-        "beli": 38,
+        "beli": 39,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -3317,8 +3349,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1334,
-          "last": 1793348799469
+          "count": 1338,
+          "last": 1793348831884
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3372,9 +3404,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2446,
-          "last": 1793348799469,
-          "chat": 30648
+          "count": 2450,
+          "last": 1793348831884,
+          "chat": 30652
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3382,7 +3414,7 @@
           "chat": 116
         }
       },
-      "total_chat": 32798,
+      "total_chat": 32802,
       "since": 1791275792057
     },
     "squads": {},
@@ -3475,14 +3507,14 @@
       }
     },
     "fishingWeather": {
-      "id": "berkabut",
-      "name": "Berkabut",
-      "luck": 0.08,
-      "weight": 0.96,
-      "desc": "Peluang ikan langka sedikit naik."
+      "id": "cerah",
+      "name": "Cerah",
+      "luck": 0,
+      "weight": 1,
+      "desc": "Cuaca normal."
     },
-    "fishingWeatherId": "berkabut",
-    "fishingWeatherAt": 1793193142827,
+    "fishingWeatherId": "cerah",
+    "fishingWeatherAt": 1793347942827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
