@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 8862,
-      "last_chat": 1793449661244,
+      "total_chat": 8864,
+      "last_chat": 1793449739063,
       "uang": {
         "__bigint__": "5000"
       },
@@ -101,53 +101,53 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 2,
-        "xp": 116,
+        "xp": 152,
         "money": 3864,
-        "energy": 92,
+        "energy": 4,
         "maxEnergy": 100,
         "fish": {
-          "teri": 3,
-          "lele": 3,
-          "mujair": 2,
-          "nila": 2,
-          "wader": 1,
-          "gabus": 1,
-          "patin": 1,
+          "teri": 4,
+          "lele": 5,
+          "mujair": 3,
+          "nila": 3,
+          "wader": 2,
+          "gabus": 2,
+          "patin": 2,
           "mas": 2,
-          "belut": 0
+          "belut": 1
         },
         "items": {
-          "cacing": 15,
+          "cacing": 3,
           "pelet": 2
         },
         "parts": {},
         "rod": "kayu",
-        "rodDur": 27,
+        "rodDur": 15,
         "location": "sungai",
-        "lastEnergy": 1793365379040,
+        "lastEnergy": 1793449679040,
         "limited": {},
-        "tokenSaataa": 150,
+        "tokenSaataa": 174,
         "stats": {
-          "catches": 61,
-          "fails": 19,
+          "catches": 70,
+          "fails": 22,
           "sold": 49,
           "soldCoins": 4299,
-          "tokenEarned": 140,
-          "failStreak": 1,
+          "tokenEarned": 164,
+          "failStreak": 0,
           "byRarity": {
-            "common": 52,
-            "uncommon": 9
+            "common": 58,
+            "uncommon": 12
           },
           "byFish": {
-            "mujair": 9,
-            "nila": 10,
-            "teri": 11,
-            "lele": 10,
-            "wader": 12,
-            "gabus": 2,
-            "patin": 2,
+            "mujair": 10,
+            "nila": 11,
+            "teri": 12,
+            "lele": 12,
+            "wader": 13,
+            "gabus": 3,
+            "patin": 3,
             "mas": 4,
-            "belut": 1
+            "belut": 2
           }
         },
         "story": {
@@ -277,6 +277,78 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1793013697848
+          },
+          {
+            "id": "wader",
+            "weight": 6.91,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449728042
+          },
+          {
+            "id": "gabus",
+            "weight": 9.75,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449728042
+          },
+          {
+            "id": "mujair",
+            "weight": 5.48,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793449728042
+          },
+          {
+            "id": "teri",
+            "weight": 3.17,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793449728043
+          },
+          {
+            "id": "patin",
+            "weight": 5.99,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449728043
+          },
+          {
+            "id": "lele",
+            "weight": 0.78,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449728043
+          },
+          {
+            "id": "lele",
+            "weight": 3.95,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449728043
+          },
+          {
+            "id": "nila",
+            "weight": 10.26,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793449728044
+          },
+          {
+            "id": "belut",
+            "weight": 2.69,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449728044
           }
         ]
       }
@@ -594,8 +666,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 11365,
-      "last_chat": 1793449609652,
+      "total_chat": 11367,
+      "last_chat": 1793449739235,
       "uang": {
         "__bigint__": "5000"
       },
@@ -3399,7 +3471,7 @@
         "en2id": 2,
         "id2en": 2,
         "lirik": 515,
-        "play": 538,
+        "play": 539,
         "tt": 65,
         "brat": 29,
         "hd": 29,
@@ -3471,7 +3543,7 @@
         "wordle": 5,
         "qris": 1,
         "allin": 1,
-        "playselect": 351,
+        "playselect": 352,
         "mancing": 149,
         "tebakkimia": 2,
         "tokoikan": 52,
@@ -3495,7 +3567,7 @@
         "tolaksuit": 1,
         "suitjawab": 7,
         "lirikselect": 118,
-        "m": 12,
+        "m": 13,
         "buat": 1,
         "cekinv": 2,
         "beli": 46,
@@ -3541,16 +3613,16 @@
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 982,
-          "last": 1793445917414
+          "count": 983,
+          "last": 1793449728041
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1405,
-          "last": 1793449609654
+          "count": 1407,
+          "last": 1793449739236
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3604,9 +3676,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2577,
-          "last": 1793449684472,
-          "chat": 32162
+          "count": 2580,
+          "last": 1793449739236,
+          "chat": 32166
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3614,7 +3686,7 @@
           "chat": 116
         }
       },
-      "total_chat": 34316,
+      "total_chat": 34320,
       "since": 1791275792057
     },
     "squads": {},
@@ -3685,11 +3757,11 @@
     "limit_system_version": 2,
     "saataa_nowplaying": {
       "120363429679202978@g.us": {
-        "title": "James Arthur - Car's Outside (Lyrics)",
-        "artist": "Dan Music",
-        "url": "https://youtube.com/watch?v=xUT3ZcbVWmQ",
-        "thumbnail": "https://i.ytimg.com/vi/xUT3ZcbVWmQ/hq720.jpg",
-        "at": 1793448916645
+        "title": "NIDJI - Rahasia Hati (Official Music Video)",
+        "artist": "Musica Studios",
+        "url": "https://youtube.com/watch?v=DGPl2Ec9XnA",
+        "thumbnail": "https://i.ytimg.com/vi/DGPl2Ec9XnA/hq720.jpg",
+        "at": 1793449739236
       },
       "120363412061249246@g.us": {
         "title": "Steve Lacy - Dark Red (Lyrics)",
