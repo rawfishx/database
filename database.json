@@ -594,8 +594,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 11360,
-      "last_chat": 1793449534487,
+      "total_chat": 11361,
+      "last_chat": 1793449566288,
       "uang": {
         "__bigint__": "5000"
       },
@@ -683,56 +683,56 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 3,
-        "xp": 65,
+        "xp": 81,
         "money": 1385,
-        "energy": 11,
+        "energy": 20,
         "maxEnergy": 100,
         "fish": {
-          "nila": 5,
-          "mujair": 9,
+          "nila": 6,
+          "mujair": 11,
           "teri": 3,
-          "lele": 3,
+          "lele": 4,
           "wader": 4,
           "mas": 0,
           "belut": 0,
           "patin": 0,
-          "gabus": 3
+          "gabus": 4
         },
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 15
+          "udangumpan": 5
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 10,
+        "rodDur": 0,
         "location": "sungai",
-        "lastEnergy": 1793365787756,
+        "lastEnergy": 1793449547756,
         "limited": {},
-        "tokenSaataa": 194,
+        "tokenSaataa": 206,
         "stats": {
-          "catches": 83,
-          "fails": 25,
+          "catches": 88,
+          "fails": 30,
           "sold": 56,
           "soldCoins": 6115,
-          "tokenEarned": 184,
+          "tokenEarned": 196,
           "failStreak": 0,
           "byRarity": {
-            "common": 74,
-            "uncommon": 9
+            "common": 78,
+            "uncommon": 10
           },
           "byFish": {
-            "nila": 14,
-            "mujair": 22,
+            "nila": 15,
+            "mujair": 24,
             "teri": 13,
-            "lele": 12,
+            "lele": 13,
             "wader": 13,
             "mas": 2,
             "belut": 2,
             "patin": 1,
-            "gabus": 4
+            "gabus": 5
           }
         },
         "story": {
@@ -958,6 +958,46 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1793365451494
+          },
+          {
+            "id": "lele",
+            "weight": 3.52,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449566291
+          },
+          {
+            "id": "mujair",
+            "weight": 7.75,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449566292
+          },
+          {
+            "id": "gabus",
+            "weight": 2.94,
+            "genetic": "Bertulang Padat",
+            "mutationId": "tulang_padat",
+            "priceMultiplier": 1.15,
+            "at": 1793449566292
+          },
+          {
+            "id": "nila",
+            "weight": 7.71,
+            "genetic": "Albino",
+            "mutationId": "albino",
+            "priceMultiplier": 2.5,
+            "at": 1793449566292
+          },
+          {
+            "id": "mujair",
+            "weight": 4.44,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449566292
           }
         ]
       },
@@ -1203,8 +1243,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 9604,
-      "last_chat": 1793449546569,
+      "total_chat": 9606,
+      "last_chat": 1793449569359,
       "uang": {
         "__bigint__": "5000"
       },
@@ -1276,13 +1316,13 @@
       "limit_reset_notified_at": 1793442070554,
       "fishing": {
         "level": 1,
-        "xp": 73,
+        "xp": 76,
         "money": 605,
-        "energy": 84,
+        "energy": 77,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
-          "lele": 4,
+          "lele": 5,
           "nila": 8,
           "wader": 6,
           "mujair": 7,
@@ -1290,29 +1330,29 @@
           "gabus": 1
         },
         "items": {
-          "cacing": 3
+          "cacing": 2
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 0,
+        "rodDur": 11,
         "location": "sungai",
-        "lastEnergy": 1793449490479,
+        "lastEnergy": 1793449550479,
         "limited": {},
-        "tokenSaataa": 74,
+        "tokenSaataa": 76,
         "stats": {
-          "catches": 30,
+          "catches": 31,
           "fails": 6,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 64,
+          "tokenEarned": 66,
           "failStreak": 0,
           "byRarity": {
             "uncommon": 2,
-            "common": 28
+            "common": 29
           },
           "byFish": {
             "patin": 1,
-            "lele": 4,
+            "lele": 5,
             "nila": 8,
             "wader": 6,
             "mujair": 7,
@@ -1477,6 +1517,14 @@
             "mutationId": "tulang_padat",
             "priceMultiplier": 1.15,
             "at": 1793449511505
+          },
+          {
+            "id": "lele",
+            "weight": 6.14,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449569361
           }
         ]
       },
@@ -3400,7 +3448,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 351,
-        "mancing": 142,
+        "mancing": 144,
         "tebakkimia": 2,
         "tokoikan": 51,
         "cek": 11,
@@ -3426,7 +3474,7 @@
         "m": 12,
         "buat": 1,
         "cekinv": 1,
-        "beli": 42,
+        "beli": 43,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -3477,8 +3525,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1401,
-          "last": 1793448969293
+          "count": 1402,
+          "last": 1793449566289
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3497,8 +3545,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 244,
-          "last": 1793449546572
+          "count": 246,
+          "last": 1793449569360
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -3532,9 +3580,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2564,
-          "last": 1793449546572,
-          "chat": 32145
+          "count": 2567,
+          "last": 1793449569360,
+          "chat": 32148
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3542,7 +3590,7 @@
           "chat": 116
         }
       },
-      "total_chat": 34299,
+      "total_chat": 34302,
       "since": 1791275792057
     },
     "squads": {},
