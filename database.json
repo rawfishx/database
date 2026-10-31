@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 8864,
-      "last_chat": 1793449739063,
+      "total_chat": 8865,
+      "last_chat": 1793449755084,
       "uang": {
         "__bigint__": "5000"
       },
@@ -1331,8 +1331,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 9615,
-      "last_chat": 1793449684472,
+      "total_chat": 9616,
+      "last_chat": 1793449755233,
       "uang": {
         "__bigint__": "5000"
       },
@@ -1404,47 +1404,47 @@
       "limit_reset_notified_at": 1793442070554,
       "fishing": {
         "level": 1,
-        "xp": 77,
+        "xp": 84,
         "money": 580,
-        "energy": 55,
+        "energy": 24,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
-          "lele": 5,
-          "nila": 8,
+          "lele": 6,
+          "nila": 9,
           "wader": 7,
           "mujair": 7,
-          "teri": 3,
+          "teri": 4,
           "gabus": 1
         },
         "items": {
-          "cacing": 4
+          "cacing": 0
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 8,
+        "rodDur": 4,
         "location": "sungai",
-        "lastEnergy": 1793449670479,
+        "lastEnergy": 1793449730479,
         "limited": {},
-        "tokenSaataa": 78,
+        "tokenSaataa": 84,
         "stats": {
-          "catches": 32,
-          "fails": 8,
+          "catches": 35,
+          "fails": 9,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 68,
-          "failStreak": 2,
+          "tokenEarned": 74,
+          "failStreak": 1,
           "byRarity": {
             "uncommon": 2,
-            "common": 30
+            "common": 33
           },
           "byFish": {
             "patin": 1,
-            "lele": 5,
-            "nila": 8,
+            "lele": 6,
+            "nila": 9,
             "wader": 7,
             "mujair": 7,
-            "teri": 3,
+            "teri": 4,
             "gabus": 1
           }
         },
@@ -1621,6 +1621,30 @@
             "mutationId": "tulang_padat",
             "priceMultiplier": 1.15,
             "at": 1793449580895
+          },
+          {
+            "id": "lele",
+            "weight": 3.72,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449755235
+          },
+          {
+            "id": "teri",
+            "weight": 4.84,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449755235
+          },
+          {
+            "id": "nila",
+            "weight": 7.78,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793449755235
           }
         ]
       },
@@ -3567,7 +3591,7 @@
         "tolaksuit": 1,
         "suitjawab": 7,
         "lirikselect": 118,
-        "m": 13,
+        "m": 14,
         "buat": 1,
         "cekinv": 2,
         "beli": 46,
@@ -3641,8 +3665,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 253,
-          "last": 1793449672664
+          "count": 254,
+          "last": 1793449755234
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -3676,9 +3700,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2580,
-          "last": 1793449739236,
-          "chat": 32166
+          "count": 2581,
+          "last": 1793449755234,
+          "chat": 32168
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3686,7 +3710,7 @@
           "chat": 116
         }
       },
-      "total_chat": 34320,
+      "total_chat": 34322,
       "since": 1791275792057
     },
     "squads": {},
