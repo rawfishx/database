@@ -1331,8 +1331,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 9669,
-      "last_chat": 1793494250923,
+      "total_chat": 9670,
+      "last_chat": 1793494278435,
       "uang": {
         "__bigint__": "5000"
       },
@@ -1404,47 +1404,47 @@
       "limit_reset_notified_at": 1793442070554,
       "fishing": {
         "level": 1,
-        "xp": 89,
+        "xp": 94,
         "money": 550,
-        "energy": 70,
+        "energy": 55,
         "maxEnergy": 100,
         "fish": {
           "patin": 1,
           "lele": 7,
-          "nila": 9,
+          "nila": 10,
           "wader": 8,
           "mujair": 7,
-          "teri": 5,
+          "teri": 6,
           "gabus": 1
         },
         "items": {
-          "cacing": 2
+          "cacing": 0
         },
         "parts": {},
         "rod": "bambu",
-        "rodDur": 12,
+        "rodDur": 10,
         "location": "sungai",
-        "lastEnergy": 1793494190479,
+        "lastEnergy": 1793494250479,
         "limited": {},
-        "tokenSaataa": 90,
+        "tokenSaataa": 94,
         "stats": {
-          "catches": 38,
+          "catches": 40,
           "fails": 10,
           "sold": 0,
           "soldCoins": 0,
-          "tokenEarned": 80,
-          "failStreak": 1,
+          "tokenEarned": 84,
+          "failStreak": 0,
           "byRarity": {
             "uncommon": 2,
-            "common": 36
+            "common": 38
           },
           "byFish": {
             "patin": 1,
             "lele": 7,
-            "nila": 9,
+            "nila": 10,
             "wader": 8,
             "mujair": 7,
-            "teri": 5,
+            "teri": 6,
             "gabus": 1
           }
         },
@@ -1669,6 +1669,22 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1793494086536
+          },
+          {
+            "id": "teri",
+            "weight": 3.18,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793494278437
+          },
+          {
+            "id": "nila",
+            "weight": 9.33,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793494278437
           }
         ]
       },
@@ -3615,7 +3631,7 @@
         "tolaksuit": 1,
         "suitjawab": 7,
         "lirikselect": 118,
-        "m": 15,
+        "m": 16,
         "buat": 1,
         "cekinv": 2,
         "beli": 48,
@@ -3689,8 +3705,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 273,
-          "last": 1793494219305
+          "count": 274,
+          "last": 1793494278437
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -3724,9 +3740,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2611,
-          "last": 1793494264171,
-          "chat": 32277
+          "count": 2612,
+          "last": 1793494278437,
+          "chat": 32278
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3734,7 +3750,7 @@
           "chat": 116
         }
       },
-      "total_chat": 34432,
+      "total_chat": 34433,
       "since": 1791275792057
     },
     "squads": {},
