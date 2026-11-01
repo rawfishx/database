@@ -666,8 +666,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 11479,
-      "last_chat": 1793538528055,
+      "total_chat": 11483,
+      "last_chat": 1793538639077,
       "uang": {
         "__bigint__": "5000"
       },
@@ -755,14 +755,14 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 3,
-        "xp": 87,
+        "xp": 101,
         "money": 1135,
-        "energy": 4,
+        "energy": 76,
         "maxEnergy": 100,
         "fish": {
           "nila": 6,
-          "mujair": 12,
-          "teri": 3,
+          "mujair": 14,
+          "teri": 4,
           "lele": 5,
           "wader": 4,
           "mas": 0,
@@ -773,32 +773,32 @@
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 3
+          "udangumpan": 0
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 33,
+        "rodDur": 30,
         "location": "sungai",
-        "lastEnergy": 1793449547756,
+        "lastEnergy": 1793538587756,
         "limited": {},
-        "tokenSaataa": 210,
+        "tokenSaataa": 216,
         "stats": {
-          "catches": 90,
+          "catches": 93,
           "fails": 30,
           "sold": 56,
           "soldCoins": 6115,
-          "tokenEarned": 200,
+          "tokenEarned": 206,
           "failStreak": 0,
           "byRarity": {
-            "common": 80,
+            "common": 83,
             "uncommon": 10
           },
           "byFish": {
             "nila": 15,
-            "mujair": 25,
-            "teri": 13,
+            "mujair": 27,
+            "teri": 14,
             "lele": 14,
             "wader": 13,
             "mas": 2,
@@ -1086,6 +1086,30 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1793449587226
+          },
+          {
+            "id": "teri",
+            "weight": 7.62,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793538639080
+          },
+          {
+            "id": "mujair",
+            "weight": 9.99,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793538639082
+          },
+          {
+            "id": "mujair",
+            "weight": 13.33,
+            "genetic": "Bertulang Padat",
+            "mutationId": "tulang_padat",
+            "priceMultiplier": 1.15,
+            "at": 1793538639082
           }
         ]
       },
@@ -3535,7 +3559,7 @@
         "en2id": 2,
         "id2en": 2,
         "lirik": 518,
-        "play": 545,
+        "play": 546,
         "tt": 67,
         "brat": 29,
         "hd": 29,
@@ -3607,8 +3631,8 @@
         "wordle": 5,
         "qris": 1,
         "allin": 1,
-        "playselect": 358,
-        "mancing": 151,
+        "playselect": 359,
+        "mancing": 152,
         "tebakkimia": 2,
         "tokoikan": 55,
         "cek": 11,
@@ -3685,8 +3709,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1425,
-          "last": 1793538528056
+          "count": 1428,
+          "last": 1793538639079
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3740,9 +3764,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2635,
-          "last": 1793538528056,
-          "chat": 32790
+          "count": 2638,
+          "last": 1793538639079,
+          "chat": 32794
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3750,7 +3774,7 @@
           "chat": 116
         }
       },
-      "total_chat": 34955,
+      "total_chat": 34959,
       "since": 1791275792057
     },
     "squads": {},
@@ -3821,11 +3845,11 @@
     "limit_system_version": 2,
     "saataa_nowplaying": {
       "120363429679202978@g.us": {
-        "title": "Raissa Anggiani (Rai) - Kau Rumahku (Official Audio)",
-        "artist": "Raissa Anggiani",
-        "url": "https://youtube.com/watch?v=ZjNVi0iY7Ys",
-        "thumbnail": "https://i.ytimg.com/vi/ZjNVi0iY7Ys/hq720.jpg",
-        "at": 1793538528056
+        "title": "Kukira Kau Rumah (Official Lyric Video)",
+        "artist": "Pendarra",
+        "url": "https://youtube.com/watch?v=q7Fu7d1ppbI",
+        "thumbnail": "https://i.ytimg.com/vi/q7Fu7d1ppbI/hq720.jpg",
+        "at": 1793538618032
       },
       "120363412061249246@g.us": {
         "title": "Steve Lacy - Dark Red (Lyrics)",
@@ -3850,7 +3874,7 @@
       "desc": "Ikan lebih aktif."
     },
     "fishingWeatherId": "hujan",
-    "fishingWeatherAt": 1793493742827,
+    "fishingWeatherAt": 1793536942827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
