@@ -666,8 +666,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 11597,
-      "last_chat": 1793600118549,
+      "total_chat": 11602,
+      "last_chat": 1793600274912,
       "uang": {
         "__bigint__": "5000"
       },
@@ -758,7 +758,7 @@
         "level": 3,
         "xp": 122,
         "money": 1285,
-        "energy": 6,
+        "energy": 92,
         "maxEnergy": 100,
         "fish": {
           "nila": 6,
@@ -774,24 +774,24 @@
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 1
+          "udangumpan": 0
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 21,
+        "rodDur": 20,
         "location": "sungai",
-        "lastEnergy": 1793538707756,
+        "lastEnergy": 1793600267756,
         "limited": {},
         "tokenSaataa": 286,
         "stats": {
           "catches": 100,
-          "fails": 32,
+          "fails": 33,
           "sold": 56,
           "soldCoins": 6115,
           "tokenEarned": 226,
-          "failStreak": 0,
+          "failStreak": 1,
           "byRarity": {
             "common": 87,
             "uncommon": 13
@@ -3616,8 +3616,8 @@
         "ig": 3,
         "en2id": 2,
         "id2en": 2,
-        "lirik": 521,
-        "play": 554,
+        "lirik": 522,
+        "play": 555,
         "tt": 67,
         "brat": 29,
         "hd": 29,
@@ -3689,8 +3689,8 @@
         "wordle": 5,
         "qris": 1,
         "allin": 1,
-        "playselect": 366,
-        "mancing": 153,
+        "playselect": 367,
+        "mancing": 154,
         "tebakkimia": 2,
         "tokoikan": 56,
         "cek": 11,
@@ -3712,7 +3712,7 @@
         "terimasuit": 3,
         "tolaksuit": 1,
         "suitjawab": 7,
-        "lirikselect": 122,
+        "lirikselect": 123,
         "m": 16,
         "buat": 1,
         "cekinv": 2,
@@ -3767,8 +3767,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1446,
-          "last": 1793600118551
+          "count": 1451,
+          "last": 1793600274913
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3822,9 +3822,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2669,
-          "last": 1793600118551,
-          "chat": 33133
+          "count": 2674,
+          "last": 1793600274913,
+          "chat": 33138
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3832,7 +3832,7 @@
           "chat": 116
         }
       },
-      "total_chat": 35302,
+      "total_chat": 35307,
       "since": 1791275792057
     },
     "squads": {},
@@ -3903,11 +3903,11 @@
     "limit_system_version": 2,
     "saataa_nowplaying": {
       "120363429679202978@g.us": {
-        "title": "Olivia Rodrigo - lacy (Official Lyric Video)",
-        "artist": "Olivia Rodrigo",
-        "url": "https://youtube.com/watch?v=_IB5EYuz3XM",
-        "thumbnail": "https://i.ytimg.com/vi/_IB5EYuz3XM/hq720.jpg",
-        "at": 1793600097086
+        "title": "Nabila Taqiyyah - Tak Semudah Hompimpa (Official Music Video)",
+        "artist": "Nabila Taqiyyah",
+        "url": "https://youtube.com/watch?v=Jn-uRyPZaJM",
+        "thumbnail": "https://i.ytimg.com/vi/Jn-uRyPZaJM/hq720.jpg",
+        "at": 1793600247308
       },
       "120363412061249246@g.us": {
         "title": "Steve Lacy - Dark Red (Lyrics)",
@@ -3925,14 +3925,14 @@
       }
     },
     "fishingWeather": {
-      "id": "hujan",
-      "name": "Hujan",
-      "luck": 0.05,
-      "weight": 1.08,
-      "desc": "Ikan lebih aktif."
+      "id": "cerah",
+      "name": "Cerah",
+      "luck": 0,
+      "weight": 1,
+      "desc": "Cuaca normal."
     },
-    "fishingWeatherId": "hujan",
-    "fishingWeatherAt": 1793536942827,
+    "fishingWeatherId": "cerah",
+    "fishingWeatherAt": 1793599942827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
