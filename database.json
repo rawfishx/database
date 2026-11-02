@@ -666,8 +666,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 11609,
-      "last_chat": 1793600345550,
+      "total_chat": 11614,
+      "last_chat": 1793600365215,
       "uang": {
         "__bigint__": "5000"
       },
@@ -756,51 +756,51 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 3,
-        "xp": 142,
-        "money": 700,
-        "energy": 21,
+        "xp": 264,
+        "money": 4684,
+        "energy": 5,
         "maxEnergy": 100,
         "fish": {
-          "nila": 7,
-          "mujair": 17,
-          "teri": 6,
-          "lele": 9,
-          "wader": 4,
+          "nila": 1,
+          "mujair": 0,
+          "teri": 0,
+          "lele": 1,
+          "wader": 0,
           "mas": 0,
-          "belut": 1,
-          "patin": 2,
-          "gabus": 4
+          "belut": 0,
+          "patin": 0,
+          "gabus": 0
         },
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 0
+          "udangumpan": 28
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 11,
+        "rodDur": 9,
         "location": "sungai",
         "lastEnergy": 1793600327756,
         "limited": {},
-        "tokenSaataa": 298,
+        "tokenSaataa": 302,
         "stats": {
-          "catches": 106,
+          "catches": 108,
           "fails": 36,
-          "sold": 56,
-          "soldCoins": 6115,
-          "tokenEarned": 238,
+          "sold": 106,
+          "soldCoins": 12049,
+          "tokenEarned": 242,
           "failStreak": 0,
           "byRarity": {
-            "common": 93,
+            "common": 95,
             "uncommon": 13
           },
           "byFish": {
-            "nila": 16,
+            "nila": 17,
             "mujair": 30,
             "teri": 16,
-            "lele": 18,
+            "lele": 19,
             "wader": 13,
             "mas": 2,
             "belut": 3,
@@ -817,404 +817,20 @@
         },
         "fishRecords": [
           {
-            "id": "wader",
-            "weight": 3.52,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793193130791
-          },
-          {
-            "id": "mujair",
-            "weight": 3.12,
-            "genetic": "Bertulang Padat",
-            "mutationId": "tulang_padat",
-            "priceMultiplier": 1.15,
-            "at": 1793193130792
-          },
-          {
-            "id": "teri",
-            "weight": 6.37,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793193130792
-          },
-          {
-            "id": "wader",
-            "weight": 0.7,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793193130792
-          },
-          {
-            "id": "mujair",
-            "weight": 6.77,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793193130792
-          },
-          {
-            "id": "mujair",
-            "weight": 7.74,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793193130793
-          },
-          {
             "id": "lele",
-            "weight": 8.6,
+            "weight": 7.19,
             "genetic": null,
             "mutationId": null,
             "priceMultiplier": 1,
-            "at": 1793193130793
-          },
-          {
-            "id": "lele",
-            "weight": 1.33,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793193130793
+            "at": 1793600365216
           },
           {
             "id": "nila",
-            "weight": 4.47,
+            "weight": 2.38,
             "genetic": null,
             "mutationId": null,
             "priceMultiplier": 1,
-            "at": 1793193171790
-          },
-          {
-            "id": "lele",
-            "weight": 1.58,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793348812710
-          },
-          {
-            "id": "wader",
-            "weight": 7.14,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793348812712
-          },
-          {
-            "id": "teri",
-            "weight": 4.26,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793348812712
-          },
-          {
-            "id": "mujair",
-            "weight": 4.53,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793348812712
-          },
-          {
-            "id": "mujair",
-            "weight": 7.6,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793348849857
-          },
-          {
-            "id": "nila",
-            "weight": 3.34,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793348849857
-          },
-          {
-            "id": "nila",
-            "weight": 2.6,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793348849857
-          },
-          {
-            "id": "wader",
-            "weight": 3.41,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793348849858
-          },
-          {
-            "id": "mujair",
-            "weight": 7.01,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793348849858
-          },
-          {
-            "id": "nila",
-            "weight": 4.2,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793365427355
-          },
-          {
-            "id": "mujair",
-            "weight": 2,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793365427356
-          },
-          {
-            "id": "gabus",
-            "weight": 0.73,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793365427356
-          },
-          {
-            "id": "mujair",
-            "weight": 2.55,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793365427356
-          },
-          {
-            "id": "gabus",
-            "weight": 2.92,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793365427356
-          },
-          {
-            "id": "nila",
-            "weight": 3.85,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793365451494
-          },
-          {
-            "id": "mujair",
-            "weight": 0.77,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793365451494
-          },
-          {
-            "id": "teri",
-            "weight": 8.81,
-            "genetic": "Bertulang Padat",
-            "mutationId": "tulang_padat",
-            "priceMultiplier": 1.15,
-            "at": 1793365451494
-          },
-          {
-            "id": "gabus",
-            "weight": 6.96,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793365451494
-          },
-          {
-            "id": "lele",
-            "weight": 3.52,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793449566291
-          },
-          {
-            "id": "mujair",
-            "weight": 7.75,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793449566292
-          },
-          {
-            "id": "gabus",
-            "weight": 2.94,
-            "genetic": "Bertulang Padat",
-            "mutationId": "tulang_padat",
-            "priceMultiplier": 1.15,
-            "at": 1793449566292
-          },
-          {
-            "id": "nila",
-            "weight": 7.71,
-            "genetic": "Albino",
-            "mutationId": "albino",
-            "priceMultiplier": 2.5,
-            "at": 1793449566292
-          },
-          {
-            "id": "mujair",
-            "weight": 4.44,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793449566292
-          },
-          {
-            "id": "mujair",
-            "weight": 3.2,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793449587226
-          },
-          {
-            "id": "lele",
-            "weight": 7.5,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793449587226
-          },
-          {
-            "id": "teri",
-            "weight": 7.62,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793538639080
-          },
-          {
-            "id": "mujair",
-            "weight": 9.99,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793538639082
-          },
-          {
-            "id": "mujair",
-            "weight": 13.33,
-            "genetic": "Bertulang Padat",
-            "mutationId": "tulang_padat",
-            "priceMultiplier": 1.15,
-            "at": 1793538639082
-          },
-          {
-            "id": "mujair",
-            "weight": 4.26,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793538669744
-          },
-          {
-            "id": "teri",
-            "weight": 1.31,
-            "genetic": "Bercahaya",
-            "mutationId": "bercahaya",
-            "priceMultiplier": 2,
-            "at": 1793538669744
-          },
-          {
-            "id": "patin",
-            "weight": 1.67,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793538669744
-          },
-          {
-            "id": "teri",
-            "weight": 8.77,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793538669744
-          },
-          {
-            "id": "lele",
-            "weight": 2.46,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793538669744
-          },
-          {
-            "id": "belut",
-            "weight": 1.62,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793538669745
-          },
-          {
-            "id": "patin",
-            "weight": 8.35,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793538669746
-          },
-          {
-            "id": "nila",
-            "weight": 3.84,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793600317457
-          },
-          {
-            "id": "lele",
-            "weight": 5.68,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793600317458
-          },
-          {
-            "id": "mujair",
-            "weight": 6.84,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793600317458
-          },
-          {
-            "id": "lele",
-            "weight": 8.1,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793600317458
-          },
-          {
-            "id": "mujair",
-            "weight": 6.05,
-            "genetic": "Bersisik Emas",
-            "mutationId": "sisik_emas",
-            "priceMultiplier": 1.7,
-            "at": 1793600317459
-          },
-          {
-            "id": "lele",
-            "weight": 5.94,
-            "genetic": null,
-            "mutationId": null,
-            "priceMultiplier": 1,
-            "at": 1793600317459
+            "at": 1793600365216
           }
         ]
       },
@@ -3738,14 +3354,14 @@
         "qris": 1,
         "allin": 1,
         "playselect": 367,
-        "mancing": 155,
+        "mancing": 156,
         "tebakkimia": 2,
         "tokoikan": 57,
         "cek": 11,
         "setnama": 2,
         "nowplaying": 2,
         "rakit": 1,
-        "jualikan": 9,
+        "jualikan": 10,
         "ytmp4": 1,
         "allmenu": 3,
         "character": 1,
@@ -3764,7 +3380,7 @@
         "m": 16,
         "buat": 1,
         "cekinv": 2,
-        "beli": 54,
+        "beli": 55,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -3815,8 +3431,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1456,
-          "last": 1793600341854
+          "count": 1459,
+          "last": 1793600365216
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3870,9 +3486,9 @@
           "chat": 269
         },
         "120363429679202978@g.us": {
-          "count": 2679,
-          "last": 1793600345550,
-          "chat": 33145
+          "count": 2682,
+          "last": 1793600365216,
+          "chat": 33150
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3880,7 +3496,7 @@
           "chat": 116
         }
       },
-      "total_chat": 35314,
+      "total_chat": 35319,
       "since": 1791275792057
     },
     "squads": {},
