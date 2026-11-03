@@ -666,8 +666,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 11843,
-      "last_chat": 1793707784886,
+      "total_chat": 11844,
+      "last_chat": 1793707862932,
       "uang": {
         "__bigint__": "5000"
       },
@@ -755,56 +755,56 @@
       "profilePageUpdatedAt": 1792292669063,
       "profilePageCreated": true,
       "fishing": {
-        "level": 3,
-        "xp": 264,
+        "level": 4,
+        "xp": 42,
         "money": 4684,
-        "energy": 5,
+        "energy": 36,
         "maxEnergy": 100,
         "fish": {
-          "nila": 1,
+          "nila": 3,
           "mujair": 0,
-          "teri": 0,
-          "lele": 1,
+          "teri": 1,
+          "lele": 2,
           "wader": 0,
-          "mas": 0,
-          "belut": 0,
-          "patin": 0,
+          "mas": 3,
+          "belut": 1,
+          "patin": 1,
           "gabus": 0
         },
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 28
+          "udangumpan": 19
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 9,
+        "rodDur": 0,
         "location": "sungai",
-        "lastEnergy": 1793600327756,
+        "lastEnergy": 1793707847756,
         "limited": {},
-        "tokenSaataa": 302,
+        "tokenSaataa": 330,
         "stats": {
-          "catches": 108,
+          "catches": 117,
           "fails": 36,
           "sold": 106,
           "soldCoins": 12049,
-          "tokenEarned": 242,
+          "tokenEarned": 270,
           "failStreak": 0,
           "byRarity": {
-            "common": 95,
-            "uncommon": 13
+            "common": 99,
+            "uncommon": 18
           },
           "byFish": {
-            "nila": 17,
+            "nila": 19,
             "mujair": 30,
-            "teri": 16,
-            "lele": 19,
+            "teri": 17,
+            "lele": 20,
             "wader": 13,
-            "mas": 2,
-            "belut": 3,
-            "patin": 3,
+            "mas": 5,
+            "belut": 4,
+            "patin": 4,
             "gabus": 5
           }
         },
@@ -831,6 +831,78 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1793600365216
+          },
+          {
+            "id": "patin",
+            "weight": 7.87,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793707862939
+          },
+          {
+            "id": "belut",
+            "weight": 4.87,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793707862942
+          },
+          {
+            "id": "mas",
+            "weight": 8.71,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793707862942
+          },
+          {
+            "id": "nila",
+            "weight": 4.81,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793707862942
+          },
+          {
+            "id": "lele",
+            "weight": 0.61,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793707862943
+          },
+          {
+            "id": "nila",
+            "weight": 3.63,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793707862943
+          },
+          {
+            "id": "teri",
+            "weight": 10.86,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1793707862943
+          },
+          {
+            "id": "mas",
+            "weight": 6.41,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793707862944
+          },
+          {
+            "id": "mas",
+            "weight": 1.16,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793707862944
           }
         ]
       },
@@ -1077,8 +1149,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 10292,
-      "last_chat": 1793707847724,
+      "total_chat": 10293,
+      "last_chat": 1793707866862,
       "uang": {
         "__bigint__": "5000"
       },
@@ -3353,8 +3425,8 @@
         "wordle": 5,
         "qris": 1,
         "allin": 1,
-        "playselect": 377,
-        "mancing": 156,
+        "playselect": 378,
+        "mancing": 157,
         "tebakkimia": 2,
         "tokoikan": 57,
         "cek": 11,
@@ -3432,8 +3504,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1490,
-          "last": 1793707768039
+          "count": 1491,
+          "last": 1793707862936
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3452,8 +3524,8 @@
           "last": 1791710799705
         },
         "6282358371656@s.whatsapp.net": {
-          "count": 290,
-          "last": 1793707847727
+          "count": 291,
+          "last": 1793707866864
         },
         "6281356383515@s.whatsapp.net": {
           "count": 5,
@@ -3487,9 +3559,9 @@
           "chat": 270
         },
         "120363429679202978@g.us": {
-          "count": 2734,
-          "last": 1793707847727,
-          "chat": 34001
+          "count": 2736,
+          "last": 1793707866864,
+          "chat": 34003
         },
         "120363412061249246@g.us": {
           "count": 49,
@@ -3497,7 +3569,7 @@
           "chat": 116
         }
       },
-      "total_chat": 36177,
+      "total_chat": 36179,
       "since": 1791275792057
     },
     "squads": {},
@@ -3568,11 +3640,11 @@
     "limit_system_version": 2,
     "saataa_nowplaying": {
       "120363429679202978@g.us": {
-        "title": "Kukira Kau Rumah (Official Lyric Video)",
-        "artist": "Pendarra",
-        "url": "https://youtube.com/watch?v=q7Fu7d1ppbI",
-        "thumbnail": "https://i.ytimg.com/vi/q7Fu7d1ppbI/hq720.jpg",
-        "at": 1793707613333
+        "title": "Cinnamon Girl",
+        "artist": "Lana Del Rey",
+        "url": "https://youtube.com/watch?v=DCYmJDO2_IE",
+        "thumbnail": "https://i.ytimg.com/vi/DCYmJDO2_IE/hq720.jpg",
+        "at": 1793707866864
       },
       "120363412061249246@g.us": {
         "title": "Steve Lacy - Dark Red (Lyrics)",
@@ -3590,14 +3662,14 @@
       }
     },
     "fishingWeather": {
-      "id": "cerah",
-      "name": "Cerah",
-      "luck": 0,
-      "weight": 1,
-      "desc": "Cuaca normal."
+      "id": "badai",
+      "name": "Badai",
+      "luck": 0.12,
+      "weight": 1.2,
+      "desc": "Tarikan kuat, ikan bisa lebih berat."
     },
-    "fishingWeatherId": "cerah",
-    "fishingWeatherAt": 1793599942827,
+    "fishingWeatherId": "badai",
+    "fishingWeatherAt": 1793706142827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
