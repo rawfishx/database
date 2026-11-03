@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 9220,
-      "last_chat": 1793708523358,
+      "total_chat": 9221,
+      "last_chat": 1793708573104,
       "uang": {
         "__bigint__": "5000"
       },
@@ -3492,12 +3492,13 @@
         "musicsearch": 2,
         "buatredeem": 1,
         "redeem": 1,
-        "fixvideo": 1
+        "fixvideo": 1,
+        "§": 1
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 1009,
-          "last": 1793708523361
+          "count": 1010,
+          "last": 1793708573106
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -3554,9 +3555,9 @@
       },
       "groups": {
         "120363402872389104@g.us": {
-          "count": 217,
-          "last": 1793708523361,
-          "chat": 272
+          "count": 218,
+          "last": 1793708573106,
+          "chat": 273
         },
         "120363429679202978@g.us": {
           "count": 2742,
@@ -3569,7 +3570,7 @@
           "chat": 116
         }
       },
-      "total_chat": 36259,
+      "total_chat": 36260,
       "since": 1791275792057
     },
     "squads": {},
@@ -3731,6 +3732,14 @@
         "creator": "6283138226730@s.whatsapp.net",
         "created_at": 1793232555383
       }
+    },
+    "feature_flags": {
+      "disabled_commands": {},
+      "disabled_plugins": {},
+      "enabled_plugins": {}
+    },
+    "feature_access": {
+      "setpack": "premium"
     }
   }
 }
