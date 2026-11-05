@@ -690,8 +690,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 12052,
-      "last_chat": 1793870203325,
+      "total_chat": 12054,
+      "last_chat": 1793870221591,
       "uang": {
         "__bigint__": "5000"
       },
@@ -780,15 +780,15 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 4,
-        "xp": 42,
-        "money": 4434,
-        "energy": 100,
+        "xp": 66,
+        "money": 3784,
+        "energy": 4,
         "maxEnergy": 100,
         "fish": {
-          "nila": 3,
-          "mujair": 0,
-          "teri": 1,
-          "lele": 2,
+          "nila": 4,
+          "mujair": 1,
+          "teri": 5,
+          "lele": 7,
           "wader": 0,
           "mas": 3,
           "belut": 1,
@@ -798,33 +798,33 @@
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 19
+          "udangumpan": 17
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 35,
+        "rodDur": 23,
         "location": "sungai",
-        "lastEnergy": 1793870147756,
+        "lastEnergy": 1793870207756,
         "limited": {},
-        "tokenSaataa": 330,
+        "tokenSaataa": 352,
         "stats": {
-          "catches": 117,
-          "fails": 36,
+          "catches": 128,
+          "fails": 37,
           "sold": 106,
           "soldCoins": 12049,
-          "tokenEarned": 270,
+          "tokenEarned": 292,
           "failStreak": 0,
           "byRarity": {
-            "common": 99,
+            "common": 110,
             "uncommon": 18
           },
           "byFish": {
-            "nila": 19,
-            "mujair": 30,
-            "teri": 17,
-            "lele": 20,
+            "nila": 20,
+            "mujair": 31,
+            "teri": 21,
+            "lele": 25,
             "wader": 13,
             "mas": 5,
             "belut": 4,
@@ -927,6 +927,94 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1793707862944
+          },
+          {
+            "id": "lele",
+            "weight": 1.19,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221594
+          },
+          {
+            "id": "teri",
+            "weight": 3.05,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221596
+          },
+          {
+            "id": "teri",
+            "weight": 1.57,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221597
+          },
+          {
+            "id": "lele",
+            "weight": 2.54,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221597
+          },
+          {
+            "id": "lele",
+            "weight": 7.69,
+            "genetic": "Bertulang Padat",
+            "mutationId": "tulang_padat",
+            "priceMultiplier": 1.15,
+            "at": 1793870221597
+          },
+          {
+            "id": "nila",
+            "weight": 6.38,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221598
+          },
+          {
+            "id": "lele",
+            "weight": 2.19,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221598
+          },
+          {
+            "id": "teri",
+            "weight": 9.85,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221598
+          },
+          {
+            "id": "mujair",
+            "weight": 15.51,
+            "genetic": "Bertulang Padat",
+            "mutationId": "tulang_padat",
+            "priceMultiplier": 1.15,
+            "at": 1793870221599
+          },
+          {
+            "id": "lele",
+            "weight": 9.74,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221599
+          },
+          {
+            "id": "teri",
+            "weight": 3.61,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1793870221600
           }
         ]
       },
@@ -3523,7 +3611,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 416,
-        "mancing": 158,
+        "mancing": 159,
         "tebakkimia": 2,
         "tokoikan": 58,
         "cek": 11,
@@ -3549,7 +3637,7 @@
         "m": 16,
         "buat": 1,
         "cekinv": 2,
-        "beli": 57,
+        "beli": 58,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -3603,8 +3691,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1580,
-          "last": 1793870203327
+          "count": 1582,
+          "last": 1793870221593
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3658,9 +3746,9 @@
           "chat": 273
         },
         "120363429679202978@g.us": {
-          "count": 2901,
-          "last": 1793870203327,
-          "chat": 34635
+          "count": 2903,
+          "last": 1793870221593,
+          "chat": 34637
         },
         "120363412061249246@g.us": {
           "count": 50,
@@ -3668,7 +3756,7 @@
           "chat": 117
         }
       },
-      "total_chat": 36850,
+      "total_chat": 36852,
       "since": 1791275792057
     },
     "squads": {},
@@ -3761,14 +3849,14 @@
       }
     },
     "fishingWeather": {
-      "id": "badai",
-      "name": "Badai",
-      "luck": 0.12,
-      "weight": 1.2,
-      "desc": "Tarikan kuat, ikan bisa lebih berat."
+      "id": "berkabut",
+      "name": "Berkabut",
+      "luck": 0.08,
+      "weight": 0.96,
+      "desc": "Peluang ikan langka sedikit naik."
     },
-    "fishingWeatherId": "badai",
-    "fishingWeatherAt": 1793706142827,
+    "fishingWeatherId": "berkabut",
+    "fishingWeatherAt": 1793869942827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
