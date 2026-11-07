@@ -690,8 +690,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 12563,
-      "last_chat": 1794040276828,
+      "total_chat": 12567,
+      "last_chat": 1794040309313,
       "uang": {
         "__bigint__": "5000"
       },
@@ -781,8 +781,8 @@
       "fishing": {
         "level": 4,
         "xp": 144,
-        "money": 2484,
-        "energy": 12,
+        "money": 2234,
+        "energy": 4,
         "maxEnergy": 100,
         "fish": {
           "nila": 5,
@@ -798,24 +798,24 @@
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 14
+          "udangumpan": 13
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 0,
+        "rodDur": 34,
         "location": "sungai",
         "lastEnergy": 1794040247756,
         "limited": {},
         "tokenSaataa": 402,
         "stats": {
           "catches": 147,
-          "fails": 41,
+          "fails": 42,
           "sold": 106,
           "soldCoins": 12049,
           "tokenEarned": 342,
-          "failStreak": 0,
+          "failStreak": 1,
           "byRarity": {
             "common": 123,
             "uncommon": 24
@@ -3838,7 +3838,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 436,
-        "mancing": 162,
+        "mancing": 163,
         "tebakkimia": 2,
         "tokoikan": 59,
         "cek": 11,
@@ -3864,7 +3864,7 @@
         "m": 16,
         "buat": 1,
         "cekinv": 2,
-        "beli": 59,
+        "beli": 60,
         "tes": 3,
         "setch": 2,
         "aidm": 1,
@@ -3919,8 +3919,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1657,
-          "last": 1794040276829
+          "count": 1659,
+          "last": 1794040299233
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -3974,9 +3974,9 @@
           "chat": 273
         },
         "120363429679202978@g.us": {
-          "count": 3025,
-          "last": 1794040276829,
-          "chat": 36037
+          "count": 3027,
+          "last": 1794040309313,
+          "chat": 36041
         },
         "120363412061249246@g.us": {
           "count": 50,
@@ -3984,7 +3984,7 @@
           "chat": 117
         }
       },
-      "total_chat": 38275,
+      "total_chat": 38279,
       "since": 1791275792057
     },
     "squads": {},
