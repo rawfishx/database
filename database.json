@@ -1341,8 +1341,8 @@
       "registered": true,
       "registered_at": null,
       "name": "🧣",
-      "total_chat": 10901,
-      "last_chat": 1794029924543,
+      "total_chat": 10902,
+      "last_chat": 1794029985660,
       "uang": {
         "__bigint__": "5000"
       },
@@ -3564,6 +3564,31 @@
       "limit": 15,
       "last_reset": "2026-11-07T16:52:53.378Z",
       "limit_reset_notified_at": 1793983973378
+    },
+    "6285709308994@s.whatsapp.net": {
+      "uid": 100036,
+      "name": "Player 8994",
+      "registered": true,
+      "registered_at": 1794029985660,
+      "joined_at": 1794029985660,
+      "role": "player",
+      "uang": {
+        "__bigint__": "5000"
+      },
+      "level": {
+        "__bigint__": "1"
+      },
+      "xp": {
+        "__bigint__": "0"
+      },
+      "limit": 15,
+      "limit_reset_at": 1794116385660,
+      "badges": [
+        "🪪 SAATAA Pioneer"
+      ],
+      "active_badge": "🪪 SAATAA Pioneer",
+      "achievements": [],
+      "auto_registered": true
     }
   },
   "global": {
@@ -3594,9 +3619,10 @@
       "76747374608443@lid": "6283178790226@s.whatsapp.net",
       "197122574049340@lid": "6288230326513@s.whatsapp.net",
       "128708039979256@lid": "60179518622@s.whatsapp.net",
-      "13392395899080@lid": "62895429214579@s.whatsapp.net"
+      "13392395899080@lid": "62895429214579@s.whatsapp.net",
+      "33742101946538@lid": "6285709308994@s.whatsapp.net"
     },
-    "last_uid": 100035,
+    "last_uid": 100036,
     "activity": {
       "commands": {
         "menu": 109,
@@ -3829,8 +3855,8 @@
         },
         "120363429679202978@g.us": {
           "count": 3021,
-          "last": 1794029970892,
-          "chat": 35841
+          "last": 1794029985660,
+          "chat": 35842
         },
         "120363412061249246@g.us": {
           "count": 50,
@@ -3838,7 +3864,7 @@
           "chat": 117
         }
       },
-      "total_chat": 38078,
+      "total_chat": 38079,
       "since": 1791275792057
     },
     "squads": {},
