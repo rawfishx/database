@@ -693,8 +693,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 13391,
-      "last_chat": 1794401641262,
+      "total_chat": 13392,
+      "last_chat": 1794401653443,
       "uang": {
         "__bigint__": "5000"
       },
@@ -783,12 +783,12 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 4,
-        "xp": 270,
+        "xp": 274,
         "money": 34,
-        "energy": 21,
+        "energy": 5,
         "maxEnergy": 100,
         "fish": {
-          "nila": 5,
+          "nila": 6,
           "mujair": 3,
           "teri": 12,
           "lele": 16,
@@ -801,30 +801,30 @@
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 9
+          "udangumpan": 7
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 35,
+        "rodDur": 33,
         "location": "sungai",
         "lastEnergy": 1794401627756,
         "limited": {},
-        "tokenSaataa": 470,
+        "tokenSaataa": 472,
         "stats": {
-          "catches": 171,
-          "fails": 52,
+          "catches": 172,
+          "fails": 53,
           "sold": 106,
           "soldCoins": 12049,
-          "tokenEarned": 410,
-          "failStreak": 0,
+          "tokenEarned": 412,
+          "failStreak": 1,
           "byRarity": {
-            "common": 137,
+            "common": 138,
             "uncommon": 34
           },
           "byFish": {
-            "nila": 21,
+            "nila": 22,
             "mujair": 33,
             "teri": 28,
             "lele": 34,
@@ -1362,6 +1362,14 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1794401607233
+          },
+          {
+            "id": "nila",
+            "weight": 7.72,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1794401653445
           }
         ]
       },
@@ -4233,7 +4241,7 @@
         "tolaksuit": 1,
         "suitjawab": 7,
         "lirikselect": 186,
-        "m": 21,
+        "m": 22,
         "buat": 1,
         "cekinv": 2,
         "beli": 64,
@@ -4292,8 +4300,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1846,
-          "last": 1794401641264
+          "count": 1847,
+          "last": 1794401653445
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -4355,9 +4363,9 @@
           "chat": 274
         },
         "120363429679202978@g.us": {
-          "count": 3318,
-          "last": 1794401641264,
-          "chat": 38300
+          "count": 3319,
+          "last": 1794401653445,
+          "chat": 38301
         },
         "120363412061249246@g.us": {
           "count": 50,
@@ -4365,7 +4373,7 @@
           "chat": 117
         }
       },
-      "total_chat": 40576,
+      "total_chat": 40577,
       "since": 1791275792057
     },
     "squads": {},
