@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 10262,
-      "last_chat": 1794395865479,
+      "total_chat": 10265,
+      "last_chat": 1794401629171,
       "uang": {
         "__bigint__": "5000"
       },
@@ -693,8 +693,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 13386,
-      "last_chat": 1794401598740,
+      "total_chat": 13390,
+      "last_chat": 1794401627846,
       "uang": {
         "__bigint__": "5000"
       },
@@ -783,9 +783,9 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 4,
-        "xp": 265,
+        "xp": 270,
         "money": 284,
-        "energy": 28,
+        "energy": 21,
         "maxEnergy": 100,
         "fish": {
           "nila": 5,
@@ -796,32 +796,32 @@
           "mas": 6,
           "belut": 5,
           "patin": 4,
-          "gabus": 5
+          "gabus": 6
         },
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 10
+          "udangumpan": 9
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 1,
+        "rodDur": 0,
         "location": "sungai",
-        "lastEnergy": 1794401567756,
+        "lastEnergy": 1794401627756,
         "limited": {},
-        "tokenSaataa": 466,
+        "tokenSaataa": 470,
         "stats": {
-          "catches": 170,
+          "catches": 171,
           "fails": 52,
           "sold": 106,
           "soldCoins": 12049,
-          "tokenEarned": 406,
-          "failStreak": 2,
+          "tokenEarned": 410,
+          "failStreak": 0,
           "byRarity": {
             "common": 137,
-            "uncommon": 33
+            "uncommon": 34
           },
           "byFish": {
             "nila": 21,
@@ -832,7 +832,7 @@
             "mas": 8,
             "belut": 8,
             "patin": 7,
-            "gabus": 10
+            "gabus": 11
           }
         },
         "story": {
@@ -1354,6 +1354,14 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1794401582446
+          },
+          {
+            "id": "gabus",
+            "weight": 4.23,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1794401607233
           }
         ]
       },
@@ -4204,7 +4212,7 @@
         "playselect": 493,
         "mancing": 163,
         "tebakkimia": 2,
-        "tokoikan": 60,
+        "tokoikan": 61,
         "cek": 11,
         "setnama": 2,
         "nowplaying": 2,
@@ -4225,7 +4233,7 @@
         "tolaksuit": 1,
         "suitjawab": 7,
         "lirikselect": 186,
-        "m": 20,
+        "m": 21,
         "buat": 1,
         "cekinv": 2,
         "beli": 63,
@@ -4284,8 +4292,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1843,
-          "last": 1794401598744
+          "count": 1845,
+          "last": 1794401627849
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -4347,9 +4355,9 @@
           "chat": 274
         },
         "120363429679202978@g.us": {
-          "count": 3315,
-          "last": 1794401598744,
-          "chat": 38292
+          "count": 3317,
+          "last": 1794401629171,
+          "chat": 38299
         },
         "120363412061249246@g.us": {
           "count": 50,
@@ -4357,7 +4365,7 @@
           "chat": 117
         }
       },
-      "total_chat": 40568,
+      "total_chat": 40575,
       "since": 1791275792057
     },
     "squads": {},
