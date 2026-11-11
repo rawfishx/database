@@ -693,8 +693,8 @@
       "registered": true,
       "registered_at": null,
       "name": ".?",
-      "total_chat": 13382,
-      "last_chat": 1794395068817,
+      "total_chat": 13385,
+      "last_chat": 1794401586770,
       "uang": {
         "__bigint__": "5000"
       },
@@ -783,56 +783,56 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 4,
-        "xp": 245,
+        "xp": 265,
         "money": 934,
-        "energy": 5,
+        "energy": 28,
         "maxEnergy": 100,
         "fish": {
           "nila": 5,
           "mujair": 3,
-          "teri": 9,
+          "teri": 12,
           "lele": 16,
-          "wader": 7,
+          "wader": 8,
           "mas": 6,
-          "belut": 4,
+          "belut": 5,
           "patin": 4,
-          "gabus": 4
+          "gabus": 5
         },
         "items": {
           "cacing": 0,
           "pelet": 0,
-          "udangumpan": 9
+          "udangumpan": 0
         },
         "parts": {
           "serat": 1
         },
         "rod": "kayu",
-        "rodDur": 10,
+        "rodDur": 1,
         "location": "sungai",
-        "lastEnergy": 1794287507756,
+        "lastEnergy": 1794401567756,
         "limited": {},
-        "tokenSaataa": 450,
+        "tokenSaataa": 466,
         "stats": {
-          "catches": 164,
-          "fails": 49,
+          "catches": 170,
+          "fails": 52,
           "sold": 106,
           "soldCoins": 12049,
-          "tokenEarned": 390,
-          "failStreak": 1,
+          "tokenEarned": 406,
+          "failStreak": 2,
           "byRarity": {
-            "common": 133,
-            "uncommon": 31
+            "common": 137,
+            "uncommon": 33
           },
           "byFish": {
             "nila": 21,
             "mujair": 33,
-            "teri": 25,
+            "teri": 28,
             "lele": 34,
-            "wader": 20,
+            "wader": 21,
             "mas": 8,
-            "belut": 7,
+            "belut": 8,
             "patin": 7,
-            "gabus": 9
+            "gabus": 10
           }
         },
         "story": {
@@ -1306,6 +1306,54 @@
             "mutationId": "albino",
             "priceMultiplier": 2.5,
             "at": 1794287532307
+          },
+          {
+            "id": "teri",
+            "weight": 6.4,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1794401582445
+          },
+          {
+            "id": "wader",
+            "weight": 4.73,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1794401582446
+          },
+          {
+            "id": "gabus",
+            "weight": 2.93,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1794401582446
+          },
+          {
+            "id": "teri",
+            "weight": 8.36,
+            "genetic": "Bersisik Emas",
+            "mutationId": "sisik_emas",
+            "priceMultiplier": 1.7,
+            "at": 1794401582446
+          },
+          {
+            "id": "teri",
+            "weight": 5.5,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1794401582446
+          },
+          {
+            "id": "belut",
+            "weight": 6.66,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1794401582446
           }
         ]
       },
@@ -4081,7 +4129,7 @@
         "en2id": 2,
         "id2en": 2,
         "lirik": 616,
-        "play": 694,
+        "play": 695,
         "tt": 76,
         "brat": 29,
         "hd": 36,
@@ -4153,7 +4201,7 @@
         "wordle": 5,
         "qris": 1,
         "allin": 1,
-        "playselect": 492,
+        "playselect": 493,
         "mancing": 163,
         "tebakkimia": 2,
         "tokoikan": 60,
@@ -4177,7 +4225,7 @@
         "tolaksuit": 1,
         "suitjawab": 7,
         "lirikselect": 186,
-        "m": 19,
+        "m": 20,
         "buat": 1,
         "cekinv": 2,
         "beli": 62,
@@ -4236,8 +4284,8 @@
           "last": 1791277110737
         },
         "6282292961437@s.whatsapp.net": {
-          "count": 1839,
-          "last": 1794395056304
+          "count": 1842,
+          "last": 1794401586774
         },
         "6281313095732@s.whatsapp.net": {
           "count": 3,
@@ -4299,9 +4347,9 @@
           "chat": 274
         },
         "120363429679202978@g.us": {
-          "count": 3311,
-          "last": 1794395865479,
-          "chat": 38288
+          "count": 3314,
+          "last": 1794401586774,
+          "chat": 38291
         },
         "120363412061249246@g.us": {
           "count": 50,
@@ -4309,7 +4357,7 @@
           "chat": 117
         }
       },
-      "total_chat": 40564,
+      "total_chat": 40567,
       "since": 1791275792057
     },
     "squads": {},
@@ -4380,11 +4428,11 @@
     "limit_system_version": 2,
     "saataa_nowplaying": {
       "120363429679202978@g.us": {
-        "title": "Raissa Anggiani - Kala Rindu (Official Lyric Video)",
-        "artist": "Raissa Anggiani",
-        "url": "https://youtube.com/watch?v=asxZEbdv1lU",
-        "thumbnail": "https://i.ytimg.com/vi/asxZEbdv1lU/hq720.jpg",
-        "at": 1794391835449
+        "title": "Stand Here Alone - Hilang Harapan [OFFICIAL VIDEO]",
+        "artist": "Stand Here Alone",
+        "url": "https://youtube.com/watch?v=NJmiLcBg-3c",
+        "thumbnail": "https://i.ytimg.com/vi/NJmiLcBg-3c/hq720.jpg",
+        "at": 1794401586775
       },
       "120363412061249246@g.us": {
         "title": "Steve Lacy - Dark Red (Lyrics)",
@@ -4409,7 +4457,7 @@
       "desc": "Ikan lebih aktif."
     },
     "fishingWeatherId": "hujan",
-    "fishingWeatherAt": 1794285742827,
+    "fishingWeatherAt": 1794400942827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
