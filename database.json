@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 10347,
-      "last_chat": 1795318545040,
+      "total_chat": 10349,
+      "last_chat": 1795327806134,
       "uang": {
         "__bigint__": "5000"
       },
@@ -1881,9 +1881,10 @@
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
       "badges": [
-        "🪪 SAATAA Pioneer"
+        "🪪 SAATAA Pioneer",
+        "Premium User"
       ],
-      "active_badge": "🪪 SAATAA Pioneer",
+      "active_badge": "Premium User",
       "frames": [],
       "active_frame": null,
       "cd": {},
@@ -1925,12 +1926,13 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "isPremium": false,
+      "isPremium": true,
       "premium_until": 0,
       "limit_reset_at": 1795347232957,
-      "limit": 0,
+      "limit": "UNLIMITED",
       "last_reset": "2026-11-22T11:33:52.957Z",
-      "limit_reset_notified_at": 1795260832957
+      "limit_reset_notified_at": 1795260832957,
+      "premium_granted_at": 1795327806136
     },
     "153700203016332@lid": {
       "uid": 100017,
@@ -3711,7 +3713,7 @@
         "tebakgambar": 3,
         "caturjawab": 3,
         "addadmin": 1,
-        "addprem": 7,
+        "addprem": 9,
         "caklontong": 3,
         "mute": 7,
         "unmute": 5,
@@ -3839,8 +3841,8 @@
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 1100,
-          "last": 1795297055230
+          "count": 1102,
+          "last": 1795327806136
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -3915,12 +3917,12 @@
           "chat": 38861
         },
         "120363412061249246@g.us": {
-          "count": 76,
-          "last": 1795320925207,
-          "chat": 156
+          "count": 78,
+          "last": 1795327806136,
+          "chat": 158
         }
       },
-      "total_chat": 41208,
+      "total_chat": 41210,
       "since": 1791275792057
     },
     "squads": {},
