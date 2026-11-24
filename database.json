@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 10595,
-      "last_chat": 1795519147249,
+      "total_chat": 10598,
+      "last_chat": 1795519217169,
       "uang": {
         "__bigint__": "5000"
       },
@@ -25,9 +25,10 @@
       "status_profil": "Saya menggunakan SAATAA ANDAGII",
       "location": "Belum diatur",
       "badges": [
-        "🪪 SAATAA Pioneer"
+        "🪪 SAATAA Pioneer",
+        "Premium User"
       ],
-      "active_badge": "🪪 SAATAA Pioneer",
+      "active_badge": "Premium User",
       "frames": [],
       "active_frame": null,
       "cd": {
@@ -72,10 +73,10 @@
       },
       "pending_relasi": {},
       "profil_lengkap": false,
-      "isPremium": false,
+      "isPremium": true,
       "premium_until": 0,
       "limit_reset_at": 1795520087907,
-      "limit": 15,
+      "limit": "UNLIMITED",
       "last_reset": "2026-11-24T11:34:47.907Z",
       "limit_reset_notified_at": 1795433687907,
       "achievements": [
@@ -378,7 +379,8 @@
       },
       "saataa_music": {
         "playlist": []
-      }
+      },
+      "premium_granted_at": 1795519208383
     },
     "6289526468474@s.whatsapp.net": {
       "uid": 100002,
@@ -3728,7 +3730,7 @@
         "tebakgambar": 3,
         "caturjawab": 3,
         "addadmin": 1,
-        "addprem": 10,
+        "addprem": 11,
         "caklontong": 3,
         "mute": 7,
         "unmute": 5,
@@ -3856,12 +3858,13 @@
         "font": 1,
         "richplay": 1,
         "svideo": 2,
-        "premium": 1
+        "premium": 1,
+        "stickerwm": 2
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 1119,
-          "last": 1795519147251
+          "count": 1122,
+          "last": 1795519217171
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -3931,9 +3934,9 @@
           "chat": 274
         },
         "120363429679202978@g.us": {
-          "count": 3472,
-          "last": 1795519147251,
-          "chat": 39615
+          "count": 3475,
+          "last": 1795519217171,
+          "chat": 39618
         },
         "120363412061249246@g.us": {
           "count": 160,
@@ -3941,7 +3944,7 @@
           "chat": 297
         }
       },
-      "total_chat": 42109,
+      "total_chat": 42112,
       "since": 1791275792057
     },
     "squads": {},
