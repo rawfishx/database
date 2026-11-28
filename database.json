@@ -5,8 +5,8 @@
       "registered": true,
       "registered_at": null,
       "name": "dika‼️",
-      "total_chat": 10726,
-      "last_chat": 1795828712830,
+      "total_chat": 10729,
+      "last_chat": 1795828795644,
       "uang": {
         "__bigint__": "5000"
       },
@@ -102,13 +102,13 @@
       "profilePageCreated": true,
       "fishing": {
         "level": 2,
-        "xp": 153,
+        "xp": 154,
         "money": 3864,
         "energy": 85,
         "maxEnergy": 100,
         "fish": {
           "teri": 4,
-          "lele": 5,
+          "lele": 6,
           "mujair": 3,
           "nila": 3,
           "wader": 3,
@@ -118,32 +118,32 @@
           "belut": 1
         },
         "items": {
-          "cacing": 1,
+          "cacing": 0,
           "pelet": 2
         },
         "parts": {},
         "rod": "kayu",
-        "rodDur": 13,
+        "rodDur": 12,
         "location": "sungai",
-        "lastEnergy": 1795828259040,
+        "lastEnergy": 1795828739040,
         "limited": {},
-        "tokenSaataa": 176,
+        "tokenSaataa": 178,
         "stats": {
-          "catches": 71,
+          "catches": 72,
           "fails": 23,
           "sold": 49,
           "soldCoins": 4299,
-          "tokenEarned": 166,
-          "failStreak": 1,
+          "tokenEarned": 168,
+          "failStreak": 0,
           "byRarity": {
-            "common": 59,
+            "common": 60,
             "uncommon": 12
           },
           "byFish": {
             "mujair": 10,
             "nila": 11,
             "teri": 12,
-            "lele": 12,
+            "lele": 13,
             "wader": 14,
             "gabus": 3,
             "patin": 3,
@@ -358,6 +358,14 @@
             "mutationId": null,
             "priceMultiplier": 1,
             "at": 1795828244496
+          },
+          {
+            "id": "lele",
+            "weight": 2.88,
+            "genetic": null,
+            "mutationId": null,
+            "priceMultiplier": 1,
+            "at": 1795828782776
           }
         ]
       },
@@ -390,7 +398,7 @@
       },
       "premium_granted_at": 1795519208383,
       "rich_asked_at": 1795828244497,
-      "rich_support": true
+      "rich_support": false
     },
     "6289526468474@s.whatsapp.net": {
       "uid": 100002,
@@ -3923,7 +3931,7 @@
     "last_uid": 100042,
     "activity": {
       "commands": {
-        "menu": 128,
+        "menu": 129,
         "menuowner": 5,
         "claimowner": 1,
         "api": 11,
@@ -4016,7 +4024,7 @@
         "qris": 1,
         "allin": 1,
         "playselect": 563,
-        "mancing": 166,
+        "mancing": 168,
         "tebakkimia": 2,
         "tokoikan": 61,
         "cek": 11,
@@ -4108,8 +4116,8 @@
       },
       "users": {
         "6283138226730@s.whatsapp.net": {
-          "count": 1171,
-          "last": 1795828712832
+          "count": 1174,
+          "last": 1795828795645
         },
         "6289526468474@s.whatsapp.net": {
           "count": 1,
@@ -4191,9 +4199,9 @@
           "chat": 290
         },
         "120363429679202978@g.us": {
-          "count": 3541,
-          "last": 1795828712832,
-          "chat": 40138
+          "count": 3544,
+          "last": 1795828795645,
+          "chat": 40141
         },
         "120363412061249246@g.us": {
           "count": 183,
@@ -4201,7 +4209,7 @@
           "chat": 323
         }
       },
-      "total_chat": 42807,
+      "total_chat": 42810,
       "since": 1791275792057
     },
     "squads": {},
@@ -4294,14 +4302,14 @@
       }
     },
     "fishingWeather": {
-      "id": "hujan",
-      "name": "Hujan",
-      "luck": 0.05,
-      "weight": 1.08,
-      "desc": "Ikan lebih aktif."
+      "id": "berkabut",
+      "name": "Berkabut",
+      "luck": 0.08,
+      "weight": 0.96,
+      "desc": "Peluang ikan langka sedikit naik."
     },
-    "fishingWeatherId": "hujan",
-    "fishingWeatherAt": 1795826542827,
+    "fishingWeatherId": "berkabut",
+    "fishingWeatherAt": 1795828342827,
     "menuChannelJid": "120363413789496801@newsletter",
     "menuChannelName": "IZIN TAMPIL BOSHKU",
     "menuChannelUrl": "https://whatsapp.com/channel/0029VbENfBn77qVYumGZnS2D",
